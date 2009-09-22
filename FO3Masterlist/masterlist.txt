@@ -1,0 +1,63 @@
+\ Leading symbol code:
+\
+\ \ A silent comment - will be ignored by the program.
+\ % A Bashed Patch suggestion for the mod above.
+\ ? A comment about the mod above.
+\ * Flags a critical mistake for FCOM installation in relation to the mod above.
+\
+\ > process this line only if FCOM is installed.
+\ < process this line only if FCOM isn't installed.
+\
+\ Multiple remark/comment/bash/error lines allowed.
+\ Lines beginning with \ and blank lines are treated the same (ignored).
+
+\The FCOM stuff may be useful in relation to FO3's overhauls?
+
+\----
+\ESMs
+\----
+
+Fallout3.esm
+Anchorage.esm
+ThePitt.esm
+BrokenSteel.esm
+PointLookout.esm
+Zeta.esm
+Unofficial Fallout 3 Patch.esm
+
+\------------------
+\Unofficial Patches
+\------------------
+
+Unofficial Fallout 3 Patch - Operation Anchorage.esp
+Unofficial Fallout 3 Patch - The Pitt.esp
+Unofficial Fallout 3 Patch - Broken Steel.esp
+Unofficial Fallout 3 Patch - Point Lookout.esp
+Unofficial Fallout 3 Patch - Mothership Zeta.esp
+
+\------------------
+\Early Loading Mods
+\------------------
+
+norepairneededv2.esp
+Hi-Res Weapons & Ammo Textures.esp
+Hi-Res Weapons & Ammo Textures - The Pitt.esp
+? Requires The Pitt DLC
+
+\----------------------------
+\More Categories Needed Later
+\----------------------------
+
+EnemyWeapons.esp
+Crapton.esp
+Fellout-Full.esp
+Fellout-Anchorage.esp
+Fellout-BrokenSteel.esp
+fellout-pointlookout.esp
+Fellout-pipboylight.esp
+Wasteland Travel Caravans.esp
+IntoTheDeepWoods.esp
+tubRRCompound.esp
+Broadway_cinema.esp
+DCInteriors_SewardSq.esp
+ShadySands.esp
