@@ -33,10 +33,12 @@ FO3 Wanderers Edition - Main File.esm
 Mart's Mutant Mod.esm
 FOOK2 - Main.esm
 FOOK2 - [DIK] DLC Improvement Kit.esm
-FOOK2 - [[censored]] World And Neighbourhood Kit.esm	 
+FOOK2 - [[censored]] World And Neighbourhood Kit.esm     
+Destruction.esm
+? Do not use with FOOK2 - [DESTRUCTION] plugins.
 FaceMe.esm  
 FallsChurchMetroFix.esm
-Phalanx-PointLookout-Navmesh.esm	  	 
+Phalanx-PointLookout-Navmesh.esm           
 
 \------------------
 \Unofficial Patches
@@ -92,39 +94,24 @@ GalaxyNewsRadio40[M].esp
 GalaxyNewsRadio20[M].esp
 ? Only use one GalaxyNewsRadioXXX[M].esp plugin
 
+\--------
+\ Weather
+\--------
+
+Enhanced Weather - Rain and Snow.esp
+Enhanced Weather - Rain and Snow in Fallout.esp
+Enhanced Weather - Radioactive Rain and Snow Plugin.esp
+Enhanced Weather - Rainbows.esp
+Enhanced Weather - Weather Sounds in Interiors.esp
+Enhanced Weather - Sneak Bonus during Storms.esp
+Fellout-Full.esp
+Fellout-Anchorage.esp
+Fellout-BrokenSteel.esp
+Fellout-PointLookout.esp
+
 \---------
 \Overhauls
 \---------
-
-
-\--------------------------
-\Fallout Wanderer's Edition
-\--------------------------
-FO3 Wanderers Edition - DLC AnchorageC
-FO3 Wanderers Edition - DLC Broken Steel
-FO3 Wanderers Edition - DLC Mothership Zeta
-FO3 Wanderers Edition - DLC Point Lookout
-FO3 Wanderers Edition - DLC The Pitt
-FO3 Wanderers Edition - FOOK Support
-? Very crude, only intended for FOOK v1.6
-FO3 Wanderers Edition - UFP Support
-FO3 Wanderers Edition - Alternate Travel
-FO3 Wanderers Edition - Lvl 30 Balance
-? Use either "FO3 Wanderers Edition - Lvl 30 Balance" OR "FO3 Wanderers Edition - Lvl 30 More Skills"
-FO3 Wanderers Edition - Lvl 30 More Skills
-?? Use either "FO3 Wanderers Edition - Lvl 30 Balance" OR "FO3 Wanderers Edition - Lvl 30 More Skills"
-FO3 Wanderers Edition - Followers Enhanced
-FO3 Wanderers Edition - Optional Free Play After Mainquest
-? Do not use with Broken Steel
-FO3 Wanderers Edition - Optional No Fast Travel
-? Disables fast travel.  Do not use with the Alternate Travel module.
-FO3 Wanderers Edition - Optional Restore Tracers
-FO3 Wanderers Edition - Optional VATS Halftime
-FO3 Wanderers Edition - Optional VATS Realtime
-FO3 Wanderers Edition - Optional Harsher Wasteland
-FO3 Wanderers Edition - Optional Worn Weapons
-DarNifiedUIF3_FWE.esp
-? DO not use with latest FWE, it is already integrated.	
 
 \----
 \FOOK
@@ -134,13 +121,51 @@ FOOK2 - Main.esp
 FOOK2 - [DIK] DLC Improvement Kit.esp
 FOOK2 - [EVE] Energy Visuals Enhanced.esp
 FOOK2 - Mothership Zeta.esp
+FOOK2 - [DESTRUCTION] Main.esp
+FOOK2 - [DESTRUCTION] Main - Statics.esp
+FOOK2 - [DESTRUCTION] DIK.esp
+FOOK2 - [DESTRUCTION] DIK - Statics.esp
+FOOK2 - [DESTRUCTION] Mothership Zeta.esp
+FOOK2 - [DESTRUCTION] Mothership Zeta - Statics.esp
 Mart's Mutant Mod - FOOK.esp
 Mart's Mutant Mod - FOOK2.esp
+
+\--------------------------
+\Fallout Wanderer's Edition
+\--------------------------
+
+FO3 Wanderers Edition - Main File.esp
+FO3 Wanderers Edition - DLC Anchorage.esp
+FO3 Wanderers Edition - DLC The Pitt.esp
+FO3 Wanderers Edition - DLC Broken Steel.esp
+FO3 Wanderers Edition - DLC Point Lookout.esp
+FO3 Wanderers Edition - DLC Mothership Zeta.esp
+FO3 Wanderers Edition - UFP Support.esp
+FO3 Wanderers Edition - Alternate Travel.esp
+FO3 Wanderers Edition - Lvl 30 Balance.esp
+? Use either "FO3 Wanderers Edition - Lvl 30 Balance" OR "FO3 Wanderers Edition - Lvl 30 More Skills"
+FO3 Wanderers Edition - Lvl 30 More Skills.esp
+?? Use either "FO3 Wanderers Edition - Lvl 30 Balance" OR "FO3 Wanderers Edition - Lvl 30 More Skills"
+FO3 Wanderers Edition - Followers Enhanced.esp
+FO3 Wanderers Edition - Optional Free Play After Mainquest.esp
+? Do not use with Broken Steel
+FO3 Wanderers Edition - Optional No Fast Travel.esp
+? Disables fast travel.  Do not use with the Alternate Travel module.
+FO3 Wanderers Edition - Optional Restore Tracers.esp
+FO3 Wanderers Edition - Optional VATS Halftime.esp
+FO3 Wanderers Edition - Optional VATS Realtime.esp
+FO3 Wanderers Edition - Optional Harsher Wasteland.esp
+FO3 Wanderers Edition - Optional Worn Weapons.esp
+DarNifiedUIF3_FWE.esp
+? DO not use with latest FWE, it is already integrated.    
+FO3 Wanderers Edition - FOOK Support
+? Very crude, only intended for FOOK v1.6
+
 
 \-----------------
 \Mart's Mutant Mod
 \-----------------
- 	 
+
 Mart's Mutant Mod.esp
 Mart's Mutant Mod - DLC Anchorage.esp
 Mart's Mutant Mod - DLC Broken Steel.esp
@@ -163,6 +188,7 @@ Mart's Mutant Mod - Natural Selection.esp
 Mart's Mutant Mod - Reduced Wasteland Spawns.esp
 Mart's Mutant Mod - Tougher Traders.esp
 Mart's Mutant Mod - Zones Respawn.esp
+Mart's Mutant Mod - FWE Master Release.esp
 
 \-----
 \Other
@@ -210,6 +236,7 @@ WeaponModKits - PointLookout.esp
 WeaponModKits - Zeta.esp
 WeaponModKits - FOOK.esp
 WeaponModKits - FWE Master Release.esp
+WeaponModKits - FWE Optional Worn Weapons.esp
 
 \----------
 \ EVE Stuff
@@ -224,6 +251,7 @@ EVE - FWE Master Release (Follower Enhanced).esp
 EVE Operation Anchorage.esp
 EVE - FWE with WeaponModKits.esp
 EVE Anchorage - FWE DLC Anchorage.esp
+Mart's Mutant Mod - FWE with EVE.esp
 
 \-----------
 \Middle Misc
@@ -262,11 +290,21 @@ UPP - Pack 2.esp
 UPP  - Quest Perks.esp
 UPP - Experience Perks.esp
 UPP - Beverage Perks.esp
-	  	 
+
 \---
 \NPC
 \---
 
+
+MTC Wasteland Travellers.esp
+MTC Wasteland Travellers (Optional)- Crowded Cities.esp
+Project Beauty.esp
+Project Beauty- Broken Steel.esp
+Project Beauty- Point Lookout.esp
+Project Beauty- Point Lookout MMM.esp
+PB FOOK2 - Main.esp
+PB MMM.esp
+PB MMM HD.esp
 Clover Makeover - Asian Bedraggled.esp
 
 \--------
@@ -286,22 +324,9 @@ joefoxx Gun Mod v1.0 Normal Tracers.esp
 \-------
 
 Prototype Medic Armor Upgrade.esp
-
-\--------
-\ Weather
-\--------
-
-Enhanced Weather - Rain and Snow.esp
-Enhanced Weather - Rain and Snow in Fallout.esp
-Enhanced Weather - Radioactive Rain and Snow Plugin.esp
-Enhanced Weather - Rainbows.esp
-Enhanced Weather - Weather Sounds in Interiors.esp
-Enhanced Weather - Sneak Bonus during Storms.esp
-Fellout-Full.esp
-Fellout-Anchorage.esp
-Fellout-BrokenSteel.esp
-Fellout-PointLookout.esp
-Fellout-pipboylight.esp	 
+Stealthboy Recon Armor - CRAFT.esp
+? Needs CRAFT.esm
+     
 
 \-------------
 \ Realism Mods
@@ -326,15 +351,11 @@ RiPnO - OPTIONAL - Cola Heals.esp
 \-----------
 
 Arwen_VisionFX.esp
-FOOK2 - [DESTRUCTION] Main.esp
-FOOK2 - [DESTRUCTION] Main - Statics.esp
-FOOK2 - [DESTRUCTION] DIK.esp
-FOOK2 - [DESTRUCTION] DIK - Statics.esp
-FOOK2 - [DESTRUCTION] Mothership Zeta.esp
-FOOK2 - [DESTRUCTION] Mothership Zeta - Statics.esp
+DCInteriors_ComboEdition.esp
 DCInteriors_Georgtown.esp
 DCInteriors_SewardSq.esp
-DCInteriors_ComboEdition.esp
+DCInteriors_Mason.esp
+DCInteriors_LEnfntPl.esp
 Gore_No_More.esp
 Less_Blood.esp
 FeminizedPowerArmor.esp
@@ -358,15 +379,40 @@ Phalanx-BrokenSteel-Integration.esp
 Phalanx-PerksAndStims.esp
 ShadySands.esp
 GalaxyNewsRadio100[M].esp
-DarNifiedUIF3.esp
+Owned!.esp
 More Hotkeys.esp
 FaceMe-MMM.esp
 FaceMe-MMM Tougher Traders.esp
 NotSoFast.esp
-Wasteland Travel Caravans.esp
-IntoTheDeepWoods.esp
-tubRRCompound.esp
+Stealth Kills Enabled.esp
+Stealth Kills Enabled - Pitt Compatibility.esp
+Destruction - Main.esp
+Destruction - Main - Statics.esp
+Destruction - DLC.esp
+Destruction - DLC - Statics.esp
+
+\POSSIBLY SORTED MOD LIST
+implants.esp
+1PipboyPDA.esp
+ArefuExpandedByAzar-Radio.esp
+Burnification.esp
 Broadway_cinema.esp
+FleshBurningPlasma.esp
+\EVE????^^^^^^^^^^^^^^
+BusworldV1.05c.esp
+CaravanEssential.esp
+IntoTheDeepWoods.esp
+SCC - Talk to Anyone.esp
+SCC Armor.esp
+SGsUA - No Borders v.1.0-EN.esp
+SS Weapon Effects.esp
+SS Weapon Effects Pile Removal.esp
+tubRRCompound.esp
+Wasteland Weather Overhaul .9.esp
+Wasteland Travel Caravans.esp
+XPReward0Percent.esp
+
+
 
 \-----
 \ Last
@@ -379,3 +425,13 @@ FOOK+FWE+WMK - DLC Version.esp
 FOOK+FWE+PB+MMM.esp
 FOOK+FWE+EVE+UWWUT.esp
 Mez's Merged Patch - FWE-WMK-MMM.esp
+Choose your own hairstyle (load this last on FOMM).esp
+
+
+
+
+
+\IGNORE (TO BE SORTED)
+\MTC Wasteland Travellers.esp
+\MTC Wasteland Travellers (Optional)- Crowded Cities less NPCs.esp
+\MTC Wasteland Travellers (Optional)- Crowded Cities.esp
