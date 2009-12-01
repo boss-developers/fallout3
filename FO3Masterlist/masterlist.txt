@@ -1,3 +1,4 @@
+
 \ Leading symbol code:
 \
 \ \ A silent comment - will be ignored by the program.
@@ -16,29 +17,33 @@
 \----
 \ESMs
 \----
-
 Fallout3.esm
-Unofficial Fallout 3 Patch.esm
 Anchorage.esm
 ThePitt.esm
 BrokenSteel.esm
 PointLookout.esm
 Zeta.esm
+Unofficial Fallout 3 Patch.esm
 HairPack.esm
 RI_Core.esm
+FaceMe.esm
+FallsChurchMetroFix.esm
+Phalanx-PointLookout-Navmesh.esm
+? Requires PointLookout.ESM
 CRAFT.esm
 CALIBR.esm
-FO3 Wanderers Edition - Main File.esm
-? Requiers CRAFT.esm and CALIBR.esm
-Mart's Mutant Mod.esm
 FOOK2 - Main.esm
+? Requires CALIBR.esm
+FOOK.ESM
+* Get FOOK2
+FOOK2 - [WANK] World And Neighbourhood Kit.esm
+? Requires CALIBR.esm and FOOK2 - Main.ESM
 FOOK2 - [DIK] DLC Improvement Kit.esm
-FOOK2 - [[censored]] World And Neighbourhood Kit.esm     
-Destruction.esm
-? Do not use with FOOK2 - [DESTRUCTION] plugins.
-FaceMe.esm  
-FallsChurchMetroFix.esm
-Phalanx-PointLookout-Navmesh.esm           
+? Requires Anchorage.esm, ThePitt.esm, BrokenSteel.esm, PointLookout.esm, CALIBR.esm, and FOOK2 - Main.ESM
+FO3 Wanderers Edition - Main File.esm
+? Requires CRAFT.esm and CALIBR.esm
+Mart's Mutant Mod.esm
+CubeExperimental (EN).esm
 
 \------------------
 \Unofficial Patches
@@ -66,12 +71,19 @@ Hi-Res Weapons & Ammo Textures - The Pitt.esp
 
 CASM.esp
 CRAFT - Activation Perk.esp
+? Requires CRAFT.ESM
 CALIBRxMerchant.esp
+? Requires CALIBR.ESM
 DelayAnchorage.esp
+? Requires Anchorage.ESM
 DelayThePitt.esp
+? Requires ThePitt.ESM
 DelaySteel.esp
+? Requires BrokenSteel.ESM
 delaypl.esp
+? Requires PointLookout.ESM
 delayzeta.esp
+? Requires Zeta.ESM
 FaceMe.esp
 Princess Better Prompts v1pt1.esp
 DarNifiedUIF3.esp
@@ -82,6 +94,12 @@ LongerDeathCamera.esp
 Zumbs'_Overhauled_Real_Time_Security.esp
 DK_BulletTime.esp
 Auto Aim Fix v1.1.esp
+
+
+\------
+\Sound
+\------
+
 GalaxyNewsRadioFix[S].esp
 GalaxyNewsRadio100[M].esp
 ? Only use one GalaxyNewsRadioXXX[M].esp plugin
@@ -106,8 +124,13 @@ Enhanced Weather - Weather Sounds in Interiors.esp
 Enhanced Weather - Sneak Bonus during Storms.esp
 Fellout-Full.esp
 Fellout-Anchorage.esp
+? Requires Anchorage.esm
 Fellout-BrokenSteel.esp
+? Requires BrokenSteel.esm
 Fellout-PointLookout.esp
+? Requires PointLookout.esm
+Fellout-pipboylight.esp
+Wasteland Weather Overhaul .9.esp
 
 \---------
 \Overhauls
@@ -117,29 +140,48 @@ Fellout-PointLookout.esp
 \FOOK
 \----
 
+
 FOOK2 - Main.esp
-FOOK2 - [DIK] DLC Improvement Kit.esp
+? Requires CALIBR.ESM and FOOK2 - Main.ESM
 FOOK2 - [EVE] Energy Visuals Enhanced.esp
+? Requires FOOK2 - Main.ESM
+FOOK2 - [DIK] DLC Improvement Kit.esp
+? Requires Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CALIBR.ESM, and FOOK2 - Main.ESM
 FOOK2 - Mothership Zeta.esp
+? Requires FOOK2 - Main.ESM and Zeta.ESM
+
+MyFOOK - Color Tranquility Lane.esp
+MyFOOK - No Nightvision on Power Helmets.esp
+? Requires FOOK2 - Main.ESM
+MyFOOK - No RAPE Victims.esp
+? Requires FOOK2 - Main.ESM
+MyFOOK - S.H.A.D.E.esp
+? Requires FOOK2 - Main.ESM
+
 FOOK2 - [DESTRUCTION] Main.esp
+? Requires FOOK2 - Main.ESM
 FOOK2 - [DESTRUCTION] Main - Statics.esp
+? Requires FOOK2 - Main.ESM
 FOOK2 - [DESTRUCTION] DIK.esp
+? Requires Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CALIBR.ESM, and FOOK2 - Main.ESM
 FOOK2 - [DESTRUCTION] DIK - Statics.esp
+? Requires Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CALIBR.ESM, and FOOK2 - Main.ESM
 FOOK2 - [DESTRUCTION] Mothership Zeta.esp
+? Requires FOOK2 - Main.ESM and Zeta.ESM
 FOOK2 - [DESTRUCTION] Mothership Zeta - Statics.esp
-Mart's Mutant Mod - FOOK.esp
-Mart's Mutant Mod - FOOK2.esp
+? Requires FOOK2 - Main.ESM and Zeta.ESM
 
 \--------------------------
 \Fallout Wanderer's Edition
 \--------------------------
-
 FO3 Wanderers Edition - Main File.esp
 FO3 Wanderers Edition - DLC Anchorage.esp
-FO3 Wanderers Edition - DLC The Pitt.esp
 FO3 Wanderers Edition - DLC Broken Steel.esp
-FO3 Wanderers Edition - DLC Point Lookout.esp
 FO3 Wanderers Edition - DLC Mothership Zeta.esp
+FO3 Wanderers Edition - DLC Point Lookout.esp
+FO3 Wanderers Edition - DLC The Pitt.esp
+FO3 Wanderers Edition - FOOK Support.esp
+? Very crude, only intended for FOOK v1.6
 FO3 Wanderers Edition - UFP Support.esp
 FO3 Wanderers Edition - Alternate Travel.esp
 FO3 Wanderers Edition - Lvl 30 Balance.esp
@@ -147,48 +189,19 @@ FO3 Wanderers Edition - Lvl 30 Balance.esp
 FO3 Wanderers Edition - Lvl 30 More Skills.esp
 ?? Use either "FO3 Wanderers Edition - Lvl 30 Balance" OR "FO3 Wanderers Edition - Lvl 30 More Skills"
 FO3 Wanderers Edition - Followers Enhanced.esp
+FO3 Wanderers Edition - Followers Enhanced (BrokenSteel).esp
 FO3 Wanderers Edition - Optional Free Play After Mainquest.esp
 ? Do not use with Broken Steel
 FO3 Wanderers Edition - Optional No Fast Travel.esp
-? Disables fast travel.  Do not use with the Alternate Travel module.
+? Disables fast travel. Do not use with the Alternate Travel module.
 FO3 Wanderers Edition - Optional Restore Tracers.esp
 FO3 Wanderers Edition - Optional VATS Halftime.esp
 FO3 Wanderers Edition - Optional VATS Realtime.esp
 FO3 Wanderers Edition - Optional Harsher Wasteland.esp
 FO3 Wanderers Edition - Optional Worn Weapons.esp
 DarNifiedUIF3_FWE.esp
-? DO not use with latest FWE, it is already integrated.    
-FO3 Wanderers Edition - FOOK Support
-? Very crude, only intended for FOOK v1.6
+? DO not use with latest FWE, it is already integrated.
 
-
-\-----------------
-\Mart's Mutant Mod
-\-----------------
-
-Mart's Mutant Mod.esp
-Mart's Mutant Mod - DLC Anchorage.esp
-Mart's Mutant Mod - DLC Broken Steel.esp
-Mart's Mutant Mod - DLC Point Lookout.esp
-Mart's Mutant Mod - DLC The Pitt.esp
-Mart's Mutant Mod - DLC Zeta.esp
-Mart's Mutant Mod - No Corpse Flies.esp
-Mart's Mutant Mod - No DLC Increased Spawns.esp
-Mart's Mutant Mod - No Floaters.esp
-Mart's Mutant Mod - No Geckos.esp
-Mart's Mutant Mod - No Ghoul Raise.esp
-Mart's Mutant Mod - No Size Scaling.esp
-Mart's Mutant Mod - No Skeleton Decay.esp
-Mart's Mutant Mod - No Wanamingos.esp
-Mart's Mutant Mod - Feral Ghoul Rampage.esp
-Mart's Mutant Mod - Hunting & Looting.esp
-Mart's Mutant Mod - Increased Increased Spawns.esp
-Mart's Mutant Mod - Increased Spawns.esp
-Mart's Mutant Mod - Natural Selection.esp
-Mart's Mutant Mod - Reduced Wasteland Spawns.esp
-Mart's Mutant Mod - Tougher Traders.esp
-Mart's Mutant Mod - Zones Respawn.esp
-Mart's Mutant Mod - FWE Master Release.esp
 
 \-----
 \Other
@@ -220,22 +233,31 @@ Arwen_Weapons.esp
 
 Tailor Maid.esp
 Tailor Maid Anchorage.esp
-Tailor Maid Brokensteel.esp
+? Requires Anchorage.ESM
 Tailor Maid PITT.esp
+? Requires ThePitt.ESM
+Tailor Maid Brokensteel.esp
+? Requires BrokenSteel.ESM
 Tailor Maid ZETA.esp
+? Requires Zeta.ESM
 
 \--------------
 \ WeaponModKits
 \--------------
 
 WeaponModKits.esp
-WeaponModKits - OperationAnchorage.esp
-WeaponModKits - BrokenSteel.esp
-WeaponModKits - ThePitt.esp
-WeaponModKits - PointLookout.esp
-WeaponModKits - Zeta.esp
-WeaponModKits - FOOK.esp
 WeaponModKits - FWE Master Release.esp
+WeaponModKits - OperationAnchorage.esp
+? Requires Anchorage.ESM
+WeaponModKits - ThePitt.esp
+? Requires ThePitt.ESM
+WeaponModKits - BrokenSteel.esp
+? Requires BrokenSteel.ESM
+WeaponModKits - PointLookout.esp
+? Requires PointLookout.ESM
+WeaponModKits - Zeta.esp
+? Requires Zeta.ESM
+WeaponModKits - FOOK.esp
 WeaponModKits - FWE Optional Worn Weapons.esp
 
 \----------
@@ -249,15 +271,18 @@ EVE Main - FWE Master Release.esp
 EVE - FWE Master Release.esp
 EVE - FWE Master Release (Follower Enhanced).esp
 EVE Operation Anchorage.esp
+? Requires Anchorage.ESM
 EVE - FWE with WeaponModKits.esp
 EVE Anchorage - FWE DLC Anchorage.esp
-Mart's Mutant Mod - FWE with EVE.esp
+
 
 \-----------
 \Middle Misc
 \-----------
 Ammo Bench - CRAFT Plugin.esp
+? Requires CRAFT.ESM
 Ammo Bench - CALIBR.esp
+? Requires CALIBR.ESM
 Ammo Bench - Old Ammo-Benches.esp
 Ammo Bench - Toolkit Retex.esp
 Ammo Bench - Alien Power Cell.esp
@@ -265,7 +290,9 @@ Ammo Bench - Car Mechanic.esp
 Ammo Bench - Artisan.esp
 UWWUT.esp
 UWWUT - The Pitt Addon.esp
+? Requires The Pitt.esm
 UWWUT - Broken Steel Addon.esp
+? Requires BrokenSteel.ESM
 UWWUT - WMK Addon.esp
 Classic Fallout Weapons BETA.esp
 Crapton.esp
@@ -275,7 +302,7 @@ RobCo Certified - Robot Perks.esp
 UPP - Pack 1.esp
 UPP - Pack 2.esp
 UPP - Original Perks.esp
-UPP  - Quest Perks.esp
+UPP - Quest Perks.esp
 UPP - Experience Perks.esp
 UPP - Beverage Perks.esp
 dD-More Gore.esp
@@ -284,12 +311,42 @@ dD-More Gore-BrokenSteel.esp
 dD-More Gore-PointLookout.esp
 dD-More Gore-Zeta.esp
 dD-Reduced Dismember Force.esp
-UPP - Original Perks.esp
-UPP - Pack 1.esp
-UPP - Pack 2.esp
-UPP  - Quest Perks.esp
-UPP - Experience Perks.esp
-UPP - Beverage Perks.esp
+
+
+\-----------------
+\Mart's Mutant Mod
+\-----------------
+
+Mart's Mutant Mod.esp
+? Requires Mart's Mutant Mod.esm
+Mart's Mutant Mod - DLC Anchorage.esp
+? Requires Anchorage.ESM
+Mart's Mutant Mod - DLC The Pitt.esp
+? Requires ThePitt.ESM
+Mart's Mutant Mod - DLC Broken Steel.esp
+? Requires BrokenSteel.ESM
+Mart's Mutant Mod - DLC Point Lookout.esp
+? Requires PointLookout.ESM
+Mart's Mutant Mod - DLC Zeta.esp
+? Requires Zeta.ESM
+Mart's Mutant Mod - No Corpse Flies.esp
+Mart's Mutant Mod - No DLC Increased Spawns.esp
+Mart's Mutant Mod - No Floaters.esp
+Mart's Mutant Mod - No Geckos.esp
+Mart's Mutant Mod - No Ghoul Raise.esp
+Mart's Mutant Mod - No Size Scaling.esp
+Mart's Mutant Mod - No Skeleton Decay.esp
+Mart's Mutant Mod - No Wanamingos.esp
+Mart's Mutant Mod - Feral Ghoul Rampage.esp
+Mart's Mutant Mod - Hunting & Looting.esp
+Mart's Mutant Mod - Increased Increased Spawns.esp
+Mart's Mutant Mod - Increased Spawns.esp
+Mart's Mutant Mod - Natural Selection.esp
+Mart's Mutant Mod - Reduced Wasteland Spawns.esp
+Mart's Mutant Mod - Tougher Traders.esp
+Mart's Mutant Mod - Zones Respawn.esp
+Mart's Mutant Mod - FOOK2 - DIK.esp
+Mart's Mutant Mod - FWE with EVE.esp
 
 \---
 \NPC
@@ -326,7 +383,7 @@ joefoxx Gun Mod v1.0 Normal Tracers.esp
 Prototype Medic Armor Upgrade.esp
 Stealthboy Recon Armor - CRAFT.esp
 ? Needs CRAFT.esm
-     
+
 
 \-------------
 \ Realism Mods
@@ -373,12 +430,6 @@ F3UmpaAnimation.esp
 Portable Camp.esp
 oroLookoutFix.esp
 Misc Mod.esp
-Phalanx-MainFollowerModule.esp
-Phalanx-PointLookout-Integration.esp
-Phalanx-BrokenSteel-Integration.esp
-Phalanx-PerksAndStims.esp
-ShadySands.esp
-GalaxyNewsRadio100[M].esp
 Owned!.esp
 More Hotkeys.esp
 FaceMe-MMM.esp
@@ -411,15 +462,32 @@ tubRRCompound.esp
 Wasteland Weather Overhaul .9.esp
 Wasteland Travel Caravans.esp
 XPReward0Percent.esp
+FireLightFix.esp
 
+\-------
+\Phalanx
+\-------
+Phalanx-MainFollowerModule.esp
+Phalanx-BrokenSteel-Integration.esp
+? Requires BrokenSteel.esm
+Phalanx-PointLookout-Integration.esp
+? Requires PointLookout.esm
 
 
 \-----
 \ Last
 \-----
+Mart's Mutant Mod - FOOK.esp
+* Get FOOK2
+Mart's Mutant Mod - FOOK2.esp
+? Requires FOOK2 - Main.ESM and Mart's Mutant Mod.esm
 FO3 Wanderers Edition - FOOK Support.esp
+? Requires FOOK2 - Main.ESM and FO3 Wanderers Edition - Main File.esm
 FWE - FOOK DLC Support.esp
+? Requires Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CRAFT.ESM, CALIBR.ESM, FOOK2 - Main.ESM and FO3 Wanderers Edition - Main File.esm
 FO3 Wanderers Edition - FOOK Support - Classic DR.esp
+Mart's Mutant Mod - FWE Master Release.esp
+? Requires FWE.
 FWE - FOOK DLC Support - Classic DR.esp
 FOOK+FWE+WMK - DLC Version.esp
 FOOK+FWE+PB+MMM.esp
