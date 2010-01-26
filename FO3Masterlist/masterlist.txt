@@ -19,10 +19,10 @@
 \----
 Fallout3.esm
 Lings.esm
-PointLookout.esm
 Anchorage.esm
 ThePitt.esm
 BrokenSteel.esm
+PointLookout.esm
 Zeta.esm
 Unofficial Fallout 3 Patch.esm
 Project Beauty HD version.esm
