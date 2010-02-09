@@ -40,6 +40,8 @@ PointLookout-FollowersGetToGo.esm
 ? Requires PointLookout.ESM
 CRAFT.esm
 CALIBR.esm
+20thCenturyWeapons.esm
+Ammo Bench.esm
 StreetLights.esm
 ArefuExpandedByAzar.esm
 FOOK2 - Main.esm
@@ -71,6 +73,8 @@ BHR&M.esm
 PB mika.esm
 Animy_prostitution.esm 
 ? Requires CrossModData.esm
+ParadiseHome.esm
+DCInteriors_ComboEdition.ESM
 
 \------------------
 \Unofficial Patches
@@ -91,6 +95,15 @@ Project Beauty.esp
 ? Either Project Beauty HD version.esm OR Project Beauty.esp please!
 Project Beauty- Broken Steel.esp
 Project Beauty- Point Lookout.esp
+Fast VATS 1.esp
+? Only one Fast VATS mod please!
+Fast VATS 2.esp
+? Only one Fast VATS mod please!
+VATS_Normal_dmg_to_player.esp
+? Incompatible with Fast VATS.
+Headshot_Balance.esp
+actionpoints_instant_regen.esp
+playbackdelay_001.esp
 CT_FalloutAdvanced - DLC.esp
 CT_FalloutAdvanced - AAOFF.esp
 Refurbish [TP].esp
@@ -109,11 +122,9 @@ norepairneededv2.esp
 Hi-Res Weapons & Ammo Textures.esp
 Hi-Res Weapons & Ammo Textures - The Pitt.esp
 ? Requires The Pitt DLC
+StreetLights - Wasteland.esp
+Fellout-pipboylight.esp
 
-\-----------------
-\Load Early
-\This section needs to be looked over and sorted more. Very crude/early. Some shouldn't load early but not enough time yet!
-\-----------------
 
 CASM.esp
 CRAFT - Activation Perk.esp
@@ -139,6 +150,7 @@ Vanity Camera Mod.esp
 KTs_Centercamera.esp
 LongerDeathCamera.esp
 DK_BulletTime.esp
+Sprint Mod.esp
 Auto Aim Fix v1.1.esp
 Alternate Start - Roleplayers.esp
 
@@ -178,30 +190,22 @@ UPP - Quest Perks.esp
 UPP  - Quest Perks.esp
 UPP - Beverage Perks.esp
 PreWar Book Titles and Perks.esp
-lessviewdistance.esp
+Dree Perks.esp
+Dree Perks Pitts.esp
+Dree Perks Point Lookout.esp
+Dree Perks Requested by Fans .esp
+Dree Perks Anchorage.esp
+Dree Perks Mothership Zeta.esp
+
 
 \--------
 \ Weather
 \--------
 
-Enhanced Weather - Rain and Snow.esp
-Enhanced Weather - Rain and Snow in Fallout.esp
-Enhanced Weather - Radioactive Rain and Snow Plugin.esp
-Enhanced Weather - Rainbows.esp
-Enhanced Weather - Weather Sounds in Interiors.esp
-Enhanced Weather - Sneak Bonus during Storms.esp
-Fellout-Full.esp
-? Either Fellout-Full.esp or Fellout-SOTD.esp please
-Fellout-SOTD.esp
-? Either Fellout-Full.esp or Fellout-SOTD.esp please
-Fellout-Anchorage.esp
-? Requires Anchorage.esm
-Fellout-BrokenSteel.esp
-? Requires BrokenSteel.esm
-Fellout-PointLookout.esp
-? Requires PointLookout.esm
-Fellout-pipboylight.esp
+
 Wasteland Weather Overhaul .9.esp
+Summer_2.5.esm
+Overhead3PCamera.esp
 
 \------
 \Quests
@@ -212,6 +216,7 @@ HeirApparent.esp
 IntoTheDeepWoods.esp
 PLweightadjust.esp
 AReasonedArgument.esp
+MegatonContracts.esp
 
 \------------
 \Early misc B
@@ -233,6 +238,10 @@ Echo_BatteryCharger.esp
 HouseholdWaterPurifier.esp
 PortableMattress.esp
 BlackWolf Backpack.esp
+BlackWolf Backpack - Vendor Script Replenish.esp
+BlackWolf Backpack - Vanilla Big Guns Fix.esp
+BlackWolf Backpack - Anchorage Gauss Rifle Fix.esp
+BlackWolf Backpack - Zeta Drone Cannon Fix.esp
 Backpacks - SedPL.esp
 GunnySack.esp
 SS OTS Camera FOSE.esp
@@ -264,6 +273,9 @@ Classic Fallout Weapons BETA.esp
 BusworldV1.05.esp
 ? Possible cause of CTDs, try disabling to test for improvments, or try BusworldV1.05noexpl.esp
 BusworldV1.05noexpl.esp
+BusworldV1.05d.esp
+FPS Grenade Hotkey.esp
+FPS Grenade Hotkey - Zeta addon.esp
 
 \---
 \NPC
@@ -280,6 +292,7 @@ Clover Makeover - Asian Bedraggled.esp
 \--------
 \Places
 \--------
+01AtM - Firefly Ranch.esp
 MiniHideout.esp
 SShop.esp
 UndergroundHideout.esp
@@ -293,6 +306,9 @@ DCInteriors_LEnfntPl.esp
 Trophies - Megaton.esp
 Trophies- Tenpenny.esp
 Rivet City Realignment.esp
+Megaton House and Theme Overhaul.esp
+Carter_Fallout_Shelter.esp
+ParadiseHomePlugin.esp
 
 \---------
 \Overhauls
@@ -340,6 +356,8 @@ FOOK2 - Main Level Up Fix 1.3.esp
 FOOK2 - DIK Level Up Fix 1.3.esp
 [DIK] DLC Transition Hotfix.esp
 RRSorter100_FOOK2.esp
+FPS Grenade Hotkey - FOOK2.esp
+FPS Grenade Hotkey - FOOK2 DIK.esp
 
 Sally Fix 2.esp
 PB FOOK2 [DIK].esp
@@ -442,6 +460,8 @@ WeaponModKits - FWE Optional Worn Weapons.esp
 \--------
 \ Weapons\Armours\clothes
 \--------
+Tactical Weapons-Calibr-V3.esp
+Akira - Simple Silenced SMG.esp 
 AsharasBatmanItems.esp
 GaussCompleteBeta.esp 
 ColtM4Carbines.esp
@@ -460,6 +480,7 @@ SR25Rifle.esp
 DanWessonPPC357(CALIBR).esp
 18inchCSLatinMachete.esp
 P94-95.esp
+Tactical Weapons by gRs Frederyck.esp
 \Armour/clothes
 BoS_DX.esp
 WinterizedT51bDX.esp
@@ -507,6 +528,7 @@ Sally Fix 2.1.esp
 Alternate Start - Roleplayers.esp
 Kick Dogmeat.esp
 Slof's Alsatian Dogmeat.esp
+IgDRDeathclawGauntletFix.esp
 
 \----------
 \ EVE Stuff
@@ -673,6 +695,7 @@ CombatEnhanced-Package v02.esp
 Attentater's Wasteland Economy.esp
 AsharasPresets.esp
 FasterMorePowerfulMines.esp
+EnhVision.esp
 Arwen_VisionFX.esp
 Gore_No_More.esp
 Less_Blood.esp
@@ -740,6 +763,11 @@ ZumbsDarkerSunglasses_no_replace.esp
 ZumbsDarkerSunglasses_screen_effect.esp
 ?Zumbs has asked you to rename this to ZumbsDarkerSunglasses.esp
 MZAllAccessPass.esp
+lessviewdistance.esp
+lessviewdistanceThePitt.esp
+OAlessviewdistance.esp
+ACE2-0.esp
+Mighty Mouse Alternative 4.esp
 
 \-------
 \Phalanx
@@ -753,11 +781,37 @@ Phalanx-PerksAndStims.esp
 
 
 \-----
-\ Last
+\ Last (Mostly CPs)
 \-----
 
-
-? Requires FOOK2 - Main.ESM and FO3 Wanderers Edition - Main File.esm
+Enhanced Weather - Rain and Snow.esp
+Enhanced Weather - Rain and Snow in Fallout.esp
+Enhanced Weather - Radioactive Rain and Snow Plugin.esp
+Enhanced Weather - Rainbows.esp
+Enhanced Weather - Weather Sounds in Interiors.esp
+Enhanced Weather - Sneak Bonus during Storms.esp
+Fellout-Full.esp
+? Either Fellout-Full.esp or Fellout-SOTD.esp please
+Fellout-SOTD.esp
+? Either Fellout-Full.esp or Fellout-SOTD.esp please
+Fellout-Anchorage.esp
+? Requires Anchorage.esm
+Fellout-BrokenSteel.esp
+? Requires BrokenSteel.esm
+Fellout-PointLookout.esp
+? Requires PointLookout.esm
+Fellout-Zeta.esp
+megalight.esp
+20th Century v4 ALIVE (Vendor).esp
+20th Century v4 ALIVE (NPC_Settler).esp
+20th Century v4 ALIVE (Raider).esp
+20th Century v4 ALIVE (RivetCity).esp
+20th Century v4 ALIVE (Brotherhood_Outcast).esp
+20th Century v4 ALIVE (SuperMutant).esp
+20th Century v4 ALIVE (Vault 101).esp
+20th Century v4 ALIVE (Chinese Ghoul).esp
+20th Century v4 ALIVE (Talon_Regulator).esp
+Destruction - CP - Fellout.esp
 FWE - FOOK DLC Support.esp
 ? Requires Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CRAFT.ESM, CALIBR.ESM, FOOK2 - Main.ESM and FO3 Wanderers Edition - Main File.esm
 FO3 Wanderers Edition - FOOK Support - Classic DR.esp
