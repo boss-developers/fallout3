@@ -309,6 +309,9 @@ Rivet City Realignment.esp
 Megaton House and Theme Overhaul.esp
 Carter_Fallout_Shelter.esp
 ParadiseHomePlugin.esp
+Vault64.esp
+Toasty's Rooved Megaton, Holey Light.esp
+Tenpenny Suite.esp
 
 \---------
 \Overhauls
@@ -460,6 +463,12 @@ WeaponModKits - FWE Optional Worn Weapons.esp
 \--------
 \ Weapons\Armours\clothes
 \--------
+Remote Bottlecap Mines ADVANCED.esp
+Glock 86 Plasma Pistol (scoped).esp
+P94 Plasma Rifle.esp
+YK42B Pulse Rifle.esp
+Wattz Laser Weapons Mod.esp
+SnakesBandana.esp
 Tactical Weapons-Calibr-V3.esp
 Akira - Simple Silenced SMG.esp 
 AsharasBatmanItems.esp
@@ -492,6 +501,7 @@ Tactical Vest CIRAS.esp
 Stealthboy Recon Armor - CRAFT.esp
 3EFhelmlessstealthsuit.esp
 Dragonskin Tactical Outfit.esp
+DragonskinBonusPack.esp
 3EFdrg.esp
 3EFdrgplate.esp
 kikaiEquipment.esp
@@ -555,7 +565,6 @@ NVG Activator Crash Fix [Experimental].esp
 Zumbs'_Overhauled_Real_Time_Security.esp
 Wasteland Whisperer.esp
 BuildableBots v0.3a.esp
-Buildablebots Robcert. addon.esp
 RobCo Engineer - Robot Repair.esp
 CBOv1.4.esp
 ThePitt-NoFireFollowers.esp
@@ -569,6 +578,7 @@ UWWUT - Broken Steel Addon.esp
 UWWUT - WMK Addon.esp
 RobCo Certified.esp
 RobCo Certified - Robot Perks.esp
+Buildablebots Robcert. addon.esp
 dD-More Gore.esp
 dD-More Gore-The Pitt.esp
 dD-More Gore-BrokenSteel.esp
@@ -661,6 +671,7 @@ RiPnO - OPTIONAL - Cola Heals.esp
 \-----------
 \ Later Misc
 \-----------
+Megaton Closes.esp
 Slower Levelling - slow.esp
 Slower Degradation (-50%).esp
 PHIG_IncreasedLocationalDamage.esp
@@ -674,6 +685,8 @@ BRUTE_GunKnockdownsSpecialScriptedEditionTHEPOINT.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionANCHORAGE.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionTHEPITT.esp
 RTS_Life_Of_Raider_Addon.esp
+RTSpatch_RVW.esp
+RTSBeta0.1c_extension_FarmingBob1.2.1.esp
 T3T_OutcastTechSupport.esp
 T3T_AnchorageExtras.esp
 T3T_WeaponTweaks.esp
@@ -768,6 +781,8 @@ lessviewdistanceThePitt.esp
 OAlessviewdistance.esp
 ACE2-0.esp
 Mighty Mouse Alternative 4.esp
+Ammo Press Fix.esp
+Point Lookout Travel Fix.esp
 
 \-------
 \Phalanx
