@@ -18,6 +18,7 @@
 \ESMs
 \----
 Fallout3.esm
+? Masterlist Information: $Revision$, $Date$, $LastChangedBy$
 Lings.esm
 Anchorage.esm
 ThePitt.esm
@@ -726,7 +727,7 @@ F3UmpaAnimation.esp
 Portable Camp.esp
 oroLookoutFix.esp
 Misc Mod.esp
-Owned!.esp 
+Owned!.esp
 FaceMe-MMM.esp
 FaceMe-MMM Tougher Traders.esp
 Selected Containers Respawn - Emptied Trash Cans in Player Homes.esp
