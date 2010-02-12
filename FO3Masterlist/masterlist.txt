@@ -4,7 +4,9 @@
 \ \ A silent comment - will be ignored by the program.
 \ % A Bashed Patch suggestion for the mod above.
 \ ? A comment about the mod above.
-\ * Flags a critical mistake for FCOM installation in relation to the mod above.
+\ * Flags a critical mistake for FOOK2 installation in relation to the mod above.
+\ : Means "Requires:"
+\ " Means "Conflicts with:"
 \
 \ > process this line only if FCOM is installed.
 \ < process this line only if FCOM isn't installed.
@@ -12,7 +14,7 @@
 \ Multiple remark/comment/bash/error lines allowed.
 \ Lines beginning with \ and blank lines are treated the same (ignored).
 
-\The FCOM stuff may be useful in relation to FO3's overhauls?
+\AliTHeLord has made changes to the source code for FO3 BOSS
 
 \----
 \ESMs
@@ -38,7 +40,7 @@ ARSENAL MOD.esm
 FallsChurchMetroFix.esm
 Phalanx-PointLookout-Navmesh.esm
 PointLookout-FollowersGetToGo.esm
-? Requires PointLookout.ESM
+: PointLookout.ESM
 CRAFT.esm
 CALIBR.esm
 20thCenturyWeapons.esm
@@ -46,15 +48,15 @@ Ammo Bench.esm
 StreetLights.esm
 ArefuExpandedByAzar.esm
 FOOK2 - Main.esm
-? Requires CALIBR.esm
+: CALIBR.esm
 FOOK.ESM
 * Get FOOK2
 FOOK2 - [WANK] World And Neighbourhood Kit.esm
-? Requires CALIBR.esm and FOOK2 - Main.ESM
+: CALIBR.esm and FOOK2 - Main.ESM
 FOOK2 - [DIK] DLC Improvement Kit.esm
-? Requires Anchorage.esm, ThePitt.esm, BrokenSteel.esm, PointLookout.esm, CALIBR.esm, and FOOK2 - Main.ESM
+: Anchorage.esm, ThePitt.esm, BrokenSteel.esm, PointLookout.esm, CALIBR.esm, and FOOK2 - Main.ESM
 FO3 Wanderers Edition - Main File.esm
-? Requires CRAFT.esm and CALIBR.esm
+: CRAFT.esm and CALIBR.esm
 Mart's Mutant Mod.esm
 LingsFinerThings.esm
 LingsMMMpatch3-3.esm
@@ -69,13 +71,17 @@ RTS.esm
 RRCompanionVault.esm
 Nos' RR Companions.esm
 RR Vault 1 Alternate Guards.esm
+EnclaveCommander-Steel.esm
+EnclaveCommander-OA-Steel.esm
+EnclaveCommander-OA-Pitt-Steel.esm
 CrossModData.esm 
 BHR&M.esm
 PB mika.esm
 Animy_prostitution.esm 
-? Requires CrossModData.esm
+: CrossModData.esm
 ParadiseHome.esm
 DCInteriors_ComboEdition.ESM
+
 
 \------------------
 \Unofficial Patches
@@ -122,28 +128,28 @@ LingsFinerThings.esp
 norepairneededv2.esp
 Hi-Res Weapons & Ammo Textures.esp
 Hi-Res Weapons & Ammo Textures - The Pitt.esp
-? Requires The Pitt DLC
+: The Pitt DLC
 StreetLights - Wasteland.esp
 Fellout-pipboylight.esp
 
 
 CASM.esp
 CRAFT - Activation Perk.esp
-? Requires CRAFT.ESM
+: CRAFT.ESM
 CALIBRxMerchant.esp
-? Requires CALIBR.ESM
+: CALIBR.ESM
 DelayAnchorage.esp
-? Requires Anchorage.ESM
+: Anchorage.ESM
 DelayThePitt.esp
-? Requires ThePitt.ESM
+: ThePitt.ESM
 DelaySteel.esp
-? Requires BrokenSteel.ESM
+: BrokenSteel.ESM
 delaypl.esp
-? Requires PointLookout.ESM
+: PointLookout.ESM
 delayzeta.esp
-? Requires Zeta.ESM
+: Zeta.ESM
 Delay ThePitt + Anchorage.esp
-? Requires ThePitt.ESM and Anchorage.ESM
+: ThePitt.ESM and Anchorage.ESM
 More Hotkeys.esp
 RadioHotkey.esp
 Princess Better Prompts v1pt1.esp
@@ -324,38 +330,38 @@ Tenpenny Suite.esp
 
 
 FOOK2 - Main.esp
-? Requires CALIBR.ESM and FOOK2 - Main.ESM
+: CALIBR.ESM and FOOK2 - Main.ESM
 PB FOOK2 - Main.esp
 FOOK2 - [EVE] Energy Visuals Enhanced.esp
-? Requires FOOK2 - Main.ESM
+: FOOK2 - Main.ESM
 FOOK2 - [DIK] DLC Improvement Kit.esp
-? Requires Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CALIBR.ESM, and FOOK2 - Main.ESM
+: Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CALIBR.ESM, and FOOK2 - Main.ESM
 PB FOOK2 [DIK].esp
 FOOK2 - Mothership Zeta.esp
-? Requires FOOK2 - Main.ESM and Zeta.ESM
+: FOOK2 - Main.ESM and Zeta.ESM
 
 MyFOOK2 - Color Tranquility Lane.esp
 MyFOOK2 - No Nightvision on Power Helmets.esp
-? Requires FOOK2 - Main.ESM
+: FOOK2 - Main.ESM
 MyFOOK2 - No RAPE Victims.esp
-? Requires FOOK2 - Main.ESM
+: FOOK2 - Main.ESM
 MyFOOK2 - S.H.A.D.E.esp
-? Requires FOOK2 - Main.ESM
+: FOOK2 - Main.ESM
 MyFOOK2 - Black & White Tranquility Lane.esp
-? Requires FOOK2 - Main.ESM
+: FOOK2 - Main.ESM
 
 FOOK2 - [DESTRUCTION] Main.esp
-? Requires FOOK2 - Main.ESM
+: FOOK2 - Main.ESM
 FOOK2 - [DESTRUCTION] Main - Statics.esp
-? Requires FOOK2 - Main.ESM
+: FOOK2 - Main.ESM
 FOOK2 - [DESTRUCTION] DIK.esp
-? Requires Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CALIBR.ESM, and FOOK2 - Main.ESM
+: Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CALIBR.ESM, and FOOK2 - Main.ESM
 FOOK2 - [DESTRUCTION] DIK - Statics.esp
-? Requires Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CALIBR.ESM, and FOOK2 - Main.ESM
+: Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CALIBR.ESM, and FOOK2 - Main.ESM
 FOOK2 - [DESTRUCTION] Mothership Zeta.esp
-? Requires FOOK2 - Main.ESM and Zeta.ESM
+: FOOK2 - Main.ESM and Zeta.ESM
 FOOK2 - [DESTRUCTION] Mothership Zeta - Statics.esp
-? Requires FOOK2 - Main.ESM and Zeta.ESM
+: FOOK2 - Main.ESM and Zeta.ESM
 FOOK2 - Main Level Up Fix 1.3.esp
 FOOK2 - DIK Level Up Fix 1.3.esp
 [DIK] DLC Transition Hotfix.esp
@@ -379,13 +385,13 @@ FO3 Wanderers Edition - UFP Support.esp
 FO3 Wanderers Edition - Alternate Travel.esp
 FO3 Wanderers Edition - Lvl 30 High Skills.esp
 FO3 Wanderers Edition - Lvl 30 Balance.esp
-? Use either "FO3 Wanderers Edition - Lvl 30 Balance" OR "FO3 Wanderers Edition - Lvl 30 More Skills"
+? Use either :FO3 Wanderers Edition - Lvl 30 Balance: OR :FO3 Wanderers Edition - Lvl 30 More Skills:
 FO3 Wanderers Edition - Lvl 30 More Skills.esp
-? Use either "FO3 Wanderers Edition - Lvl 30 Balance" OR "FO3 Wanderers Edition - Lvl 30 More Skills"
+? Use either :FO3 Wanderers Edition - Lvl 30 Balance: OR :FO3 Wanderers Edition - Lvl 30 More Skills:
 FO3 Wanderers Edition - Followers Enhanced.esp
-? Use either "FO3 Wanderers Edition - Followers Enhanced.esp" OR "FO3 Wanderers Edition - Followers Enhanced (BrokenSteel).esp"
+? Use either :FO3 Wanderers Edition - Followers Enhanced.esp: OR :FO3 Wanderers Edition - Followers Enhanced (BrokenSteel).esp:
 FO3 Wanderers Edition - Followers Enhanced (BrokenSteel).esp
-? Use either "FO3 Wanderers Edition - Followers Enhanced.esp" OR "FO3 Wanderers Edition - Followers Enhanced (BrokenSteel).esp"
+? Use either :FO3 Wanderers Edition - Followers Enhanced.esp: OR :FO3 Wanderers Edition - Followers Enhanced (BrokenSteel).esp:
 FO3 Wanderers Edition - Optional Free Play After Mainquest.esp
 ? Do not use with Broken Steel
 FO3 Wanderers Edition - Optional No Fast Travel.esp
@@ -434,13 +440,13 @@ Arwen_Weapons.esp
 
 Tailor Maid.esp
 Tailor Maid Anchorage.esp
-? Requires Anchorage.ESM
+: Anchorage.ESM
 Tailor Maid PITT.esp
-? Requires ThePitt.ESM
+: ThePitt.ESM
 Tailor Maid Brokensteel.esp
-? Requires BrokenSteel.ESM
+: BrokenSteel.ESM
 Tailor Maid ZETA.esp
-? Requires Zeta.ESM
+: Zeta.ESM
 
 \--------------
 \ WeaponModKits
@@ -449,15 +455,15 @@ Tailor Maid ZETA.esp
 WeaponModKits.esp
 WeaponModKits - FWE Master Release.esp
 WeaponModKits - OperationAnchorage.esp
-? Requires Anchorage.ESM
+: Anchorage.ESM
 WeaponModKits - ThePitt.esp
-? Requires ThePitt.ESM
+: ThePitt.ESM
 WeaponModKits - BrokenSteel.esp
-? Requires BrokenSteel.ESM
+: BrokenSteel.ESM
 WeaponModKits - PointLookout.esp
-? Requires PointLookout.ESM
+: PointLookout.ESM
 WeaponModKits - Zeta.esp
-? Requires Zeta.ESM
+: Zeta.ESM
 WeaponModKits - FOOK.esp
 WeaponModKits - FWE Optional Worn Weapons.esp
 
@@ -522,9 +528,9 @@ F3Eyelashes.esp
 \-----------
 AS-R CALIBR Patch ONLY.esp
 CALIBR Ammo Schematics - CRAFT.esp
-? Needs CRAFT.esm
+: CRAFT.esm
 Stealthboy Recon Armor - CRAFT.esp
-? Needs CRAFT.esm
+: CRAFT.esm
 Force Start The Pitt.esp
 Vault 87 [Script Reversion].esp
 jmschematics.esp
@@ -553,7 +559,7 @@ EVE Main - FWE Master Release.esp
 EVE - FWE Master Release.esp
 EVE - FWE Master Release (Follower Enhanced).esp
 EVE Operation Anchorage.esp
-? Requires Anchorage.ESM
+: Anchorage.ESM
 EVE - FWE with WeaponModKits.esp
 EVE Anchorage - FWE DLC Anchorage.esp
 
@@ -573,9 +579,9 @@ KickDogs.esp
 Replenishment.esp
 UWWUT.esp
 UWWUT - The Pitt Addon.esp
-? Requires The Pitt.esm
+: The Pitt.esm
 UWWUT - Broken Steel Addon.esp
-? Requires BrokenSteel.ESM
+: BrokenSteel.ESM
 UWWUT - WMK Addon.esp
 RobCo Certified.esp
 RobCo Certified - Robot Perks.esp
@@ -595,22 +601,22 @@ ARSENAL MOD.esp
 \-----------------
 
 Mart's Mutant Mod.esp
-? Requires Mart's Mutant Mod.esm
+: Mart's Mutant Mod.esm
 PB MMM HD.esp
 ? For use with HD version
 PB MMM.esp
 ? For use with non HD version.
 Mart's Mutant Mod - DLC Anchorage.esp
-? Requires Anchorage.ESM
+: Anchorage.ESM
 Mart's Mutant Mod - DLC The Pitt.esp
-? Requires ThePitt.ESM
+: ThePitt.ESM
 Mart's Mutant Mod - DLC Broken Steel.esp
-? Requires BrokenSteel.ESM
+: BrokenSteel.ESM
 Mart's Mutant Mod - DLC Point Lookout.esp
-? Requires PointLookout.ESM
+: PointLookout.ESM
 Project Beauty- Point Lookout MMM.esp
 Mart's Mutant Mod - DLC Zeta.esp
-? Requires Zeta.ESM
+: Zeta.ESM
 Mart's Mutant Mod - No Corpse Flies.esp
 Mart's Mutant Mod - No DLC Increased Spawns.esp
 Mart's Mutant Mod - No Floaters.esp
@@ -631,11 +637,11 @@ Mart's Mutant Mod - Zombie Cementery.esp
 Mart's Mutant Mod - FOOK.esp
 * Get FOOK2
 Mart's Mutant Mod - FOOK2.esp
-? Requires FOOK2 - Main.ESM and Mart's Mutant Mod.esm
+: FOOK2 - Main.ESM and Mart's Mutant Mod.esm
 Mart's Mutant Mod - FOOK2 - DIK.esp
 Mart's Mutant Mod - FWE Master Release.esp
 Mart's Mutant Mod - FWE with EVE.esp
-? Requires FWE.
+: FWE.
 CT_FalloutAdvanced - MMM.esp
 S.T.A.L.K.E.R. Call of D.C.+MMM.esp
 S.T.A.L.K.E.R. Mutants[addon for MMM].esp
@@ -790,9 +796,9 @@ Point Lookout Travel Fix.esp
 \-------
 Phalanx-MainFollowerModule.esp
 Phalanx-BrokenSteel-Integration.esp
-? Requires BrokenSteel.esm
+: BrokenSteel.esm
 Phalanx-PointLookout-Integration.esp
-? Requires PointLookout.esm
+: PointLookout.esm
 Phalanx-PerksAndStims.esp
 
 
@@ -811,11 +817,11 @@ Fellout-Full.esp
 Fellout-SOTD.esp
 ? Either Fellout-Full.esp or Fellout-SOTD.esp please
 Fellout-Anchorage.esp
-? Requires Anchorage.esm
+: Anchorage.esm
 Fellout-BrokenSteel.esp
-? Requires BrokenSteel.esm
+: BrokenSteel.esm
 Fellout-PointLookout.esp
-? Requires PointLookout.esm
+: PointLookout.esm
 Fellout-Zeta.esp
 megalight.esp
 20th Century v4 ALIVE (Vendor).esp
@@ -829,7 +835,7 @@ megalight.esp
 20th Century v4 ALIVE (Talon_Regulator).esp
 Destruction - CP - Fellout.esp
 FWE - FOOK DLC Support.esp
-? Requires Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CRAFT.ESM, CALIBR.ESM, FOOK2 - Main.ESM and FO3 Wanderers Edition - Main File.esm
+: Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CRAFT.ESM, CALIBR.ESM, FOOK2 - Main.ESM and FO3 Wanderers Edition - Main File.esm
 FO3 Wanderers Edition - FOOK Support - Classic DR.esp
 FWE - FOOK DLC Support - Classic DR.esp
 FOOK+FWE+WMK - DLC Version.esp
