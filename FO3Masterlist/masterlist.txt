@@ -68,6 +68,7 @@ Globaltravelsystem.esm
 GTSEssentials.esm
 CT_FalloutAdvanced.esm
 RTS.esm
+" ArefuExpandedByAzar.esm; 1PipboyPDA.esp
 RRCompanionVault.esm
 Nos' RR Companions.esm
 RR Vault 1 Alternate Guards.esm
@@ -81,18 +82,22 @@ Animy_prostitution.esm
 : CrossModData.esm
 ParadiseHome.esm
 DCInteriors_ComboEdition.ESM
+Selected Containers Respawn.esm
 
 
 \------------------
-\Unofficial Patches
+\Unofficial Patches/Fixes
 \------------------
 
+Selected Containers Respawn - Emptied Trash Cans in Player Homes.esp
 Unofficial Fallout 3 Patch - Operation Anchorage.esp
 Unofficial Fallout 3 Patch - The Pitt.esp
 Unofficial Fallout 3 Patch - Broken Steel.esp
 Unofficial Fallout 3 Patch - Point Lookout.esp
 Unofficial Fallout 3 Patch - Mothership Zeta.esp
 UF3P Crane Fix.esp
+FireLightFix.esp
+BSMovieSkip.esp
 
 \------------------
 \Early Loading Mods
@@ -160,7 +165,7 @@ DK_BulletTime.esp
 Sprint Mod.esp
 Auto Aim Fix v1.1.esp
 Alternate Start - Roleplayers.esp
-
+Selected Containers Respawn.esp
 
 \------
 \Sound
@@ -182,6 +187,7 @@ GhostRadio.esp
 mutantradio.esp
 LookoutRadio.esp
 RadioTenpenny.esp
+GNR Fix.esp
 
 \------------
 \Early Misc A
@@ -224,10 +230,20 @@ IntoTheDeepWoods.esp
 PLweightadjust.esp
 AReasonedArgument.esp
 MegatonContracts.esp
+Regulators.esp
+? Use only one Regulators Overhaul plugin.
+Regulators_Overhaul.esp
+? Use only one Regulators Overhaul plugin.
+Regulators _Overhaul_lvl7.esp
+? Use only one Regulators Overhaul plugin.
+Regulators _Overhaul_lvl2.esp
+? Use only one Regulators Overhaul plugin.
 
 \------------
 \Early misc B
 \------------
+FF_DestructibleRadios.esp
+MiniVaultNoScav.esp
 Ammo Bench - Alien Power Cell.esp
 Ammo Bench - Artisan.esp
 Ammo Bench - CRAFT Plugin.esp
@@ -283,6 +299,7 @@ BusworldV1.05noexpl.esp
 BusworldV1.05d.esp
 FPS Grenade Hotkey.esp
 FPS Grenade Hotkey - Zeta addon.esp
+NoKnockedOverComments.esp
 
 \---
 \NPC
@@ -470,6 +487,14 @@ WeaponModKits - FWE Optional Worn Weapons.esp
 \--------
 \ Weapons\Armours\clothes
 \--------
+
+
+BRUTE_GunKnockdownsSpecialScriptedEditionTHEPOINT.esp
+BRUTE_GunKnockdownsSpecialScriptedEditionANCHORAGE.esp
+BRUTE_GunKnockdownsSpecialScriptedEditionTHEPITT.esp
+
+ChineseStealthArmorFixed.esp
+Tesla Metal Armor (Extended).esp
 Remote Bottlecap Mines ADVANCED.esp
 Glock 86 Plasma Pistol (scoped).esp
 P94 Plasma Rifle.esp
@@ -688,9 +713,6 @@ PHIG_IncreasedArmor.esp
 PHIG_GunKnockdownsTOUGHERSUPERS.esp
 PHIG_GunKnockdownsSpecialScriptedEdition.esp
 PHIG_SteadyAimPERKONLY.esp
-BRUTE_GunKnockdownsSpecialScriptedEditionTHEPOINT.esp
-BRUTE_GunKnockdownsSpecialScriptedEditionANCHORAGE.esp
-BRUTE_GunKnockdownsSpecialScriptedEditionTHEPITT.esp
 RTS_Life_Of_Raider_Addon.esp
 RTSpatch_RVW.esp
 RTSBeta0.1c_extension_FarmingBob1.2.1.esp
@@ -823,6 +845,12 @@ Fellout-BrokenSteel.esp
 Fellout-PointLookout.esp
 : PointLookout.esm
 Fellout-Zeta.esp
+FOOK2 Nightvision for Fellout.esp
+Destruction - CP - Fellout.esp
+pip30.esp
+pip60.esp
+pip150.esp
+pipomfg.esp
 megalight.esp
 20th Century v4 ALIVE (Vendor).esp
 20th Century v4 ALIVE (NPC_Settler).esp
