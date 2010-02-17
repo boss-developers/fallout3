@@ -28,10 +28,10 @@ BrokenSteel.esm
 PointLookout.esm
 Zeta.esm
 Unofficial Fallout 3 Patch.esm
+HairPack.esm
 Project Beauty HD version.esm
 ? Either Project Beauty HD version.esm OR Project Beauty.esp please!
 Hairday.esm
-HairPack.esm
 RI_Core.esm
 FaceMe.esm
 Destruction.esm
@@ -45,7 +45,6 @@ CRAFT.esm
 CALIBR.esm
 20thCenturyWeapons.esm
 Ammo Bench.esm
-StreetLights.esm
 ArefuExpandedByAzar.esm
 FOOK2 - Main.esm
 : CALIBR.esm
@@ -72,6 +71,7 @@ RTS.esm
 RRCompanionVault.esm
 Nos' RR Companions.esm
 RR Vault 1 Alternate Guards.esm
+StreetLights.esm
 EnclaveCommander-Steel.esm
 EnclaveCommander-OA-Steel.esm
 EnclaveCommander-OA-Pitt-Steel.esm
@@ -113,6 +113,7 @@ Fast VATS 2.esp
 ? Only one Fast VATS mod please!
 VATS_Normal_dmg_to_player.esp
 ? Incompatible with Fast VATS.
+Arwen_Reduced_QuestXPR.esp
 Headshot_Balance.esp
 actionpoints_instant_regen.esp
 playbackdelay_001.esp
@@ -135,8 +136,12 @@ Hi-Res Weapons & Ammo Textures.esp
 Hi-Res Weapons & Ammo Textures - The Pitt.esp
 : The Pitt DLC
 StreetLights - Wasteland.esp
+Realistic Interior Lighting.esp
+Realistic Interior Lighting - BS.esp
+Realistic Interior Lighting - OA.esp
+MrSlackPants-DecentPipBoyLight.esp
 Fellout-pipboylight.esp
-
+MaxLevelWorkaround-BS.esp
 
 CASM.esp
 CRAFT - Activation Perk.esp
@@ -158,8 +163,13 @@ Delay ThePitt + Anchorage.esp
 More Hotkeys.esp
 RadioHotkey.esp
 Princess Better Prompts v1pt1.esp
+PCIdles.esp
+Arwen_Camera.esp
 Vanity Camera Mod.esp
 KTs_Centercamera.esp
+Zumbs' Equipable Pip Boy.esp
+?Remove That Glove.esp, Pip Boy Be Gone Mark II.esp, Pip Boy Be Gone Mark II 1.1.esp, PipBegone.esp, PipBoyBeGone.esp, 1PipboyPDA.esp
+Zumbs'_Overhauled_Real_Time_Security.esp
 LongerDeathCamera.esp
 DK_BulletTime.esp
 Sprint Mod.esp
@@ -194,7 +204,6 @@ GNR Fix.esp
 \------------
 
 CONELRAD 640-1240.esp
-PCIdles.esp
 UPP - Pack 1.esp
 UPP - Pack 2.esp
 UPP - Original Perks.esp
@@ -431,21 +440,7 @@ Refurbish [OA] - FWE.esp
 \Other
 \-----
 
-Arwen_FULL_Tweaks.esp
-Arwen_Armor.esp
-? Do not use with Arwen_FULL_Tweaks.esp
-Arwen_Less_Is_More.esp
-? Do not use with Arwen_FULL_Tweaks.esp
-Arwen_Localized_Damage.esp
-? Do not use with Arwen_FULL_Tweaks.esp
-Arwen_SmarterAI.esp
-? Do not use with Arwen_FULL_Tweaks.esp
-Arwen_Survival.esp
-? Do not use with Arwen_FULL_Tweaks.esp
-Arwen_Tweaks_Main.esp
-? Do not use with Arwen_FULL_Tweaks.esp
-Arwen_Weapons.esp
-? Do not use with Arwen_FULL_Tweaks.esp
+
 
 \-------------
 \Overhauls End
@@ -493,6 +488,9 @@ BRUTE_GunKnockdownsSpecialScriptedEditionTHEPOINT.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionANCHORAGE.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionTHEPITT.esp
 
+Hi-Res Weapons & Ammo Textures - The Pitt.esp
+Hi-Res Weapons & Ammo Textures.esp
+Reykjavik.esp
 ChineseStealthArmorFixed.esp
 Tesla Metal Armor (Extended).esp
 Remote Bottlecap Mines ADVANCED.esp
@@ -594,7 +592,6 @@ EVE Anchorage - FWE DLC Anchorage.esp
 \-----------
 
 NVG Activator Crash Fix [Experimental].esp 
-Zumbs'_Overhauled_Real_Time_Security.esp
 Wasteland Whisperer.esp
 BuildableBots v0.3a.esp
 RobCo Engineer - Robot Repair.esp
@@ -703,8 +700,30 @@ RiPnO - OPTIONAL - Cola Heals.esp
 \-----------
 \ Later Misc
 \-----------
+Arwen_FULL_Tweaks.esp
+Arwen_Skills.esp
+Arwen_Armor.esp
+? Do not use with Arwen_FULL_Tweaks.esp
+Arwen_Less_Is_More.esp
+? Do not use with Arwen_FULL_Tweaks.esp
+Arwen_Localized_Damage.esp
+? Do not use with Arwen_FULL_Tweaks.esp
+Arwen_SmarterAI.esp
+? Do not use with Arwen_FULL_Tweaks.esp
+Arwen_Survival.esp
+? Do not use with Arwen_FULL_Tweaks.esp
+Arwen_Tweaks_Main.esp
+? Do not use with Arwen_FULL_Tweaks.esp
+Arwen_Weapons.esp
+? Do not use with Arwen_FULL_Tweaks.esp
+Arwen_MMM_Patch.esp
 Megaton Closes.esp
 Slower Levelling - slow.esp
+Slower Levelling - slower.esp
+Slower Levelling - Very Slow.esp
+Slower Levelling - Extremely Slow.esp
+Slower Levelling - Super Duper Slow.esp
+Slower Levelling - Super Duper Extreme.esp
 Slower Degradation (-50%).esp
 PHIG_IncreasedLocationalDamage.esp
 PHIG_IncreasedDamageLITE.esp
@@ -793,8 +812,6 @@ Kill and Loot Unconscious Essential NPCs_FOSE.esp
 Kill and Loot Unconscious Essential NPCs_NoGore.esp
 ? Only one kill and loot!
 Zumbs' Console Mod.esp
-Zumbs' Equipable Pip Boy.esp
-?Remove That Glove.esp, Pip Boy Be Gone Mark II.esp, Pip Boy Be Gone Mark II 1.1.esp, PipBegone.esp, PipBoyBeGone.esp, 1PipboyPDA.esp
 improved_glasses.esp
 improved_shades.esp
 improved_shades_zumbs.esp
