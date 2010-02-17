@@ -450,17 +450,17 @@ FO3 Wanderers Edition - UFP Support.esp
 FO3 Wanderers Edition - Alternate Travel.esp
 FO3 Wanderers Edition - Lvl 30 High Skills.esp
 FO3 Wanderers Edition - Lvl 30 Balance.esp
-? Use either :FO3 Wanderers Edition - Lvl 30 Balance: OR :FO3 Wanderers Edition - Lvl 30 More Skills:
+"FO3 Wanderers Edition - Lvl 30 More Skills.esp
 FO3 Wanderers Edition - Lvl 30 More Skills.esp
-? Use either :FO3 Wanderers Edition - Lvl 30 Balance: OR :FO3 Wanderers Edition - Lvl 30 More Skills:
+"FO3 Wanderers Edition - Lvl 30 Balance.esp
 FO3 Wanderers Edition - Followers Enhanced.esp
-? Use either :FO3 Wanderers Edition - Followers Enhanced.esp: OR :FO3 Wanderers Edition - Followers Enhanced (BrokenSteel).esp:
+"FO3 Wanderers Edition - Followers Enhanced (BrokenSteel).esp:
 FO3 Wanderers Edition - Followers Enhanced (BrokenSteel).esp
-? Use either :FO3 Wanderers Edition - Followers Enhanced.esp: OR :FO3 Wanderers Edition - Followers Enhanced (BrokenSteel).esp:
+"FO3 Wanderers Edition - Followers Enhanced.esp
 FO3 Wanderers Edition - Optional Free Play After Mainquest.esp
-? Do not use with Broken Steel
+"BrokenSteel.esm
 FO3 Wanderers Edition - Optional No Fast Travel.esp
-? Disables fast travel. Do not use with the Alternate Travel module.
+"FO3 Wanderers Edition - Alternate Travel.esp
 FO3 Wanderers Edition - Optional Restore Tracers.esp
 FO3 Wanderers Edition - Optional VATS Halftime.esp
 FO3 Wanderers Edition - Optional VATS Realtime.esp
@@ -617,7 +617,7 @@ EVE Beta_0.9.4.esp
 ? Upgrade needed, there is a new version of EVE available.
 EVE.esp
 EVE Main - FWE Master Release.esp
-? May cause crashed at start. If so disable this.
+? May cause crashes at start. If so disable this and find updated version.
 EVE - FWE Master Release.esp
 EVE - FWE Master Release (Follower Enhanced).esp
 EVE Operation Anchorage.esp
@@ -664,9 +664,11 @@ ARSENAL MOD.esp
 Mart's Mutant Mod.esp
 :Mart's Mutant Mod.esm
 PB MMM HD.esp
-? For use with HD version
+:Project Beauty HD version.esm
+"Project Beauty.esp
 PB MMM.esp
-? For use with non HD version.
+"Project Beauty HD version.esm
+:Project Beauty.esp
 Mart's Mutant Mod - DLC Anchorage.esp
 :Anchorage.ESM
 Mart's Mutant Mod - DLC The Pitt.esp
@@ -846,11 +848,14 @@ dD-Reduced Dismember Force.esp
 dD-Smaller Wounds.esp
 dD-Smaller Spatters.esp
 Kill and Loot Unconscious Essential NPCs.esp
-? Only one kill and loot!
+"Kill and Loot Unconscious Essential NPCs_NoGore.esp
+"Kill and Loot Unconscious Essential NPCs_FOSE.esp
 Kill and Loot Unconscious Essential NPCs_FOSE.esp
-? Only one kill and loot!
+"Kill and Loot Unconscious Essential NPCs.esp
+"Kill and Loot Unconscious Essential NPCs_NoGore.esp
 Kill and Loot Unconscious Essential NPCs_NoGore.esp
-? Only one kill and loot!
+"Kill and Loot Unconscious Essential NPCs.esp
+"Kill and Loot Unconscious Essential NPCs_FOSE.esp
 Zumbs' Console Mod.esp
 improved_glasses.esp
 improved_shades.esp
@@ -892,9 +897,9 @@ Enhanced Weather - Rainbows.esp
 Enhanced Weather - Weather Sounds in Interiors.esp
 Enhanced Weather - Sneak Bonus during Storms.esp
 Fellout-Full.esp
-? Either Fellout-Full.esp or Fellout-SOTD.esp please
+"Fellout-SOTD.esp
 Fellout-SOTD.esp
-? Either Fellout-Full.esp or Fellout-SOTD.esp please
+"Either Fellout-Full.esp
 Fellout-Anchorage.esp
 :Anchorage.esm
 Fellout-BrokenSteel.esp
