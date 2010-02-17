@@ -30,7 +30,7 @@ Zeta.esm
 Unofficial Fallout 3 Patch.esm
 HairPack.esm
 Project Beauty HD version.esm
-? Either Project Beauty HD version.esm OR Project Beauty.esp please!
+"Project Beauty.esp
 Hairday.esm
 RI_Core.esm
 FaceMe.esm
@@ -40,22 +40,29 @@ ARSENAL MOD.esm
 FallsChurchMetroFix.esm
 Phalanx-PointLookout-Navmesh.esm
 PointLookout-FollowersGetToGo.esm
-: PointLookout.ESM
+:PointLookout.ESM
 CRAFT.esm
 CALIBR.esm
 20thCenturyWeapons.esm
 Ammo Bench.esm
 ArefuExpandedByAzar.esm
 FOOK2 - Main.esm
-: CALIBR.esm
+:CALIBR.esm
 FOOK.ESM
-* Get FOOK2
+*Get FOOK2
 FOOK2 - [WANK] World And Neighbourhood Kit.esm
-: CALIBR.esm and FOOK2 - Main.ESM
+:CALIBR.esm
+:FOOK2 - Main.ESM
 FOOK2 - [DIK] DLC Improvement Kit.esm
-: Anchorage.esm, ThePitt.esm, BrokenSteel.esm, PointLookout.esm, CALIBR.esm, and FOOK2 - Main.ESM
+:Anchorage.esm
+:ThePitt.esm
+:BrokenSteel.esm
+:PointLookout.esm
+:CALIBR.esm
+:FOOK2 - Main.ESM
 FO3 Wanderers Edition - Main File.esm
-: CRAFT.esm and CALIBR.esm
+:CRAFT.esm
+:CALIBR.esm
 Mart's Mutant Mod.esm
 LingsFinerThings.esm
 LingsMMMpatch3-3.esm
@@ -67,7 +74,8 @@ Globaltravelsystem.esm
 GTSEssentials.esm
 CT_FalloutAdvanced.esm
 RTS.esm
-" ArefuExpandedByAzar.esm; 1PipboyPDA.esp
+"ArefuExpandedByAzar.esm
+"1PipboyPDA.esp
 RRCompanionVault.esm
 Nos' RR Companions.esm
 RR Vault 1 Alternate Guards.esm
@@ -79,7 +87,7 @@ CrossModData.esm
 BHR&M.esm
 PB mika.esm
 Animy_prostitution.esm 
-: CrossModData.esm
+:CrossModData.esm
 ParadiseHome.esm
 DCInteriors_ComboEdition.ESM
 Selected Containers Respawn.esm
@@ -104,15 +112,16 @@ BSMovieSkip.esp
 \------------------
 
 Project Beauty.esp
-? Either Project Beauty HD version.esm OR Project Beauty.esp please!
+"Project Beauty HD version.esm
 Project Beauty- Broken Steel.esp
 Project Beauty- Point Lookout.esp
 Fast VATS 1.esp
-? Only one Fast VATS mod please!
+"Fast VATS 2.esp
 Fast VATS 2.esp
-? Only one Fast VATS mod please!
+"Fast VATS 1.esp
 VATS_Normal_dmg_to_player.esp
-? Incompatible with Fast VATS.
+"Fast VATS 1.esp
+"Fast VATS 2.esp
 Arwen_Reduced_QuestXPR.esp
 Headshot_Balance.esp
 actionpoints_instant_regen.esp
@@ -134,7 +143,7 @@ LingsFinerThings.esp
 norepairneededv2.esp
 Hi-Res Weapons & Ammo Textures.esp
 Hi-Res Weapons & Ammo Textures - The Pitt.esp
-: The Pitt DLC
+:The Pitt DLC
 StreetLights - Wasteland.esp
 Realistic Interior Lighting.esp
 Realistic Interior Lighting - BS.esp
@@ -145,21 +154,22 @@ MaxLevelWorkaround-BS.esp
 
 CASM.esp
 CRAFT - Activation Perk.esp
-: CRAFT.ESM
+:CRAFT.ESM
 CALIBRxMerchant.esp
-: CALIBR.ESM
+:CALIBR.ESM
 DelayAnchorage.esp
-: Anchorage.ESM
+:Anchorage.ESM
 DelayThePitt.esp
-: ThePitt.ESM
+:ThePitt.ESM
 DelaySteel.esp
-: BrokenSteel.ESM
+:BrokenSteel.ESM
 delaypl.esp
-: PointLookout.ESM
+:PointLookout.ESM
 delayzeta.esp
-: Zeta.ESM
+:Zeta.ESM
 Delay ThePitt + Anchorage.esp
-: ThePitt.ESM and Anchorage.ESM
+:ThePitt.ESM
+:Anchorage.ESM
 More Hotkeys.esp
 RadioHotkey.esp
 Princess Better Prompts v1pt1.esp
@@ -168,7 +178,12 @@ Arwen_Camera.esp
 Vanity Camera Mod.esp
 KTs_Centercamera.esp
 Zumbs' Equipable Pip Boy.esp
-?Remove That Glove.esp, Pip Boy Be Gone Mark II.esp, Pip Boy Be Gone Mark II 1.1.esp, PipBegone.esp, PipBoyBeGone.esp, 1PipboyPDA.esp
+"That Glove.esp
+"Pip Boy Be Gone Mark II.esp
+"Pip Boy Be Gone Mark II 1.1.esp
+"PipBegone.esp
+"PipBoyBeGone.esp
+"1PipboyPDA.esp
 Zumbs'_Overhauled_Real_Time_Security.esp
 LongerDeathCamera.esp
 DK_BulletTime.esp
@@ -182,16 +197,32 @@ Selected Containers Respawn.esp
 \------
 
 GalaxyNewsRadioFix[S].esp
+GalaxyNewsRadioFix[S].esp
 GalaxyNewsRadio100[M].esp
-? Only use one GalaxyNewsRadioXXX[M].esp plugin
+"GalaxyNewsRadio80[M].esp
+"GalaxyNewsRadio60[M].esp
+"GalaxyNewsRadio40[M].esp
+"GalaxyNewsRadio20[M].esp
 GalaxyNewsRadio80[M].esp
-? Only use one GalaxyNewsRadioXXX[M].esp plugin
+"GalaxyNewsRadio100[M].esp
+"GalaxyNewsRadio60[M].esp
+"GalaxyNewsRadio40[M].esp
+"GalaxyNewsRadio20[M].esp
 GalaxyNewsRadio60[M].esp
-? Only use one GalaxyNewsRadioXXX[M].esp plugin
+"GalaxyNewsRadio100[M].esp
+"GalaxyNewsRadio80[M].esp
+"GalaxyNewsRadio40[M].esp
+"GalaxyNewsRadio20[M].esp
 GalaxyNewsRadio40[M].esp
-? Only use one GalaxyNewsRadioXXX[M].esp plugin
+"GalaxyNewsRadio100[M].esp
+"GalaxyNewsRadio80[M].esp
+"GalaxyNewsRadio60[M].esp
+"GalaxyNewsRadio20[M].esp
 GalaxyNewsRadio20[M].esp
-? Only use one GalaxyNewsRadioXXX[M].esp plugin
+"GalaxyNewsRadio100[M].esp
+"GalaxyNewsRadio80[M].esp
+"GalaxyNewsRadio60[M].esp
+"GalaxyNewsRadio40[M].esp
 ArefuExpandedByAzar-Radio.esp
 GhostRadio.esp
 mutantradio.esp
@@ -240,13 +271,21 @@ PLweightadjust.esp
 AReasonedArgument.esp
 MegatonContracts.esp
 Regulators.esp
-? Use only one Regulators Overhaul plugin.
+"Regulators_Overhaul.esp
+"Regulators _Overhaul_lvl7.esp
+"Regulators _Overhaul_lvl2.esp
 Regulators_Overhaul.esp
-? Use only one Regulators Overhaul plugin.
+"Regulators.esp
+"Regulators _Overhaul_lvl7.esp
+"Regulators _Overhaul_lvl2.esp
 Regulators _Overhaul_lvl7.esp
-? Use only one Regulators Overhaul plugin.
+"Regulators_Overhaul.esp
+"Regulators.esp
+"Regulators _Overhaul_lvl2.esp
 Regulators _Overhaul_lvl2.esp
-? Use only one Regulators Overhaul plugin.
+"Regulators_Overhaul.esp
+"Regulators _Overhaul_lvl7.esp
+"Regulators.esp
 
 \------------
 \Early misc B
@@ -317,9 +356,9 @@ NoKnockedOverComments.esp
 
 MTC Wasteland Travellers.esp
 MTC Wasteland Travellers (Optional)- Crowded Cities less NPCs.esp
-? Only use one Wasteland Travellers (optional)- Crowded Cities/less NPCs plugin.
+"MTC Wasteland Travellers (Optional)- Crowded Cities.esp
 MTC Wasteland Travellers (Optional)- Crowded Cities.esp
-? Only use one Wasteland Travellers (optional)- Crowded Cities/less NPCs plugin.
+"MTC Wasteland Travellers (Optional)- Crowded Cities less NPCs.esp
 Clover Makeover - Asian Bedraggled.esp
 
 \--------
@@ -356,38 +395,38 @@ Tenpenny Suite.esp
 
 
 FOOK2 - Main.esp
-: CALIBR.ESM and FOOK2 - Main.ESM
+:CALIBR.ESM and FOOK2 - Main.ESM
 PB FOOK2 - Main.esp
 FOOK2 - [EVE] Energy Visuals Enhanced.esp
-: FOOK2 - Main.ESM
+:FOOK2 - Main.ESM
 FOOK2 - [DIK] DLC Improvement Kit.esp
-: Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CALIBR.ESM, and FOOK2 - Main.ESM
+:Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CALIBR.ESM, and FOOK2 - Main.ESM
 PB FOOK2 [DIK].esp
 FOOK2 - Mothership Zeta.esp
-: FOOK2 - Main.ESM and Zeta.ESM
+:FOOK2 - Main.ESM and Zeta.ESM
 
 MyFOOK2 - Color Tranquility Lane.esp
 MyFOOK2 - No Nightvision on Power Helmets.esp
-: FOOK2 - Main.ESM
+:FOOK2 - Main.ESM
 MyFOOK2 - No RAPE Victims.esp
-: FOOK2 - Main.ESM
+:FOOK2 - Main.ESM
 MyFOOK2 - S.H.A.D.E.esp
-: FOOK2 - Main.ESM
+:FOOK2 - Main.ESM
 MyFOOK2 - Black & White Tranquility Lane.esp
-: FOOK2 - Main.ESM
+:FOOK2 - Main.ESM
 
 FOOK2 - [DESTRUCTION] Main.esp
-: FOOK2 - Main.ESM
+:FOOK2 - Main.ESM
 FOOK2 - [DESTRUCTION] Main - Statics.esp
-: FOOK2 - Main.ESM
+:FOOK2 - Main.ESM
 FOOK2 - [DESTRUCTION] DIK.esp
-: Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CALIBR.ESM, and FOOK2 - Main.ESM
+:Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CALIBR.ESM, and FOOK2 - Main.ESM
 FOOK2 - [DESTRUCTION] DIK - Statics.esp
-: Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CALIBR.ESM, and FOOK2 - Main.ESM
+:Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CALIBR.ESM, and FOOK2 - Main.ESM
 FOOK2 - [DESTRUCTION] Mothership Zeta.esp
-: FOOK2 - Main.ESM and Zeta.ESM
+:FOOK2 - Main.ESM and Zeta.ESM
 FOOK2 - [DESTRUCTION] Mothership Zeta - Statics.esp
-: FOOK2 - Main.ESM and Zeta.ESM
+:FOOK2 - Main.ESM and Zeta.ESM
 FOOK2 - Main Level Up Fix 1.3.esp
 FOOK2 - DIK Level Up Fix 1.3.esp
 [DIK] DLC Transition Hotfix.esp
@@ -452,13 +491,13 @@ Refurbish [OA] - FWE.esp
 
 Tailor Maid.esp
 Tailor Maid Anchorage.esp
-: Anchorage.ESM
+:Anchorage.ESM
 Tailor Maid PITT.esp
-: ThePitt.ESM
+:ThePitt.ESM
 Tailor Maid Brokensteel.esp
-: BrokenSteel.ESM
+:BrokenSteel.ESM
 Tailor Maid ZETA.esp
-: Zeta.ESM
+:Zeta.ESM
 
 \--------------
 \ WeaponModKits
@@ -467,15 +506,15 @@ Tailor Maid ZETA.esp
 WeaponModKits.esp
 WeaponModKits - FWE Master Release.esp
 WeaponModKits - OperationAnchorage.esp
-: Anchorage.ESM
+:Anchorage.ESM
 WeaponModKits - ThePitt.esp
-: ThePitt.ESM
+:ThePitt.ESM
 WeaponModKits - BrokenSteel.esp
-: BrokenSteel.ESM
+:BrokenSteel.ESM
 WeaponModKits - PointLookout.esp
-: PointLookout.ESM
+:PointLookout.ESM
 WeaponModKits - Zeta.esp
-: Zeta.ESM
+:Zeta.ESM
 WeaponModKits - FOOK.esp
 WeaponModKits - FWE Optional Worn Weapons.esp
 
@@ -551,9 +590,9 @@ F3Eyelashes.esp
 \-----------
 AS-R CALIBR Patch ONLY.esp
 CALIBR Ammo Schematics - CRAFT.esp
-: CRAFT.esm
+:CRAFT.esm
 Stealthboy Recon Armor - CRAFT.esp
-: CRAFT.esm
+:CRAFT.esm
 Force Start The Pitt.esp
 Vault 87 [Script Reversion].esp
 jmschematics.esp
@@ -582,7 +621,7 @@ EVE Main - FWE Master Release.esp
 EVE - FWE Master Release.esp
 EVE - FWE Master Release (Follower Enhanced).esp
 EVE Operation Anchorage.esp
-: Anchorage.ESM
+:Anchorage.ESM
 EVE - FWE with WeaponModKits.esp
 EVE Anchorage - FWE DLC Anchorage.esp
 
@@ -601,9 +640,9 @@ KickDogs.esp
 Replenishment.esp
 UWWUT.esp
 UWWUT - The Pitt Addon.esp
-: The Pitt.esm
+:The Pitt.esm
 UWWUT - Broken Steel Addon.esp
-: BrokenSteel.ESM
+:BrokenSteel.ESM
 UWWUT - WMK Addon.esp
 RobCo Certified.esp
 RobCo Certified - Robot Perks.esp
@@ -623,22 +662,22 @@ ARSENAL MOD.esp
 \-----------------
 
 Mart's Mutant Mod.esp
-: Mart's Mutant Mod.esm
+:Mart's Mutant Mod.esm
 PB MMM HD.esp
 ? For use with HD version
 PB MMM.esp
 ? For use with non HD version.
 Mart's Mutant Mod - DLC Anchorage.esp
-: Anchorage.ESM
+:Anchorage.ESM
 Mart's Mutant Mod - DLC The Pitt.esp
-: ThePitt.ESM
+:ThePitt.ESM
 Mart's Mutant Mod - DLC Broken Steel.esp
-: BrokenSteel.ESM
+:BrokenSteel.ESM
 Mart's Mutant Mod - DLC Point Lookout.esp
-: PointLookout.ESM
+:PointLookout.ESM
 Project Beauty- Point Lookout MMM.esp
 Mart's Mutant Mod - DLC Zeta.esp
-: Zeta.ESM
+:Zeta.ESM
 Mart's Mutant Mod - No Corpse Flies.esp
 Mart's Mutant Mod - No DLC Increased Spawns.esp
 Mart's Mutant Mod - No Floaters.esp
@@ -657,13 +696,14 @@ Mart's Mutant Mod - Tougher Traders.esp
 Mart's Mutant Mod - Zones Respawn.esp
 Mart's Mutant Mod - Zombie Cementery.esp
 Mart's Mutant Mod - FOOK.esp
-* Get FOOK2
+*Get FOOK2
 Mart's Mutant Mod - FOOK2.esp
-: FOOK2 - Main.ESM and Mart's Mutant Mod.esm
+:FOOK2 - Main.ESM and Mart's Mutant Mod.esm
 Mart's Mutant Mod - FOOK2 - DIK.esp
 Mart's Mutant Mod - FWE Master Release.esp
 Mart's Mutant Mod - FWE with EVE.esp
-: FWE.
+:FO3 Wanderers Edition - Main File.esm
+:EVE.esp
 CT_FalloutAdvanced - MMM.esp
 S.T.A.L.K.E.R. Call of D.C.+MMM.esp
 S.T.A.L.K.E.R. Mutants[addon for MMM].esp
@@ -703,19 +743,19 @@ RiPnO - OPTIONAL - Cola Heals.esp
 Arwen_FULL_Tweaks.esp
 Arwen_Skills.esp
 Arwen_Armor.esp
-? Do not use with Arwen_FULL_Tweaks.esp
+"Arwen_FULL_Tweaks.esp
 Arwen_Less_Is_More.esp
-? Do not use with Arwen_FULL_Tweaks.esp
+"Arwen_FULL_Tweaks.esp
 Arwen_Localized_Damage.esp
-? Do not use with Arwen_FULL_Tweaks.esp
+"Arwen_FULL_Tweaks.esp
 Arwen_SmarterAI.esp
-? Do not use with Arwen_FULL_Tweaks.esp
+"Arwen_FULL_Tweaks.esp
 Arwen_Survival.esp
-? Do not use with Arwen_FULL_Tweaks.esp
+"Arwen_FULL_Tweaks.esp
 Arwen_Tweaks_Main.esp
-? Do not use with Arwen_FULL_Tweaks.esp
+"Arwen_FULL_Tweaks.esp
 Arwen_Weapons.esp
-? Do not use with Arwen_FULL_Tweaks.esp
+"Arwen_FULL_Tweaks.esp
 Arwen_MMM_Patch.esp
 Megaton Closes.esp
 Slower Levelling - slow.esp
@@ -835,9 +875,9 @@ Point Lookout Travel Fix.esp
 \-------
 Phalanx-MainFollowerModule.esp
 Phalanx-BrokenSteel-Integration.esp
-: BrokenSteel.esm
+:BrokenSteel.esm
 Phalanx-PointLookout-Integration.esp
-: PointLookout.esm
+:PointLookout.esm
 Phalanx-PerksAndStims.esp
 
 
@@ -856,11 +896,11 @@ Fellout-Full.esp
 Fellout-SOTD.esp
 ? Either Fellout-Full.esp or Fellout-SOTD.esp please
 Fellout-Anchorage.esp
-: Anchorage.esm
+:Anchorage.esm
 Fellout-BrokenSteel.esp
-: BrokenSteel.esm
+:BrokenSteel.esm
 Fellout-PointLookout.esp
-: PointLookout.esm
+:PointLookout.esm
 Fellout-Zeta.esp
 FOOK2 Nightvision for Fellout.esp
 Destruction - CP - Fellout.esp
@@ -880,7 +920,14 @@ megalight.esp
 20th Century v4 ALIVE (Talon_Regulator).esp
 Destruction - CP - Fellout.esp
 FWE - FOOK DLC Support.esp
-: Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CRAFT.ESM, CALIBR.ESM, FOOK2 - Main.ESM and FO3 Wanderers Edition - Main File.esm
+:Anchorage.ESM
+:ThePitt.ESM
+:BrokenSteel.ESM
+:PointLookout.esm
+:CRAFT.ESM
+:CALIBR.ESM
+:FOOK2 - Main.ESM
+:FO3 Wanderers Edition - Main File.esm
 FO3 Wanderers Edition - FOOK Support - Classic DR.esp
 FWE - FOOK DLC Support - Classic DR.esp
 FOOK+FWE+WMK - DLC Version.esp
