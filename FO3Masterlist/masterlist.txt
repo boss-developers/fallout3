@@ -229,6 +229,7 @@ mutantradio.esp
 LookoutRadio.esp
 RadioTenpenny.esp
 GNR Fix.esp
+ReneersRadioMod.esp
 
 \------------
 \Early Misc A
@@ -290,6 +291,7 @@ Regulators _Overhaul_lvl2.esp
 \------------
 \Early misc B
 \------------
+BoSPatrols.esp 
 FF_DestructibleRadios.esp
 MiniVaultNoScav.esp
 Ammo Bench - Alien Power Cell.esp
@@ -364,6 +366,8 @@ Clover Makeover - Asian Bedraggled.esp
 \--------
 \Places
 \--------
+Arefu Player House.esp
+"ArefuExpandedByAzar.esm
 01AtM - Firefly Ranch.esp
 MiniHideout.esp
 SShop.esp
@@ -466,6 +470,7 @@ FO3 Wanderers Edition - Optional VATS Halftime.esp
 FO3 Wanderers Edition - Optional VATS Realtime.esp
 FO3 Wanderers Edition - Optional Harsher Wasteland.esp
 FO3 Wanderers Edition - Optional Worn Weapons.esp
+FO3 Wanderers Edition - Optional Restore Tracers (automatics only).esp
 FWE - Weightless Ammo.esp
 FO3 Wanderers Edition - FOOK Support.esp
 ? Check for updates; you may have the old version installed.
