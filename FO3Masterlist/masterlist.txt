@@ -46,6 +46,7 @@ CALIBR.esm
 20thCenturyWeapons.esm
 Ammo Bench.esm
 ArefuExpandedByAzar.esm
+DCInteriors_ComboEdition.ESM
 FOOK2 - Main.esm
 :CALIBR.esm
 FOOK.ESM
@@ -89,7 +90,6 @@ PB mika.esm
 Animy_prostitution.esm 
 :CrossModData.esm
 ParadiseHome.esm
-DCInteriors_ComboEdition.ESM
 Selected Containers Respawn.esm
 
 
@@ -104,6 +104,7 @@ Unofficial Fallout 3 Patch - Broken Steel.esp
 Unofficial Fallout 3 Patch - Point Lookout.esp
 Unofficial Fallout 3 Patch - Mothership Zeta.esp
 UF3P Crane Fix.esp
+Citadel Crane Fix.esp
 FireLightFix.esp
 BSMovieSkip.esp
 
@@ -155,8 +156,11 @@ MaxLevelWorkaround-BS.esp
 CASM.esp
 CRAFT - Activation Perk.esp
 :CRAFT.ESM
+TinCanCRAFTing.esp
+CRAFT - EnergyAmmo.esp
 CALIBRxMerchant.esp
 :CALIBR.ESM
+CRAFTHelper.esm
 DelayAnchorage.esp
 :Anchorage.ESM
 DelayThePitt.esp
@@ -191,6 +195,7 @@ Sprint Mod.esp
 Auto Aim Fix v1.1.esp
 Alternate Start - Roleplayers.esp
 Selected Containers Respawn.esp
+Zombie Sounds V2.esp
 
 \------
 \Sound
@@ -244,6 +249,8 @@ UPP - Quest Perks.esp
 UPP  - Quest Perks.esp
 UPP - Beverage Perks.esp
 PreWar Book Titles and Perks.esp
+Perk Revamp Mod - Broken Steel - Perks Only.esp
+AccuracyPerks.esp
 Dree Perks.esp
 Dree Perks Pitts.esp
 Dree Perks Point Lookout.esp
@@ -252,12 +259,16 @@ Dree Perks Anchorage.esp
 Dree Perks Mothership Zeta.esp
 
 
+
 \--------
 \ Weather
 \--------
 
 
 Wasteland Weather Overhaul .9.esp
+Wasteland Weather Overhaul .9 (no interiors).esp
+Wasteland Weather Overhaul .9 Level 2 Color.esp
+
 Summer_2.5.esm
 Overhead3PCamera.esp
 
@@ -291,6 +302,12 @@ Regulators _Overhaul_lvl2.esp
 \------------
 \Early misc B
 \------------
+Megaton Tweaks - Snipers Edition.esp
+BetterHitSquads.esp
+MegatonScavengers.esp
+Not alone in the Wasteland anymore.esp
+FemaleEnclaveSoldiers - Broken Steel.esp
+Ghoulified Cromwell.esp
 BoSPatrols.esp 
 FF_DestructibleRadios.esp
 MiniVaultNoScav.esp
@@ -366,6 +383,7 @@ Clover Makeover - Asian Bedraggled.esp
 \--------
 \Places
 \--------
+UNDCity.esp
 Arefu Player House.esp
 "ArefuExpandedByAzar.esm
 01AtM - Firefly Ranch.esp
@@ -450,6 +468,8 @@ FO3 Wanderers Edition - DLC Broken Steel.esp
 FO3 Wanderers Edition - DLC Mothership Zeta.esp
 FO3 Wanderers Edition - DLC Point Lookout.esp
 FO3 Wanderers Edition - DLC The Pitt.esp
+FO3 Wanderers Edition - Project Beauty.esp
+FO3 Wanderers Edition - Project Beauty (Followers Enhanced B-S).esp
 FO3 Wanderers Edition - UFP Support.esp
 FO3 Wanderers Edition - Alternate Travel.esp
 FO3 Wanderers Edition - Lvl 30 High Skills.esp
@@ -651,6 +671,9 @@ UWWUT - Broken Steel Addon.esp
 UWWUT - WMK Addon.esp
 RobCo Certified.esp
 RobCo Certified - Robot Perks.esp
+RobCo Storage Module.esp
+RobCo Certified Engineer.esp
+RobCo Certified Engineer - Storage Enabled.esp
 Buildablebots Robcert. addon.esp
 dD-More Gore.esp
 dD-More Gore-The Pitt.esp
@@ -705,17 +728,20 @@ Mart's Mutant Mod - Zombie Cementery.esp
 Mart's Mutant Mod - FOOK.esp
 *Get FOOK2
 Mart's Mutant Mod - FOOK2.esp
-:FOOK2 - Main.ESM and Mart's Mutant Mod.esm
+:FOOK2 - Main.ESM
+:Mart's Mutant Mod.esm
 Mart's Mutant Mod - FOOK2 - DIK.esp
-Mart's Mutant Mod - FWE Master Release.esp
+:FO3 Wanderers Edition - Main File.esm
 Mart's Mutant Mod - FWE with EVE.esp
 :FO3 Wanderers Edition - Main File.esm
 :EVE.esp
 CT_FalloutAdvanced - MMM.esp
-S.T.A.L.K.E.R. Call of D.C.+MMM.esp
-S.T.A.L.K.E.R. Mutants[addon for MMM].esp
 Project Beauty- MMM Raiders.esp
 ARSENAL MOD+MMM.esp 
+Mutant perks for MMM 1.9.esp
+Mart's Mutant Mod - FWE Master Release.esp
+S.T.A.L.K.E.R. Call of D.C.+MMM.esp
+S.T.A.L.K.E.R. Mutants[addon for MMM].esp
 
 \-----------
 \Middle Misc C
@@ -852,6 +878,10 @@ dD-Reduced Ragdoll Force.esp
 dD-Reduced Dismember Force.esp
 dD-Smaller Wounds.esp
 dD-Smaller Spatters.esp
+knockdowns.esp
+ek.BrokenSteel.esp
+Recoil.esp
+ShellRain.esp
 Kill and Loot Unconscious Essential NPCs.esp
 "Kill and Loot Unconscious Essential NPCs_NoGore.esp
 "Kill and Loot Unconscious Essential NPCs_FOSE.esp
@@ -879,6 +909,12 @@ ACE2-0.esp
 Mighty Mouse Alternative 4.esp
 Ammo Press Fix.esp
 Point Lookout Travel Fix.esp
+yaDisguisesMod.esp
+yaDisguisesMod-DLC-Anchorage.esp
+yaDisguisesMod-DLC-BrokenSteel.esp
+yaDisguisesMod-DLC-ThePitt.esp
+No[EMPTY]ContainerMessages.esp
+5xlvling.esp
 
 \-------
 \Phalanx
@@ -940,10 +976,13 @@ FWE - FOOK DLC Support.esp
 :FO3 Wanderers Edition - Main File.esm
 FO3 Wanderers Edition - FOOK Support - Classic DR.esp
 FWE - FOOK DLC Support - Classic DR.esp
+:FO3 Wanderers Edition - Main File.esm
+:FOOK2 - Main.ESM
 FOOK+FWE+WMK - DLC Version.esp
 FOOK+FWE+PB+MMM.esp
 FOOK+FWE+EVE+UWWUT.esp
 Mez's Merged Patch - FWE-WMK-MMM.esp
+Mez's Merged Patch 5-0 - DLC-FWE-WMK-MMM.esp
 Sydney Follower.esp
 Sydney Follower - Load Order Fix.esp
 Choose your own hairstyle (load this last on FOMM).esp
