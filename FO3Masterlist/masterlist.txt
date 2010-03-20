@@ -99,10 +99,13 @@ ParadiseHome.esm
 Selected Containers Respawn.esm
 EnhancedChildren.esm
 % {{BASH:Hair,Eyes}}
+Shojo Race.esm
+% {{BASH:Hair,Eyes}}
 AngelRaces.esm
 EZCompanion.esm
 EZ_citizens.esm
 MiniVault+Race.esm
+RH_IRONSIGHTS.esm
 
 \------------------
 \Unofficial Patches/Fixes
@@ -157,6 +160,8 @@ FaceMe-Broken Steel.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 eyes_hairpack_en.esp
 hair_add_npc.esp
+Shojo NPC.esp
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
 LingsPrettyThings.esp 
 LingsPrettyThings-BrokenSteel.esp
 LingsFinerThings.esp
@@ -223,6 +228,9 @@ Alternate Start - Roleplayers.esp
 Selected Containers Respawn.esp
 Zombie Sounds V2.esp
 choose_XP_FOSE.esp
+RH_IronSights_Basic_VanillaPlugin.esp
+RH_IronSights_Basic_PittPlugin.esp
+RH_IronSights_Basic_PointLookoutPlugin.esp
 
 \------
 \Sound
@@ -1052,6 +1060,7 @@ HairPack_2chPlus.esp
 \''''''''''''''''''''''''''''''''''
 Shojo Race.esp
 % {{BASH:Hair,Eyes}}
+? Old. Upgrade to latest version.
 
 \------------
 \Merged Patch
