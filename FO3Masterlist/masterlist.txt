@@ -29,11 +29,14 @@ PointLookout.esm
 Zeta.esm
 Unofficial Fallout 3 Patch.esm
 HairPack.esm
+% {{BASH:Hair,Eyes}}
 Project Beauty HD version.esm
+% {{BASH:NpcFaces,Hair,Eyes,Voice-M,Voice-F,Body-M,Body-F,R.Teeth,R.Mouth}}
 "Project Beauty.esp
 Hairday.esm
 RI_Core.esm
 FaceMe.esm
+% {{BASH:NpcFaces,Hair,Eyes}}
 Destruction.esm
 S.T.A.L.K.E.R. Call of D.C..esm
 ARSENAL MOD.esm 
@@ -48,6 +51,7 @@ Ammo Bench.esm
 ArefuExpandedByAzar.esm
 DCInteriors_ComboEdition.ESM
 FOOK2 - Main.esm
+% {{BASH:Invent,Stats,Relations}}
 :CALIBR.esm
 FOOK.ESM
 *Get FOOK2
@@ -62,9 +66,11 @@ FOOK2 - [DIK] DLC Improvement Kit.esm
 :CALIBR.esm
 :FOOK2 - Main.ESM
 FO3 Wanderers Edition - Main File.esm
+% {{BASH:Delev,Invent,Relations,Relev,Stats}}
 :CRAFT.esm
 :CALIBR.esm
 Mart's Mutant Mod.esm
+% {{BASH:Invent,Relations}}
 LingsFinerThings.esm
 LingsMMMpatch3-3.esm
 MMZombieCemetery.esm
@@ -91,7 +97,12 @@ Animy_prostitution.esm
 :CrossModData.esm
 ParadiseHome.esm
 Selected Containers Respawn.esm
-
+EnhancedChildren.esm
+% {{BASH:Hair,Eyes}}
+AngelRaces.esm
+EZCompanion.esm
+EZ_citizens.esm
+MiniVault+Race.esm
 
 \------------------
 \Unofficial Patches/Fixes
@@ -113,14 +124,20 @@ BSMovieSkip.esp
 \------------------
 
 Project Beauty.esp
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
 "Project Beauty HD version.esm
 Project Beauty- Broken Steel.esp
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
 Project Beauty- Point Lookout.esp
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
 Fast VATS 1.esp
 "Fast VATS 2.esp
 Fast VATS 2.esp
 "Fast VATS 1.esp
 VATS_Normal_dmg_to_player.esp
+"Fast VATS 1.esp
+"Fast VATS 2.esp
+Fast_but_dramatic_VATS_0.9.esp
 "Fast VATS 1.esp
 "Fast VATS 2.esp
 Arwen_Reduced_QuestXPR.esp
@@ -135,7 +152,9 @@ Refurbish [PL].esp
 Refurbish [MZ].esp
 DarNifiedUIF3.esp
 FaceMe.esp
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
 FaceMe-Broken Steel.esp
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
 eyes_hairpack_en.esp
 hair_add_npc.esp
 LingsPrettyThings.esp 
@@ -152,8 +171,15 @@ Realistic Interior Lighting - OA.esp
 MrSlackPants-DecentPipBoyLight.esp
 Fellout-pipboylight.esp
 MaxLevelWorkaround-BS.esp
+LED pipboy light.esp
+LED pipboy light extended.esp
+LED pipboy light amber.esp
+LED pipboy light ember extended.esp
+LED pipboy light green.esp
+LED pipboy light green extended.esp
 
 CASM.esp
+ASU.esp
 CRAFT - Activation Perk.esp
 :CRAFT.ESM
 TinCanCRAFTing.esp
@@ -196,6 +222,7 @@ Auto Aim Fix v1.1.esp
 Alternate Start - Roleplayers.esp
 Selected Containers Respawn.esp
 Zombie Sounds V2.esp
+choose_XP_FOSE.esp
 
 \------
 \Sound
@@ -380,6 +407,11 @@ MTC Wasteland Travellers (Optional)- Crowded Cities.esp
 "MTC Wasteland Travellers (Optional)- Crowded Cities less NPCs.esp
 Clover Makeover - Asian Bedraggled.esp
 
+EZ_MoreVoices.esp
+EZ_TempleOfCant.esp
+EZ_Ammo_Restriction.esp
+EZ_citizens.esp
+
 \--------
 \Places
 \--------
@@ -406,6 +438,9 @@ ParadiseHomePlugin.esp
 Vault64.esp
 Toasty's Rooved Megaton, Holey Light.esp
 Tenpenny Suite.esp
+
+MiniVault+.esp
+99+2.esp
 
 \---------
 \Overhauls
@@ -523,6 +558,7 @@ Tailor Maid Brokensteel.esp
 :BrokenSteel.ESM
 Tailor Maid ZETA.esp
 :Zeta.ESM
+Tailor Maid Black Retex.esp
 
 \--------------
 \ WeaponModKits
@@ -572,6 +608,7 @@ Wattz Laser Weapons Mod.esp
 7_HolsterForHandGunsV1_1.esp
 Wattz Laser Pistols Mod.esp
 WMKAA12Shotgun.esp
+% {{BASH:Graphics}}
 HZ_M92SE.esp
 Kneecapper Linked.esp
 Solar-Scorcher.esp
@@ -586,14 +623,19 @@ P94-95.esp
 Tactical Weapons by gRs Frederyck.esp
 \Armour/clothes
 BoS_DX.esp
+% {{BASH:Graphics}}
 WinterizedT51bDX.esp
+% {{BASH:Graphics}}
 Outcast DX.esp
+% {{BASH:Graphics}}
 Tribal_DX.esp
+% {{BASH:Graphics}}
 TombRaider.esp
 Prototype Medic Armor Upgrade.esp
 Tactical Vest CIRAS.esp
 Stealthboy Recon Armor - CRAFT.esp
 3EFhelmlessstealthsuit.esp
+StealthArmorHelmLess.esp
 Dragonskin Tactical Outfit.esp
 DragonskinBonusPack.esp
 3EFdrg.esp
@@ -604,6 +646,14 @@ DIM TYPE3 conversions.esp
 Trooper_outfits.esp
 sunglassescollection.esp
 Dogmeat Leather Armor - CRAFT.esp
+
+OutFits.esp
+BunnySuit.esp
+SchoolUniforms.esp
+MicroBikini.esp
+FrenchMaid.esp
+Dark_Temptress.esp
+Tonibiatch.esp
 
 \-------
 \Cosmetics
@@ -641,14 +691,20 @@ IgDRDeathclawGauntletFix.esp
 EVE Beta_0.9.4.esp
 ? Upgrade needed, there is a new version of EVE available.
 EVE.esp
+% {{BASH:Graphics,Sound}}
 EVE Main - FWE Master Release.esp
 ? May cause crashes at start. If so disable this and find updated version.
 EVE - FWE Master Release.esp
+% {{BASH:Graphics,Sound}}
 EVE - FWE Master Release (Follower Enhanced).esp
+% {{BASH:Graphics,Sound}}
 EVE Operation Anchorage.esp
+% {{BASH:Graphics,Sound}}
 :Anchorage.ESM
 EVE - FWE with WeaponModKits.esp
+% {{BASH:Graphics,Sound}}
 EVE Anchorage - FWE DLC Anchorage.esp
+% {{BASH:Graphics,Sound}}
 
 
 \-----------
@@ -692,9 +748,11 @@ ARSENAL MOD.esp
 Mart's Mutant Mod.esp
 :Mart's Mutant Mod.esm
 PB MMM HD.esp
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
 :Project Beauty HD version.esm
 "Project Beauty.esp
 PB MMM.esp
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
 "Project Beauty HD version.esm
 :Project Beauty.esp
 Mart's Mutant Mod - DLC Anchorage.esp
@@ -706,6 +764,7 @@ Mart's Mutant Mod - DLC Broken Steel.esp
 Mart's Mutant Mod - DLC Point Lookout.esp
 :PointLookout.ESM
 Project Beauty- Point Lookout MMM.esp
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
 Mart's Mutant Mod - DLC Zeta.esp
 :Zeta.ESM
 Mart's Mutant Mod - No Corpse Flies.esp
@@ -737,9 +796,11 @@ Mart's Mutant Mod - FWE with EVE.esp
 :EVE.esp
 CT_FalloutAdvanced - MMM.esp
 Project Beauty- MMM Raiders.esp
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
 ARSENAL MOD+MMM.esp 
 Mutant perks for MMM 1.9.esp
 Mart's Mutant Mod - FWE Master Release.esp
+% {{BASH:Invent,Relations}}
 S.T.A.L.K.E.R. Call of D.C.+MMM.esp
 S.T.A.L.K.E.R. Mutants[addon for MMM].esp
 
@@ -843,7 +904,6 @@ StripClub.esp
 Keep Anchorage Equipment.esp
 Vault-Tec Experimental Dimensional Safe.esp
 Magic Pip-Light (50 Brightness).esp
-F3UmpaAnimation.esp
 Portable Camp.esp
 oroLookoutFix.esp
 Misc Mod.esp
@@ -915,6 +975,7 @@ yaDisguisesMod-DLC-BrokenSteel.esp
 yaDisguisesMod-DLC-ThePitt.esp
 No[EMPTY]ContainerMessages.esp
 5xlvling.esp
+CRBSOR.esp
 
 \-------
 \Phalanx
@@ -964,6 +1025,38 @@ megalight.esp
 20th Century v4 ALIVE (Vault 101).esp
 20th Century v4 ALIVE (Chinese Ghoul).esp
 20th Century v4 ALIVE (Talon_Regulator).esp
+
+\---------
+\Pose mods
+\---------
+\Scripts and new animations.
+
+SomePoses.esp
+FacialExpressions.esp
+F3UmpaAnimation.esp
+The Groovatron.esp
+The Groovatron_DLC_Anch_Addon.esp
+The Groovatron_DLC_Pitt_Addon.esp
+
+\--------------------------
+\Beauty Packs & Race Addons
+\--------------------------
+\Hair, eyes, race addons & changes and other cosmetics.
+
+\Hair
+\''''
+HairPack_2chPlus.esp
+% {{BASH:Hair}}
+
+\Race additions (+ hair + eyes etc)
+\''''''''''''''''''''''''''''''''''
+Shojo Race.esp
+% {{BASH:Hair,Eyes}}
+
+\------------
+\Merged Patch
+\------------
+
 Destruction - CP - Fellout.esp
 FWE - FOOK DLC Support.esp
 :Anchorage.ESM
@@ -986,4 +1079,27 @@ Mez's Merged Patch 5-0 - DLC-FWE-WMK-MMM.esp
 Sydney Follower.esp
 Sydney Follower - Load Order Fix.esp
 Choose your own hairstyle (load this last on FOMM).esp
+% {{BASH:NpcFaces,Hair,Eyes}}
+
+\------------
+\Bashed Patch
+\------------
+
 Bashed Patch, 0.esp
+Bashed Patch, 1.esp
+Bashed Patch, 2.esp
+Bashed Patch, 3.esp
+Bashed Patch, 4.esp
+Bashed Patch, 5.esp
+Bashed Patch, 6.esp
+Bashed Patch, 7.esp
+Bashed Patch, 8.esp
+Bashed Patch, 9.esp
+Bashed Patch.esp
+
+\-----------------
+\Post Bashed Patch
+\-----------------
+\Mods rumoured to be needed after Bashed Patch.
+\Utility addons.
+\Ultimate final absolute end last mods, ever.
