@@ -402,6 +402,9 @@ BusworldV1.05d.esp
 FPS Grenade Hotkey.esp
 FPS Grenade Hotkey - Zeta addon.esp
 NoKnockedOverComments.esp
+bzArmour-nude.esp
+bzArmour-non-nude.esp
+bzBodySuits.esp
 
 \---
 \NPC
