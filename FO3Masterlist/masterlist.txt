@@ -1,4 +1,4 @@
-
+﻿
 \ Leading symbol code:
 \
 \ \ A silent comment - will be ignored by the program.
@@ -99,6 +99,8 @@ ParadiseHome.esm
 Selected Containers Respawn.esm
 EnhancedChildren.esm
 % {{BASH:Hair,Eyes}}
+AliciasCuteShop.esm
+% {{BASH:Stats}}
 Shojo Race.esm
 % {{BASH:Hair,Eyes}}
 AngelRaces.esm
@@ -161,7 +163,7 @@ FaceMe-Broken Steel.esp
 eyes_hairpack_en.esp
 hair_add_npc.esp
 Shojo NPC.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:Invent,NpcFaces}}
 LingsPrettyThings.esp 
 LingsPrettyThings-BrokenSteel.esp
 LingsFinerThings.esp
@@ -449,7 +451,7 @@ ParadiseHomePlugin.esp
 Vault64.esp
 Toasty's Rooved Megaton, Holey Light.esp
 Tenpenny Suite.esp
-
+AliciasCuteShopDoorOverride.esp
 MiniVault+.esp
 99+2.esp
 
