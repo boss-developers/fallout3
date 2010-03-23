@@ -49,7 +49,7 @@ CALIBR.esm
 20thCenturyWeapons.esm
 Ammo Bench.esm
 ArefuExpandedByAzar.esm
-DCInteriors_ComboEdition.ESM
+DCInteriors_ComboEdition.esm
 FOOK2 - Main.esm
 % {{BASH:Invent,Stats,Relations}}
 :CALIBR.esm
@@ -104,6 +104,8 @@ AliciasCuteShop.esm
 Shojo Race.esm
 % {{BASH:Hair,Eyes}}
 AngelRaces.esm
+Fallout 3 Sexus.esm
+ChildrenEmpire.esm
 EZCompanion.esm
 EZ_citizens.esm
 MiniVault+Race.esm
@@ -134,6 +136,8 @@ Project Beauty.esp
 Project Beauty- Broken Steel.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Project Beauty- Point Lookout.esp
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
+Raider preset beta.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Fast VATS 1.esp
 "Fast VATS 2.esp
@@ -214,6 +218,7 @@ PCIdles.esp
 Arwen_Camera.esp
 Vanity Camera Mod.esp
 KTs_Centercamera.esp
+Centered 3P Cam.esp
 Zumbs' Equipable Pip Boy.esp
 "That Glove.esp
 "Pip Boy Be Gone Mark II.esp
@@ -233,6 +238,8 @@ choose_XP_FOSE.esp
 RH_IronSights_Basic_VanillaPlugin.esp
 RH_IronSights_Basic_PittPlugin.esp
 RH_IronSights_Basic_PointLookoutPlugin.esp
+OneKeyArmor.esp
+Automated FOV.esp
 
 \------
 \Sound
@@ -419,7 +426,7 @@ MTC Wasteland Travellers (Optional)- Crowded Cities less NPCs.esp
 MTC Wasteland Travellers (Optional)- Crowded Cities.esp
 "MTC Wasteland Travellers (Optional)- Crowded Cities less NPCs.esp
 Clover Makeover - Asian Bedraggled.esp
-
+Angel.esp
 EZ_MoreVoices.esp
 EZ_TempleOfCant.esp
 EZ_Ammo_Restriction.esp
@@ -816,6 +823,11 @@ Mart's Mutant Mod - FWE Master Release.esp
 % {{BASH:Invent,Relations}}
 S.T.A.L.K.E.R. Call of D.C.+MMM.esp
 S.T.A.L.K.E.R. Mutants[addon for MMM].esp
+ChildrenEmpire Soldiers.esp
+ChildrenEmpire Enemies.esp
+Fallout 3 Sexus Enemies.esp
+Fallout 3 Sexus - DLC The Pitt.esp
+Fallout 3 Sexus with Children Empire.esp
 
 \-----------
 \Middle Misc C
@@ -989,6 +1001,11 @@ yaDisguisesMod-DLC-ThePitt.esp
 No[EMPTY]ContainerMessages.esp
 5xlvling.esp
 CRBSOR.esp
+TimeScaleTo3.esp
+TimeScaleTo5.esp
+TimeScaleTo15.esp
+TimeScaleTo20.esp
+TimeScaleTo25.esp
 
 \-------
 \Phalanx
@@ -1022,6 +1039,7 @@ Fellout-BrokenSteel.esp
 Fellout-PointLookout.esp
 :PointLookout.esm
 Fellout-Zeta.esp
+FelloutWithLightingOverhual-1.0.esp
 FOOK2 Nightvision for Fellout.esp
 Destruction - CP - Fellout.esp
 pip30.esp
