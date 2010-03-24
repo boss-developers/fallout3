@@ -77,6 +77,7 @@ MMZombieCemetery.esm
 CubeExperimental (EN).esm
 Ammo Bench.esm
 Enhanced Weather - Rain and Snow.esm
+Xepha's Dynamic Weather.esm
 Globaltravelsystem.esm
 GTSEssentials.esm
 CT_FalloutAdvanced.esm
@@ -1042,6 +1043,65 @@ Fellout-Zeta.esp
 FelloutWithLightingOverhual-1.0.esp
 FOOK2 Nightvision for Fellout.esp
 Destruction - CP - Fellout.esp
+Xepha's Dynamic Weather - Main.esp
+Xepha's Dynamic Weather - Anchorage.esp
+:Anchorage.esm
+Xepha's Dynamic Weather - The Pitt.esp
+:ThePitt.esm
+Xepha's Dynamic Weather - Broken Steel.esp
+:BrokenSteel.esm
+Xepha's Dynamic Weather - Point Lookout.esp
+:PointLookout.esm
+Xepha's Dynamic Weather - Night Eye Edition.esp
+"Xepha's Dynamic Weather - Night Eye Edition.esp
+Xepha's Dynamic Weather - Night Eye Edition (Anchorage).esp
+"Xepha's Dynamic Weather - Night Eye Edition (Anchorage).esp
+:Anchorage.esm
+Xepha's Dynamic Weather - Experimental Green Tint Remover.esp
+Xepha's Dynamic Weather - Rain (NEE).esp
+:Enhanced Weather - Rain and Snow.esm
+:Xepha's Dynamic Weather - Night Eye Edition.esp
+Xepha's Dynamic Weather - Rain (OA + NEE).esp
+:Anchorage.esm
+:Enhanced Weather - Rain and Snow.esm
+:Xepha's Dynamic Weather - Night Eye Edition (Anchorage).esp
+Xepha's Dynamic Weather - Rain (OA).esp
+:Anchorage.esm
+:Enhanced Weather - Rain and Snow.esm
+Xepha's Dynamic Weather - Rain.esp
+:Enhanced Weather - Rain and Snow.esm
+Xepha's Dynamic Weather - Climate OverRider (OA + Rain).esp
+:Anchorage.esm
+:Enhanced Weather - Rain and Snow.esm
+"Xepha's Dynamic Weather - Climate OverRider (OA).esp
+"Xepha's Dynamic Weather - Climate OverRider (Rain).esp
+"Xepha's Dynamic Weather - Climate OverRider.esp
+"Xepha's Dynamic Weather - Climate OverRider (OA + Rain) - No Fog.esp
+Xepha's Dynamic Weather - Climate OverRider (OA).esp
+:Anchorage.esm
+"Xepha's Dynamic Weather - Climate OverRider (OA + Rain).esp
+"Xepha's Dynamic Weather - Climate OverRider (Rain).esp
+"Xepha's Dynamic Weather - Climate OverRider.esp
+"Xepha's Dynamic Weather - Climate OverRider (OA + Rain) - No Fog.esp
+Xepha's Dynamic Weather - Climate OverRider (Rain).esp
+:Enhanced Weather - Rain and Snow.esm
+"Xepha's Dynamic Weather - Climate OverRider (OA + Rain).esp
+"Xepha's Dynamic Weather - Climate OverRider (OA).esp
+"Xepha's Dynamic Weather - Climate OverRider.esp
+"Xepha's Dynamic Weather - Climate OverRider (OA + Rain) - No Fog.esp
+Xepha's Dynamic Weather - Climate OverRider.esp
+"Xepha's Dynamic Weather - Climate OverRider (OA + Rain).esp
+"Xepha's Dynamic Weather - Climate OverRider (OA).esp
+"Xepha's Dynamic Weather - Climate OverRider (Rain).esp
+"Xepha's Dynamic Weather - Climate OverRider (OA + Rain) - No Fog.esp
+Xepha's Dynamic Weather - Climate OverRider (OA + Rain) - No Fog.esp
+:Anchorage.esm
+:Enhanced Weather - Rain and Snow.esm
+"Xepha's Dynamic Weather - Climate OverRider (OA + Rain).esp
+"Xepha's Dynamic Weather - Climate OverRider (OA).esp
+"Xepha's Dynamic Weather - Climate OverRider (Rain).esp
+"Xepha's Dynamic Weather - Climate OverRider.esp
+Night Time Sneak Boost.esp
 pip30.esp
 pip60.esp
 pip150.esp
