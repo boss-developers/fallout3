@@ -105,6 +105,7 @@ AliciasCuteShop.esm
 Shojo Race.esm
 % {{BASH:Hair,Eyes}}
 AngelRaces.esm
+CEH.esm
 Fallout 3 Sexus.esm
 ChildrenEmpire.esm
 EZCompanion.esm
@@ -241,6 +242,10 @@ RH_IronSights_Basic_PittPlugin.esp
 RH_IronSights_Basic_PointLookoutPlugin.esp
 OneKeyArmor.esp
 Automated FOV.esp
+Lights.esp
+LightBall.esp
+Feng Shui.esp
+Feng Shui - Keymap Template.esp
 
 \------
 \Sound
@@ -353,7 +358,9 @@ MegatonScavengers.esp
 Not alone in the Wasteland anymore.esp
 FemaleEnclaveSoldiers - Broken Steel.esp
 Ghoulified Cromwell.esp
-BoSPatrols.esp 
+BoSPatrols.esp
+MarkB50K_Wasteland_Patrols.esp
+:Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm
 FF_DestructibleRadios.esp
 MiniVaultNoScav.esp
 Ammo Bench - Alien Power Cell.esp
@@ -462,6 +469,10 @@ Tenpenny Suite.esp
 AliciasCuteShopDoorOverride.esp
 MiniVault+.esp
 99+2.esp
+CEH_DLC02_03_Opt.esp
+CEH_DLC04_05_Opt.esp
+CEH_S_241J_Opt.esp
+CEH_Shojo_07_Opt.esp
 
 \---------
 \Overhauls
@@ -667,7 +678,6 @@ DIM TYPE3 conversions.esp
 Trooper_outfits.esp
 sunglassescollection.esp
 Dogmeat Leather Armor - CRAFT.esp
-
 OutFits.esp
 BunnySuit.esp
 SchoolUniforms.esp
@@ -675,6 +685,8 @@ MicroBikini.esp
 FrenchMaid.esp
 Dark_Temptress.esp
 Tonibiatch.esp
+BodyJewelry.esp
+BodyJewelryEx.esp
 
 \-------
 \Cosmetics
@@ -1007,6 +1019,7 @@ TimeScaleTo5.esp
 TimeScaleTo15.esp
 TimeScaleTo20.esp
 TimeScaleTo25.esp
+TalkToAnybody.esp
 
 \-------
 \Phalanx
