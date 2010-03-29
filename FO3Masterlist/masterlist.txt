@@ -46,6 +46,7 @@ PointLookout-FollowersGetToGo.esm
 :PointLookout.ESM
 CRAFT.esm
 CALIBR.esm
+xCALIBR.esm
 20thCenturyWeapons.esm
 Ammo Bench.esm
 ArefuExpandedByAzar.esm
@@ -172,6 +173,7 @@ Shojo NPC.esp
 % {{BASH:Invent,NpcFaces}}
 LingsPrettyThings.esp 
 LingsPrettyThings-BrokenSteel.esp
+LingsPrettyThings-SeducingWomen.esp
 LingsFinerThings.esp
 norepairneededv2.esp
 Hi-Res Weapons & Ammo Textures.esp
