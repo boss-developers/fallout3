@@ -21,6 +21,7 @@
 \----
 Fallout3.esm
 ? Masterlist Information: $Revision$, $Date$, $LastChangedBy$
+Hairday.esm
 Lings.esm
 Anchorage.esm
 ThePitt.esm
@@ -28,9 +29,11 @@ BrokenSteel.esm
 PointLookout.esm
 Zeta.esm
 Unofficial Fallout 3 Patch.esm
+LingsDLC.esm
 HairPack.esm
 % {{BASH:Hair,Eyes}}
 Project Beauty HD version.esm
+? Either Project Beauty HD version.esm OR Project Beauty.esp please!
 % {{BASH:NpcFaces,Hair,Eyes,Voice-M,Voice-F,Body-M,Body-F,R.Teeth,R.Mouth}}
 "Project Beauty.esp
 Hairday.esm
@@ -39,15 +42,16 @@ FaceMe.esm
 % {{BASH:NpcFaces,Hair,Eyes}}
 Destruction.esm
 S.T.A.L.K.E.R. Call of D.C..esm
-ARSENAL MOD.esm 
+ARSENAL MOD.esm
 FallsChurchMetroFix.esm
 Phalanx-PointLookout-Navmesh.esm
 PointLookout-FollowersGetToGo.esm
-:PointLookout.ESM
+: PointLookout.ESM
 CRAFT.esm
 CALIBR.esm
 xCALIBR.esm
 20thCenturyWeapons.esm
+20th Century Weapons.esm
 Ammo Bench.esm
 ArefuExpandedByAzar.esm
 DCInteriors_ComboEdition.esm
@@ -55,17 +59,17 @@ FOOK2 - Main.esm
 % {{BASH:Invent,Stats,Relations}}
 :CALIBR.esm
 FOOK.ESM
-*Get FOOK2
+* Get FOOK2
 FOOK2 - [WANK] World And Neighbourhood Kit.esm
-:CALIBR.esm
-:FOOK2 - Main.ESM
+: CALIBR.esm
+: FOOK2 - Main.ESM
 FOOK2 - [DIK] DLC Improvement Kit.esm
-:Anchorage.esm
-:ThePitt.esm
-:BrokenSteel.esm
-:PointLookout.esm
-:CALIBR.esm
-:FOOK2 - Main.ESM
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+: CALIBR.esm
+: FOOK2 - Main.ESM
 FO3 Wanderers Edition - Main File.esm
 % {{BASH:Delev,Invent,Relations,Relev,Stats}}
 :CRAFT.esm
@@ -213,8 +217,8 @@ delaypl.esp
 delayzeta.esp
 :Zeta.ESM
 Delay ThePitt + Anchorage.esp
-:ThePitt.ESM
-:Anchorage.ESM
+: ThePitt.ESM
+: Anchorage.ESM
 More Hotkeys.esp
 RadioHotkey.esp
 Princess Better Prompts v1pt1.esp
@@ -310,8 +314,6 @@ Dree Perks Requested by Fans .esp
 Dree Perks Anchorage.esp
 Dree Perks Mothership Zeta.esp
 
-
-
 \--------
 \ Weather
 \--------
@@ -400,6 +402,11 @@ UrgeWashingtonBoS.esp
 tubRRCompound.esp
 merc.esp
 D.C. Confidential.esp
+RR Vanilla Companion Integration.esp
+RRUmpaDance.esp
+RR Companion Vault 20thCW Supply.esp
+RRSorter100_20thCentury.esp
+RR_Refurbished.esp
 ShadySands.esp
 MoreMapMarkers.esp
 MaxLevelWorkaround-HP-BS.esp
@@ -433,8 +440,10 @@ bzBodySuits.esp
 
 MTC Wasteland Travellers.esp
 MTC Wasteland Travellers (Optional)- Crowded Cities less NPCs.esp
+? Only use one Wasteland Travellers (optional)- Crowded Cities/less NPCs plugin.
 "MTC Wasteland Travellers (Optional)- Crowded Cities.esp
 MTC Wasteland Travellers (Optional)- Crowded Cities.esp
+? Only use one Wasteland Travellers (optional)- Crowded Cities/less NPCs plugin.
 "MTC Wasteland Travellers (Optional)- Crowded Cities less NPCs.esp
 Clover Makeover - Asian Bedraggled.esp
 Angel.esp
@@ -455,6 +464,7 @@ SShop.esp
 UndergroundHideout.esp
 UrgeSpringvaleHome.esp
 Cliff's_Residences Of DC - Player Version.esp
+K2_PlayWearClub.esp
 DCInteriors_ComboEdition.esp
 DCInteriors_Georgtown.esp
 DCInteriors_SewardSq.esp
@@ -464,11 +474,13 @@ Trophies - Megaton.esp
 Trophies- Tenpenny.esp
 Rivet City Realignment.esp
 Megaton House and Theme Overhaul.esp
+Megaton Walkway.esp
 Carter_Fallout_Shelter.esp
 ParadiseHomePlugin.esp
 Vault64.esp
 Toasty's Rooved Megaton, Holey Light.esp
 Tenpenny Suite.esp
+Built For The Future.esp
 AliciasCuteShopDoorOverride.esp
 MiniVault+.esp
 99+2.esp
@@ -586,13 +598,13 @@ Refurbish [OA] - FWE.esp
 
 Tailor Maid.esp
 Tailor Maid Anchorage.esp
-:Anchorage.ESM
+: Anchorage.ESM
 Tailor Maid PITT.esp
-:ThePitt.ESM
+: ThePitt.ESM
 Tailor Maid Brokensteel.esp
-:BrokenSteel.ESM
+: BrokenSteel.ESM
 Tailor Maid ZETA.esp
-:Zeta.ESM
+: Zeta.ESM
 Tailor Maid Black Retex.esp
 
 \--------------
@@ -675,9 +687,11 @@ Dragonskin Tactical Outfit.esp
 DragonskinBonusPack.esp
 3EFdrg.esp
 3EFdrgplate.esp
+Mysteriouswoman_clothesaddon.esp
 kikaiEquipment.esp
 Wasteland and Bog Outfits.esp
 DIM TYPE3 conversions.esp
+DIM TYPE3clothesRETAIL.esp
 Trooper_outfits.esp
 sunglassescollection.esp
 Dogmeat Leather Armor - CRAFT.esp
@@ -694,6 +708,7 @@ BodyJewelryEx.esp
 \-------
 \Cosmetics
 \-------
+DIM CUSTOM PRESETS V1.3WEB.esp
 F3Eyelashes.esp
 
 \-----------
@@ -701,9 +716,9 @@ F3Eyelashes.esp
 \-----------
 AS-R CALIBR Patch ONLY.esp
 CALIBR Ammo Schematics - CRAFT.esp
-:CRAFT.esm
+: CRAFT.esm
 Stealthboy Recon Armor - CRAFT.esp
-:CRAFT.esm
+: CRAFT.esm
 Force Start The Pitt.esp
 Vault 87 [Script Reversion].esp
 jmschematics.esp
@@ -728,10 +743,13 @@ EVE Beta_0.9.4.esp
 ? Upgrade needed, there is a new version of EVE available.
 EVE.esp
 % {{BASH:Graphics,Sound}}
+EVE Operation Anchorage.esp
+: Anchorage.ESM
 EVE Main - FWE Master Release.esp
 ? May cause crashes at start. If so disable this and find updated version.
 EVE - FWE Master Release.esp
 % {{BASH:Graphics,Sound}}
+EVE Anchorage - FWE DLC Anchorage.esp
 EVE - FWE Master Release (Follower Enhanced).esp
 % {{BASH:Graphics,Sound}}
 EVE Operation Anchorage.esp
@@ -757,9 +775,9 @@ KickDogs.esp
 Replenishment.esp
 UWWUT.esp
 UWWUT - The Pitt Addon.esp
-:The Pitt.esm
+: The Pitt.esm
 UWWUT - Broken Steel Addon.esp
-:BrokenSteel.ESM
+: BrokenSteel.ESM
 UWWUT - WMK Addon.esp
 RobCo Certified.esp
 RobCo Certified - Robot Perks.esp
@@ -792,17 +810,17 @@ PB MMM.esp
 "Project Beauty HD version.esm
 :Project Beauty.esp
 Mart's Mutant Mod - DLC Anchorage.esp
-:Anchorage.ESM
+: Anchorage.ESM
 Mart's Mutant Mod - DLC The Pitt.esp
-:ThePitt.ESM
+: ThePitt.ESM
 Mart's Mutant Mod - DLC Broken Steel.esp
-:BrokenSteel.ESM
+: BrokenSteel.ESM
 Mart's Mutant Mod - DLC Point Lookout.esp
-:PointLookout.ESM
+: PointLookout.ESM
 Project Beauty- Point Lookout MMM.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Mart's Mutant Mod - DLC Zeta.esp
-:Zeta.ESM
+: Zeta.ESM
 Mart's Mutant Mod - No Corpse Flies.esp
 Mart's Mutant Mod - No DLC Increased Spawns.esp
 Mart's Mutant Mod - No Floaters.esp
@@ -821,15 +839,14 @@ Mart's Mutant Mod - Tougher Traders.esp
 Mart's Mutant Mod - Zones Respawn.esp
 Mart's Mutant Mod - Zombie Cementery.esp
 Mart's Mutant Mod - FOOK.esp
-*Get FOOK2
+* Get FOOK2
 Mart's Mutant Mod - FOOK2.esp
-:FOOK2 - Main.ESM
-:Mart's Mutant Mod.esm
+: FOOK2 - Main.ESM and Mart's Mutant Mod.esm
 Mart's Mutant Mod - FOOK2 - DIK.esp
 :FO3 Wanderers Edition - Main File.esm
 Mart's Mutant Mod - FWE with EVE.esp
-:FO3 Wanderers Edition - Main File.esm
-:EVE.esp
+: FO3 Wanderers Edition - Main File.esm
+: EVE.esp
 CT_FalloutAdvanced - MMM.esp
 Project Beauty- MMM Raiders.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
