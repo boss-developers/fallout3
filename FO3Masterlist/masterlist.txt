@@ -33,7 +33,6 @@ LingsDLC.esm
 HairPack.esm
 % {{BASH:Hair,Eyes}}
 Project Beauty HD version.esm
-? Either Project Beauty HD version.esm OR Project Beauty.esp please!
 % {{BASH:NpcFaces,Hair,Eyes,Voice-M,Voice-F,Body-M,Body-F,R.Teeth,R.Mouth}}
 "Project Beauty.esp
 Hairday.esm
@@ -102,6 +101,7 @@ PB mika.esm
 Animy_prostitution.esm 
 :CrossModData.esm
 ParadiseHome.esm
+DCInteriors_ComboEdition.ESM
 Selected Containers Respawn.esm
 EnhancedChildren.esm
 % {{BASH:Hair,Eyes}}
@@ -138,8 +138,10 @@ BSMovieSkip.esp
 \------------------
 
 Project Beauty.esp
+? Either Project Beauty HD version.esm OR Project Beauty.esp please!
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 "Project Beauty HD version.esm
+? Either Project Beauty HD version.esm OR Project Beauty.esp please!
 Project Beauty- Broken Steel.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Project Beauty- Point Lookout.esp
@@ -147,15 +149,12 @@ Project Beauty- Point Lookout.esp
 Raider preset beta.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Fast VATS 1.esp
-"Fast VATS 2.esp
+" Fast VATS 2.esp
 Fast VATS 2.esp
-"Fast VATS 1.esp
+" Fast VATS 1.esp
 VATS_Normal_dmg_to_player.esp
-"Fast VATS 1.esp
-"Fast VATS 2.esp
+" Fast VATS X.esp.
 Fast_but_dramatic_VATS_0.9.esp
-"Fast VATS 1.esp
-"Fast VATS 2.esp
 Arwen_Reduced_QuestXPR.esp
 Headshot_Balance.esp
 actionpoints_instant_regen.esp
@@ -173,12 +172,14 @@ FaceMe-Broken Steel.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 eyes_hairpack_en.esp
 hair_add_npc.esp
+Dalls_Sex_in_City.esp
 Shojo NPC.esp
 % {{BASH:Invent,NpcFaces}}
 LingsPrettyThings.esp 
 LingsPrettyThings-BrokenSteel.esp
 LingsPrettyThings-SeducingWomen.esp
 LingsFinerThings.esp
+SeducedDLC03.esp
 norepairneededv2.esp
 Hi-Res Weapons & Ammo Textures.esp
 Hi-Res Weapons & Ammo Textures - The Pitt.esp
@@ -189,6 +190,7 @@ Realistic Interior Lighting - BS.esp
 Realistic Interior Lighting - OA.esp
 MrSlackPants-DecentPipBoyLight.esp
 Fellout-pipboylight.esp
+RaiderMercenaryExpanded.esp
 MaxLevelWorkaround-BS.esp
 LED pipboy light.esp
 LED pipboy light extended.esp
@@ -200,22 +202,22 @@ LED pipboy light green extended.esp
 CASM.esp
 ASU.esp
 CRAFT - Activation Perk.esp
-:CRAFT.ESM
+: CRAFT.ESM
 TinCanCRAFTing.esp
 CRAFT - EnergyAmmo.esp
 CALIBRxMerchant.esp
-:CALIBR.ESM
+: CALIBR.ESM
 CRAFTHelper.esm
 DelayAnchorage.esp
-:Anchorage.ESM
+: Anchorage.ESM
 DelayThePitt.esp
-:ThePitt.ESM
+: ThePitt.ESM
 DelaySteel.esp
-:BrokenSteel.ESM
+: BrokenSteel.ESM
 delaypl.esp
-:PointLookout.ESM
+: PointLookout.ESM
 delayzeta.esp
-:Zeta.ESM
+: Zeta.ESM
 Delay ThePitt + Anchorage.esp
 : ThePitt.ESM
 : Anchorage.ESM
@@ -258,32 +260,17 @@ Feng Shui - Keymap Template.esp
 \------
 
 GalaxyNewsRadioFix[S].esp
-GalaxyNewsRadioFix[S].esp
+" GalaxyNewsRadioXXX[M].esp
 GalaxyNewsRadio100[M].esp
-"GalaxyNewsRadio80[M].esp
-"GalaxyNewsRadio60[M].esp
-"GalaxyNewsRadio40[M].esp
-"GalaxyNewsRadio20[M].esp
+" GalaxyNewsRadioXXX[M].esp
 GalaxyNewsRadio80[M].esp
-"GalaxyNewsRadio100[M].esp
-"GalaxyNewsRadio60[M].esp
-"GalaxyNewsRadio40[M].esp
-"GalaxyNewsRadio20[M].esp
+" GalaxyNewsRadioXXX[M].esp
 GalaxyNewsRadio60[M].esp
-"GalaxyNewsRadio100[M].esp
-"GalaxyNewsRadio80[M].esp
-"GalaxyNewsRadio40[M].esp
-"GalaxyNewsRadio20[M].esp
+" GalaxyNewsRadioXXX[M].esp
 GalaxyNewsRadio40[M].esp
-"GalaxyNewsRadio100[M].esp
-"GalaxyNewsRadio80[M].esp
-"GalaxyNewsRadio60[M].esp
-"GalaxyNewsRadio20[M].esp
+" GalaxyNewsRadioXXX[M].esp
 GalaxyNewsRadio20[M].esp
-"GalaxyNewsRadio100[M].esp
-"GalaxyNewsRadio80[M].esp
-"GalaxyNewsRadio60[M].esp
-"GalaxyNewsRadio40[M].esp
+" GalaxyNewsRadioXXX[M].esp
 ArefuExpandedByAzar-Radio.esp
 GhostRadio.esp
 mutantradio.esp
@@ -440,10 +427,8 @@ bzBodySuits.esp
 
 MTC Wasteland Travellers.esp
 MTC Wasteland Travellers (Optional)- Crowded Cities less NPCs.esp
-? Only use one Wasteland Travellers (optional)- Crowded Cities/less NPCs plugin.
 "MTC Wasteland Travellers (Optional)- Crowded Cities.esp
 MTC Wasteland Travellers (Optional)- Crowded Cities.esp
-? Only use one Wasteland Travellers (optional)- Crowded Cities/less NPCs plugin.
 "MTC Wasteland Travellers (Optional)- Crowded Cities less NPCs.esp
 Clover Makeover - Asian Bedraggled.esp
 Angel.esp
@@ -499,38 +484,38 @@ CEH_Shojo_07_Opt.esp
 
 
 FOOK2 - Main.esp
-:CALIBR.ESM and FOOK2 - Main.ESM
+: CALIBR.ESM and FOOK2 - Main.ESM
 PB FOOK2 - Main.esp
 FOOK2 - [EVE] Energy Visuals Enhanced.esp
-:FOOK2 - Main.ESM
+: FOOK2 - Main.ESM
 FOOK2 - [DIK] DLC Improvement Kit.esp
-:Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CALIBR.ESM, and FOOK2 - Main.ESM
+: Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CALIBR.ESM, and FOOK2 - Main.ESM
 PB FOOK2 [DIK].esp
 FOOK2 - Mothership Zeta.esp
-:FOOK2 - Main.ESM and Zeta.ESM
+: FOOK2 - Main.ESM and Zeta.ESM
 
 MyFOOK2 - Color Tranquility Lane.esp
 MyFOOK2 - No Nightvision on Power Helmets.esp
-:FOOK2 - Main.ESM
+: FOOK2 - Main.ESM
 MyFOOK2 - No RAPE Victims.esp
-:FOOK2 - Main.ESM
+: FOOK2 - Main.ESM
 MyFOOK2 - S.H.A.D.E.esp
-:FOOK2 - Main.ESM
+: FOOK2 - Main.ESM
 MyFOOK2 - Black & White Tranquility Lane.esp
-:FOOK2 - Main.ESM
+: FOOK2 - Main.ESM
 
 FOOK2 - [DESTRUCTION] Main.esp
-:FOOK2 - Main.ESM
+: FOOK2 - Main.ESM
 FOOK2 - [DESTRUCTION] Main - Statics.esp
-:FOOK2 - Main.ESM
+: FOOK2 - Main.ESM
 FOOK2 - [DESTRUCTION] DIK.esp
-:Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CALIBR.ESM, and FOOK2 - Main.ESM
+: Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CALIBR.ESM, and FOOK2 - Main.ESM
 FOOK2 - [DESTRUCTION] DIK - Statics.esp
-:Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CALIBR.ESM, and FOOK2 - Main.ESM
+: Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CALIBR.ESM, and FOOK2 - Main.ESM
 FOOK2 - [DESTRUCTION] Mothership Zeta.esp
-:FOOK2 - Main.ESM and Zeta.ESM
+: FOOK2 - Main.ESM and Zeta.ESM
 FOOK2 - [DESTRUCTION] Mothership Zeta - Statics.esp
-:FOOK2 - Main.ESM and Zeta.ESM
+: FOOK2 - Main.ESM and Zeta.ESM
 FOOK2 - Main Level Up Fix 1.3.esp
 FOOK2 - DIK Level Up Fix 1.3.esp
 [DIK] DLC Transition Hotfix.esp
@@ -883,6 +868,7 @@ RI_FOSE.esp
 RiPnO CorePatch.esp
 bltc.esp
 BLTC Immersion Patch.esp
+BLTC Hypo Fix.esp
 CP - RiPnO [bltc032].esp
 CP - RiPnO [MMM] Meats.esp
 RiPnO - OPTIONAL - Cola Heals.esp
@@ -892,6 +878,7 @@ RiPnO - OPTIONAL - Cola Heals.esp
 \-----------
 \ Later Misc
 \-----------
+Accurate Sniper Rifles.esp
 Arwen_FULL_Tweaks.esp
 Arwen_Skills.esp
 Arwen_Armor.esp
@@ -950,6 +937,7 @@ AsharasPresets.esp
 FasterMorePowerfulMines.esp
 EnhVision.esp
 Arwen_VisionFX.esp
+NightvisionGoggles(Powered).esp
 Gore_No_More.esp
 Less_Blood.esp
 FeminizedPowerArmor.esp
@@ -1158,6 +1146,7 @@ megalight.esp
 SomePoses.esp
 FacialExpressions.esp
 F3UmpaAnimation.esp
+Poses-Animation.esp
 The Groovatron.esp
 The Groovatron_DLC_Anch_Addon.esp
 The Groovatron_DLC_Pitt_Addon.esp
