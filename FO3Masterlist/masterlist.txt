@@ -53,7 +53,6 @@ xCALIBR.esm
 20th Century Weapons.esm
 Ammo Bench.esm
 ArefuExpandedByAzar.esm
-DCInteriors_ComboEdition.esm
 FOOK2 - Main.esm
 % {{BASH:Invent,Stats,Relations}}
 :CALIBR.esm
@@ -198,6 +197,42 @@ LED pipboy light amber.esp
 LED pipboy light ember extended.esp
 LED pipboy light green.esp
 LED pipboy light green extended.esp
+=Extreme+Close=DOF1.1.esp
+=Extreme+Far=DOF1.1.esp
+=Extreme+Very Far=DOF1.1.esp
+=Insane+Close=DOF1.1.esp
+=Insane+Far=DOF1.1.esp
+=Insane+Very Far=DOF1.1.esp
+=Medium+Close=DOF1.1.esp
+=Medium+Far=DOF1.1.esp
+=Medium+Very Far=DOF1.1.esp
+=Strong+Close=DOF1.1.esp
+=Strong+Far=DOF1.1.esp
+=Strong+Very Far=DOF1.1.esp
+=Subtle+Close=DOF1.1.esp
+=Subtle+Far=DOF1.1.esp
+=Subtle+Very Far=DOF1.1.esp
+=Extreme+Close=DOF1.1.esp
+=Extreme+Far=DOF1.1.esp
+=Extreme+Very Far=DOF1.1.esp
+=Insane+Close=DOF1.1.esp
+=Insane+Far=DOF1.1.esp
+=Insane+Very Far=DOF1.1.esp
+=Medium+Close=DOF1.1.esp
+=Medium+Far=DOF1.1.esp
+=Medium+Very Far=DOF1.1.esp
+=Strong+Close=DOF1.1.esp
+=Strong+Far=DOF1.1.esp
+=Strong+Very Far=DOF1.1.esp
+=Subtle+Close=DOF1.1.esp
+=Subtle+Far=DOF1.1.esp
+=Subtle+Very Far=DOF1.1.esp
+=Extreme=MotionBlur1.1.esp
+=Insane=MotionBlur1.1.esp
+=Medium=MotionBlur1.1.esp
+=Strong=MotionBlur1.1.esp
+=Subtle=MotionBlur1.1.esp
+V.A.T.S. Depth of Field v1.0.esp
 
 CASM.esp
 ASU.esp
@@ -377,6 +412,7 @@ BlackWolf Backpack - Anchorage Gauss Rifle Fix.esp
 BlackWolf Backpack - Zeta Drone Cannon Fix.esp
 Backpacks - SedPL.esp
 GunnySack.esp
+JSbackpack.esp
 SS OTS Camera FOSE.esp
 1Animated Nightvision goggles.esp
 Binoculars.esp
@@ -689,6 +725,7 @@ Dark_Temptress.esp
 Tonibiatch.esp
 BodyJewelry.esp
 BodyJewelryEx.esp
+Amy_Armor.esp
 
 \-------
 \Cosmetics
