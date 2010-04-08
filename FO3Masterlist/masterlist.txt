@@ -103,18 +103,18 @@ Animy_prostitution.esm
 ParadiseHome.esm
 DCInteriors_ComboEdition.ESM
 Selected Containers Respawn.esm
+AngelRaces.esm
+Shojo Race.esm
+% {{BASH:Hair,Eyes}}
+EZCompanion.esm
+EZ_citizens.esm
 EnhancedChildren.esm
 % {{BASH:Hair,Eyes}}
 AliciasCuteShop.esm
 % {{BASH:Stats}}
-Shojo Race.esm
-% {{BASH:Hair,Eyes}}
-AngelRaces.esm
 CEH.esm
 Fallout 3 Sexus.esm
 ChildrenEmpire.esm
-EZCompanion.esm
-EZ_citizens.esm
 MiniVault+Race.esm
 RH_IRONSIGHTS.esm
 
@@ -175,6 +175,8 @@ hair_add_npc.esp
 Dalls_Sex_in_City.esp
 Shojo NPC.esp
 % {{BASH:Invent,NpcFaces}}
+Moira-EXSP.esp
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
 LingsPrettyThings.esp 
 LingsPrettyThings-BrokenSteel.esp
 LingsPrettyThings-SeducingWomen.esp
@@ -797,6 +799,20 @@ Tonibiatch.esp
 BodyJewelry.esp
 BodyJewelryEx.esp
 Amy_Armor.esp
+Yoko'sOutfits.esp
+FO3Tona.esp
+FO3Western.esp
+FO3Ayumi.esp
+FO3Fate.esp
+FO3Moon.esp
+FO3Nami.esp
+FO3-Closing-merged.esp
+" FO3Tona.esp,FO3Western.esp,FO3Ayumi.esp,FO3Fate.esp,FO3Moon.esp,FO3Nami.esp
+Hentai Mania.esp
+Testweapon Arms x Arms.esp
+Test-Weapon_additional armor.esp
+% {{BASH:Invent}}
+Testweapon_SP  MedicKuma-Spirits.esp
 
 \-------
 \Cosmetics
@@ -1268,12 +1284,20 @@ The Groovatron_DLC_Pitt_Addon.esp
 \''''
 HairPack_2chPlus.esp
 % {{BASH:Hair}}
+HairPack_2chPlus+.esp
+% {{BASH:Hair}}
+HairPack_2chPlus+EYE.esp
+% {{BASH:Hair,eyes}}
 
 \Race additions (+ hair + eyes etc)
 \''''''''''''''''''''''''''''''''''
 Shojo Race.esp
 % {{BASH:Hair,Eyes}}
 ? Old. Upgrade to latest version.
+[Nukomimi-San] Starter.esp
+% {{BASH:Hair,Eyes}}
+EZCompanion_Type-N.esp
+% {{BASH:Hair,Eyes}}
 
 \------------
 \Merged Patch
