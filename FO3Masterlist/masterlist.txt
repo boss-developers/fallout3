@@ -51,6 +51,7 @@ CALIBR.esm
 xCALIBR.esm
 20thCenturyWeapons.esm
 20th Century Weapons.esm
+crafthelper.esm
 Ammo Bench.esm
 ArefuExpandedByAzar.esm
 FOOK2 - Main.esm
@@ -335,6 +336,8 @@ Dree Perks Point Lookout.esp
 Dree Perks Requested by Fans .esp
 Dree Perks Anchorage.esp
 Dree Perks Mothership Zeta.esp
+AccuracyPerks.esp
+Perk Revamp Mod - Broken Steel - Perks Only.esp 
 
 \--------
 \ Weather
@@ -374,6 +377,8 @@ Regulators _Overhaul_lvl2.esp
 "Regulators_Overhaul.esp
 "Regulators _Overhaul_lvl7.esp
 "Regulators.esp
+A Trail of Crumbs.esp
+
 
 \------------
 \Early misc B
@@ -501,6 +506,66 @@ ParadiseHomePlugin.esp
 Vault64.esp
 Toasty's Rooved Megaton, Holey Light.esp
 Tenpenny Suite.esp
+Hot n Dusty.esp
+Greenerworld.esp
+Madhswasteland.esp
+Megaton Tweaks - Snipers Edition.esp
+AbandonedShack.esp
+RuinedOutposts.esp
+motelPL.esp
+AbramsOverpassTent.esp
+Death Canyon v3.esp
+FIN-NWSeneca.esp
+Fallin3 South East Wasteland.esp
+Mole Rat Maze.esp
+OutlookPoint.esp
+Pylon Home.esp
+Republic of Dave House.esp
+OakleyRidge1_1.esp
+MovinOnUp3.0.esp
+SecuredBarn.esp
+TheRaiderHut.esp
+Simple Camp.esp
+Ghoul Mansion v3.esp
+Kaza's NorthwestSeneca.esp
+Meresti Metro Station Entrance.esp
+BigTown - Outskirts.esp
+PeachCreekRuins.esp
+scraphideST.esp
+Talon Outpost Expansion - Megaton.esp 
+BusInWilderness.esp
+LookoutPointCamp.esp
+AndaleHouse.esp
+VulturesRest.esp
+potomac home.esp
+Talon Outpost Expansion - Rivet City.esp
+Rivet City Underworks 1.1.esp 
+Princess Rivet City House FIXED.esp
+Rivetcityhotelupgrade.esp
+Better Museum of History EN.esp
+Underworld Underground.esp
+UnderWorld House.esp
+Submarine Wreck.esp
+GameForWilks.esp
+rivet city 2.esp
+Rivet City Apartment.esp
+The town of girdershade.esp
+shopping-spree.esp
+Talon Outpost Expansion - Canterbury Commons.esp
+CanterburyCommonsInteriors.esp
+JL121RCAltDoor.esp
+Canterbury Boomtown.esp
+csxBlastwaveRider.esp
+ranger den.esp
+Museum Station Bunker - 3.esp
+Riverside Apartments.esp
+YevicsUrbanTownhome.esp
+Princess Big Blue House.esp
+Talon Outpost Expansion - Arlington.esp
+Talon Outpost Expansion - Takoma.esp
+Takoma Bank.esp
+Jury Street Metro Station Shelter.esp
+CEI - CaesarrulezExcessiveInteriorsEN.esp
 Built For The Future.esp
 AliciasCuteShopDoorOverride.esp
 MiniVault+.esp
@@ -573,6 +638,9 @@ FO3 Wanderers Edition - DLC Point Lookout.esp
 FO3 Wanderers Edition - DLC The Pitt.esp
 FO3 Wanderers Edition - Project Beauty.esp
 FO3 Wanderers Edition - Project Beauty (Followers Enhanced B-S).esp
+FO3 Wanderers Edition - Project Beauty (HD Addition).esp
+:Project Beauty HD version.esm
+"Project Beauty.esp
 FO3 Wanderers Edition - UFP Support.esp
 FO3 Wanderers Edition - Alternate Travel.esp
 FO3 Wanderers Edition - Lvl 30 High Skills.esp
@@ -597,6 +665,9 @@ FO3 Wanderers Edition - Optional Restore Tracers (automatics only).esp
 FWE - Weightless Ammo.esp
 FO3 Wanderers Edition - FOOK Support.esp
 ? Check for updates; you may have the old version installed.
+CRAFTHelper_FWE.esp
+CRAFTHelper_FWEAlternateTravel.esp
+CRAFTHelper_ReplaceWorkbenchScriptFWE.esp
 FaceMe-FWE.esp
 DarNifiedUIF3_FWE.esp
 ? DO not use with latest FWE, it is already integrated.
