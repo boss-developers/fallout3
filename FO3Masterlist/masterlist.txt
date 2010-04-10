@@ -51,7 +51,7 @@ CALIBR.esm
 xCALIBR.esm
 20thCenturyWeapons.esm
 20th Century Weapons.esm
-crafthelper.esm
+CRAFTHelper.esm
 Ammo Bench.esm
 ArefuExpandedByAzar.esm
 FOOK2 - Main.esm
@@ -187,9 +187,6 @@ Hi-Res Weapons & Ammo Textures.esp
 Hi-Res Weapons & Ammo Textures - The Pitt.esp
 :The Pitt DLC
 StreetLights - Wasteland.esp
-Realistic Interior Lighting.esp
-Realistic Interior Lighting - BS.esp
-Realistic Interior Lighting - OA.esp
 MrSlackPants-DecentPipBoyLight.esp
 Fellout-pipboylight.esp
 RaiderMercenaryExpanded.esp
@@ -241,11 +238,15 @@ CASM.esp
 ASU.esp
 CRAFT - Activation Perk.esp
 : CRAFT.ESM
+CRAFTHelper_ReplaceWorkbenchScript.esp
+"CRAFT - Activation Perk.esp
+CRAFTHelper_Vanilla.esp
 TinCanCRAFTing.esp
+CRAFTHelper_TinCan.esp
 CRAFT - EnergyAmmo.esp
+CRAFTHelper_EA.esp
 CALIBRxMerchant.esp
 : CALIBR.ESM
-CRAFTHelper.esm
 DelayAnchorage.esp
 : Anchorage.ESM
 DelayThePitt.esp
@@ -322,6 +323,7 @@ ReneersRadioMod.esp
 \------------
 
 CONELRAD 640-1240.esp
+Existence2.0.esp
 UPP - Pack 1.esp
 UPP - Pack 2.esp
 UPP - Original Perks.esp
@@ -361,6 +363,7 @@ NotSoFast.esp
 HeirApparent.esp
 IntoTheDeepWoods.esp
 PLweightadjust.esp
+PLFewerItems.esp
 AReasonedArgument.esp
 MegatonContracts.esp
 Regulators.esp
@@ -634,10 +637,10 @@ PB FOOK2 [DIK].esp
 \--------------------------
 FO3 Wanderers Edition - Main File.esp
 FO3 Wanderers Edition - DLC Anchorage.esp
-FO3 Wanderers Edition - DLC Broken Steel.esp
-FO3 Wanderers Edition - DLC Mothership Zeta.esp
-FO3 Wanderers Edition - DLC Point Lookout.esp
 FO3 Wanderers Edition - DLC The Pitt.esp
+FO3 Wanderers Edition - DLC Broken Steel.esp
+FO3 Wanderers Edition - DLC Point Lookout.esp
+FO3 Wanderers Edition - DLC Mothership Zeta.esp
 FO3 Wanderers Edition - Project Beauty.esp
 FO3 Wanderers Edition - Project Beauty (Followers Enhanced B-S).esp
 FO3 Wanderers Edition - Project Beauty (HD Addition).esp
@@ -670,6 +673,7 @@ FO3 Wanderers Edition - FOOK Support.esp
 CRAFTHelper_FWE.esp
 CRAFTHelper_FWEAlternateTravel.esp
 CRAFTHelper_ReplaceWorkbenchScriptFWE.esp
+"CRAFT - Activation Perk.esp
 FaceMe-FWE.esp
 DarNifiedUIF3_FWE.esp
 ? DO not use with latest FWE, it is already integrated.
@@ -719,6 +723,7 @@ WeaponModKits - Zeta.esp
 :Zeta.ESM
 WeaponModKits - FOOK.esp
 WeaponModKits - FWE Optional Worn Weapons.esp
+CRAFTHelper_WMK.esp
 
 \--------
 \ Weapons\Armours\clothes
@@ -775,6 +780,7 @@ TombRaider.esp
 Prototype Medic Armor Upgrade.esp
 Tactical Vest CIRAS.esp
 Stealthboy Recon Armor - CRAFT.esp
+CRAFTHelper_SBReconArmor.esp
 3EFhelmlessstealthsuit.esp
 StealthArmorHelmLess.esp
 Dragonskin Tactical Outfit.esp
@@ -826,6 +832,7 @@ F3Eyelashes.esp
 AS-R CALIBR Patch ONLY.esp
 CALIBR Ammo Schematics - CRAFT.esp
 : CRAFT.esm
+CRAFTHelper_AS.esp
 Stealthboy Recon Armor - CRAFT.esp
 : CRAFT.esm
 Force Start The Pitt.esp
@@ -843,6 +850,9 @@ Alternate Start - Roleplayers.esp
 Kick Dogmeat.esp
 Slof's Alsatian Dogmeat.esp
 IgDRDeathclawGauntletFix.esp
+KarmaRevampExtreme1010.esp
+ReneerInvisibleKarmaMod.esp
+Improved Turret Hacking.esp
 
 \----------
 \ EVE Stuff
@@ -1188,6 +1198,9 @@ Fellout-Zeta.esp
 FelloutWithLightingOverhual-1.0.esp
 FOOK2 Nightvision for Fellout.esp
 Destruction - CP - Fellout.esp
+Realistic Interior Lighting.esp
+Realistic Interior Lighting - BS.esp
+Realistic Interior Lighting - OA.esp
 Xepha's Dynamic Weather - Main.esp
 Xepha's Dynamic Weather - Anchorage.esp
 :Anchorage.esm
@@ -1349,3 +1362,5 @@ Bashed Patch.esp
 \Mods rumoured to be needed after Bashed Patch.
 \Utility addons.
 \Ultimate final absolute end last mods, ever.
+
+\test spaceoden
