@@ -53,6 +53,7 @@ xCALIBR.esm
 20th Century Weapons.esm
 CRAFTHelper.esm
 Ammo Bench.esm
+Refurbishes [ALL].esm
 ArefuExpandedByAzar.esm
 FOOK2 - Main.esm
 % {{BASH:Invent,Stats,Relations}}
@@ -238,6 +239,7 @@ CASM.esp
 ASU.esp
 CRAFT - Activation Perk.esp
 : CRAFT.ESM
+CRAFT -Zeta - Activation Perk.esp
 CRAFTHelper_ReplaceWorkbenchScript.esp
 "CRAFT - Activation Perk.esp
 CRAFTHelper_Vanilla.esp
@@ -261,7 +263,7 @@ Delay ThePitt + Anchorage.esp
 : ThePitt.ESM
 : Anchorage.ESM
 More Hotkeys.esp
-RadioHotkey.esp
+QuickClothes.esp
 Princess Better Prompts v1pt1.esp
 PCIdles.esp
 Arwen_Camera.esp
@@ -311,12 +313,21 @@ GalaxyNewsRadio40[M].esp
 GalaxyNewsRadio20[M].esp
 " GalaxyNewsRadioXXX[M].esp
 ArefuExpandedByAzar-Radio.esp
+RadioBlues.esp
+WAR_radio.esp
+People_Radio.esp
+InvasionRadio.esp
+KBATRadio.esp
+VTAP25.esp
 GhostRadio.esp
 mutantradio.esp
 LookoutRadio.esp
 RadioTenpenny.esp
 GNR Fix.esp
 ReneersRadioMod.esp
+RadioHotkey.esp
+RadioHotkey_RadioBluesAddon.esp
+Radio Stutter fix.esp
 
 \------------
 \Early Misc A
@@ -341,7 +352,8 @@ Dree Perks Requested by Fans .esp
 Dree Perks Anchorage.esp
 Dree Perks Mothership Zeta.esp
 AccuracyPerks.esp
-Perk Revamp Mod - Broken Steel - Perks Only.esp 
+Perk Revamp Mod - Broken Steel - Perks Only.esp
+Combat Style Perks.esp
 
 \--------
 \ Weather
@@ -444,7 +456,7 @@ ShadySands.esp
 MoreMapMarkers.esp
 MaxLevelWorkaround-HP-BS.esp
 WastelandMastery.esp
-SkillCheck.espf
+SkillCheck.esp
 Treasure Maps_Underground.esp
 Treasure Maps_Secrets of the Wasteland.esp
 Treasure Maps_Bobblehead Edition.esp
@@ -678,6 +690,7 @@ FaceMe-FWE.esp
 DarNifiedUIF3_FWE.esp
 ? DO not use with latest FWE, it is already integrated.
 Refurbish [OA] - FWE.esp
+FO3 Wanderers Edition - Project Beauty (Followers Enhanced).esp
 
 
 \-----
@@ -734,6 +747,8 @@ BRUTE_GunKnockdownsSpecialScriptedEditionTHEPOINT.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionANCHORAGE.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionTHEPITT.esp
 
+Echo_UseBothGloves.esp
+jmschematics - CRAFT.esp 
 Hi-Res Weapons & Ammo Textures - The Pitt.esp
 Hi-Res Weapons & Ammo Textures.esp
 Reykjavik.esp
@@ -886,8 +901,6 @@ EVE Anchorage - FWE DLC Anchorage.esp
 
 NVG Activator Crash Fix [Experimental].esp 
 Wasteland Whisperer.esp
-BuildableBots v0.3a.esp
-RobCo Engineer - Robot Repair.esp
 CBOv1.4.esp
 ThePitt-NoFireFollowers.esp
 KickDogs.esp
@@ -903,6 +916,8 @@ RobCo Certified - Robot Perks.esp
 RobCo Storage Module.esp
 RobCo Certified Engineer.esp
 RobCo Certified Engineer - Storage Enabled.esp
+BuildableBots v0.3a.esp
+RobCo Engineer - Robot Repair.esp
 Buildablebots Robcert. addon.esp
 dD-More Gore.esp
 dD-More Gore-The Pitt.esp
@@ -912,7 +927,8 @@ dD-More Gore-Zeta.esp
 dD-Reduced Dismember Force.esp
 S.T.A.L.K.E.R. Call of D.C..esp
 S.T.A.L.K.E.R. MOD.esp
-ARSENAL MOD.esp 
+ARSENAL MOD.esp
+Responsive Kill Reactions.esp
 
 \-----------------
 \Mart's Mutant Mod
@@ -975,6 +991,10 @@ Mart's Mutant Mod - FWE Master Release.esp
 % {{BASH:Invent,Relations}}
 S.T.A.L.K.E.R. Call of D.C.+MMM.esp
 S.T.A.L.K.E.R. Mutants[addon for MMM].esp
+Mart's Mutant Mod - Project Beauty.esp
+Mart's Mutant Mod - Project Beauty + FWE.esp
+Mart's Mutant Mod - Project Beauty (HD Addition).esp
+
 ChildrenEmpire Soldiers.esp
 ChildrenEmpire Enemies.esp
 Fallout 3 Sexus Enemies.esp
@@ -1097,7 +1117,6 @@ NoTheftComments.esp
 RRV1 Bedroom Redecorated.esp
 RRQuests.esp
 RR Companion Vault Raider Attacks.esp
-SkillCheck.esp
 All Companions Essential.esp
 teddybear_brothers.esp
 dD-Larger Blood.esp
@@ -1172,10 +1191,11 @@ Phalanx-BrokenSteel-Integration.esp
 Phalanx-PointLookout-Integration.esp
 :PointLookout.esm
 Phalanx-PerksAndStims.esp
+Phalanx-Obedient-Dogmeat.esp
 
 
 \-----
-\ Last (Mostly CPs)
+\ Lastish
 \-----
 
 Enhanced Weather - Rain and Snow.esp
@@ -1313,9 +1333,10 @@ EZCompanion_Type-N.esp
 % {{BASH:Hair,Eyes}}
 
 \------------
-\Merged Patch
+\Merged Patch\CPs
 \------------
 
+RobCo Certified - FWE EVE Balance.esp
 Destruction - CP - Fellout.esp
 FWE - FOOK DLC Support.esp
 :Anchorage.ESM
@@ -1339,6 +1360,7 @@ Sydney Follower.esp
 Sydney Follower - Load Order Fix.esp
 Choose your own hairstyle (load this last on FOMM).esp
 % {{BASH:NpcFaces,Hair,Eyes}}
+tubunarFWE.esp
 
 \------------
 \Bashed Patch
