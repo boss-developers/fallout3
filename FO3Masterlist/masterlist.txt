@@ -49,6 +49,7 @@ PointLookout-FollowersGetToGo.esm
 CRAFT.esm
 CALIBR.esm
 xCALIBR.esm
+% {{BASH:Names,Graphics,Stats}}
 20thCenturyWeapons.esm
 20th Century Weapons.esm
 CRAFTHelper.esm
@@ -1358,6 +1359,12 @@ Mez's Merged Patch - FWE-WMK-MMM.esp
 Mez's Merged Patch 5-0 - DLC-FWE-WMK-MMM.esp
 Sydney Follower.esp
 Sydney Follower - Load Order Fix.esp
+xCALIBR_override.esp
+% {{BASH:Names,Graphics,Stats}}
+:CALIBR.esm, xCALIBR.esm
+xCALIBR_FWE5_Override.esp
+% {{BASH:Names,Graphics,Stats}}
+:CALIBR.esm, xCALIBR.esm
 Choose your own hairstyle (load this last on FOMM).esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 tubunarFWE.esp
