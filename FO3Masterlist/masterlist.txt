@@ -395,7 +395,7 @@ Regulators _Overhaul_lvl2.esp
 "Regulators _Overhaul_lvl7.esp
 "Regulators.esp
 A Trail of Crumbs.esp
-
+The Librarian.esp
 
 \------------
 \Early misc B
