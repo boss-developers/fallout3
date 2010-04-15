@@ -313,6 +313,7 @@ GalaxyNewsRadio40[M].esp
 " GalaxyNewsRadioXXX[M].esp
 GalaxyNewsRadio20[M].esp
 " GalaxyNewsRadioXXX[M].esp
+GNR-MWTCF BS.esp
 ArefuExpandedByAzar-Radio.esp
 RadioBlues.esp
 WAR_radio.esp
@@ -654,6 +655,7 @@ GSoS - FOOK2 Open Beta - XP Tag Perks.esp
 GSoS - FOOK2 Open Beta - Stimpaks Revamp.esp
 GSoS - FOOK2 Open Beta - Stimpaks Revamp v1.esp
 GSoS - FOOK2 Open Beta - Stimpaks Revamp v2.esp
+GSoS - Speed.esp
 GSoS - Bed Heal Tweak.esp
 GSoS - Portable Water Purifier.esp
 GSoS - B-Head Effects B-Gone.esp
@@ -1410,5 +1412,3 @@ Bashed Patch.esp
 \Mods rumoured to be needed after Bashed Patch.
 \Utility addons.
 \Ultimate final absolute end last mods, ever.
-
-\test spaceoden
