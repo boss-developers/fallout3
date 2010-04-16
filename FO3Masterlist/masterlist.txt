@@ -1238,19 +1238,27 @@ Fellout-PointLookout.esp
 :PointLookout.esm
 Fellout-Zeta.esp
 FelloutWithLightingOverhual-1.0.esp
+% {{BASH:C.Light}}
 FOOK2 Nightvision for Fellout.esp
 Destruction - CP - Fellout.esp
 Realistic Interior Lighting.esp
+% {{BASH:C.Light}}
 Realistic Interior Lighting - BS.esp
+% {{BASH:C.Light}}
 Realistic Interior Lighting - OA.esp
+% {{BASH:C.Light}}
 Xepha's Dynamic Weather - Main.esp
 Xepha's Dynamic Weather - Anchorage.esp
+% {{BASH:C.Climate}}
 :Anchorage.esm
 Xepha's Dynamic Weather - The Pitt.esp
+% {{BASH:C.Climate}}
 :ThePitt.esm
 Xepha's Dynamic Weather - Broken Steel.esp
+% {{BASH:C.Climate}}
 :BrokenSteel.esm
 Xepha's Dynamic Weather - Point Lookout.esp
+% {{BASH:C.Climate}}
 :PointLookout.esm
 Xepha's Dynamic Weather - Night Eye Edition.esp
 "Xepha's Dynamic Weather - Night Eye Edition.esp
