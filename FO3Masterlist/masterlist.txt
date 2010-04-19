@@ -518,6 +518,7 @@ DCInteriors_Georgtown.esp
 DCInteriors_SewardSq.esp
 DCInteriors_Mason.esp
 DCInteriors_LEnfntPl.esp
+DCInteriors_DLC_Collectables.esp
 Trophies - Megaton.esp
 Trophies- Tenpenny.esp
 Rivet City Realignment.esp
