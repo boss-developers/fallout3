@@ -115,6 +115,8 @@ EnhancedChildren.esm
 AliciasCuteShop.esm
 % {{BASH:Stats}}
 CEH.esm
+IbIui.esm
+Sharing and Caring Companions.esm
 Fallout 3 Sexus.esm
 ChildrenEmpire.esm
 MiniVault+Race.esm
@@ -168,6 +170,13 @@ Refurbish [BS].esp
 Refurbish [PL].esp
 Refurbish [MZ].esp
 DarNifiedUIF3.esp
+Noise Filter.esp
+IbIui - BS.esp
+IbIui - OA.esp
+IbIui - Pitt.esp
+IbIui - PL.esp
+IbIui.esp
+QZ No VATS Radial Blur.esp
 FaceMe.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 FaceMe-Broken Steel.esp
@@ -303,6 +312,7 @@ Feng Shui - Keymap Template.esp
 
 GalaxyNewsRadioFix[S].esp
 " GalaxyNewsRadioXXX[M].esp
+Radio Active.esp
 GalaxyNewsRadio100[M].esp
 " GalaxyNewsRadioXXX[M].esp
 GalaxyNewsRadio80[M].esp
@@ -335,6 +345,9 @@ Radio Stutter fix.esp
 \Early Misc A
 \------------
 
+ReloadAmmo.esp
+Consistent Books.esp
+RemoteControlCompanionsPlus.esp
 CONELRAD 640-1240.esp
 Existence2.0.esp
 UPP - Pack 1.esp
@@ -431,6 +444,9 @@ SCC Armor.esp
 Echo_BatteryCharger.esp
 HouseholdWaterPurifier.esp
 PortableMattress.esp
+Portable Distilling Lab.esp
+PortableCampStuff.esp
+PortableCampStuff - CRAFT.esp
 BlackWolf Backpack.esp
 BlackWolf Backpack - Vendor Script Replenish.esp
 BlackWolf Backpack - Vanilla Big Guns Fix.esp
@@ -445,7 +461,9 @@ Binoculars.esp
 SniperZooming.esp
 Directional PipLight HDR.esp
 Expanded Megaton House V3.esp
+MegatonBasement.esp
 Princess Tenpenny Home Extension.esp
+Tenpenny_Expansion.esp
 MaintenanceShed.esp
 HomesteadMotelSuite.esp
 UrgeWashingtonBoS.esp
@@ -522,8 +540,19 @@ DCInteriors_DLC_Collectables.esp
 Trophies - Megaton.esp
 Trophies- Tenpenny.esp
 Rivet City Realignment.esp
+Wadsworth-Prewar.esp
+RedTricycleBoot.esp
+MiniServants.esp
+After War.esp
+ClutterFreeWorld.esp
+CrowdedCities_v2.esp
+megaton_lighting.esp
+B.B.G.esp
+Megaton Park.esp
 Megaton House and Theme Overhaul.esp
 Megaton Walkway.esp
+Sandstorm.esp
+TpWasteThemeMod.esp
 Carter_Fallout_Shelter.esp
 ParadiseHomePlugin.esp
 Vault64.esp
@@ -741,6 +770,7 @@ Tailor Maid Black Retex.esp
 \--------------
 
 WeaponModKits.esp
+WeaponModKits - FOOK.esp
 WeaponModKits - FWE Master Release.esp
 WeaponModKits - OperationAnchorage.esp
 :Anchorage.ESM
@@ -752,7 +782,6 @@ WeaponModKits - PointLookout.esp
 :PointLookout.ESM
 WeaponModKits - Zeta.esp
 :Zeta.ESM
-WeaponModKits - FOOK.esp
 WeaponModKits - DIK.esp
 WeaponModKits - FWE Optional Worn Weapons.esp
 CRAFTHelper_WMK.esp
@@ -763,6 +792,7 @@ SelfSurgeryKit.esp
 \--------
 
 
+MissingUniqueArmorClothing-Enhanced-NSF.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionTHEPOINT.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionANCHORAGE.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionTHEPITT.esp
@@ -830,6 +860,7 @@ DIM TYPE3clothesRETAIL.esp
 Trooper_outfits.esp
 sunglassescollection.esp
 Dogmeat Leather Armor - CRAFT.esp
+LucyWestCompanion.esp
 OutFits.esp
 BunnySuit.esp
 SchoolUniforms.esp
@@ -866,6 +897,7 @@ F3Eyelashes.esp
 \-----------
 AS-R CALIBR Patch ONLY.esp
 CALIBR Ammo Schematics - CRAFT.esp
+Ammo_Schematics.esp
 : CRAFT.esm
 CRAFTHelper_AS.esp
 Stealthboy Recon Armor - CRAFT.esp
@@ -922,6 +954,9 @@ EVE Anchorage - FWE DLC Anchorage.esp
 NVG Activator Crash Fix [Experimental].esp 
 Wasteland Whisperer.esp
 CBOv1.4.esp
+CBOv1.4.esp
+WSG Improved.esp
+XPReward20Percent.esp
 ThePitt-NoFireFollowers.esp
 KickDogs.esp
 Replenishment.esp
@@ -1030,6 +1065,7 @@ Fallout 3 Sexus with Children Empire.esp
 
 1PipboyPDA.esp
 Savage Wasteland - Fewer Gun Wielding Maniacs.esp
+Original Moira Brown.esp
 
 
 
@@ -1141,6 +1177,9 @@ RRV1 Bedroom Redecorated.esp
 RRQuests.esp
 RR Companion Vault Raider Attacks.esp
 All Companions Essential.esp
+T_R_A_S_C_H.esp
+Shojo Companions.esp
+Brahmin Cattles ENG v1 - FWE patch.esp
 teddybear_brothers.esp
 dD-Larger Blood.esp
 dD-Less Blood Time.esp
@@ -1199,12 +1238,15 @@ No[EMPTY]ContainerMessages.esp
 5xlvling.esp
 CRBSOR.esp
 TimeScaleTo3.esp
+TimeScaleTo4.esp
 TimeScaleTo5.esp
 TimeScaleTo15.esp
 TimeScaleTo20.esp
 TimeScaleTo25.esp
 TalkToAnybody.esp
 
+SpeechLite.esp
+SpeechLiteCombatDLC.esp
 \-------
 \Phalanx
 \-------
@@ -1217,6 +1259,7 @@ Phalanx-PerksAndStims.esp
 Phalanx-Obedient-Dogmeat.esp
 
 
+Dogmeat Never Dies.esp
 \-----
 \ Lastish
 \-----
@@ -1326,6 +1369,7 @@ megalight.esp
 20th Century v4 ALIVE (Chinese Ghoul).esp
 20th Century v4 ALIVE (Talon_Regulator).esp
 
+CaravanEssential.esp
 \---------
 \Pose mods
 \---------
