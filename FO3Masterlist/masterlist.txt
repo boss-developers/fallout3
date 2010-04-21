@@ -20,7 +20,7 @@
 \ESMs
 \----
 Fallout3.esm
-? Masterlist Information: $Revision$, $Date$, $LastChangedBy$
+? Masterlist Information: $Revision$, $Date::                           $, $LastChangedBy$
 Hairday.esm
 Lings.esm
 Anchorage.esm
