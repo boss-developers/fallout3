@@ -26,9 +26,11 @@ Lings.esm
 Anchorage.esm
 ThePitt.esm
 BrokenSteel.esm
+% {{BASH:Deflst,Delev,Reflst,Relev}}
 PointLookout.esm
 Zeta.esm
 Unofficial Fallout 3 Patch.esm
+% {{BASH:Delev,Relev}}
 LingsDLC.esm
 HairPack.esm
 % {{BASH:Hair,Eyes}}
@@ -497,8 +499,11 @@ FPS Grenade Hotkey.esp
 FPS Grenade Hotkey - Zeta addon.esp
 NoKnockedOverComments.esp
 bzArmour.esp
+% {{BASH:Delev,Relev}}
 bzArmour-nude.esp
+% {{BASH:Delev,Relev}}
 bzArmour-non-nude.esp
+% {{BASH:Delev,Relev}}
 bzBodySuits.esp
 
 \---
@@ -637,6 +642,7 @@ CEH_Shojo_07_Opt.esp
 
 
 FOOK2 - Main.esp
+% {{BASH:Delev,Relev}}
 : CALIBR.ESM and FOOK2 - Main.ESM
 PB FOOK2 - Main.esp
 FOOK2 - [EVE] Energy Visuals Enhanced.esp
@@ -695,6 +701,7 @@ GSoS - Car Explosions.esp
 \Fallout Wanderer's Edition
 \--------------------------
 FO3 Wanderers Edition - Main File.esp
+% {{BASH:Deflst,Delev,Reflst,Relev}}
 FO3 Wanderers Edition - DLC Anchorage.esp
 FO3 Wanderers Edition - DLC The Pitt.esp
 FO3 Wanderers Edition - DLC Broken Steel.esp
@@ -725,6 +732,7 @@ FO3 Wanderers Edition - Optional VATS Halftime.esp
 FO3 Wanderers Edition - Optional VATS Realtime.esp
 FO3 Wanderers Edition - Optional Harsher Wasteland.esp
 FO3 Wanderers Edition - Optional Worn Weapons.esp
+% {{BASH:Delev,sRelev}}
 FO3 Wanderers Edition - Optional Restore Tracers (automatics only).esp
 FWE - Weightless Ammo.esp
 FO3 Wanderers Edition - FOOK Support.esp
@@ -770,8 +778,11 @@ Tailor Maid Black Retex.esp
 \--------------
 
 WeaponModKits.esp
+% {{BASH:Deflst,Delev,Reflst,Relev}}
 WeaponModKits - FOOK.esp
+% {{BASH:Deflst,Delev,Reflst,Relev}}
 WeaponModKits - FWE Master Release.esp
+% {{BASH:Deflst,Delev,Reflst,Relev}}
 WeaponModKits - OperationAnchorage.esp
 :Anchorage.ESM
 WeaponModKits - ThePitt.esp
@@ -783,6 +794,7 @@ WeaponModKits - PointLookout.esp
 WeaponModKits - Zeta.esp
 :Zeta.ESM
 WeaponModKits - FWE Optional Worn Weapons.esp
+% {{BASH:Deflst,Delev,Reflst,Relev}}
 CRAFTHelper_WMK.esp
 SelfSurgeryKit.esp
 
@@ -989,6 +1001,7 @@ Responsive Kill Reactions.esp
 \-----------------
 
 Mart's Mutant Mod.esp
+% {{BASH:Delev,Relev}}
 :Mart's Mutant Mod.esm
 Mart's Mutant Mod - UF3P.esp
 % {{BASH:Invent}}
@@ -1003,32 +1016,43 @@ PB MMM.esp
 Mart's Mutant Mod - DLC Anchorage.esp
 : Anchorage.ESM
 Mart's Mutant Mod - DLC The Pitt.esp
+% {{BASH:Delev,Relev}}
 : ThePitt.ESM
 Mart's Mutant Mod - DLC Broken Steel.esp
+% {{BASH:Delev,Relev}}
 : BrokenSteel.ESM
 Mart's Mutant Mod - UF3P - BS.esp
 :Mart's Mutant Mod - UF3P.esp
 Mart's Mutant Mod - DLC Point Lookout.esp
+% {{BASH:Delev,Relev}}
 : PointLookout.ESM
 Project Beauty- Point Lookout MMM.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Mart's Mutant Mod - DLC Zeta.esp
 : Zeta.ESM
 Mart's Mutant Mod - No Corpse Flies.esp
+% {{BASH:Relev}}
 Mart's Mutant Mod - No DLC Increased Spawns.esp
 Mart's Mutant Mod - No Floaters.esp
+% {{BASH:Relev}}
 Mart's Mutant Mod - No Geckos.esp
+% {{BASH:Relev}}
 Mart's Mutant Mod - No Ghoul Raise.esp
 Mart's Mutant Mod - No Size Scaling.esp
 Mart's Mutant Mod - No Skeleton Decay.esp
 Mart's Mutant Mod - No Wanamingos.esp
+% {{BASH:Relev}}
 Mart's Mutant Mod - Feral Ghoul Rampage.esp
+% {{BASH:Relev}}
 Mart's Mutant Mod - Hunting & Looting.esp
 Mart's Mutant Mod - Increased Increased Spawns.esp
+% {{BASH:Relev}}
 Mart's Mutant Mod - Increased Spawns.esp
+% {{BASH:Relev}}
 Mart's Mutant Mod - Natural Selection.esp
 % {{BASH:Relations,NoMerge}} and deactivate.
 Mart's Mutant Mod - Reduced Wasteland Spawns.esp
+% {{BASH:Delev,Relev}}
 Mart's Mutant Mod - Tougher Traders.esp
 Mart's Mutant Mod - Zones Respawn.esp
 Mart's Mutant Mod - Zombie Cementery.esp
@@ -1045,7 +1069,7 @@ Mart's Mutant Mod - FWE with EVE.esp
 CT_FalloutAdvanced - MMM.esp
 Project Beauty- MMM Raiders.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
-ARSENAL MOD+MMM.esp 
+ARSENAL MOD+MMM.esp
 Mutant perks for MMM 1.9.esp
 Mart's Mutant Mod - FWE Master Release.esp
 % {{BASH:Invent,Relations}}
@@ -1057,9 +1081,12 @@ Mart's Mutant Mod - Project Beauty (HD Addition).esp
 
 ChildrenEmpire Soldiers.esp
 ChildrenEmpire Enemies.esp
+% {{BASH:Delev,Relev}}
 Fallout 3 Sexus Enemies.esp
+% {{BASH:Delev,Relev}}
 Fallout 3 Sexus - DLC The Pitt.esp
 Fallout 3 Sexus with Children Empire.esp
+% {{BASH:Delev,Relev}}
 
 \-----------
 \Middle Misc C
