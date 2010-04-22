@@ -57,7 +57,7 @@ Ammo Bench.esm
 Refurbishes [ALL].esm
 ArefuExpandedByAzar.esm
 FOOK2 - Main.esm
-% {{BASH:Invent,Stats,Relations}}
+% {{BASH:Hair,Invent,Stats,Relations}}
 :CALIBR.esm
 FOOK.ESM
 * Get FOOK2
@@ -782,7 +782,6 @@ WeaponModKits - PointLookout.esp
 :PointLookout.ESM
 WeaponModKits - Zeta.esp
 :Zeta.ESM
-WeaponModKits - DIK.esp
 WeaponModKits - FWE Optional Worn Weapons.esp
 CRAFTHelper_WMK.esp
 SelfSurgeryKit.esp
@@ -992,8 +991,9 @@ Responsive Kill Reactions.esp
 Mart's Mutant Mod.esp
 :Mart's Mutant Mod.esm
 Mart's Mutant Mod - UF3P.esp
+% {{BASH:Invent}}
 PB MMM HD.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,Hair,Eyes,Voice-M,Voice-F,Body-M,Body-F,R.Teeth,R.Mouth}}
 :Project Beauty HD version.esm
 "Project Beauty.esp
 PB MMM.esp
@@ -1027,6 +1027,7 @@ Mart's Mutant Mod - Hunting & Looting.esp
 Mart's Mutant Mod - Increased Increased Spawns.esp
 Mart's Mutant Mod - Increased Spawns.esp
 Mart's Mutant Mod - Natural Selection.esp
+% {{BASH:Relations,NoMerge}} and deactivate.
 Mart's Mutant Mod - Reduced Wasteland Spawns.esp
 Mart's Mutant Mod - Tougher Traders.esp
 Mart's Mutant Mod - Zones Respawn.esp
@@ -1037,6 +1038,7 @@ Mart's Mutant Mod - FOOK2.esp
 : FOOK2 - Main.ESM and Mart's Mutant Mod.esm
 Mart's Mutant Mod - FOOK2 - DIK.esp
 :FO3 Wanderers Edition - Main File.esm
+
 Mart's Mutant Mod - FWE with EVE.esp
 : FO3 Wanderers Edition - Main File.esm
 : EVE.esp
