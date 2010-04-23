@@ -499,11 +499,8 @@ FPS Grenade Hotkey.esp
 FPS Grenade Hotkey - Zeta addon.esp
 NoKnockedOverComments.esp
 bzArmour.esp
-% {{BASH:Delev,Relev}}
 bzArmour-nude.esp
-% {{BASH:Delev,Relev}}
 bzArmour-non-nude.esp
-% {{BASH:Delev,Relev}}
 bzBodySuits.esp
 
 \---
