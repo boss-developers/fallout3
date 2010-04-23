@@ -26,7 +26,6 @@ Lings.esm
 Anchorage.esm
 ThePitt.esm
 BrokenSteel.esm
-% {{BASH:Deflst,Delev,Reflst,Relev}}
 PointLookout.esm
 Zeta.esm
 Unofficial Fallout 3 Patch.esm
@@ -78,7 +77,7 @@ FO3 Wanderers Edition - Main File.esm
 :CRAFT.esm
 :CALIBR.esm
 Mart's Mutant Mod.esm
-% {{BASH:Invent,Relations}}
+% {{BASH:Invent,Relations,Delev}}
 LingsFinerThings.esm
 LingsMMMpatch3-3.esm
 MMZombieCemetery.esm
@@ -704,6 +703,7 @@ FO3 Wanderers Edition - DLC Anchorage.esp
 FO3 Wanderers Edition - DLC The Pitt.esp
 FO3 Wanderers Edition - DLC Broken Steel.esp
 FO3 Wanderers Edition - DLC Point Lookout.esp
+% {{BASH:Relev,Delev}}
 FO3 Wanderers Edition - DLC Mothership Zeta.esp
 FO3 Wanderers Edition - Project Beauty.esp
 FO3 Wanderers Edition - Project Beauty (Followers Enhanced B-S).esp
@@ -730,7 +730,7 @@ FO3 Wanderers Edition - Optional VATS Halftime.esp
 FO3 Wanderers Edition - Optional VATS Realtime.esp
 FO3 Wanderers Edition - Optional Harsher Wasteland.esp
 FO3 Wanderers Edition - Optional Worn Weapons.esp
-% {{BASH:Delev,sRelev}}
+% {{BASH:Delev,Relev}}
 FO3 Wanderers Edition - Optional Restore Tracers (automatics only).esp
 FWE - Weightless Ammo.esp
 FO3 Wanderers Edition - FOOK Support.esp
@@ -776,11 +776,11 @@ Tailor Maid Black Retex.esp
 \--------------
 
 WeaponModKits.esp
-% {{BASH:Deflst,Delev,Reflst,Relev}}
+% {{BASH:Deflst,Reflst}}
 WeaponModKits - FOOK.esp
-% {{BASH:Deflst,Delev,Reflst,Relev}}
+% {{BASH:Deflst,Reflst}}
 WeaponModKits - FWE Master Release.esp
-% {{BASH:Deflst,Delev,Reflst,Relev}}
+% {{BASH:Deflst,Reflst}}
 WeaponModKits - OperationAnchorage.esp
 :Anchorage.ESM
 WeaponModKits - ThePitt.esp
@@ -792,7 +792,7 @@ WeaponModKits - PointLookout.esp
 WeaponModKits - Zeta.esp
 :Zeta.ESM
 WeaponModKits - FWE Optional Worn Weapons.esp
-% {{BASH:Deflst,Delev,Reflst,Relev}}
+% {{BASH:Deflst,Reflst}}
 CRAFTHelper_WMK.esp
 SelfSurgeryKit.esp
 
@@ -999,7 +999,7 @@ Responsive Kill Reactions.esp
 \-----------------
 
 Mart's Mutant Mod.esp
-% {{BASH:Delev,Relev}}
+% {{BASH:Delev}}
 :Mart's Mutant Mod.esm
 Mart's Mutant Mod - UF3P.esp
 % {{BASH:Invent}}
@@ -1014,7 +1014,7 @@ PB MMM.esp
 Mart's Mutant Mod - DLC Anchorage.esp
 : Anchorage.ESM
 Mart's Mutant Mod - DLC The Pitt.esp
-% {{BASH:Delev,Relev}}
+% {{BASH:Delev}}
 : ThePitt.ESM
 Mart's Mutant Mod - DLC Broken Steel.esp
 % {{BASH:Delev,Relev}}
@@ -1079,12 +1079,9 @@ Mart's Mutant Mod - Project Beauty (HD Addition).esp
 
 ChildrenEmpire Soldiers.esp
 ChildrenEmpire Enemies.esp
-% {{BASH:Delev,Relev}}
 Fallout 3 Sexus Enemies.esp
-% {{BASH:Delev,Relev}}
 Fallout 3 Sexus - DLC The Pitt.esp
 Fallout 3 Sexus with Children Empire.esp
-% {{BASH:Delev,Relev}}
 
 \-----------
 \Middle Misc C
