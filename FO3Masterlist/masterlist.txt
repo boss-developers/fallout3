@@ -703,7 +703,7 @@ GSoS - Car Explosions.esp
 FO3 Wanderers Edition - Main File.esp
 % {{BASH:Deflst,Delev,Reflst,Relev}}
 FO3 Wanderers Edition - DLC Anchorage.esp
-% {{BASH:Delev}}
+% {{BASH:Deflst}}
 FO3 Wanderers Edition - DLC The Pitt.esp
 FO3 Wanderers Edition - DLC Broken Steel.esp
 FO3 Wanderers Edition - DLC Point Lookout.esp
@@ -852,7 +852,7 @@ WinterizedT51bDX.esp
 Outcast DX.esp
 % {{BASH:Graphics}}
 Tribal_DX.esp
-% {{BASH:Delev,Graphics}}
+% {{BASH:Deflst,Graphics}}
 TombRaider.esp
 Prototype Medic Armor Upgrade.esp
 Tactical Vest CIRAS.esp
