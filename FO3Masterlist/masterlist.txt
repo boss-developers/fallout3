@@ -98,10 +98,10 @@ StreetLights.esm
 EnclaveCommander-Steel.esm
 EnclaveCommander-OA-Steel.esm
 EnclaveCommander-OA-Pitt-Steel.esm
-CrossModData.esm 
+CrossModData.esm
 BHR&M.esm
 PB mika.esm
-Animy_prostitution.esm 
+Animy_prostitution.esm
 :CrossModData.esm
 ParadiseHome.esm
 DCInteriors_ComboEdition.ESM
@@ -189,7 +189,7 @@ Shojo NPC.esp
 % {{BASH:Invent,NpcFaces}}
 Moira-EXSP.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
-LingsPrettyThings.esp 
+LingsPrettyThings.esp
 LingsPrettyThings-BrokenSteel.esp
 LingsPrettyThings-SeducingWomen.esp
 LingsFinerThings.esp
@@ -585,14 +585,14 @@ Meresti Metro Station Entrance.esp
 BigTown - Outskirts.esp
 PeachCreekRuins.esp
 scraphideST.esp
-Talon Outpost Expansion - Megaton.esp 
+Talon Outpost Expansion - Megaton.esp
 BusInWilderness.esp
 LookoutPointCamp.esp
 AndaleHouse.esp
 VulturesRest.esp
 potomac home.esp
 Talon Outpost Expansion - Rivet City.esp
-Rivet City Underworks 1.1.esp 
+Rivet City Underworks 1.1.esp
 Princess Rivet City House FIXED.esp
 Rivetcityhotelupgrade.esp
 Better Museum of History EN.esp
@@ -807,7 +807,7 @@ BRUTE_GunKnockdownsSpecialScriptedEditionANCHORAGE.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionTHEPITT.esp
 
 Echo_UseBothGloves.esp
-jmschematics - CRAFT.esp 
+jmschematics - CRAFT.esp
 Hi-Res Weapons & Ammo Textures - The Pitt.esp
 Hi-Res Weapons & Ammo Textures.esp
 Reykjavik.esp
@@ -820,11 +820,11 @@ YK42B Pulse Rifle.esp
 Wattz Laser Weapons Mod.esp
 SnakesBandana.esp
 Tactical Weapons-Calibr-V3.esp
-Akira - Simple Silenced SMG.esp 
+Akira - Simple Silenced SMG.esp
 AsharasBatmanItems.esp
-GaussCompleteBeta.esp 
+GaussCompleteBeta.esp
 ColtM4Carbines.esp
-Wattz Laser Weapons Mod.esp 
+Wattz Laser Weapons Mod.esp
 7_HolsterForHandGunsV1_1.esp
 Wattz Laser Pistols Mod.esp
 WMKAA12Shotgun.esp
@@ -960,7 +960,7 @@ EVE Anchorage - FWE DLC Anchorage.esp
 \Middle Misc B
 \-----------
 
-NVG Activator Crash Fix [Experimental].esp 
+NVG Activator Crash Fix [Experimental].esp
 Wasteland Whisperer.esp
 CBOv1.4.esp
 CBOv1.4.esp
