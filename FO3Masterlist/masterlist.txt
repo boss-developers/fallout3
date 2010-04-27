@@ -869,7 +869,6 @@ DIM TYPE3clothesRETAIL.esp
 Trooper_outfits.esp
 sunglassescollection.esp
 Dogmeat Leather Armor - CRAFT.esp
-LucyWestCompanion.esp
 OutFits.esp
 BunnySuit.esp
 SchoolUniforms.esp
@@ -1077,12 +1076,6 @@ Mart's Mutant Mod - Project Beauty.esp
 Mart's Mutant Mod - Project Beauty + FWE.esp
 Mart's Mutant Mod - Project Beauty (HD Addition).esp
 
-ChildrenEmpire Soldiers.esp
-ChildrenEmpire Enemies.esp
-Fallout 3 Sexus Enemies.esp
-Fallout 3 Sexus - DLC The Pitt.esp
-Fallout 3 Sexus with Children Empire.esp
-
 \-----------
 \Middle Misc C
 \-----------
@@ -1090,8 +1083,13 @@ Fallout 3 Sexus with Children Empire.esp
 1PipboyPDA.esp
 Savage Wasteland - Fewer Gun Wielding Maniacs.esp
 Original Moira Brown.esp
-
-
+LucyWestCompanion.esp
+bittercup_comp.esp
+ChildrenEmpire Soldiers.esp
+ChildrenEmpire Enemies.esp
+Fallout 3 Sexus Enemies.esp
+Fallout 3 Sexus - DLC The Pitt.esp
+Fallout 3 Sexus with Children Empire.esp
 
 \-------------
 \ Realism Mods
