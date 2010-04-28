@@ -664,14 +664,17 @@ MyFOOK2 - Black & White Tranquility Lane.esp
 : FOOK2 - Main.ESM
 
 FOOK2 - [DESTRUCTION] Main.esp
+% {{BASH:Destructable,Script}}
 : FOOK2 - Main.ESM
 FOOK2 - [DESTRUCTION] Main - Statics.esp
 : FOOK2 - Main.ESM
 FOOK2 - [DESTRUCTION] DIK.esp
+% {{BASH:Destructable,Script}}
 : Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CALIBR.ESM, and FOOK2 - Main.ESM
 FOOK2 - [DESTRUCTION] DIK - Statics.esp
 : Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CALIBR.ESM, and FOOK2 - Main.ESM
 FOOK2 - [DESTRUCTION] Mothership Zeta.esp
+% {{BASH:Destructable,Script}}
 : FOOK2 - Main.ESM and Zeta.ESM
 FOOK2 - [DESTRUCTION] Mothership Zeta - Statics.esp
 : FOOK2 - Main.ESM and Zeta.ESM
