@@ -41,6 +41,7 @@ RI_Core.esm
 FaceMe.esm
 % {{BASH:NpcFaces,Hair,Eyes}}
 Destruction.esm
+% {{BASH:Destructable,Script}}
 S.T.A.L.K.E.R. Call of D.C..esm
 ARSENAL MOD.esm
 FallsChurchMetroFix.esm
@@ -428,6 +429,7 @@ BoSPatrols.esp
 MarkB50K_Wasteland_Patrols.esp
 :Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm
 FF_DestructibleRadios.esp
+% {{BASH:Destructable}}
 MiniVaultNoScav.esp
 Ammo Bench - Alien Power Cell.esp
 Ammo Bench - Artisan.esp
@@ -486,8 +488,10 @@ Treasure Maps_Secrets of the Wasteland.esp
 Treasure Maps_Bobblehead Edition.esp
 Treasure Maps_A Fist Full of Caps.esp
 Destruction - Main.esp
+% {{BASH:Destructable,Script,Graphics}}
 Destruction - Main - Statics.esp
 Destruction - DLC.esp
+% {{BASH:Destructable,Script}}
 Destruction - DLC - Statics.esp
 Classic Fallout Weapons BETA.esp
 BusworldV1.05.esp
