@@ -178,6 +178,8 @@ IbIui - OA.esp
 IbIui - Pitt.esp
 IbIui - PL.esp
 IbIui.esp
+PIDL-lite.esp
+PIDL-lite(metric).esp
 QZ No VATS Radial Blur.esp
 FaceMe.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
@@ -394,7 +396,15 @@ HeirApparent.esp
 HeirApparentFOOK.esp
 IntoTheDeepWoods.esp
 PLweightadjust.esp
+: PointLookout.ESM
 PLFewerItems.esp
+: PointLookout.ESM
+The Mantis Imperative - Mantis.esp
+The Mantis Imperative - Jello.esp
+The Mantis Imperative - XP.esp
+The Mantis Imperative - SkillBooks.esp
+The Mantis Imperative - Medical.esp
+The Mantis Imperative - Combat.esp
 AReasonedArgument.esp
 MegatonContracts.esp
 Regulators.esp
@@ -690,6 +700,7 @@ Sally Fix 2.esp
 PB FOOK2 [DIK].esp
 
 GSoS - FOOK2 Open Beta - Combat and Sneaking Overhaul.esp
+GSoS - CaSO - BS Fix.esp
 GSoS - FOOK2 Open Beta - XP Tag Perks.esp
 GSoS - FOOK2 Open Beta - Stimpaks Revamp.esp
 GSoS - FOOK2 Open Beta - Stimpaks Revamp v1.esp
@@ -900,6 +911,8 @@ Testweapon Arms x Arms.esp
 Test-Weapon_additional armor.esp
 % {{BASH:Invent}}
 Testweapon_SP  MedicKuma-Spirits.esp
+xCALIBRmunitions.esp
+xCALIBRmunitions_FOSEnhancements.esp
 
 \-------
 \Cosmetics
@@ -1064,9 +1077,10 @@ Mart's Mutant Mod - FOOK.esp
 * Get FOOK2
 Mart's Mutant Mod - FOOK2.esp
 : FOOK2 - Main.ESM and Mart's Mutant Mod.esm
+% {{BASH:Relations}}
 Mart's Mutant Mod - FOOK2 - DIK.esp
 :FO3 Wanderers Edition - Main File.esm
-
+% {{BASH:Relations}}
 Mart's Mutant Mod - FWE with EVE.esp
 : FO3 Wanderers Edition - Main File.esm
 : EVE.esp
