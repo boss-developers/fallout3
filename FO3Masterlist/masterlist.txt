@@ -1079,7 +1079,7 @@ Mart's Mutant Mod - FOOK2.esp
 : FOOK2 - Main.ESM and Mart's Mutant Mod.esm
 % {{BASH:Relations}}
 Mart's Mutant Mod - FOOK2 - DIK.esp
-:FO3 Wanderers Edition - Main File.esm
+: FOOK2 - Main.ESM, FOOK2 - [DIK] DLC Improvement Kit.esm and Mart's Mutant Mod.esm
 % {{BASH:Relations}}
 Mart's Mutant Mod - FWE with EVE.esp
 : FO3 Wanderers Edition - Main File.esm
