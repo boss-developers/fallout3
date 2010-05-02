@@ -21,7 +21,6 @@
 \----
 Fallout3.esm
 ? Masterlist Information: $Revision$, $Date::                           $, $LastChangedBy$
-Hairday.esm
 Lings.esm
 Anchorage.esm
 ThePitt.esm
@@ -58,6 +57,9 @@ CRAFTHelper.esm
 Ammo Bench.esm
 Refurbishes [ALL].esm
 ArefuExpandedByAzar.esm
+COMM.esm
+Cotozic's Vault Home.esm
+vault64.esm
 FOOK2 - Main.esm
 % {{BASH:Hair,Invent,Stats,Relations}}
 :CALIBR.esm
@@ -358,6 +360,7 @@ GhostRadio.esp
 mutantradio.esp
 LookoutRadio.esp
 RadioTenpenny.esp
+We Jazz.esp
 GNR Fix.esp
 ReneersRadioMod.esp
 RadioHotkey.esp
@@ -445,6 +448,8 @@ Regulators _Overhaul_lvl2.esp
 A Trail of Crumbs.esp
 The Librarian.esp
 firelance-quest.esp
+TriggerFirelance.esp
+lamplight secrets.esp
 
 \------------
 \Early misc B
@@ -601,6 +606,7 @@ Toasty's Rooved Megaton, Holey Light.esp
 Tenpenny Suite.esp
 Hot n Dusty.esp
 Greenerworld.esp
+GreenWorld.esp
 Madhswasteland.esp
 Megaton Tweaks - Snipers Edition.esp
 AbandonedShack.esp
@@ -667,6 +673,13 @@ CEH_DLC02_03_Opt.esp
 CEH_DLC04_05_Opt.esp
 CEH_S_241J_Opt.esp
 CEH_Shojo_07_Opt.esp
+Cotozic'sVaultHomeGlobalPatch.esp
+The Yard V1.3.esp
+The Yard v1.3 - Games Theme.esp
+The Yard V1.6 - The Lab.esp
+The Yard V1.5 - The Lab - No Items.esp
+Underground Home.esp
+PersonalVertibird.esp
 
 \---------
 \Overhauls
@@ -788,7 +801,7 @@ CRAFTHelper_ReplaceWorkbenchScriptFWE.esp
 "CRAFT - Activation Perk.esp
 FaceMe-FWE.esp
 DarNifiedUIF3_FWE.esp
-? DO not use with latest FWE, it is already integrated.
+? Do not use with latest FWE, it is already integrated.
 Refurbish [OA] - FWE.esp
 FO3 Wanderers Edition - Project Beauty (Followers Enhanced).esp
 
@@ -945,12 +958,19 @@ Testweapon_SP  MedicKuma-Spirits.esp
 xCALIBRmunitions.esp
 xCALIBRmunitions_FOSEnhancements.esp
 ZL-ACR.esp
+MissingUniqueArmorClothing-Base.esp
+MissingUniqueArmorClothing-Enhanced.esp
+MissingUniqueArmorClothing-RenamerOnly.esp
+MissingUniqueArmorClothing-Enhanced-NSF.esp
+Star Trek Tri-Beam Phaser.esp
+AER10V2 Laser Rifle.esp
 
 \-------
 \Cosmetics
 \-------
 DIM CUSTOM PRESETS V1.3WEB.esp
 F3Eyelashes.esp
+_R_Tribals.esp
 
 \-----------
 \Middle Misc A
@@ -980,6 +1000,11 @@ IgDRDeathclawGauntletFix.esp
 KarmaRevampExtreme1010.esp
 ReneerInvisibleKarmaMod.esp
 Improved Turret Hacking.esp
+Childhood Beginning.esp
+: EnhancedChildren.esm
+CB Add-on.esp
+Childhood Beginning v3 Tweaks.esp
+: EnhancedChildren.esm
 
 \----------
 \ EVE Stuff
@@ -1320,7 +1345,6 @@ yaDisguisesMod-DLC-BrokenSteel.esp
 yaDisguisesMod-DLC-ThePitt.esp
 No[EMPTY]ContainerMessages.esp
 5xlvling.esp
-CRBSOR.esp
 TimeScaleTo3.esp
 TimeScaleTo4.esp
 TimeScaleTo5.esp
@@ -1330,6 +1354,8 @@ TimeScaleTo25.esp
 TalkToAnybody.esp
 VATS - MCE.esp
 VatsLongerDistance.esp
+MZ No Karma Loss.esp
+NoQuestItems.esp
 
 SpeechLite.esp
 SpeechLiteCombatDLC.esp
@@ -1529,6 +1555,8 @@ xCALIBR_FWE5_Override.esp
 Choose your own hairstyle (load this last on FOMM).esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 tubunarFWE.esp
+CRBSOR.esp
+? Do not use with latest FWE, it is already integrated.
 
 \------------
 \Bashed Patch
