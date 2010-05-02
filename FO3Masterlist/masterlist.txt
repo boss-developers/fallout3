@@ -292,6 +292,8 @@ Arwen_Camera.esp
 Vanity Camera Mod.esp
 KTs_Centercamera.esp
 Centered 3P Cam.esp
+ROTS2.esp
+ROTS3.esp
 Zumbs' Equipable Pip Boy.esp
 "That Glove.esp
 "Pip Boy Be Gone Mark II.esp
@@ -939,6 +941,7 @@ Test-Weapon_additional armor.esp
 Testweapon_SP  MedicKuma-Spirits.esp
 xCALIBRmunitions.esp
 xCALIBRmunitions_FOSEnhancements.esp
+ZL-ACR.esp
 
 \-------
 \Cosmetics
@@ -1038,6 +1041,7 @@ S.T.A.L.K.E.R. Call of D.C..esp
 S.T.A.L.K.E.R. MOD.esp
 ARSENAL MOD.esp
 Responsive Kill Reactions.esp
+ImmersiveHealth.esp
 
 \-----------------
 \Mart's Mutant Mod
