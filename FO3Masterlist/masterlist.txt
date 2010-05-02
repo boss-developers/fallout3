@@ -93,6 +93,10 @@ RTS.esm
 "ArefuExpandedByAzar.esm
 "1PipboyPDA.esp
 RRCompanionVault.esm
+RRGuards.esm
+RR5MoreMales.esm
+RR5MoreFemales.esm
+RR All Vanilla Companions.esm
 Nos' RR Companions.esm
 RR Vault 1 Alternate Guards.esm
 StreetLights.esm
@@ -201,6 +205,10 @@ norepairneededv2.esp
 Hi-Res Weapons & Ammo Textures.esp
 Hi-Res Weapons & Ammo Textures - The Pitt.esp
 :The Pitt DLC
+BatteriesPlusV1_2.esp
+% {{BASH:Graphics}}
+Realistic icons.esp
+% {{BASH:Graphics}}
 StreetLights - Wasteland.esp
 MrSlackPants-DecentPipBoyLight.esp
 Fellout-pipboylight.esp
@@ -309,6 +317,15 @@ Lights.esp
 LightBall.esp
 Feng Shui.esp
 Feng Shui - Keymap Template.esp
+PAL - MERGED.esp
+"PAL - BASE File.esp
+PAL - BASE File.esp
+"PAL - MERGED.esp
+PAL - Operation Anchorage.esp
+PAL - The Pitt.esp
+PAL - Broken Steel.esp
+PAL - Point Lookout.esp
+PAL - Mothership Zeta.esp
 
 \------
 \Sound
@@ -425,6 +442,7 @@ Regulators _Overhaul_lvl2.esp
 "Regulators.esp
 A Trail of Crumbs.esp
 The Librarian.esp
+firelance-quest.esp
 
 \------------
 \Early misc B
@@ -448,6 +466,10 @@ Ammo Bench - CALIBR.esp
 Ammo Bench - Car Mechanic.esp
 Ammo Bench - Old Ammo-Benches.esp
 Ammo Bench - Toolkit Retex.esp
+RobCo Universal Battery Charger Kit.esp
+"RobCo Universal Battery Charger Kit - Zeta.esp
+RobCo Universal Battery Charger Kit - Zeta.esp
+"RobCo Universal Battery Charger Kit.esp
 tubRRCompound.esp
 rockville.esp
 Stealth Kills Enabled.esp
@@ -483,6 +505,7 @@ UrgeWashingtonBoS.esp
 tubRRCompound.esp
 merc.esp
 D.C. Confidential.esp
+RRWastelandPosters.esp
 RR Vanilla Companion Integration.esp
 RRUmpaDance.esp
 RR Companion Vault 20thCW Supply.esp
@@ -515,6 +538,7 @@ bzArmour.esp
 bzArmour-nude.esp
 bzArmour-non-nude.esp
 bzBodySuits.esp
+Mannequin.esp
 
 \---
 \NPC
@@ -868,6 +892,8 @@ Outcast DX.esp
 % {{BASH:Graphics}}
 Tribal_DX.esp
 % {{BASH:Deflst,Graphics}}
+BoS_FOOKedition_Armor.esp
+% {{BASH:Graphics}}
 TombRaider.esp
 Prototype Medic Armor Upgrade.esp
 Tactical Vest CIRAS.esp
@@ -1287,9 +1313,12 @@ TimeScaleTo15.esp
 TimeScaleTo20.esp
 TimeScaleTo25.esp
 TalkToAnybody.esp
+VATS - MCE.esp
+VatsLongerDistance.esp
 
 SpeechLite.esp
 SpeechLiteCombatDLC.esp
+
 \-------
 \Phalanx
 \-------
