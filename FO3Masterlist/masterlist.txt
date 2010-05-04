@@ -546,6 +546,7 @@ bzArmour-nude.esp
 bzArmour-non-nude.esp
 bzBodySuits.esp
 Mannequin.esp
+Slof's Boners!.esp
 
 \---
 \NPC
