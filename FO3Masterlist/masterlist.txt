@@ -33,8 +33,9 @@ LingsDLC.esm
 HairPack.esm
 % {{BASH:Hair,Eyes}}
 Project Beauty HD version.esm
+* Old. Download the latest Project Beauty files.
+Project Beauty.esm
 % {{BASH:NpcFaces,Hair,Eyes,Voice-M,Voice-F,Body-M,Body-F,R.Teeth,R.Mouth}}
-"Project Beauty.esp
 Hairday.esm
 RI_Core.esm
 FaceMe.esm
@@ -108,6 +109,7 @@ EnclaveCommander-OA-Pitt-Steel.esm
 CrossModData.esm
 BHR&M.esm
 PB mika.esm
+* Old. Download the latest Project Beauty files.
 Animy_prostitution.esm
 :CrossModData.esm
 ParadiseHome.esm
@@ -150,10 +152,7 @@ BSMovieSkip.esp
 \------------------
 
 Project Beauty.esp
-? Either Project Beauty HD version.esm OR Project Beauty.esp please!
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
-"Project Beauty HD version.esm
-? Either Project Beauty HD version.esm OR Project Beauty.esp please!
+* Old. Download the latest Project Beauty files.
 Project Beauty- Broken Steel.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Project Beauty- Point Lookout.esp
@@ -1089,13 +1088,11 @@ Mart's Mutant Mod.esp
 Mart's Mutant Mod - UF3P.esp
 % {{BASH:Invent}}
 PB MMM HD.esp
-% {{BASH:NpcFaces,Hair,Eyes,Voice-M,Voice-F,Body-M,Body-F,R.Teeth,R.Mouth}}
-:Project Beauty HD version.esm
-"Project Beauty.esp
+* Old. Download the latest Project Beauty files.
 PB MMM.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
-"Project Beauty HD version.esm
-:Project Beauty.esp
+* Old. Download the latest Project Beauty files.
+Mart's Mutant Mod - Project Beauty.esp
+% {{BASH:NpcFaces,Hair,Eyes,Voice-M,Voice-F,Body-M,Body-F,R.Teeth,R.Mouth}}
 Mart's Mutant Mod - DLC Anchorage.esp
 : Anchorage.ESM
 Mart's Mutant Mod - DLC The Pitt.esp
@@ -1152,16 +1149,17 @@ Mart's Mutant Mod - FWE with EVE.esp
 : EVE.esp
 CT_FalloutAdvanced - MMM.esp
 Project Beauty- MMM Raiders.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+* Old. Download the latest Project Beauty files.
 ARSENAL MOD+MMM.esp
 Mutant perks for MMM 1.9.esp
 Mart's Mutant Mod - FWE Master Release.esp
 % {{BASH:Invent,Relations}}
 S.T.A.L.K.E.R. Call of D.C.+MMM.esp
 S.T.A.L.K.E.R. Mutants[addon for MMM].esp
-Mart's Mutant Mod - Project Beauty.esp
 Mart's Mutant Mod - Project Beauty + FWE.esp
 Mart's Mutant Mod - Project Beauty (HD Addition).esp
+* Old. Download the latest Project Beauty files.
+
 
 \-----------
 \Middle Misc C
