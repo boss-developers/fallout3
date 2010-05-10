@@ -162,6 +162,8 @@ Project Beauty- Point Lookout.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
 Raider preset beta.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
+Project Beauty HD version [Hair Fix].esp
+% {{BASH:NpcFaces,NoMerge}} and deactivate.
 Fast VATS 1.esp
 " Fast VATS 2.esp
 Fast VATS 2.esp
