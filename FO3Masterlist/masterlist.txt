@@ -763,7 +763,7 @@ GSoS - Car Explosions.esp
 \Fallout Wanderer's Edition
 \--------------------------
 FO3 Wanderers Edition - Main File.esp
-% {{BASH:Deflst,Delev,Reflst,Relev}}
+% {{BASH:Deflst,Delev,Relev}}
 FO3 Wanderers Edition - DLC Anchorage.esp
 % {{BASH:Deflst}}
 FO3 Wanderers Edition - DLC The Pitt.esp
@@ -842,11 +842,11 @@ Tailor Maid Black Retex.esp
 \--------------
 
 WeaponModKits.esp
-% {{BASH:Deflst,Reflst}}
+% {{BASH:Deflst}}
 WeaponModKits - FOOK.esp
-% {{BASH:Deflst,Reflst}}
+% {{BASH:Deflst}}
 WeaponModKits - FWE Master Release.esp
-% {{BASH:Deflst,Reflst}}
+% {{BASH:Deflst}}
 WeaponModKits - OperationAnchorage.esp
 :Anchorage.ESM
 WeaponModKits - ThePitt.esp
@@ -858,7 +858,7 @@ WeaponModKits - PointLookout.esp
 WeaponModKits - Zeta.esp
 :Zeta.ESM
 WeaponModKits - FWE Optional Worn Weapons.esp
-% {{BASH:Deflst,Reflst}}
+% {{BASH:Deflst}}
 CRAFTHelper_WMK.esp
 SelfSurgeryKit.esp
 
