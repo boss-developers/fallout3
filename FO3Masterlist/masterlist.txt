@@ -333,6 +333,7 @@ PAL - The Pitt.esp
 PAL - Broken Steel.esp
 PAL - Point Lookout.esp
 PAL - Mothership Zeta.esp
+PCB.esp
 
 \------
 \Sound
@@ -1514,8 +1515,72 @@ megalight.esp
 20th Century v4 ALIVE (Vault 101).esp
 20th Century v4 ALIVE (Chinese Ghoul).esp
 20th Century v4 ALIVE (Talon_Regulator).esp
-
 CaravanEssential.esp
+Achievement Remover [FO3+OA+BS].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA+TP+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA+TP+PL].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+BS+PL].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+BS+PL+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+BS].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA+TP].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA+PL+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA+BS+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+PL+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+PL].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+TP+BS+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA+BS+PL+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+TP+BS+PL+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA+PL].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA+BS+PL].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+BS+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+TP].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA+TP+BS+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA+TP+BS+PL].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA+TP+BS].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+TP+PL].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+TP+PL+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+TP+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA+TP+PL+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [All].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+TP+BS].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+TP+BS+PL].esp
+? Choose only one 'Achievement Remover' ESP.
+
 \---------
 \Pose mods
 \---------
