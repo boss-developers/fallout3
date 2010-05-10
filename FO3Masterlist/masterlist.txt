@@ -131,6 +131,9 @@ Fallout 3 Sexus.esm
 ChildrenEmpire.esm
 MiniVault+Race.esm
 RH_IRONSIGHTS.esm
+Abbreviated Effects.esm
+% {{BASH:Names}}
+? Do not use with latest FWE, it is already integrated.
 
 \------------------
 \Unofficial Patches/Fixes
@@ -314,6 +317,7 @@ choose_XP_FOSE.esp
 RH_IronSights_Basic_VanillaPlugin.esp
 RH_IronSights_Basic_PittPlugin.esp
 RH_IronSights_Basic_PointLookoutPlugin.esp
+1alexscorpionFPSanimations.esp
 OneKeyArmor.esp
 Automated FOV.esp
 Lights.esp
@@ -449,6 +453,8 @@ The Librarian.esp
 firelance-quest.esp
 TriggerFirelance.esp
 lamplight secrets.esp
+The Mantis Imperative - Mantis.esp
+The Mantis Imperative - Jello.esp
 
 \------------
 \Early misc B
@@ -904,14 +910,19 @@ Tactical Weapons by gRs Frederyck.esp
 \Armour/clothes
 BoS_DX.esp
 % {{BASH:Graphics}}
+? Do not use with latest FOOK2, it is already integrated.
 WinterizedT51bDX.esp
 % {{BASH:Graphics}}
+? Do not use with latest FOOK2, it is already integrated.
 Outcast DX.esp
 % {{BASH:Graphics}}
+? Do not use with latest FOOK2, it is already integrated.
 Tribal_DX.esp
 % {{BASH:Deflst,Graphics}}
+? Do not use with latest FOOK2, it is already integrated.
 BoS_FOOKedition_Armor.esp
 % {{BASH:Graphics}}
+? Do not use with latest FOOK2, it is already integrated.
 TombRaider.esp
 Prototype Medic Armor Upgrade.esp
 Tactical Vest CIRAS.esp
@@ -964,6 +975,16 @@ MissingUniqueArmorClothing-RenamerOnly.esp
 MissingUniqueArmorClothing-Enhanced-NSF.esp
 Star Trek Tri-Beam Phaser.esp
 AER10V2 Laser Rifle.esp
+1SB_VenomousArmor.esp
+Colossus Outcast.esp
+colossus BOS.esp
+COL Enclave VER2.esp
+% {{BASH:Graphics}}
+COL Enclave Hell.esp
+% {{BASH:Graphics}}
+MPammo.esp
+VashDeagleV5.esp
+Wattz Laser Non Replacer Mod.esp
 
 \-------
 \Cosmetics
@@ -1077,6 +1098,21 @@ AddBottle.esp
 Persistent Skill Books.esp
 ? DO not use with latest FWE, it is already integrated.
 VDSC.esp
+PlasmaWeaponsRedesignRebalance.esp
+% {{BASH:Graphics,Sound}}
+? DO not use with latest FWE, it is already integrated.
+PlasmaRifleRedesign.esp
+% {{BASH:Graphics,Sound}}
+? DO not use with latest FWE, it is already integrated.
+PlasmaRifleRedesign_A321only.esp
+% {{BASH:Graphics,Sound}}
+? DO not use with latest FWE, it is already integrated.
+PlasmaRifleRedesign_standardonly.esp
+% {{BASH:Graphics,Sound}}
+? DO not use with latest FWE, it is already integrated.
+PlasmaPistolRedesign.esp
+% {{BASH:Graphics,Sound}}
+? DO not use with latest FWE, it is already integrated.
 
 \-----------------
 \Mart's Mutant Mod
