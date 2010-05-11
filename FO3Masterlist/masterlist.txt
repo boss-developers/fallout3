@@ -571,12 +571,15 @@ Slof's Boners!.esp
 \NPC
 \---
 
-
+CrowdedCities_v2.esp
+" CrowdedCities_v2_lessNPCs.esp
+CrowdedCities_v2_lessNPCs.esp
+" CrowdedCities_v2.esp
 MTC Wasteland Travellers.esp
 MTC Wasteland Travellers (Optional)- Crowded Cities less NPCs.esp
-"MTC Wasteland Travellers (Optional)- Crowded Cities.esp
+" MTC Wasteland Travellers (Optional)- Crowded Cities.esp
 MTC Wasteland Travellers (Optional)- Crowded Cities.esp
-"MTC Wasteland Travellers (Optional)- Crowded Cities less NPCs.esp
+" MTC Wasteland Travellers (Optional)- Crowded Cities less NPCs.esp
 Clover Makeover - Asian Bedraggled.esp
 Angel.esp
 EZ_MoreVoices.esp
@@ -611,7 +614,6 @@ RedTricycleBoot.esp
 MiniServants.esp
 After War.esp
 ClutterFreeWorld.esp
-CrowdedCities_v2.esp
 megaton_lighting.esp
 B.B.G.esp
 Megaton Park.esp
@@ -792,23 +794,25 @@ FO3 Wanderers Edition - DLC Mothership Zeta.esp
 FO3 Wanderers Edition - Project Beauty.esp
 FO3 Wanderers Edition - Project Beauty (Followers Enhanced B-S).esp
 FO3 Wanderers Edition - Project Beauty (HD Addition).esp
-:Project Beauty HD version.esm
-"Project Beauty.esp
+: Project Beauty HD version.esm
+" Project Beauty.esp
 FO3 Wanderers Edition - UFP Support.esp
 FO3 Wanderers Edition - Alternate Travel.esp
 FO3 Wanderers Edition - Lvl 30 High Skills.esp
 FO3 Wanderers Edition - Lvl 30 Balance.esp
-"FO3 Wanderers Edition - Lvl 30 More Skills.esp
+" FO3 Wanderers Edition - Lvl 30 More Skills.esp
 FO3 Wanderers Edition - Lvl 30 More Skills.esp
-"FO3 Wanderers Edition - Lvl 30 Balance.esp
+" FO3 Wanderers Edition - Lvl 30 Balance.esp
 FO3 Wanderers Edition - Followers Enhanced.esp
-"FO3 Wanderers Edition - Followers Enhanced (BrokenSteel).esp:
+" FO3 Wanderers Edition - Followers Enhanced (BrokenSteel).esp:
 FO3 Wanderers Edition - Followers Enhanced (BrokenSteel).esp
-"FO3 Wanderers Edition - Followers Enhanced.esp
+" FO3 Wanderers Edition - Followers Enhanced.esp
+FO3 Wanderers Edition - Optional Free Play After MQ.esp
+" BrokenSteel.esm
 FO3 Wanderers Edition - Optional Free Play After Mainquest.esp
-"BrokenSteel.esm
+" BrokenSteel.esm
 FO3 Wanderers Edition - Optional No Fast Travel.esp
-"FO3 Wanderers Edition - Alternate Travel.esp
+" FO3 Wanderers Edition - Alternate Travel.esp
 FO3 Wanderers Edition - Optional Restore Tracers.esp
 FO3 Wanderers Edition - Optional VATS Halftime.esp
 FO3 Wanderers Edition - Optional VATS Realtime.esp
@@ -822,7 +826,7 @@ FO3 Wanderers Edition - FOOK Support.esp
 CRAFTHelper_FWE.esp
 CRAFTHelper_FWEAlternateTravel.esp
 CRAFTHelper_ReplaceWorkbenchScriptFWE.esp
-"CRAFT - Activation Perk.esp
+" CRAFT - Activation Perk.esp
 FaceMe-FWE.esp
 DarNifiedUIF3_FWE.esp
 ? Do not use with latest FWE, it is already integrated.
@@ -1420,9 +1424,14 @@ VatsLongerDistance.esp
 MZ No Karma Loss.esp
 NoQuestItems.esp
 FNNCQ_Mesmetron.esp
+Inebriation.esp
+" Inebriation.esp
+Inebriation-FOSE.esp
+" Inebriation-FOSE.esp
 
 SpeechLite.esp
 SpeechLiteCombatDLC.esp
+
 
 \-------
 \Phalanx
