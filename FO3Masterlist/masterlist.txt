@@ -136,6 +136,7 @@ RH_IRONSIGHTS.esm
 Abbreviated Effects.esm
 % {{BASH:Names}}
 ? Do not use with latest FWE, it is already integrated.
+FNNCQ.esm
 
 \------------------
 \Unofficial Patches/Fixes
@@ -464,6 +465,7 @@ The Librarian.esp
 firelance-quest.esp
 TriggerFirelance.esp
 lamplight secrets.esp
+AQFH_C_103.esp
 
 \------------
 \Early misc B
@@ -547,6 +549,7 @@ Destruction - Main - Statics.esp
 Destruction - DLC.esp
 % {{BASH:Destructable,Script}}
 Destruction - DLC - Statics.esp
+DESTRUCt61SP.ESP
 Classic Fallout Weapons BETA.esp
 BusworldV1.05.esp
 ? Possible cause of CTDs, try disabling to test for improvments, or try BusworldV1.05noexpl.esp
@@ -643,6 +646,7 @@ SecuredBarn.esp
 TheRaiderHut.esp
 Simple Camp.esp
 Ghoul Mansion v3.esp
+Ghoul Mansion v3.1.esp
 Kaza's NorthwestSeneca.esp
 Meresti Metro Station Entrance.esp
 BigTown - Outskirts.esp
@@ -697,6 +701,8 @@ The Yard V1.6 - The Lab.esp
 The Yard V1.5 - The Lab - No Items.esp
 Underground Home.esp
 PersonalVertibird.esp
+FLAK.esp
+MyMansion.esp
 
 \---------
 \Overhauls
@@ -747,6 +753,7 @@ FOOK2 - [DESTRUCTION] Mothership Zeta.esp
 : FOOK2 - Main.ESM and Zeta.ESM
 FOOK2 - [DESTRUCTION] Mothership Zeta - Statics.esp
 : FOOK2 - Main.ESM and Zeta.ESM
+DESTRUCt61f0k2.ESP
 FOOK2 - Main Level Up Fix 1.3.esp
 FOOK2 - DIK Level Up Fix 1.3.esp
 [DIK] DLC Transition Hotfix.esp
@@ -886,8 +893,6 @@ jmschematics - CRAFT.esp
 Hi-Res Weapons & Ammo Textures - The Pitt.esp
 Hi-Res Weapons & Ammo Textures.esp
 Reykjavik.esp
-ChineseStealthArmorFixed.esp
-Tesla Metal Armor (Extended).esp
 Remote Bottlecap Mines ADVANCED.esp
 Glock 86 Plasma Pistol (scoped).esp
 P94 Plasma Rifle.esp
@@ -916,7 +921,19 @@ DanWessonPPC357(CALIBR).esp
 18inchCSLatinMachete.esp
 P94-95.esp
 Tactical Weapons by gRs Frederyck.esp
+xCALIBRmunitions.esp
+xCALIBRmunitions_FOSEnhancements.esp
+ZL-ACR.esp
+ZL-ACRForFWE.esp
+Star Trek Tri-Beam Phaser.esp
+AER10V2 Laser Rifle.esp
+MPammo.esp
+VashDeagleV5.esp
+Wattz Laser Non Replacer Mod.esp
+
 \Armour/clothes
+ChineseStealthArmorFixed.esp
+Tesla Metal Armor (Extended).esp
 BoS_DX.esp
 % {{BASH:Graphics}}
 ? Do not use with latest FOOK2, it is already integrated.
@@ -975,15 +992,10 @@ Testweapon Arms x Arms.esp
 Test-Weapon_additional armor.esp
 % {{BASH:Invent}}
 Testweapon_SP  MedicKuma-Spirits.esp
-xCALIBRmunitions.esp
-xCALIBRmunitions_FOSEnhancements.esp
-ZL-ACR.esp
 MissingUniqueArmorClothing-Base.esp
 MissingUniqueArmorClothing-Enhanced.esp
 MissingUniqueArmorClothing-RenamerOnly.esp
 MissingUniqueArmorClothing-Enhanced-NSF.esp
-Star Trek Tri-Beam Phaser.esp
-AER10V2 Laser Rifle.esp
 1SB_VenomousArmor.esp
 Colossus Outcast.esp
 colossus BOS.esp
@@ -991,9 +1003,12 @@ COL Enclave VER2.esp
 % {{BASH:Graphics}}
 COL Enclave Hell.esp
 % {{BASH:Graphics}}
-MPammo.esp
-VashDeagleV5.esp
-Wattz Laser Non Replacer Mod.esp
+Ghostbodysuitv3.esp
+Micro Bikini and more recolors.esp
+MicroBikini_recolour.esp
+CSwimsuit_and_Harness_recolor.esp
+thongpack.esp
+ignis.esp
 
 \-------
 \Cosmetics
@@ -1204,7 +1219,10 @@ S.T.A.L.K.E.R. Mutants[addon for MMM].esp
 Mart's Mutant Mod - Project Beauty + FWE.esp
 Mart's Mutant Mod - Project Beauty (HD Addition).esp
 * Old. Download the latest Project Beauty files.
-
+Mart's Mutant Mod - Linged.esp
+Mart's Mutant Mod - CFW.esp
+Mart's Mutant Mod - XFO.esp
+LingsPrettyThings-FOOK2-MMM.esp
 
 \-----------
 \Middle Misc C
@@ -1380,6 +1398,7 @@ lessviewdistance.esp
 lessviewdistanceThePitt.esp
 OAlessviewdistance.esp
 ACE2-0.esp
+ACE2-1b.esp
 Mighty Mouse Alternative 4.esp
 Ammo Press Fix.esp
 Point Lookout Travel Fix.esp
@@ -1400,6 +1419,7 @@ VATS - MCE.esp
 VatsLongerDistance.esp
 MZ No Karma Loss.esp
 NoQuestItems.esp
+FNNCQ_Mesmetron.esp
 
 SpeechLite.esp
 SpeechLiteCombatDLC.esp
@@ -1599,6 +1619,8 @@ Achievement Remover [FO3+TP+BS].esp
 ? Choose only one 'Achievement Remover' ESP.
 Achievement Remover [FO3+TP+BS+PL].esp
 ? Choose only one 'Achievement Remover' ESP.
+DUIF3Extras.esp
+? Obsolete. Update DarNifiedUIF3 to latest version.
 
 \---------
 \Pose mods
