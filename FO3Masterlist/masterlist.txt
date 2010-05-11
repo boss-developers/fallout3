@@ -57,6 +57,7 @@ xCALIBR.esm
 CRAFTHelper.esm
 Ammo Bench.esm
 Refurbishes [ALL].esm
+? Do not use with latest FOOK2, it is already integrated.
 ArefuExpandedByAzar.esm
 COMM.esm
 Cotozic's Vault Home.esm
@@ -103,6 +104,7 @@ RR All Vanilla Companions.esm
 Nos' RR Companions.esm
 RR Vault 1 Alternate Guards.esm
 StreetLights.esm
+? Do not use with latest FOOK2, it is already integrated.
 EnclaveCommander-Steel.esm
 EnclaveCommander-OA-Steel.esm
 EnclaveCommander-OA-Pitt-Steel.esm
@@ -178,9 +180,13 @@ playbackdelay_001.esp
 CT_FalloutAdvanced - DLC.esp
 CT_FalloutAdvanced - AAOFF.esp
 Refurbish [TP].esp
+? Do not use with latest FOOK2, it is already integrated.
 Refurbish [BS].esp
+? Do not use with latest FOOK2, it is already integrated.
 Refurbish [PL].esp
+? Do not use with latest FOOK2, it is already integrated.
 Refurbish [MZ].esp
+? Do not use with latest FOOK2, it is already integrated.
 DarNifiedUIF3.esp
 Noise Filter.esp
 IbIui - BS.esp
@@ -216,6 +222,7 @@ BatteriesPlusV1_2.esp
 Realistic icons.esp
 % {{BASH:Graphics}}
 StreetLights - Wasteland.esp
+? Do not use with latest FOOK2, it is already integrated.
 MrSlackPants-DecentPipBoyLight.esp
 Fellout-pipboylight.esp
 RaiderMercenaryExpanded.esp
@@ -369,6 +376,7 @@ RadioTenpenny.esp
 We Jazz.esp
 GNR Fix.esp
 ReneersRadioMod.esp
+? Do not use with latest FOOK2, it is already integrated.
 RadioHotkey.esp
 RadioHotkey_RadioBluesAddon.esp
 Radio Stutter fix.esp
@@ -456,8 +464,6 @@ The Librarian.esp
 firelance-quest.esp
 TriggerFirelance.esp
 lamplight secrets.esp
-The Mantis Imperative - Mantis.esp
-The Mantis Imperative - Jello.esp
 
 \------------
 \Early misc B
@@ -547,7 +553,9 @@ BusworldV1.05.esp
 BusworldV1.05noexpl.esp
 BusworldV1.05d.esp
 FPS Grenade Hotkey.esp
+? Do not use with latest FOOK2, it is already integrated.
 FPS Grenade Hotkey - Zeta addon.esp
+? Do not use with latest FOOK2, it is already integrated.
 NoKnockedOverComments.esp
 bzArmour.esp
 bzArmour-nude.esp
@@ -1400,15 +1408,17 @@ SpeechLiteCombatDLC.esp
 \Phalanx
 \-------
 Phalanx-MainFollowerModule.esp
+? Do not use with latest FOOK2, it is already integrated.
 Phalanx-BrokenSteel-Integration.esp
 :BrokenSteel.esm
+? Do not use with latest FOOK2, it is already integrated.
 Phalanx-PointLookout-Integration.esp
 :PointLookout.esm
+? Do not use with latest FOOK2, it is already integrated.
 Phalanx-PerksAndStims.esp
 Phalanx-Obedient-Dogmeat.esp
-
-
 Dogmeat Never Dies.esp
+
 \-----
 \ Lastish
 \-----
@@ -1421,15 +1431,21 @@ Enhanced Weather - Weather Sounds in Interiors.esp
 Enhanced Weather - Sneak Bonus during Storms.esp
 Fellout-Full.esp
 "Fellout-SOTD.esp
+? Do not use with latest FOOK2, it is already integrated.
 Fellout-SOTD.esp
 "Either Fellout-Full.esp
+? Do not use with latest FOOK2, it is already integrated.
 Fellout-Anchorage.esp
 :Anchorage.esm
+? Do not use with latest FOOK2, it is already integrated.
 Fellout-BrokenSteel.esp
 :BrokenSteel.esm
+? Do not use with latest FOOK2, it is already integrated.
 Fellout-PointLookout.esp
 :PointLookout.esm
+? Do not use with latest FOOK2, it is already integrated.
 Fellout-Zeta.esp
+? Do not use with latest FOOK2, it is already integrated.
 FelloutWithLightingOverhual-1.0.esp
 % {{BASH:C.Light}}
 FOOK2 Nightvision for Fellout.esp
@@ -1508,6 +1524,7 @@ pip60.esp
 pip150.esp
 pipomfg.esp
 megalight.esp
+? Do not use with latest FOOK2, it is already integrated.
 20th Century v4 ALIVE (Vendor).esp
 20th Century v4 ALIVE (NPC_Settler).esp
 20th Century v4 ALIVE (Raider).esp
