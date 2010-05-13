@@ -62,6 +62,8 @@ ArefuExpandedByAzar.esm
 COMM.esm
 Cotozic's Vault Home.esm
 vault64.esm
+RoadWardens.esm
+% {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.Stats,Factions,Invent,Scripts,ScriptContents}}
 FOOK2 - Main.esm
 % {{BASH:Hair,Invent,Stats,Relations}}
 :CALIBR.esm
@@ -78,7 +80,7 @@ FOOK2 - [DIK] DLC Improvement Kit.esm
 : CALIBR.esm
 : FOOK2 - Main.ESM
 FO3 Wanderers Edition - Main File.esm
-% {{BASH:Deflst,Delev,Invent,Relations,Relev,Stats}}
+% {{BASH:Actors.ACBS,Actors.Stats,Deflst,Delev,Invent,Relations,Relev,Stats}}
 :CRAFT.esm
 :CALIBR.esm
 Mart's Mutant Mod.esm
@@ -1156,7 +1158,7 @@ PB MMM HD.esp
 PB MMM.esp
 * Old. Download the latest Project Beauty files.
 Mart's Mutant Mod - Project Beauty.esp
-% {{BASH:NpcFaces,Hair,Eyes,Voice-M,Voice-F,Body-M,Body-F,R.Teeth,R.Mouth}}
+% {{BASH:NpcFaces,Hair,Eyes,Voice-M,Voice-F,Body-M,Body-F,R.Teeth,R.Mouth,NoMerge}}
 Mart's Mutant Mod - DLC Anchorage.esp
 : Anchorage.ESM
 Mart's Mutant Mod - DLC The Pitt.esp
@@ -1242,6 +1244,9 @@ ChildrenEmpire Enemies.esp
 Fallout 3 Sexus Enemies.esp
 Fallout 3 Sexus - DLC The Pitt.esp
 Fallout 3 Sexus with Children Empire.esp
+RoadWardens.esp
+? If using MMM, use 'RoadWardensMMM.esp' instead
+RoadWardensMMM.esp
 
 \-------------
 \ Realism Mods
@@ -1419,6 +1424,7 @@ TimeScaleTo15.esp
 TimeScaleTo20.esp
 TimeScaleTo25.esp
 TalkToAnybody.esp
+I'll Touch What I Want.esp
 VATS - MCE.esp
 VatsLongerDistance.esp
 MZ No Karma Loss.esp
@@ -1458,6 +1464,8 @@ Enhanced Weather - Radioactive Rain and Snow Plugin.esp
 Enhanced Weather - Rainbows.esp
 Enhanced Weather - Weather Sounds in Interiors.esp
 Enhanced Weather - Sneak Bonus during Storms.esp
+MTC DoctorsFix for Enhanced Weather - Rain.esp
+MTC RadAwayFix for Enhanced Weather - Rain.esp
 Fellout-Full.esp
 "Fellout-SOTD.esp
 ? Do not use with latest FOOK2, it is already integrated.
@@ -1628,6 +1636,10 @@ Achievement Remover [FO3+TP+BS].esp
 ? Choose only one 'Achievement Remover' ESP.
 Achievement Remover [FO3+TP+BS+PL].esp
 ? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [DIK].esp
+: FOOK2.
+Achievement Remover [FWE].esp
+: FO3 Wanderers Edition.
 DUIF3Extras.esp
 ? Obsolete. Update DarNifiedUIF3 to latest version.
 
