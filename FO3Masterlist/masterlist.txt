@@ -1023,8 +1023,6 @@ MicroBikini_recolour.esp
 CSwimsuit_and_Harness_recolor.esp
 thongpack.esp
 ignis.esp
-CRAFT Improvised Weaponry.esp
-CRAFT Improvised Weaponry - Unmodeled
 
 \-------
 \Cosmetics
