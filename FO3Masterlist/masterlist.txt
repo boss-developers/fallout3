@@ -119,6 +119,17 @@ Animy_prostitution.esm
 :CrossModData.esm
 ParadiseHome.esm
 DCInteriors_ComboEdition.ESM
+" DCInteriors components.
+DCInteriors_Georgtown.esm
+" DCInteriors_ComboEdition.ESM
+DCInteriors_LEnfntPl.esm
+" DCInteriors_ComboEdition.ESM
+DCInteriors_Mason.esm
+" DCInteriors_ComboEdition.ESM
+DCInteriors_SewardSq.esm
+" DCInteriors_ComboEdition.ESM
+DCInteriors_Takoma.esm
+" DCInteriors_ComboEdition.ESM
 Selected Containers Respawn.esm
 AngelRaces.esm
 Shojo Race.esm
@@ -537,6 +548,9 @@ UrgeWashingtonBoS.esp
 tubRRCompound.esp
 merc.esp
 D.C. Confidential.esp
+? Choose only one 'D.C. Confidential' ESP.
+D.C. Confidential with Glow.esp
+? Choose only one 'D.C. Confidential' ESP.
 RRWastelandPosters.esp
 RR Vanilla Companion Integration.esp
 RRUmpaDance.esp
@@ -683,6 +697,7 @@ rivet city 2.esp
 Rivet City Apartment.esp
 The town of girdershade.esp
 shopping-spree.esp
+CanterburyCommonsEmbiggened.esp
 Talon Outpost Expansion - Canterbury Commons.esp
 CanterburyCommonsInteriors.esp
 JL121RCAltDoor.esp
@@ -715,6 +730,7 @@ Underground Home.esp
 PersonalVertibird.esp
 FLAK.esp
 MyMansion.esp
+RockopolisRebuilt.esp
 
 \---------
 \Overhauls
@@ -946,8 +962,13 @@ VashDeagleV5.esp
 Wattz Laser Non Replacer Mod.esp
 
 \Armour/clothes
-ChineseStealthArmorFixed.esp
-Tesla Metal Armor (Extended).esp
+1SB_VenomousArmor.esp
+3EFdrg.esp
+3EFdrgplate.esp
+3EFhelmlessstealthsuit.esp
+Amy_Armor.esp
+BodyJewelry.esp
+BodyJewelryEx.esp
 BoS_DX.esp
 % {{BASH:Graphics}}
 ? Do not use with latest FOOK2, it is already integrated.
@@ -963,66 +984,62 @@ Tribal_DX.esp
 BoS_FOOKedition_Armor.esp
 % {{BASH:Graphics}}
 ? Do not use with latest FOOK2, it is already integrated.
-TombRaider.esp
-Prototype Medic Armor Upgrade.esp
-Tactical Vest CIRAS.esp
-Stealthboy Recon Armor - CRAFT.esp
-CRAFTHelper_SBReconArmor.esp
-3EFhelmlessstealthsuit.esp
-StealthArmorHelmLess.esp
-Dragonskin Tactical Outfit.esp
-DragonskinBonusPack.esp
-3EFdrg.esp
-3EFdrgplate.esp
-Mysteriouswoman_clothesaddon.esp
-kikaiEquipment.esp
-Wasteland and Bog Outfits.esp
-DIM TYPE3 conversions.esp
-DIM TYPE3clothesRETAIL.esp
-Trooper_outfits.esp
-sunglassescollection.esp
-Dogmeat Leather Armor - CRAFT.esp
-OutFits.esp
 BunnySuit.esp
-SchoolUniforms.esp
-MicroBikini.esp
-FrenchMaid.esp
-Dark_Temptress.esp
-Tonibiatch.esp
-BodyJewelry.esp
-BodyJewelryEx.esp
-Amy_Armor.esp
-Yoko'sOutfits.esp
-FO3Tona.esp
-FO3Western.esp
-FO3Ayumi.esp
-FO3Fate.esp
-FO3Moon.esp
-FO3Nami.esp
-FO3-Closing-merged.esp
-" FO3Tona.esp,FO3Western.esp,FO3Ayumi.esp,FO3Fate.esp,FO3Moon.esp,FO3Nami.esp
-Hentai Mania.esp
-Testweapon Arms x Arms.esp
-Test-Weapon_additional armor.esp
-% {{BASH:Invent}}
-Testweapon_SP  MedicKuma-Spirits.esp
-MissingUniqueArmorClothing-Base.esp
-MissingUniqueArmorClothing-Enhanced.esp
-MissingUniqueArmorClothing-RenamerOnly.esp
-MissingUniqueArmorClothing-Enhanced-NSF.esp
-1SB_VenomousArmor.esp
 Colossus Outcast.esp
 colossus BOS.esp
 COL Enclave VER2.esp
 % {{BASH:Graphics}}
 COL Enclave Hell.esp
 % {{BASH:Graphics}}
-Ghostbodysuitv3.esp
-Micro Bikini and more recolors.esp
-MicroBikini_recolour.esp
+CRAFTHelper_SBReconArmor.esp
 CSwimsuit_and_Harness_recolor.esp
-thongpack.esp
+ChineseStealthArmorFixed.esp
+DIM TYPE3 conversions.esp
+DIM TYPE3clothesRETAIL.esp
+Dark_Temptress.esp
+Dogmeat Leather Armor - CRAFT.esp
+Dragonskin Tactical Outfit.esp
+DragonskinBonusPack.esp
+FO3Ayumi.esp
+FO3Fate.esp
+FO3Moon.esp
+FO3Nami.esp
+FO3Tona.esp
+FO3Western.esp
+FO3-Closing-merged.esp
+" FO3Tona.esp,FO3Western.esp,FO3Ayumi.esp,FO3Fate.esp,FO3Moon.esp,FO3Nami.esp
+FrenchMaid.esp
+Ghostbodysuitv3.esp
+Hentai Mania.esp
+Micro Bikini and more recolors.esp
+MicroBikini.esp
+MicroBikini_recolour.esp
+MissingUniqueArmorClothing-Base.esp
+MissingUniqueArmorClothing-Enhanced-NSF.esp
+MissingUniqueArmorClothing-Enhanced.esp
+MissingUniqueArmorClothing-RenamerOnly.esp
+Mysteriouswoman_clothesaddon.esp
+OutFits.esp
+Prototype Medic Armor Upgrade.esp
+SchoolUniforms.esp
+Scout Outfits.esp
+StealthArmorHelmLess.esp
+Stealthboy Recon Armor - CRAFT.esp
+Tactical Vest CIRAS.esp
+Tesla Metal Armor (Extended).esp
+Testweapon Arms x Arms.esp
+Test-Weapon_additional armor.esp
+% {{BASH:Invent}}
+Testweapon_SP  MedicKuma-Spirits.esp
+TombRaider.esp
+Tonibiatch.esp
+Trooper_outfits.esp
+Wasteland and Bog Outfits.esp
+Yoko'sOutfits.esp
 ignis.esp
+kikaiEquipment.esp
+sunglassescollection.esp
+thongpack.esp
 
 \-------
 \Cosmetics
@@ -1274,16 +1291,19 @@ Savage Wasteland - Fewer Gun Wielding Maniacs.esp
 Original Moira Brown.esp
 LucyWestCompanion.esp
 bittercup_comp.esp
-ChildrenEmpire Soldiers.esp
-ChildrenEmpire Enemies.esp
-Fallout 3 Sexus Enemies.esp
-Fallout 3 Sexus - DLC The Pitt.esp
-Fallout 3 Sexus with Children Empire.esp
+Mystyk's Followers.esp
 RoadWardens.esp
 ? If using MMM, use 'RoadWardensMMM.esp' instead
 RoadWardensMMM.esp
 MTC RealWildnessLife.esp
 % {{BASH:Relations}}
+Lil_Critters.esp
+Lil_Critters_NG.esp
+ChildrenEmpire Soldiers.esp
+ChildrenEmpire Enemies.esp
+Fallout 3 Sexus Enemies.esp
+Fallout 3 Sexus - DLC The Pitt.esp
+Fallout 3 Sexus with Children Empire.esp
 
 \-------------
 \ Realism Mods
@@ -1679,6 +1699,12 @@ Achievement Remover [FWE].esp
 : FO3 Wanderers Edition.
 DUIF3Extras.esp
 ? Obsolete. Update DarNifiedUIF3 to latest version.
+Dog lover's mod.es
+% {{BASH:Deflst,Delev}}
+Dog lover's mod NO ANCHORAGE.esp
+% {{BASH:Deflst,Delev}}
+MMM dog lover's mod.esp
+% {{BASH:Deflst,Delev}}
 
 \---------
 \Pose mods
