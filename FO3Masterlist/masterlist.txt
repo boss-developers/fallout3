@@ -352,6 +352,8 @@ PCB.esp
 \Sound
 \------
 
+GeneratorSound.esp
+Moshman's Wasteland Ambiance.esp
 GalaxyNewsRadioFix[S].esp
 " GalaxyNewsRadioXXX[M].esp
 Radio Active.esp
@@ -381,9 +383,11 @@ We Jazz.esp
 GNR Fix.esp
 ReneersRadioMod.esp
 ? Do not use with latest FOOK2, it is already integrated.
+Radio Stutter fix.esp
+\Load RadioHotkey after all other radio mods
 RadioHotkey.esp
 RadioHotkey_RadioBluesAddon.esp
-Radio Stutter fix.esp
+
 
 \------------
 \Early Misc A
@@ -482,6 +486,7 @@ Ghoulified Cromwell.esp
 BoSPatrols.esp
 MarkB50K_Wasteland_Patrols.esp
 :Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm
+MarkB50K_Dynamic_Missions.esp
 FF_DestructibleRadios.esp
 % {{BASH:Destructable}}
 MiniVaultNoScav.esp
@@ -1017,6 +1022,8 @@ MicroBikini_recolour.esp
 CSwimsuit_and_Harness_recolor.esp
 thongpack.esp
 ignis.esp
+CRAFT Improvised Weaponry.esp
+CRAFT Improvised Weaponry - Unmodeled
 
 \-------
 \Cosmetics
@@ -1058,6 +1065,7 @@ Childhood Beginning.esp
 CB Add-on.esp
 Childhood Beginning v3 Tweaks.esp
 : EnhancedChildren.esm
+Nova Interaction Revised.esp
 
 \----------
 \ EVE Stuff
@@ -1073,7 +1081,6 @@ EVE Main - FWE Master Release.esp
 ? May cause crashes at start. If so disable this and find updated version.
 EVE - FWE Master Release.esp
 % {{BASH:Graphics,Sound}}
-EVE Anchorage - FWE DLC Anchorage.esp
 EVE - FWE Master Release (Follower Enhanced).esp
 % {{BASH:Graphics,Sound}}
 EVE Operation Anchorage.esp
@@ -1234,6 +1241,7 @@ Mart's Mutant Mod - FOOK2.esp
 Mart's Mutant Mod - FOOK2 - DIK.esp
 : FOOK2 - Main.ESM, FOOK2 - [DIK] DLC Improvement Kit.esm and Mart's Mutant Mod.esm
 % {{BASH:Relations}}
+Mart's Mutant Mod - GSoS.esp
 Mart's Mutant Mod - FWE with EVE.esp
 : FO3 Wanderers Edition - Main File.esm
 : EVE.esp
