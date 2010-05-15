@@ -94,6 +94,7 @@ Enhanced Weather - Rain and Snow.esm
 Xepha's Dynamic Weather.esm
 Globaltravelsystem.esm
 GTSEssentials.esm
+GTSDeathCanyon.esm
 CT_FalloutAdvanced.esm
 RTS.esm
 "ArefuExpandedByAzar.esm
@@ -608,6 +609,7 @@ DCInteriors_SewardSq.esp
 DCInteriors_Mason.esp
 DCInteriors_LEnfntPl.esp
 DCInteriors_DLC_Collectables.esp
+WIP_BigTown.esp
 Trophies - Megaton.esp
 Trophies- Tenpenny.esp
 Rivet City Realignment.esp
@@ -1097,11 +1099,33 @@ ThePitt-NoFireFollowers.esp
 KickDogs.esp
 Replenishment.esp
 UWWUT.esp
+% {{BASH:Graphics}}
+" UWWUT_WT.esp
 UWWUT - The Pitt Addon.esp
+% {{BASH:Graphics}}
 : The Pitt.esm
+" UWWUT_WT - TP Addon.esp
 UWWUT - Broken Steel Addon.esp
+% {{BASH:Graphics}}
 : BrokenSteel.ESM
+" UWWUT_WT - BS Addon.esp
 UWWUT - WMK Addon.esp
+% {{BASH:Graphics}}
+" UWWUT_WT - WMK Addon.esp
+UWWUT_WT.esp
+% {{BASH:Graphics,Stats}}
+" UWWUT.esp
+UWWUT_WT - TP Addon.esp
+% {{BASH:Graphics,Stats}}
+: The Pitt.esm
+" UWWUT - The Pitt Addon.esp
+UWWUT_WT - BS Addon.esp
+% {{BASH:Graphics,Stats}}
+: BrokenSteel.ESM
+" UWWUT - Broken Steel Addon.esp
+UWWUT_WT - WMK Addon.esp
+% {{BASH:Graphics,Stats}}
+" UWWUT - WMK Addon.esp
 RobCo Certified.esp
 RobCo Certified - Robot Perks.esp
 RobCo Storage Module.esp
@@ -1247,6 +1271,8 @@ Fallout 3 Sexus with Children Empire.esp
 RoadWardens.esp
 ? If using MMM, use 'RoadWardensMMM.esp' instead
 RoadWardensMMM.esp
+MTC RealWildnessLife.esp
+% {{BASH:Relations}}
 
 \-------------
 \ Realism Mods
@@ -1265,8 +1291,6 @@ BLTC Less Addictions.esp
 CP - RiPnO [bltc032].esp
 CP - RiPnO [MMM] Meats.esp
 RiPnO - OPTIONAL - Cola Heals.esp
-
-
 
 \-----------
 \ Later Misc
@@ -1452,7 +1476,9 @@ Phalanx-PointLookout-Integration.esp
 ? Do not use with latest FOOK2, it is already integrated.
 Phalanx-PerksAndStims.esp
 Phalanx-Obedient-Dogmeat.esp
+
 Dogmeat Never Dies.esp
+GTSFawkesWeapons.esp
 
 \-----
 \ Lastish
