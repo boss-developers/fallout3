@@ -278,7 +278,7 @@ CASM.esp
 ASU.esp
 CRAFT - Activation Perk.esp
 : CRAFT.ESM
-CRAFT -Zeta - Activation Perk.esp
+CRAFT -Zeta -  Activation Perk.esp
 CRAFTHelper_ReplaceWorkbenchScript.esp
 "CRAFT - Activation Perk.esp
 CRAFTHelper_Vanilla.esp
@@ -487,6 +487,7 @@ BoSPatrols.esp
 MarkB50K_Wasteland_Patrols.esp
 :Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm
 MarkB50K_Dynamic_Missions.esp
+:Anchorage.ESM, BrokenSteel.ESM
 FF_DestructibleRadios.esp
 % {{BASH:Destructable}}
 MiniVaultNoScav.esp
@@ -1042,6 +1043,10 @@ Ammo_Schematics.esp
 CRAFTHelper_AS.esp
 Stealthboy Recon Armor - CRAFT.esp
 : CRAFT.esm
+CRAFT Improvised Weaponry.esp
+CRAFT Improvised Weaponry - Unmodeled.esp
+CRAFT Improvised Weaponry - FOOK+FWE.esp
+: FOOK+FWE Merger
 Force Start The Pitt.esp
 Vault 87 [Script Reversion].esp
 jmschematics.esp
