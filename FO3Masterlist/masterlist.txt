@@ -488,6 +488,8 @@ AQFH_C_103.esp
 \------------
 \Early misc B
 \------------
+0rb_BookSet1.esp
+0rb_ComicPack1.esp
 Megaton Tweaks - Snipers Edition.esp
 BetterHitSquads.esp
 MegatonScavengers.esp
@@ -967,6 +969,7 @@ Wattz Laser Non Replacer Mod.esp
 3EFdrgplate.esp
 3EFhelmlessstealthsuit.esp
 Amy_Armor.esp
+AsharasFormalClothing.esp
 BodyJewelry.esp
 BodyJewelryEx.esp
 BoS_DX.esp
@@ -1000,6 +1003,7 @@ Dark_Temptress.esp
 Dogmeat Leather Armor - CRAFT.esp
 Dragonskin Tactical Outfit.esp
 DragonskinBonusPack.esp
+Freebooter_Armor.esp
 FO3Ayumi.esp
 FO3Fate.esp
 FO3Moon.esp
@@ -1011,6 +1015,7 @@ FO3-Closing-merged.esp
 FrenchMaid.esp
 Ghostbodysuitv3.esp
 Hentai Mania.esp
+Lookout Outfits.esp
 Micro Bikini and more recolors.esp
 MicroBikini.esp
 MicroBikini_recolour.esp
@@ -1035,6 +1040,7 @@ TombRaider.esp
 Tonibiatch.esp
 Trooper_outfits.esp
 Wasteland and Bog Outfits.esp
+wasteland_mix1F.esp
 Yoko'sOutfits.esp
 ignis.esp
 kikaiEquipment.esp
@@ -1292,6 +1298,8 @@ Original Moira Brown.esp
 LucyWestCompanion.esp
 bittercup_comp.esp
 Mystyk's Followers.esp
+Follower Autumn.esp
+DanteCompanion.esp
 RoadWardens.esp
 ? If using MMM, use 'RoadWardensMMM.esp' instead
 RoadWardensMMM.esp
@@ -1489,7 +1497,7 @@ Inebriation.esp
 " Inebriation.esp
 Inebriation-FOSE.esp
 " Inebriation-FOSE.esp
-
+Devour Gore.esp
 SpeechLite.esp
 SpeechLiteCombatDLC.esp
 
@@ -1738,6 +1746,8 @@ HairPack_2chPlus+EYE.esp
 Shojo Race.esp
 % {{BASH:Hair,Eyes}}
 ? Old. Upgrade to latest version.
+XENH.esp
+% {{BASH:Hair,Eyes}}
 [Nukomimi-San] Starter.esp
 % {{BASH:Hair,Eyes}}
 EZCompanion_Type-N.esp
@@ -1780,6 +1790,7 @@ Choose your own hairstyle (load this last on FOMM).esp
 tubunarFWE.esp
 CRBSOR.esp
 ? Do not use with latest FWE, it is already integrated.
+CRBSOR [Achievements Removed].esp
 
 \------------
 \Bashed Patch
