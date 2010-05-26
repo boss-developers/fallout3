@@ -65,13 +65,14 @@ vault64.esm
 RoadWardens.esm
 % {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.Stats,Factions,Invent,Scripts,ScriptContents}}
 FOOK2 - Main.esm
-% {{BASH:Hair,Invent,Stats,Relations}}
+% {{BASH:Invent,Stats,Relations,Factions}}
 :CALIBR.esm
 FOOK.ESM
 * Get FOOK2
 FOOK2 - [WANK] World And Neighbourhood Kit.esm
 : CALIBR.esm
 : FOOK2 - Main.ESM
+* Remove if using FOOK2 1.1 and above
 FOOK2 - [DIK] DLC Improvement Kit.esm
 : Anchorage.esm
 : ThePitt.esm
@@ -756,6 +757,7 @@ FOOK2 - Main.esp
 PB FOOK2 - Main.esp
 FOOK2 - [EVE] Energy Visuals Enhanced.esp
 : FOOK2 - Main.ESM
+* Remove if using FOOK2 1.1 and above
 FOOK2 - [DIK] DLC Improvement Kit.esp
 : Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, CALIBR.ESM, and FOOK2 - Main.ESM
 PB FOOK2 [DIK].esp
@@ -766,14 +768,19 @@ FOOK2 - Main [Hotfix].esp
 FOOK2 - DIK [Hotfix].esp
 
 MyFOOK2 - Color Tranquility Lane.esp
+* Remove if using FOOK2 1.1 and above
 MyFOOK2 - No Nightvision on Power Helmets.esp
 : FOOK2 - Main.ESM
+* Remove if using FOOK2 1.1 and above
 MyFOOK2 - No RAPE Victims.esp
 : FOOK2 - Main.ESM
+* Remove if using FOOK2 1.1 and above
 MyFOOK2 - S.H.A.D.E.esp
 : FOOK2 - Main.ESM
+* Remove if using FOOK2 1.1 and above
 MyFOOK2 - Black & White Tranquility Lane.esp
 : FOOK2 - Main.ESM
+* Remove if using FOOK2 1.1 and above
 
 FOOK2 - [DESTRUCTION] Main.esp
 % {{BASH:Destructable,Script}}
@@ -796,7 +803,9 @@ FOOK2 - DIK Level Up Fix 1.3.esp
 [DIK] DLC Transition Hotfix.esp
 RRSorter100_FOOK2.esp
 FPS Grenade Hotkey - FOOK2.esp
+* Remove if using FOOK2 1.1 and above
 FPS Grenade Hotkey - FOOK2 DIK.esp
+* Remove if using FOOK2 1.1 and above
 FOOK2 - DUI Grenade Fix for 11 Open Beta.esp
 
 Sally Fix 2.esp
