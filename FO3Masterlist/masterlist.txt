@@ -1274,6 +1274,7 @@ Mart's Mutant Mod - Natural Selection.esp
 Mart's Mutant Mod - Reduced Wasteland Spawns.esp
 % {{BASH:Delev,Relev}}
 Mart's Mutant Mod - Tougher Traders.esp
+% {{BASH:Actors.Stats}}
 Mart's Mutant Mod - Zones Respawn.esp
 Mart's Mutant Mod - Zombie Cementery.esp
 Mart's Mutant Mod - FOOK.esp
