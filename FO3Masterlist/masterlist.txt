@@ -25,6 +25,7 @@ Lings.esm
 Anchorage.esm
 ThePitt.esm
 BrokenSteel.esm
+% {{BASH:Actors.AIPackages}}
 PointLookout.esm
 Zeta.esm
 Unofficial Fallout 3 Patch.esm
@@ -919,7 +920,7 @@ Tailor Maid Black Retex.esp
 WeaponModKits.esp
 WeaponModKits - FOOK.esp
 WeaponModKits - FWE Master Release.esp
-% {{BASH:Deflst}}
+% {{BASH:Deflst,Relev}}
 WeaponModKits - OperationAnchorage.esp
 :Anchorage.ESM
 WeaponModKits - ThePitt.esp
