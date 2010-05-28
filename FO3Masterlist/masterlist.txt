@@ -814,8 +814,13 @@ Sally Fix 2.esp
 PB FOOK2 [DIK].esp
 
 GSoS - FOOK2 Open Beta - Combat and Sneaking Overhaul.esp
+* Old, please update to the latest version
+GSoS - FOOK2 Open Beta - CaSO.esp
 GSoS - CaSO - BS Fix.esp
 GSoS - FOOK2 Open Beta - XP Tag Perks.esp
+* Old, please update to the latest version
+GSoS - FOOK2 Open Beta - XP.esp
+GSoS - FOOK2 Open Beta - Tag.esp
 GSoS - FOOK2 Open Beta - Stimpaks Revamp.esp
 GSoS - FOOK2 Open Beta - Stimpaks Revamp v1.esp
 GSoS - FOOK2 Open Beta - Stimpaks Revamp v2.esp
@@ -824,6 +829,8 @@ GSoS - Bed Heal Tweak.esp
 GSoS - Portable Water Purifier.esp
 GSoS - B-Head Effects B-Gone.esp
 GSoS - Car Explosions.esp
+GSoS - FOOK2 Open Beta - Perks.esp
+
 
 \--------------------------
 \Fallout Wanderer's Edition
