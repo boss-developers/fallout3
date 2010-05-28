@@ -52,6 +52,8 @@ CRAFT.esm
 CALIBR.esm
 xCALIBR.esm
 % {{BASH:Names,Graphics,Stats}}
+CFWRv4.esm
+% {{BASH:Deflst,Delev,Invent,Names,Graphics,Scripts,Stats}}
 20thCenturyWeapons.esm
 20th Century Weapons.esm
 CRAFTHelper.esm
@@ -1133,7 +1135,7 @@ EVE - FWE with WeaponModKits.esp
 % {{BASH:Graphics,Sound}}
 EVE Anchorage - FWE DLC Anchorage.esp
 % {{BASH:Graphics,Sound}}
-
+CFWRloadlastEVE.esp
 
 \-----------
 \Middle Misc B
@@ -1270,7 +1272,7 @@ Mart's Mutant Mod - Increased Increased Spawns.esp
 Mart's Mutant Mod - Increased Spawns.esp
 % {{BASH:Relev}}
 Mart's Mutant Mod - Natural Selection.esp
-% {{BASH:Relations,NoMerge}} and deactivate.
+% {{BASH:Relations}}
 Mart's Mutant Mod - Reduced Wasteland Spawns.esp
 % {{BASH:Delev,Relev}}
 Mart's Mutant Mod - Tougher Traders.esp
