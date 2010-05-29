@@ -580,10 +580,10 @@ Treasure Maps_Secrets of the Wasteland.esp
 Treasure Maps_Bobblehead Edition.esp
 Treasure Maps_A Fist Full of Caps.esp
 Destruction - Main.esp
-% {{BASH:Destructable,Script,Graphics}}
+% {{BASH:Destructable,Scripts,Graphics}}
 Destruction - Main - Statics.esp
 Destruction - DLC.esp
-% {{BASH:Destructable,Script}}
+% {{BASH:Destructable,Scripts}}
 Destruction - DLC - Statics.esp
 DESTRUCt61SP.ESP
 Classic Fallout Weapons BETA.esp
