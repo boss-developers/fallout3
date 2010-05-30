@@ -758,6 +758,8 @@ FOOK2 - Main.esp
 % {{BASH:Delev,Relev}}
 : CALIBR.ESM and FOOK2 - Main.ESM
 PB FOOK2 - Main.esp
+FOOK2 - Project Beauty.esp
+FOOK2 - DIK - Project Beauty.esp
 FOOK2 - [EVE] Energy Visuals Enhanced.esp
 : FOOK2 - Main.ESM
 * Remove if using FOOK2 1.1 and above
@@ -768,7 +770,9 @@ FOOK2 - Mothership Zeta.esp
 : FOOK2 - Main.ESM and Zeta.ESM
 
 FOOK2 - Main [Hotfix].esp
+* Please update to FOOK2 1.1 Open Beta 2
 FOOK2 - DIK [Hotfix].esp
+* Please update to FOOK2 1.1 Open Beta 2
 
 MyFOOK2 - Color Tranquility Lane.esp
 * Remove if using FOOK2 1.1 and above
@@ -818,6 +822,7 @@ GSoS - FOOK2 Open Beta - Combat and Sneaking Overhaul.esp
 * Old, please update to the latest version
 GSoS - FOOK2 Open Beta - CaSO.esp
 GSoS - CaSO - BS Fix.esp
+CaSO - Project Beauty.esp
 GSoS - FOOK2 Open Beta - XP Tag Perks.esp
 * Old, please update to the latest version
 GSoS - FOOK2 Open Beta - XP.esp
@@ -826,11 +831,11 @@ GSoS - FOOK2 Open Beta - Stimpaks Revamp.esp
 GSoS - FOOK2 Open Beta - Stimpaks Revamp v1.esp
 GSoS - FOOK2 Open Beta - Stimpaks Revamp v2.esp
 GSoS - Speed.esp
+GSoS - FOOK2 Open Beta - Perks.esp
 GSoS - Bed Heal Tweak.esp
 GSoS - Portable Water Purifier.esp
 GSoS - B-Head Effects B-Gone.esp
 GSoS - Car Explosions.esp
-GSoS - FOOK2 Open Beta - Perks.esp
 
 
 \--------------------------
@@ -1295,7 +1300,7 @@ Mart's Mutant Mod - FOOK2.esp
 Mart's Mutant Mod - FOOK2 - DIK.esp
 : FOOK2 - Main.ESM, FOOK2 - [DIK] DLC Improvement Kit.esm and Mart's Mutant Mod.esm
 % {{BASH:Relations}}
-Mart's Mutant Mod - GSoS.esp
+Mart's Mutant Mod - GSoS CaSO.esp
 Mart's Mutant Mod - FWE with EVE.esp
 : FO3 Wanderers Edition - Main File.esm
 : EVE.esp
