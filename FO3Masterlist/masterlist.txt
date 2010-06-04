@@ -1196,6 +1196,7 @@ RobCo Certified - Robot Perks.esp
 RobCo Storage Module.esp
 RobCo Certified Engineer.esp
 RobCo Certified Engineer - Storage Enabled.esp
+RobCo Certified Engineer - Storage Enabled Fix.esp
 BuildableBots v0.3a.esp
 RobCo Engineer - Robot Repair.esp
 Buildablebots Robcert. addon.esp
@@ -1660,6 +1661,7 @@ pip150.esp
 pipomfg.esp
 megalight.esp
 ? Do not use with latest FOOK2, it is already integrated.
+
 20th Century v4 ALIVE (Vendor).esp
 20th Century v4 ALIVE (NPC_Settler).esp
 20th Century v4 ALIVE (Raider).esp
@@ -1669,6 +1671,20 @@ megalight.esp
 20th Century v4 ALIVE (Vault 101).esp
 20th Century v4 ALIVE (Chinese Ghoul).esp
 20th Century v4 ALIVE (Talon_Regulator).esp
+
+20th Century v5 ALIVE (Vendor).esp
+20th Century v5 ALIVE (Containers).esp
+20th Century v5 ALIVE (NPC_Settler).esp
+20th Century v5 ALIVE (Vault 101).esp
+20th Century v5 ALIVE (RivetCity).esp
+20th Century v5 ALIVE (Raider).esp
+20th Century v5 ALIVE (Slaver).esp
+20th Century v5 ALIVE (Chinese Ghoul).esp
+20th Century v5 ALIVE (SuperMutant).esp
+20th Century v5 ALIVE (Talon_Regulator).esp
+20th Century v5 ALIVE (Brotherhood_Outcast).esp
+20th Century v5 ALIVE (TEST Container).esp
+
 CaravanEssential.esp
 Achievement Remover [FO3+OA+BS].esp
 ? Choose only one 'Achievement Remover' ESP.
@@ -1791,6 +1807,7 @@ EZCompanion_Type-N.esp
 \------------
 
 RobCo Certified - FWE EVE Balance.esp
+RobCo Certified - FWE EVE Balance Light.esp
 Destruction - CP - Fellout.esp
 FWE - FOOK DLC Support.esp
 :Anchorage.ESM
@@ -1815,9 +1832,24 @@ Sydney Follower - Load Order Fix.esp
 xCALIBR_override.esp
 % {{BASH:Names,Graphics,Stats}}
 :CALIBR.esm, xCALIBR.esm
+xCALIBR_override_unsorted.esp
+% {{BASH:Names,Graphics,Stats}}
+:CALIBR.esm, xCALIBR.esm
+xCALIBR_override_FWE5.esp
+% {{BASH:Names,Graphics,Stats}}
+:CALIBR.esm, xCALIBR.esm
 xCALIBR_FWE5_Override.esp
 % {{BASH:Names,Graphics,Stats}}
 :CALIBR.esm, xCALIBR.esm
+xCALIBR_2CW_CP.esp
+% {{BASH:Names,Graphics,Stats}}
+:CALIBR.esm, xCALIBR.esm, 20th Century Weapons.esm
+xCALIBR_2CW_CP_Sorted.esp
+% {{BASH:Names,Graphics,Stats}}
+:CALIBR.esm, xCALIBR.esm, 20th Century Weapons.esm
+FWE+WMK_weapons_xCALIBRified.esp
+% {{BASH:Names,Graphics,Stats}}
+:FO3 Wanderers Edition - Main File.esm, CALIBR.esm, xCALIBR.esm, WeaponModKits.esp, WeaponModKits - FWE Master Release.esp
 Choose your own hairstyle (load this last on FOMM).esp
 % {{BASH:NpcFaces,Hair,Eyes}}
 tubunarFWE.esp
