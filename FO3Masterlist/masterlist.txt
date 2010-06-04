@@ -93,7 +93,7 @@ LingsFinerThings.esm
 LingsMMMpatch3-3.esm
 MMZombieCemetery.esm
 CubeExperimental (EN).esm
-Ammo Bench.esm
+vaps.esm
 Enhanced Weather - Rain and Snow.esm
 Xepha's Dynamic Weather.esm
 Globaltravelsystem.esm
@@ -157,6 +157,7 @@ Abbreviated Effects.esm
 % {{BASH:Names}}
 ? Do not use with latest FWE, it is already integrated.
 FNNCQ.esm
+WYB.esm
 
 \------------------
 \Unofficial Patches/Fixes
@@ -439,6 +440,8 @@ Dree Perks Mothership Zeta.esp
 AccuracyPerks.esp
 Perk Revamp Mod - Broken Steel - Perks Only.esp
 Combat Style Perks.esp
+BookPerks.esp
+BookPerkBarterMOD.esp
 
 \--------
 \ Weather
@@ -515,6 +518,7 @@ MarkB50K_Dynamic_Missions.esp
 FF_DestructibleRadios.esp
 % {{BASH:Destructable}}
 MiniVaultNoScav.esp
+vaps.esp
 Ammo Bench - Alien Power Cell.esp
 Ammo Bench - Artisan.esp
 Ammo Bench - CRAFT Plugin.esp
@@ -522,6 +526,7 @@ Ammo Bench - CALIBR.esp
 Ammo Bench - Car Mechanic.esp
 Ammo Bench - Old Ammo-Benches.esp
 Ammo Bench - Toolkit Retex.esp
+Ammo Bench - Scattered Schematics.esp
 RobCo Universal Battery Charger Kit.esp
 "RobCo Universal Battery Charger Kit - Zeta.esp
 RobCo Universal Battery Charger Kit - Zeta.esp
@@ -1233,6 +1238,14 @@ PlasmaRifleRedesign_standardonly.esp
 PlasmaPistolRedesign.esp
 % {{BASH:Graphics,Sound}}
 ? DO not use with latest FWE, it is already integrated.
+WYB-Base.esp
+WYB-DLC-Anchorage.esp
+WYB-DLC-ThePitt.esp
+WYB-DLC-BrokenSteel.esp
+WYB-DLC-PointLookout.esp
+WYB-DLC-Zeta.esp
+WYB-MOD-DCInteriors_Combo v2.5.esp
+WYB-OPT-DynamicReplacer.esp
 
 \-----------------
 \Mart's Mutant Mod
@@ -1346,6 +1359,10 @@ ChildrenEmpire Enemies.esp
 Fallout 3 Sexus Enemies.esp
 Fallout 3 Sexus - DLC The Pitt.esp
 Fallout 3 Sexus with Children Empire.esp
+vaps-automated-ammo-toolkit.esp
+vaps-broken-steel.esp
+vaps-point-lookout.esp
+vaps-marts-mutant-mod.esp
 
 \-------------
 \ Realism Mods
@@ -1476,6 +1493,8 @@ dD-Reduced Ragdoll Force.esp
 dD-Reduced Dismember Force.esp
 dD-Smaller Wounds.esp
 dD-Smaller Spatters.esp
+Realistic Death Physics.esp
+? Do not use with latest FWE, it is already integrated.
 knockdowns.esp
 ek.BrokenSteel.esp
 Recoil.esp
@@ -1762,6 +1781,41 @@ Dog lover's mod NO ANCHORAGE.esp
 % {{BASH:Deflst,Delev}}
 MMM dog lover's mod.esp
 % {{BASH:Deflst,Delev}}
+TheOutbreak - WMS Combo Pack - C12H.esp
+TheOutbreak - WMS Combo Pack - C24H.esp
+TheOutbreak - WMS Combo Pack - C6H.esp
+TheOutbreak - WMS SPVol 1 - Hell - Broken Steel.esp
+TheOutbreak - WMS SPVol 1 - Hell - Point Lookout.esp
+TheOutbreak - WMS SPVol 1 - Hell - The Pitt.esp
+TheOutbreak - WMS SPVol 1 - Hell.esp
+TheOutbreak - WMS Vanilla Combo Pack - C12H.esp
+TheOutbreak - WMS Vanilla Combo Pack - C24H.esp
+TheOutbreak - WMS Vanilla Combo Pack - C6H.esp
+TheOutbreak - WMS Vol 1 - C12H - No Blue.esp
+TheOutbreak - WMS Vol 1 - C12H.esp
+TheOutbreak - WMS Vol 1 - C24H - No Blue.esp
+TheOutbreak - WMS Vol 1 - C24H.esp
+TheOutbreak - WMS Vol 1 - C6H - No Blue.esp
+TheOutbreak - WMS Vol 1 - C6H.esp
+TheOutbreak - WMS Vol 1 - IDoV.esp
+TheOutbreak - WMS Vol 1 - Rusted Rose.esp
+TheOutbreak - WMS Vol 1 - Silent Hell.esp
+TheOutbreak - WMS Vol 1 - Super Blue.esp
+TheOutbreak - WMS Vol 1 - Weather Controller.esp
+TheOutbreak - WMS Vol 2 - C12H - No Dust.esp
+TheOutbreak - WMS Vol 2 - C12H.esp
+TheOutbreak - WMS Vol 2 - C24H - No Dust.esp
+TheOutbreak - WMS Vol 2 - C24H.esp
+TheOutbreak - WMS Vol 2 - C6H - No Dust.esp
+TheOutbreak - WMS Vol 2 - C6H.esp
+TheOutbreak - WMS Vol 2 - Calm.esp
+TheOutbreak - WMS Vol 2 - Cloudy.esp
+TheOutbreak - WMS Vol 2 - Duststorm.esp
+TheOutbreak - WMS Vol 2 - Fog.esp
+TheOutbreak - WMS Vol 2 - Hot.esp
+TheOutbreak - VATS - No Color Shift.esp
+TheOutbreak - Piplight - Hell.esp
+TheOutbreak - Silent Hell Piplight.esp
 
 \---------
 \Pose mods
