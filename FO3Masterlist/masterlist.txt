@@ -344,7 +344,9 @@ Zumbs' Equipable Pip Boy.esp
 Zumbs'_Overhauled_Real_Time_Security.esp
 LongerDeathCamera.esp
 DK_BulletTime.esp
+? DO not use with latest FWE, it is already integrated.
 Sprint Mod.esp
+? DO not use with latest FWE, it is already integrated.
 Auto Aim Fix v1.1.esp
 Alternate Start - Roleplayers.esp
 Selected Containers Respawn.esp
@@ -607,6 +609,9 @@ bzArmour-non-nude.esp
 bzBodySuits.esp
 Mannequin.esp
 Slof's Boners!.esp
+ARTNightVision.esp
+ARTNightVision-No AP drain.esp
+ARTNightVision-Energy Cell.esp
 
 \---
 \NPC
@@ -1129,6 +1134,8 @@ CB Add-on.esp
 Childhood Beginning v3 Tweaks.esp
 : EnhancedChildren.esm
 Nova Interaction Revised.esp
+Menu Based Hacking & Picking.esp
+? DO not use with latest FWE, it is already integrated.
 
 \----------
 \ EVE Stuff
@@ -1334,6 +1341,7 @@ Mart's Mutant Mod - Linged.esp
 Mart's Mutant Mod - CFW.esp
 Mart's Mutant Mod - XFO.esp
 LingsPrettyThings-FOOK2-MMM.esp
+MMM_RtSS_Mod.esp
 
 \-----------
 \Middle Misc C
