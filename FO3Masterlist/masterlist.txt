@@ -769,7 +769,6 @@ FOOK2 - Main.esp
 : CALIBR.ESM and FOOK2 - Main.ESM
 PB FOOK2 - Main.esp
 FOOK2 - Project Beauty.esp
-FOOK2 - DIK - Project Beauty.esp
 FOOK2 - [EVE] Energy Visuals Enhanced.esp
 : FOOK2 - Main.ESM
 * Remove if using FOOK2 1.1 and above
@@ -778,11 +777,14 @@ FOOK2 - [DIK] DLC Improvement Kit.esp
 PB FOOK2 [DIK].esp
 FOOK2 - Mothership Zeta.esp
 : FOOK2 - Main.ESM and Zeta.ESM
+FOOK2 - DIK - Project Beauty.esp
 
 FOOK2 - Main [Hotfix].esp
 * Please update to FOOK2 1.1 Open Beta 2
 FOOK2 - DIK [Hotfix].esp
 * Please update to FOOK2 1.1 Open Beta 2
+FOOK2 Main [Hotfix].esp
+FOOK2 DIK [Hotfix].esp
 
 MyFOOK2 - Color Tranquility Lane.esp
 * Remove if using FOOK2 1.1 and above
@@ -826,7 +828,6 @@ FPS Grenade Hotkey - FOOK2 DIK.esp
 FOOK2 - DUI Grenade Fix for 11 Open Beta.esp
 
 Sally Fix 2.esp
-PB FOOK2 [DIK].esp
 
 GSoS - FOOK2 Open Beta - Combat and Sneaking Overhaul.esp
 * Old, please update to the latest version
@@ -1136,6 +1137,7 @@ Childhood Beginning v3 Tweaks.esp
 Nova Interaction Revised.esp
 Menu Based Hacking & Picking.esp
 ? DO not use with latest FWE, it is already integrated.
+PowerOfTheAtom_FOOKandFWE.esp
 
 \----------
 \ EVE Stuff
