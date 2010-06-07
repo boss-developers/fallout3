@@ -33,10 +33,6 @@ Unofficial Fallout 3 Patch.esm
 LingsDLC.esm
 HairPack.esm
 % {{BASH:Hair,Eyes}}
-Project Beauty HD version.esm
-* Old. Download the latest Project Beauty files.
-Project Beauty.esm
-% {{BASH:NpcFaces,Hair,Eyes,Voice-M,Voice-F,Body-M,Body-F,R.Teeth,R.Mouth}}
 Hairday.esm
 RI_Core.esm
 FaceMe.esm
@@ -53,6 +49,10 @@ CRAFT.esm
 CALIBR.esm
 xCALIBR.esm
 % {{BASH:Names,Graphics,Stats}}
+Project Beauty HD version.esm
+* Old. Download the latest Project Beauty files.
+Project Beauty.esm
+% {{BASH:NpcFaces,Hair,Eyes,Voice-M,Voice-F,Body-M,Body-F,R.Teeth,R.Mouth}}
 CFWRv4.esm
 % {{BASH:Deflst,Delev,Invent,Names,Graphics,Scripts,Stats}}
 20thCenturyWeapons.esm
@@ -94,6 +94,7 @@ LingsMMMpatch3-3.esm
 MMZombieCemetery.esm
 CubeExperimental (EN).esm
 vaps.esm
+Summer_2.5.esm
 Enhanced Weather - Rain and Snow.esm
 Xepha's Dynamic Weather.esm
 Globaltravelsystem.esm
@@ -183,6 +184,7 @@ BSMovieSkip.esp
 \Early Loading Mods
 \------------------
 
+DarNifiedUIF3.esp
 Project Beauty.esp
 * Old. Download the latest Project Beauty files.
 Project Beauty- Broken Steel.esp
@@ -214,7 +216,6 @@ Refurbish [PL].esp
 ? Do not use with latest FOOK2, it is already integrated.
 Refurbish [MZ].esp
 ? Do not use with latest FOOK2, it is already integrated.
-DarNifiedUIF3.esp
 Noise Filter.esp
 IbIui - BS.esp
 IbIui - OA.esp
@@ -332,6 +333,7 @@ Arwen_Camera.esp
 Vanity Camera Mod.esp
 KTs_Centercamera.esp
 Centered 3P Cam.esp
+Overhead3PCamera.esp
 ROTS2.esp
 ROTS3.esp
 Zumbs' Equipable Pip Boy.esp
@@ -453,9 +455,6 @@ BookPerkBarterMOD.esp
 Wasteland Weather Overhaul .9.esp
 Wasteland Weather Overhaul .9 (no interiors).esp
 Wasteland Weather Overhaul .9 Level 2 Color.esp
-
-Summer_2.5.esm
-Overhead3PCamera.esp
 
 \------
 \Quests
@@ -861,11 +860,6 @@ FO3 Wanderers Edition - DLC Broken Steel.esp
 FO3 Wanderers Edition - DLC Point Lookout.esp
 % {{BASH:Relev,Delev}}
 FO3 Wanderers Edition - DLC Mothership Zeta.esp
-FO3 Wanderers Edition - Project Beauty.esp
-FO3 Wanderers Edition - Project Beauty (Followers Enhanced B-S).esp
-FO3 Wanderers Edition - Project Beauty (HD Addition).esp
-: Project Beauty HD version.esm
-" Project Beauty.esp
 FO3 Wanderers Edition - UFP Support.esp
 FO3 Wanderers Edition - Alternate Travel.esp
 FO3 Wanderers Edition - Lvl 30 High Skills.esp
@@ -901,6 +895,11 @@ FaceMe-FWE.esp
 DarNifiedUIF3_FWE.esp
 ? Do not use with latest FWE, it is already integrated.
 Refurbish [OA] - FWE.esp
+FO3 Wanderers Edition - Project Beauty.esp
+FO3 Wanderers Edition - Project Beauty (Followers Enhanced B-S).esp
+FO3 Wanderers Edition - Project Beauty (HD Addition).esp
+: Project Beauty HD version.esm
+" Project Beauty.esp
 FO3 Wanderers Edition - Project Beauty (Followers Enhanced).esp
 
 
@@ -937,6 +936,8 @@ WeaponModKits.esp
 WeaponModKits - FOOK.esp
 WeaponModKits - FWE Master Release.esp
 % {{BASH:Deflst,Relev}}
+WeaponModKits - FWE Optional Worn Weapons.esp
+% {{BASH:Delev}}
 WeaponModKits - OperationAnchorage.esp
 :Anchorage.ESM
 WeaponModKits - ThePitt.esp
@@ -947,8 +948,6 @@ WeaponModKits - PointLookout.esp
 :PointLookout.ESM
 WeaponModKits - Zeta.esp
 :Zeta.ESM
-WeaponModKits - FWE Optional Worn Weapons.esp
-% {{BASH:Delev}}
 CRAFTHelper_WMK.esp
 SelfSurgeryKit.esp
 
@@ -1148,6 +1147,7 @@ EVE Beta_0.9.4.esp
 EVE.esp
 % {{BASH:Graphics,Sound}}
 EVE Operation Anchorage.esp
+% {{BASH:Graphics,Sound}}
 : Anchorage.ESM
 EVE Main - FWE Master Release.esp
 ? May cause crashes at start. If so disable this and find updated version.
@@ -1155,12 +1155,9 @@ EVE - FWE Master Release.esp
 % {{BASH:Graphics,Sound}}
 EVE - FWE Master Release (Follower Enhanced).esp
 % {{BASH:Graphics,Sound}}
-EVE Operation Anchorage.esp
-% {{BASH:Graphics,Sound}}
-:Anchorage.ESM
-EVE - FWE with WeaponModKits.esp
-% {{BASH:Graphics,Sound}}
 EVE Anchorage - FWE DLC Anchorage.esp
+% {{BASH:Graphics,Sound}}
+EVE - FWE with WeaponModKits.esp
 % {{BASH:Graphics,Sound}}
 CFWRloadlastEVE.esp
 
@@ -1269,8 +1266,6 @@ PB MMM HD.esp
 * Old. Download the latest Project Beauty files.
 PB MMM.esp
 * Old. Download the latest Project Beauty files.
-Mart's Mutant Mod - Project Beauty.esp
-% {{BASH:NpcFaces,Hair,Eyes,Voice-M,Voice-F,Body-M,Body-F,R.Teeth,R.Mouth,NoMerge}}
 Mart's Mutant Mod - DLC Anchorage.esp
 : Anchorage.ESM
 Mart's Mutant Mod - DLC The Pitt.esp
@@ -1332,10 +1327,12 @@ Project Beauty- MMM Raiders.esp
 * Old. Download the latest Project Beauty files.
 ARSENAL MOD+MMM.esp
 Mutant perks for MMM 1.9.esp
-Mart's Mutant Mod - FWE Master Release.esp
-% {{BASH:Invent,Relations}}
 S.T.A.L.K.E.R. Call of D.C.+MMM.esp
 S.T.A.L.K.E.R. Mutants[addon for MMM].esp
+Mart's Mutant Mod - Project Beauty.esp
+% {{BASH:NpcFaces,Hair,Eyes,Voice-M,Voice-F,Body-M,Body-F,R.Teeth,R.Mouth,NoMerge}}
+Mart's Mutant Mod - FWE Master Release.esp
+% {{BASH:Invent,Relations}}
 Mart's Mutant Mod - Project Beauty + FWE.esp
 Mart's Mutant Mod - Project Beauty (HD Addition).esp
 * Old. Download the latest Project Beauty files.
