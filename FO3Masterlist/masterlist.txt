@@ -351,8 +351,13 @@ DK_BulletTime.esp
 Sprint Mod.esp
 ? DO not use with latest FWE, it is already integrated.
 Auto Aim Fix v1.1.esp
+? DO not use with latest FWE, it is already integrated.
+KHWeaponscanner.esp
+? DO not use with latest FWE, it is already integrated.
 Alternate Start - Roleplayers.esp
+? DO not use with latest FWE, it is already integrated.
 Selected Containers Respawn.esp
+? DO not use with latest FWE, it is already integrated.
 Zombie Sounds V2.esp
 choose_XP_FOSE.esp
 RH_IronSights_Basic_VanillaPlugin.esp
@@ -607,9 +612,9 @@ BusworldV1.05.esp
 BusworldV1.05noexpl.esp
 BusworldV1.05d.esp
 FPS Grenade Hotkey.esp
-? Do not use with latest FOOK2, it is already integrated.
+? Do not use with latest FOOK2/FWE, it is already integrated.
 FPS Grenade Hotkey - Zeta addon.esp
-? Do not use with latest FOOK2, it is already integrated.
+? Do not use with latest FOOK2/FWE, it is already integrated.
 NoKnockedOverComments.esp
 bzArmour.esp
 bzArmour-nude.esp
@@ -1136,7 +1141,37 @@ Slof's Alsatian Dogmeat.esp
 IgDRDeathclawGauntletFix.esp
 KarmaRevampExtreme1010.esp
 ReneerInvisibleKarmaMod.esp
+Improved Turrets.esp
 Improved Turret Hacking.esp
+? Old. Upgrade to latest version.
+Improved Turret Hacking - BASE.esp
+" Improved Turret Hacking - ALL.esp
+Improved Turret Hacking - BS.esp
+" Improved Turret Hacking - ALL.esp
+Improved Turret Hacking - Pitt.esp
+" Improved Turret Hacking - ALL.esp
+Improved Turret Hacking - PL.esp
+" Improved Turret Hacking - ALL.esp
+Improved Turret Hacking - ALL.esp
+: ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm
+" Improved Turret Hacking - BASE.esp
+" Improved Turret Hacking - BS.esp
+" Improved Turret Hacking - Pitt.esp
+" Improved Turret Hacking - PL.esp
+Improved Turret Reprogramming - BASE.esp
+" Improved Turret Reprogramming - ALL.esp
+Improved Turret Reprogramming - BS.esp
+" Improved Turret Reprogramming - ALL.esp
+Improved Turret Reprogramming - Pitt.esp
+" Improved Turret Reprogramming - ALL.esp
+Improved Turret Reprogramming - PL.esp
+" Improved Turret Reprogramming - ALL.esp
+Improved Turret Reprogramming - ALL.esp
+: ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm
+" Improved Turret Reprogramming - BASE.esp
+" Improved Turret Reprogramming - BS.esp
+" Improved Turret Reprogramming - Pitt.esp
+" Improved Turret Reprogramming - PL.esp
 Childhood Beginning.esp
 : EnhancedChildren.esm
 CB Add-on.esp
@@ -1402,12 +1437,16 @@ RiPnO - OPTIONAL - Cola Heals.esp
 \-----------
 \ Later Misc
 \-----------
+
 Accurate Sniper Rifles.esp
+Arwen_Realism_Core.esp
 Arwen_FULL_Tweaks.esp
 Arwen_Skills.esp
 Arwen_Armor.esp
 "Arwen_FULL_Tweaks.esp
 Arwen_Less_Is_More.esp
+"Arwen_FULL_Tweaks.esp
+Arwen_Less-Is-More.esp
 "Arwen_FULL_Tweaks.esp
 Arwen_Localized_Damage.esp
 "Arwen_FULL_Tweaks.esp
@@ -1420,6 +1459,7 @@ Arwen_Tweaks_Main.esp
 Arwen_Weapons.esp
 "Arwen_FULL_Tweaks.esp
 Arwen_MMM_Patch.esp
+Arwen_Encumbrance.esp
 Megaton Closes.esp
 Slower Levelling - slow.esp
 Slower Levelling - slower.esp
