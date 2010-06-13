@@ -453,6 +453,8 @@ Combat Style Perks.esp
 BookPerks.esp
 BookPerkBarterMOD.esp
 implants.esp
+PRFEW.esp
+SRFBG.esp
 
 \--------
 \ Weather
@@ -540,6 +542,7 @@ Ammo Bench - Car Mechanic.esp
 Ammo Bench - Old Ammo-Benches.esp
 Ammo Bench - Toolkit Retex.esp
 Ammo Bench - Scattered Schematics.esp
+MrLabTechnician.esp
 RobCo Universal Battery Charger Kit.esp
 "RobCo Universal Battery Charger Kit - Zeta.esp
 RobCo Universal Battery Charger Kit - Zeta.esp
@@ -570,6 +573,7 @@ SS OTS Camera FOSE.esp
 1Animated Nightvision goggles.esp
 Binoculars.esp
 SniperZooming.esp
+Directional PipLight.esp
 Directional PipLight HDR.esp
 Expanded Megaton House V3.esp
 MegatonBasement.esp
@@ -1295,6 +1299,7 @@ WYB-DLC-BrokenSteel.esp
 WYB-DLC-PointLookout.esp
 WYB-DLC-Zeta.esp
 WYB-MOD-DCInteriors_Combo v2.5.esp
+WYB-OPT-WhiteCigarette.esp
 WYB-OPT-DynamicReplacer.esp
 
 \-----------------
@@ -1882,6 +1887,7 @@ TheOutbreak - WMS Vol 2 - Hot.esp
 TheOutbreak - VATS - No Color Shift.esp
 TheOutbreak - Piplight - Hell.esp
 TheOutbreak - Silent Hell Piplight.esp
+Vault101 Exit Cancel.esp
 
 \---------
 \Pose mods
