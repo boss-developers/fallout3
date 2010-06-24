@@ -45,6 +45,8 @@ FallsChurchMetroFix.esm
 Phalanx-PointLookout-Navmesh.esm
 PointLookout-FollowersGetToGo.esm
 : PointLookout.ESM
+The Librarian.esm
+TalonExtraArmor.esm
 CRAFT.esm
 CALIBR.esm
 xCALIBR.esm
@@ -104,12 +106,15 @@ CT_FalloutAdvanced.esm
 RTS.esm
 "ArefuExpandedByAzar.esm
 "1PipboyPDA.esp
+Nos' Cosmetic Resource.esm
 RRCompanionVault.esm
 RRGuards.esm
 RR5MoreMales.esm
 RR5MoreFemales.esm
 RR All Vanilla Companions.esm
 Nos' RR Companions.esm
+Herculine's RR Scouts.esm
+Herculine's RR Scouts DLC.esm
 RR Vault 1 Alternate Guards.esm
 StreetLights.esm
 ? Do not use with latest FOOK2, it is already integrated.
@@ -137,6 +142,7 @@ DCInteriors_Takoma.esm
 " DCInteriors_ComboEdition.ESM
 Selected Containers Respawn.esm
 AngelRaces.esm
+SeducingWomen.esm
 Shojo Race.esm
 % {{BASH:Hair,Eyes}}
 XENH.esm
@@ -160,6 +166,7 @@ Abbreviated Effects.esm
 FNNCQ.esm
 FNNCQ_DavidsLab.esm
 WYB.esm
+FEM.esm
 
 \------------------
 \Unofficial Patches/Fixes
@@ -204,6 +211,7 @@ Fast VATS 2.esp
 VATS_Normal_dmg_to_player.esp
 " Fast VATS X.esp.
 Fast_but_dramatic_VATS_0.9.esp
+Clear Cell Buffers every Cell.esp
 Arwen_Reduced_QuestXPR.esp
 Headshot_Balance.esp
 actionpoints_instant_regen.esp
@@ -244,11 +252,6 @@ Shojo NPC.esp
 % {{BASH:Invent,NpcFaces}}
 Moira-EXSP.esp
 % {{BASH:NpcFaces,NoMerge}} and deactivate.
-LingsPrettyThings.esp
-LingsPrettyThings-BrokenSteel.esp
-LingsPrettyThings-SeducingWomen.esp
-LingsFinerThings.esp
-SeducedDLC03.esp
 norepairneededv2.esp
 Hi-Res Weapons & Ammo Textures.esp
 Hi-Res Weapons & Ammo Textures - The Pitt.esp
@@ -265,9 +268,11 @@ praiseatom.esp
 ? Do not use with latest FOOK2, it is already integrated.
 Internet Mod.esp
 ? Do not use with latest FOOK2, it is already integrated.
+LessRocks.esp
 MrSlackPants-DecentPipBoyLight.esp
 Fellout-pipboylight.esp
 RaiderMercenaryExpanded.esp
+YearlingsGlasses.esp
 MaxLevelWorkaround-BS.esp
 LED pipboy light.esp
 LED pipboy light extended.esp
@@ -310,6 +315,15 @@ LED pipboy light green extended.esp
 =Medium=MotionBlur1.1.esp
 =Strong=MotionBlur1.1.esp
 =Subtle=MotionBlur1.1.esp
+krzymar-MoonSize_040%.esp
+krzymar-MoonSize_060%.esp
+krzymar-MoonSize_120%.esp
+krzymar-MoonSize_080%.esp
+krzymar-MoonSize_200%.esp
+krzymar-MoonSize_160%.esp
+krzymar-MoonSize_300%.esp
+krzymar-MoonSize_400%.esp
+krzymar-MoonSize_500%.esp
 V.A.T.S. Depth of Field v1.0.esp
 
 CASM.esp
@@ -605,6 +619,7 @@ D.C. Confidential.esp
 ? Choose only one 'D.C. Confidential' ESP.
 D.C. Confidential with Glow.esp
 ? Choose only one 'D.C. Confidential' ESP.
+RR No Vault 1 Protectrons.esp
 RRWastelandPosters.esp
 RR Vanilla Companion Integration.esp
 RRUmpaDance.esp
@@ -991,12 +1006,10 @@ SelfSurgeryKit.esp
 \ Weapons\Armours\clothes
 \--------
 
-
 MissingUniqueArmorClothing-Enhanced-NSF.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionTHEPOINT.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionANCHORAGE.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionTHEPITT.esp
-
 Echo_UseBothGloves.esp
 jmschematics - CRAFT.esp
 Hi-Res Weapons & Ammo Textures - The Pitt.esp
@@ -1040,9 +1053,17 @@ MPammo.esp
 VashDeagleV5.esp
 Wattz Laser Non Replacer Mod.esp
 F3RWPMolotovCocktail-0_1.esp
+Weapon - Some Katanas.esp
+CS_ LightsaberQuest.esp
+CS_LightsaberQuest - Objectives Patch.esp
+ColtM4Carbines_RHIronSights.esp
 
 \Armour/clothes
 1SB_VenomousArmor.esp
+Arcade'sNightwear.esp
+Jessica Outfit.esp
+Gantz stuff.esp
+Mantis07Reflex.esp
 3EFdrg.esp
 3EFdrgplate.esp
 3EFhelmlessstealthsuit.esp
@@ -1082,6 +1103,7 @@ DIM TYPE3 conversions.esp
 DIM TYPE3clothesRETAIL.esp
 Dark_Temptress.esp
 Dogmeat Leather Armor - CRAFT.esp
+Dogmeat Leather Armor - no crafting.esp
 CRAFTHelper_DLAC.esp
 Dragonskin Tactical Outfit.esp
 DragonskinBonusPack.esp
@@ -1109,6 +1131,8 @@ MissingUniqueArmorClothing-RenamerOnly.esp
 Mysteriouswoman_clothesaddon.esp
 OutFits.esp
 Prototype Medic Armor Upgrade.esp
+AdvancedReconGear.esp
+AdvReconEasierStealth.esp
 SchoolUniforms.esp
 Scout Outfits.esp
 StealthArmorHelmLess.esp
@@ -1158,6 +1182,7 @@ Ballistics-ALL-MoreRealism.esp
 RealFragGrenade3.esp
 Ks_DynamicSneak.esp
 PHIG_SteadyAim.esp
+JHB House Robots Can Repair.esp
 Burnification.esp
 TL Freeze.esp
 TL [Color].esp
@@ -1236,6 +1261,9 @@ CFWRloadlastEVE.esp
 \Middle Misc B
 \-----------
 
+MarcuzVanishingPiles_EVE_Add.esp
+: EVE.esp
+VanishingPiles.esp
 NVG Activator Crash Fix [Experimental].esp
 Wasteland Whisperer.esp
 CBOv1.4.esp
@@ -1426,6 +1454,32 @@ MMM_RtSS_Mod.esp
 1PipboyPDA.esp
 Savage Wasteland - Fewer Gun Wielding Maniacs.esp
 Original Moira Brown.esp
+SeducingWomen_-_override.esp
+FEM - BABE enabler.esp
+: FEM.esm
+FEM - DIMON enabler.esp
+: FEM.esm
+FEM - EXNEM enabler.esp
+: FEM.esm
+FEM - FANTASY enabler.esp
+: FEM.esm
+FEM - GROWLF enabler.esp
+: FEM.esm
+FEM - MALOS enabler.esp
+: FEM.esm
+FEM - NAOUAK enabler.esp
+: FEM.esm
+FEM - NILE enabler.esp
+: FEM.esm
+FEM - UF3 enabler.esp
+: FEM.esm
+LingsPrettyThings.esp
+LingsPrettyThings-BrokenSteel.esp
+LingsPrettyThings-SeducingWomen.esp
+LingsFinerThings.esp
+SeducedDLC03.esp
+FEMed TYPE3 Cloths.esp
+BriannaCompanion.esp
 LucyWestCompanion.esp
 bittercup_comp.esp
 Mystyk's Followers.esp
@@ -1504,6 +1558,7 @@ Arwen_Weapons.esp
 "Arwen_FULL_Tweaks.esp
 Arwen_MMM_Patch.esp
 Arwen_Encumbrance.esp
+FatmanExp.esp
 Megaton Closes.esp
 Slower Levelling - slow.esp
 Slower Levelling - slower.esp
@@ -1582,6 +1637,8 @@ RRQuests.esp
 RR Companion Vault Raider Attacks.esp
 All Companions Essential.esp
 T_R_A_S_C_H.esp
+SCC 187GURLZ.esp
+: Sharing and Caring Companions.esm
 Shojo Companions.esp
 Brahmin Cattles ENG v1 - FWE patch.esp
 teddybear_brothers.esp
@@ -1662,6 +1719,8 @@ Inebriation.esp
 Inebriation-FOSE.esp
 " Inebriation-FOSE.esp
 Devour Gore.esp
+AMPUTATE!.esp
+% {{BASH:Scripts}}
 SpeechLite.esp
 SpeechLiteCombatDLC.esp
 EnduranceBasedHealthRegen.esp
@@ -1688,6 +1747,8 @@ GTSFawkesWeapons.esp
 \ Lastish
 \-----
 
+megalight.esp
+? Do not use with latest FOOK2, it is already integrated.
 Enhanced Weather - Rain and Snow.esp
 Enhanced Weather - Rain and Snow in Fallout.esp
 Enhanced Weather - Radioactive Rain and Snow Plugin.esp
@@ -1722,6 +1783,18 @@ Realistic Interior Lighting.esp
 Realistic Interior Lighting - BS.esp
 % {{BASH:C.Light}}
 Realistic Interior Lighting - OA.esp
+% {{BASH:C.Light}}
+DarkerInteriorsFallOut3.esp
+% {{BASH:C.Light}}
+DarkerInteriorsAnchorage.esp
+% {{BASH:C.Light}}
+DarkerInteriorsThePitt.esp
+% {{BASH:C.Light}}
+DarkerInteriorsBrokenSteel.esp
+% {{BASH:C.Light}}
+DarkerInteriorsPointLookout.esp
+% {{BASH:C.Light}}
+DarkerInteriorsZeta.esp
 % {{BASH:C.Light}}
 Xepha's Dynamic Weather - Main.esp
 Xepha's Dynamic Weather - Anchorage.esp
@@ -1791,8 +1864,6 @@ pip30.esp
 pip60.esp
 pip150.esp
 pipomfg.esp
-megalight.esp
-? Do not use with latest FOOK2, it is already integrated.
 
 20th Century v4 ALIVE (Vendor).esp
 20th Century v4 ALIVE (NPC_Settler).esp
@@ -1943,6 +2014,7 @@ Poses-Animation.esp
 The Groovatron.esp
 The Groovatron_DLC_Anch_Addon.esp
 The Groovatron_DLC_Pitt_Addon.esp
+The Groovatron_DLC_PL_Addon.esp
 
 \--------------------------
 \Beauty Packs & Race Addons
@@ -1997,6 +2069,7 @@ Mez's Merged Patch - FWE-WMK-MMM.esp
 Mez's Merged Patch 5-0 - DLC-FWE-WMK-MMM.esp
 Sydney Follower.esp
 Sydney Follower - Load Order Fix.esp
+JHBSydneyUpdate.esp
 xCALIBR_override.esp
 % {{BASH:Names,Graphics,Stats}}
 :CALIBR.esm, xCALIBR.esm
@@ -2016,6 +2089,16 @@ xCALIBR_2CW_CP_Sorted.esp
 % {{BASH:Names,Graphics,Stats}}
 :CALIBR.esm, xCALIBR.esm, 20th Century Weapons.esm
 FWE+WMK_weapons_xCALIBRified.esp
+% {{BASH:Names,Graphics,Stats}}
+FWE(v.5.04)+WMK_weapons_xCALIBRified.esp
+% {{BASH:Names,Graphics,Stats}}
+FWE+WMKexcalibrified(Anch).esp
+% {{BASH:Names,Graphics,Stats}}
+FWE+WMKexcalibrified(Pitt).esp
+% {{BASH:Names,Graphics,Stats}}
+FWE+WMKexcalibrified(Lkout).esp
+% {{BASH:Names,Graphics,Stats}}
+frederyck+FWE+xCALIBR.esp
 % {{BASH:Names,Graphics,Stats}}
 :FO3 Wanderers Edition - Main File.esm, CALIBR.esm, xCALIBR.esm, WeaponModKits.esp, WeaponModKits - FWE Master Release.esp
 Choose your own hairstyle (load this last on FOMM).esp
