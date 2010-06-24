@@ -178,6 +178,7 @@ Unofficial Fallout 3 Patch - Mothership Zeta.esp
 % {{BASH:Names}}
 UF3P Crane Fix.esp
 Citadel Crane Fix.esp
+Error Correction.esp
 FireLightFix.esp
 BSMovieSkip.esp
 
@@ -209,14 +210,20 @@ actionpoints_instant_regen.esp
 playbackdelay_001.esp
 CT_FalloutAdvanced - DLC.esp
 CT_FalloutAdvanced - AAOFF.esp
+Refurbishes [ALL].esp
+? Do not use with latest FOOK2, it is already integrated.
 Refurbish [TP].esp
 ? Do not use with latest FOOK2, it is already integrated.
+: Refurbishes [ALL].esp
 Refurbish [BS].esp
 ? Do not use with latest FOOK2, it is already integrated.
+: Refurbishes [ALL].esp
 Refurbish [PL].esp
 ? Do not use with latest FOOK2, it is already integrated.
+: Refurbishes [ALL].esp
 Refurbish [MZ].esp
 ? Do not use with latest FOOK2, it is already integrated.
+: Refurbishes [ALL].esp
 Noise Filter.esp
 IbIui - BS.esp
 IbIui - OA.esp
@@ -251,6 +258,12 @@ BatteriesPlusV1_2.esp
 Realistic icons.esp
 % {{BASH:Graphics}}
 StreetLights - Wasteland.esp
+? Do not use with latest FOOK2, it is already integrated.
+RK-Skelette-3.0.esp
+? Do not use with latest FOOK2, it is already integrated.
+praiseatom.esp
+? Do not use with latest FOOK2, it is already integrated.
+Internet Mod.esp
 ? Do not use with latest FOOK2, it is already integrated.
 MrSlackPants-DecentPipBoyLight.esp
 Fellout-pipboylight.esp
@@ -442,11 +455,12 @@ PreWar Book Titles and Perks.esp
 Perk Revamp Mod - Broken Steel - Perks Only.esp
 AccuracyPerks.esp
 Dree Perks.esp
-Dree Perks Pitts.esp
-Dree Perks Point Lookout.esp
-Dree Perks Requested by Fans .esp
 Dree Perks Anchorage.esp
+Dree Perks Pitts.esp
+Dree Perks Broken Steel.esp
+Dree Perks Point Lookout.esp
 Dree Perks Mothership Zeta.esp
+Dree Perks Requested by Fans .esp
 AccuracyPerks.esp
 Perk Revamp Mod - Broken Steel - Perks Only.esp
 Combat Style Perks.esp
@@ -455,6 +469,7 @@ BookPerkBarterMOD.esp
 implants.esp
 PRFEW.esp
 SRFBG.esp
+PointLookOutGoodies.esp
 
 \--------
 \ Weather
@@ -534,6 +549,7 @@ FF_DestructibleRadios.esp
 % {{BASH:Destructable}}
 MiniVaultNoScav.esp
 vaps.esp
+CRAFTHelper_VAPS.esp
 Ammo Bench - Alien Power Cell.esp
 Ammo Bench - Artisan.esp
 Ammo Bench - CRAFT Plugin.esp
@@ -542,6 +558,7 @@ Ammo Bench - Car Mechanic.esp
 Ammo Bench - Old Ammo-Benches.esp
 Ammo Bench - Toolkit Retex.esp
 Ammo Bench - Scattered Schematics.esp
+CRAFTHelper_ATK.esp
 MrLabTechnician.esp
 RobCo Universal Battery Charger Kit.esp
 "RobCo Universal Battery Charger Kit - Zeta.esp
@@ -653,6 +670,7 @@ EZ_citizens.esp
 \--------
 \Places
 \--------
+HiVE.esp
 UNDCity.esp
 Arefu Player House.esp
 "ArefuExpandedByAzar.esm
@@ -1021,6 +1039,7 @@ AER10V2 Laser Rifle.esp
 MPammo.esp
 VashDeagleV5.esp
 Wattz Laser Non Replacer Mod.esp
+F3RWPMolotovCocktail-0_1.esp
 
 \Armour/clothes
 1SB_VenomousArmor.esp
@@ -1032,6 +1051,9 @@ AsharasFormalClothing.esp
 BodyJewelry.esp
 BodyJewelryEx.esp
 BoS_DX.esp
+% {{BASH:Graphics}}
+? Do not use with latest FOOK2, it is already integrated.
+BoSDX.esp
 % {{BASH:Graphics}}
 ? Do not use with latest FOOK2, it is already integrated.
 WinterizedT51bDX.esp
@@ -1060,6 +1082,7 @@ DIM TYPE3 conversions.esp
 DIM TYPE3clothesRETAIL.esp
 Dark_Temptress.esp
 Dogmeat Leather Armor - CRAFT.esp
+CRAFTHelper_DLAC.esp
 Dragonskin Tactical Outfit.esp
 DragonskinBonusPack.esp
 Freebooter_Armor.esp
@@ -1270,6 +1293,7 @@ S.T.A.L.K.E.R. MOD.esp
 ARSENAL MOD.esp
 Responsive Kill Reactions.esp
 ImmersiveHealth.esp
+ImmersiveHealth-LITE.esp
 Bottle That Water.esp
 {{BASH:Scripts}}
 AddBottle.esp
@@ -1292,6 +1316,10 @@ PlasmaRifleRedesign_standardonly.esp
 PlasmaPistolRedesign.esp
 % {{BASH:Graphics,Sound}}
 ? DO not use with latest FWE, it is already integrated.
+Water Bottles 3000.esp
+% {{BASH:Graphics,NoMerge}}
+schematics2.esp
+% {{BASH:Graphics,NoMerge}}
 WYB-Base.esp
 WYB-DLC-Anchorage.esp
 WYB-DLC-ThePitt.esp
@@ -1417,9 +1445,20 @@ Fallout 3 Sexus Enemies.esp
 Fallout 3 Sexus - DLC The Pitt.esp
 Fallout 3 Sexus with Children Empire.esp
 vaps-automated-ammo-toolkit.esp
+CRAFTHelper_VAPS-ATK.esp
 vaps-broken-steel.esp
 vaps-point-lookout.esp
+vaps-fwe.esp
 vaps-marts-mutant-mod.esp
+GTent-FWE.esp
+: FO3 Wanderers Edition - Main File.esm
+: CRAFT.esm
+GTent-FWE-MMM.esp
+: GTent-FWE.esp
+: Mart's Mutant Mod.esm
+GTent-FWE-WMK.esp
+: GTent-FWE.esp
+: WeaponModKits.esp
 
 \-------------
 \ Realism Mods
@@ -1568,6 +1607,7 @@ Realistic Death Physics.esp
 ? Do not use with latest FWE, it is already integrated.
 knockdowns.esp
 ek.BrokenSteel.esp
+1stPersonKnockDowns VATS Working!.esp
 Recoil.esp
 ShellRain.esp
 Kill and Loot Unconscious Essential NPCs.esp
@@ -1624,6 +1664,7 @@ Inebriation-FOSE.esp
 Devour Gore.esp
 SpeechLite.esp
 SpeechLiteCombatDLC.esp
+EnduranceBasedHealthRegen.esp
 
 
 \-------
@@ -1744,6 +1785,7 @@ Xepha's Dynamic Weather - Climate OverRider (OA + Rain) - No Fog.esp
 "Xepha's Dynamic Weather - Climate OverRider (OA).esp
 "Xepha's Dynamic Weather - Climate OverRider (Rain).esp
 "Xepha's Dynamic Weather - Climate OverRider.esp
+Xepha's Dynamic Weather - Darker Water.esp
 Night Time Sneak Boost.esp
 pip30.esp
 pip60.esp
