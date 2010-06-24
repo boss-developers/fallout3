@@ -1090,6 +1090,7 @@ BodyJewelryEx.esp
 BoS_DX.esp
 % {{BASH:Graphics}}
 ? Do not use with latest FOOK2, it is already integrated.
+? Old. Upgrade to latest version.
 BoSDX.esp
 % {{BASH:Graphics}}
 ? Do not use with latest FOOK2, it is already integrated.
