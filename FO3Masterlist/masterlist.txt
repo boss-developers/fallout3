@@ -29,7 +29,7 @@ BrokenSteel.esm
 PointLookout.esm
 Zeta.esm
 Unofficial Fallout 3 Patch.esm
-% {{BASH:Delev,Relev,Names}}
+% {{BASH:Deflst,Delev,Relev,Factions,Invent,Names,Relations,Stats}}
 LingsDLC.esm
 HairPack.esm
 % {{BASH:Hair,Eyes}}
@@ -99,6 +99,7 @@ vaps.esm
 Summer_2.5.esm
 Enhanced Weather - Rain and Snow.esm
 Xepha's Dynamic Weather.esm
+% {{BASH:C.Climate,Sound}}
 Globaltravelsystem.esm
 GTSEssentials.esm
 GTSDeathCanyon.esm
@@ -174,19 +175,21 @@ FEM.esm
 
 Selected Containers Respawn - Emptied Trash Cans in Player Homes.esp
 Unofficial Fallout 3 Patch - Operation Anchorage.esp
-% {{BASH:Names}}
+% {{BASH:Deflst,Names}}
 Unofficial Fallout 3 Patch - The Pitt.esp
-% {{BASH:Names}}
+% {{BASH:Deflst,Names}}
 Unofficial Fallout 3 Patch - Broken Steel.esp
-% {{BASH:Names}}
+% {{BASH:Deflst,Names}}
 Unofficial Fallout 3 Patch - Point Lookout.esp
-% {{BASH:Names}}
+% {{BASH:Deflst,Names,Invent,Stats}}
 Unofficial Fallout 3 Patch - Mothership Zeta.esp
-% {{BASH:Names}}
+% {{BASH:Deflst,Names}}
 UF3P Crane Fix.esp
 Citadel Crane Fix.esp
 Error Correction.esp
+% {{BASH:Scripts}}
 FireLightFix.esp
+% {{BASH:C.Light}}
 BSMovieSkip.esp
 
 \------------------
@@ -197,13 +200,13 @@ DarNifiedUIF3.esp
 Project Beauty.esp
 * Old. Download the latest Project Beauty files.
 Project Beauty- Broken Steel.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 Project Beauty- Point Lookout.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 Raider preset beta.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 Project Beauty HD version [Hair Fix].esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 Fast VATS 1.esp
 " Fast VATS 2.esp
 Fast VATS 2.esp
@@ -242,16 +245,16 @@ PIDL-lite.esp
 PIDL-lite(metric).esp
 QZ No VATS Radial Blur.esp
 FaceMe.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 FaceMe-Broken Steel.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 eyes_hairpack_en.esp
 hair_add_npc.esp
 Dalls_Sex_in_City.esp
 Shojo NPC.esp
 % {{BASH:Invent,NpcFaces}}
 Moira-EXSP.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 norepairneededv2.esp
 Hi-Res Weapons & Ammo Textures.esp
 Hi-Res Weapons & Ammo Textures - The Pitt.esp
@@ -499,15 +502,20 @@ Wasteland Weather Overhaul .9 Level 2 Color.esp
 \------
 
 NotSoFast.esp
+% {{BASH:Scripts}}
 NotSoFastFOOK.esp
 HeirApparent.esp
+% {{BASH:Scripts}}
 HeirApparentFOOK.esp
 IntoTheDeepWoods.esp
+% {{BASH:Scripts}}
 PLweightadjust.esp
+% {{BASH:Scripts,Stats}}
 : PointLookout.ESM
 PLFewerItems.esp
 : PointLookout.ESM
 The Mantis Imperative - Mantis.esp
+% {{BASH:Relev}}
 The Mantis Imperative - Jello.esp
 The Mantis Imperative - XP.esp
 The Mantis Imperative - SkillBooks.esp
@@ -563,6 +571,7 @@ FF_DestructibleRadios.esp
 % {{BASH:Destructable}}
 MiniVaultNoScav.esp
 vaps.esp
+vaps-corrections.esp
 CRAFTHelper_VAPS.esp
 Ammo Bench - Alien Power Cell.esp
 Ammo Bench - Artisan.esp
@@ -574,6 +583,9 @@ Ammo Bench - Toolkit Retex.esp
 Ammo Bench - Scattered Schematics.esp
 CRAFTHelper_ATK.esp
 MrLabTechnician.esp
+% {{BASH:Relev}}
+MrLabTechnician - FWE.esp
+% {{BASH:Deflst,Delev}}
 RobCo Universal Battery Charger Kit.esp
 "RobCo Universal Battery Charger Kit - Zeta.esp
 RobCo Universal Battery Charger Kit - Zeta.esp
@@ -1345,7 +1357,7 @@ PlasmaPistolRedesign.esp
 % {{BASH:Graphics,Sound}}
 ? DO not use with latest FWE, it is already integrated.
 Water Bottles 3000.esp
-% {{BASH:Graphics,NoMerge}}
+% {{BASH:Graphics,NoMerge,Deactivate}}
 schematics2.esp
 % {{BASH:Graphics,NoMerge}}
 WYB-Base.esp
@@ -1385,7 +1397,7 @@ Mart's Mutant Mod - DLC Point Lookout.esp
 % {{BASH:Delev,Relev}}
 : PointLookout.ESM
 Project Beauty- Point Lookout MMM.esp
-% {{BASH:NpcFaces,NoMerge}} and deactivate.
+% {{BASH:NpcFaces,NoMerge,Deactivate}}
 Mart's Mutant Mod - DLC Zeta.esp
 : Zeta.ESM
 Mart's Mutant Mod - No Corpse Flies.esp
@@ -1626,6 +1638,7 @@ Portable Camp.esp
 oroLookoutFix.esp
 Misc Mod.esp
 Owned!.esp
+% {{BASH:Factions}}
 FaceMe-MMM.esp
 FaceMe-MMM Tougher Traders.esp
 Selected Containers Respawn - Emptied Trash Cans in Player Homes.esp
@@ -1797,6 +1810,7 @@ DarkerInteriorsPointLookout.esp
 DarkerInteriorsZeta.esp
 % {{BASH:C.Light}}
 Xepha's Dynamic Weather - Main.esp
+% {{BASH:C.Climate}}
 Xepha's Dynamic Weather - Anchorage.esp
 % {{BASH:C.Climate}}
 :Anchorage.esm
@@ -2067,6 +2081,7 @@ FOOK+FWE+PB+MMM.esp
 FOOK+FWE+EVE+UWWUT.esp
 Mez's Merged Patch - FWE-WMK-MMM.esp
 Mez's Merged Patch 5-0 - DLC-FWE-WMK-MMM.esp
+% {{BASH:Deflst,Delev,Factions,Invent,Relations,Relev,Scripts}}
 Sydney Follower.esp
 Sydney Follower - Load Order Fix.esp
 JHBSydneyUpdate.esp
