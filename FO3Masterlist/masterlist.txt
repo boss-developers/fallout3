@@ -473,6 +473,8 @@ implants.esp
 PRFEW.esp
 SRFBG.esp
 PointLookOutGoodies.esp
+Double Perks.esp
+Double Perks Half.esp
 
 \--------
 \ Weather
@@ -1330,6 +1332,10 @@ dD-More Gore-BrokenSteel.esp
 dD-More Gore-PointLookout.esp
 dD-More Gore-Zeta.esp
 dD-Reduced Dismember Force.esp
+Less Useless Karma Gifts.esp
+% {{BASH:Relev,Delev}}
+Less Useless Karma Gifts 2.0.esp
+% {{BASH:Relev,Delev}}
 S.T.A.L.K.E.R. Call of D.C..esp
 S.T.A.L.K.E.R. MOD.esp
 ARSENAL MOD.esp
