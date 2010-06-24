@@ -221,20 +221,6 @@ actionpoints_instant_regen.esp
 playbackdelay_001.esp
 CT_FalloutAdvanced - DLC.esp
 CT_FalloutAdvanced - AAOFF.esp
-Refurbishes [ALL].esp
-? Do not use with latest FOOK2, it is already integrated.
-Refurbish [TP].esp
-? Do not use with latest FOOK2, it is already integrated.
-: Refurbishes [ALL].esp
-Refurbish [BS].esp
-? Do not use with latest FOOK2, it is already integrated.
-: Refurbishes [ALL].esp
-Refurbish [PL].esp
-? Do not use with latest FOOK2, it is already integrated.
-: Refurbishes [ALL].esp
-Refurbish [MZ].esp
-? Do not use with latest FOOK2, it is already integrated.
-: Refurbishes [ALL].esp
 Noise Filter.esp
 IbIui - BS.esp
 IbIui - OA.esp
@@ -969,7 +955,23 @@ Return to Shady Sands - FWE weapons rebalance.esp
 \-----
 \Other
 \-----
-
+Refurbishes [ALL].esp
+? Do not use with latest FOOK2, it is already integrated.
+Refurbish [OA].esp
+? Do not use with latest FOOK2, it is already integrated.
+" Refurbishes [ALL].esp
+Refurbish [TP].esp
+? Do not use with latest FOOK2, it is already integrated.
+" Refurbishes [ALL].esp
+Refurbish [BS].esp
+? Do not use with latest FOOK2, it is already integrated.
+" Refurbishes [ALL].esp
+Refurbish [PL].esp
+? Do not use with latest FOOK2, it is already integrated.
+" Refurbishes [ALL].esp
+Refurbish [MZ].esp
+? Do not use with latest FOOK2, it is already integrated.
+" Refurbishes [ALL].esp
 
 
 \-------------
