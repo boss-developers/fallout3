@@ -187,6 +187,20 @@ Unofficial Fallout 3 Patch - Mothership Zeta.esp
 UF3P Crane Fix.esp
 Citadel Crane Fix.esp
 Error Correction.esp
+Error Correction - All Transparency.esp
+Error Correction - All Transparency & Trees.esp
+" Error Correction - All Transparency.esp
+Error Correction - Transparency Megaton.esp
+" Error Correction - All Transparency.esp
+" Error Correction - All Transparency & Trees.esp
+Error Correction - Transparency RC.esp
+" Error Correction - All Transparency.esp
+" Error Correction - All Transparency & Trees.esp
+Error Correction - Transparency Rubble Piles.esp
+" Error Correction - All Transparency.esp
+" Error Correction - All Transparency & Trees.esp
+Error Correction - Trees.esp
+" Error Correction - All Transparency & Trees.esp
 % {{BASH:Scripts}}
 FireLightFix.esp
 % {{BASH:C.Light}}
