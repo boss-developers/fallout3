@@ -96,6 +96,13 @@ LingsMMMpatch3-3.esm
 MMZombieCemetery.esm
 CubeExperimental (EN).esm
 vaps.esm
+Companion Core.esm
+Companion Share & Recruit.esm
+: Companion Core.esm
+RobCo Certified v2.esm
+: Companion Core.esm
+Wasteland Whisperer v2.esm
+: Companion Core.esm
 Summer_2.5.esm
 Enhanced Weather - Rain and Snow.esm
 Xepha's Dynamic Weather.esm
@@ -172,7 +179,6 @@ FEM.esm
 \------------------
 \Unofficial Patches/Fixes
 \------------------
-
 Selected Containers Respawn - Emptied Trash Cans in Player Homes.esp
 Unofficial Fallout 3 Patch - Operation Anchorage.esp
 % {{BASH:Deflst,Names}}
@@ -187,6 +193,7 @@ Unofficial Fallout 3 Patch - Mothership Zeta.esp
 UF3P Crane Fix.esp
 Citadel Crane Fix.esp
 Error Correction.esp
+% {{BASH:Scripts}}
 Error Correction - All Transparency.esp
 Error Correction - All Transparency & Trees.esp
 " Error Correction - All Transparency.esp
@@ -201,7 +208,14 @@ Error Correction - Transparency Rubble Piles.esp
 " Error Correction - All Transparency & Trees.esp
 Error Correction - Trees.esp
 " Error Correction - All Transparency & Trees.esp
-% {{BASH:Scripts}}
+BenTweaks-FO3.esp
+BenTweaks-OAE.esp
+BenTweaks-TPE.esp
+BenTweaks-BSE.esp
+BenTweaks-PLE.esp
+BenTweaks-MZE.esp
+BenTweaks-AAF.esp
+BenTweaks-CWS.esp
 FireLightFix.esp
 % {{BASH:C.Light}}
 BSMovieSkip.esp
@@ -209,7 +223,6 @@ BSMovieSkip.esp
 \------------------
 \Early Loading Mods
 \------------------
-
 DarNifiedUIF3.esp
 Project Beauty.esp
 * Old. Download the latest Project Beauty files.
@@ -243,6 +256,7 @@ IbIui - PL.esp
 IbIui.esp
 PIDL-lite.esp
 PIDL-lite(metric).esp
+Crosshair Toggle.esp
 QZ No VATS Radial Blur.esp
 FaceMe.esp
 % {{BASH:NpcFaces,NoMerge,Deactivate}}
@@ -414,7 +428,6 @@ PCB.esp
 \------
 \Sound
 \------
-
 GeneratorSound.esp
 Moshman's Wasteland Ambiance.esp
 GalaxyNewsRadioFix[S].esp
@@ -455,7 +468,6 @@ RadioHotkey_RadioBluesAddon.esp
 \------------
 \Early Misc A
 \------------
-
 ReloadAmmo.esp
 Consistent Books.esp
 RemoteControlCompanionsPlus.esp
@@ -493,8 +505,6 @@ Double Perks Half.esp
 \--------
 \ Weather
 \--------
-
-
 Wasteland Weather Overhaul .9.esp
 Wasteland Weather Overhaul .9 (no interiors).esp
 Wasteland Weather Overhaul .9 Level 2 Color.esp
@@ -502,7 +512,6 @@ Wasteland Weather Overhaul .9 Level 2 Color.esp
 \------
 \Quests
 \------
-
 NotSoFast.esp
 % {{BASH:Scripts}}
 NotSoFastFOOK.esp
@@ -584,6 +593,7 @@ Ammo Bench - Old Ammo-Benches.esp
 Ammo Bench - Toolkit Retex.esp
 Ammo Bench - Scattered Schematics.esp
 CRAFTHelper_ATK.esp
+DN_RecyclingMachine.esp
 MrLabTechnician.esp
 % {{BASH:Relev}}
 MrLabTechnician - FWE.esp
@@ -592,6 +602,8 @@ RobCo Universal Battery Charger Kit.esp
 "RobCo Universal Battery Charger Kit - Zeta.esp
 RobCo Universal Battery Charger Kit - Zeta.esp
 "RobCo Universal Battery Charger Kit.esp
+Rude Awakening.esp
+Rude Awakening - MMM.esp
 tubRRCompound.esp
 rockville.esp
 Stealth Kills Enabled.esp
@@ -679,7 +691,6 @@ ARTNightVision-Energy Cell.esp
 \---
 \NPC
 \---
-
 CrowdedCities_v2.esp
 " CrowdedCities_v2_lessNPCs.esp
 CrowdedCities_v2_lessNPCs.esp
@@ -695,6 +706,8 @@ EZ_MoreVoices.esp
 EZ_TempleOfCant.esp
 EZ_Ammo_Restriction.esp
 EZ_citizens.esp
+Clothed Sarah Lyons - Sleepwear.esp
+
 
 \--------
 \Places
@@ -826,8 +839,6 @@ RockopolisRebuilt.esp
 \----
 \FOOK
 \----
-
-
 FOOK2 - Main.esp
 % {{BASH:Delev,Relev}}
 : CALIBR.ESM and FOOK2 - Main.ESM
@@ -997,7 +1008,6 @@ Refurbish [MZ].esp
 \------------
 \ Tailor Maid
 \------------
-
 Tailor Maid.esp
 Tailor Maid Anchorage.esp
 : Anchorage.ESM
@@ -1012,7 +1022,6 @@ Tailor Maid Black Retex.esp
 \--------------
 \ WeaponModKits
 \--------------
-
 WeaponModKits.esp
 WeaponModKits - FOOK.esp
 WeaponModKits - FWE Master Release.esp
@@ -1033,9 +1042,8 @@ CRAFTHelper_WMK.esp
 SelfSurgeryKit.esp
 
 \--------
-\ Weapons\Armours\clothes
+\ Weapons
 \--------
-
 MissingUniqueArmorClothing-Enhanced-NSF.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionTHEPOINT.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionANCHORAGE.esp
@@ -1087,8 +1095,12 @@ Weapon - Some Katanas.esp
 CS_ LightsaberQuest.esp
 CS_LightsaberQuest - Objectives Patch.esp
 ColtM4Carbines_RHIronSights.esp
+AsharasLightningItems.esp
+AMR-B04.esp
 
-\Armour/clothes
+\--------------
+\ Armor\Clothes
+\--------------
 1SB_VenomousArmor.esp
 Arcade'sNightwear.esp
 Jessica Outfit.esp
@@ -1097,6 +1109,7 @@ Mantis07Reflex.esp
 3EFdrg.esp
 3EFdrgplate.esp
 3EFhelmlessstealthsuit.esp
+3EFwandererGear.esp
 Amy_Armor.esp
 AsharasFormalClothing.esp
 BodyJewelry.esp
@@ -1123,6 +1136,8 @@ BoS_FOOKedition_Armor.esp
 BunnySuit.esp
 Colossus Outcast.esp
 colossus BOS.esp
+Colossus Headgear.esp
+Colossus Armor.esp
 COL Enclave VER2.esp
 % {{BASH:Graphics}}
 COL Enclave Hell.esp
@@ -1132,6 +1147,8 @@ CSwimsuit_and_Harness_recolor.esp
 ChineseStealthArmorFixed.esp
 DIM TYPE3 conversions.esp
 DIM TYPE3clothesRETAIL.esp
+Bikini_Armor_TYPE3.esp
+Persona_and_Secret.esp
 Dark_Temptress.esp
 Dogmeat Leather Armor - CRAFT.esp
 Dogmeat Leather Armor - no crafting.esp
@@ -1184,17 +1201,22 @@ ignis.esp
 kikaiEquipment.esp
 sunglassescollection.esp
 thongpack.esp
+FixedEyeglasses.esp
+ME2_Inferno Armor.esp
+FatherandNun.esp
+NoInvisArcadeIndustries_SweetSneak.esp
+InvisArcadeIndustries_SweetSneak.esp
 
-\-------
+\---------
 \Cosmetics
-\-------
+\---------
 DIM CUSTOM PRESETS V1.3WEB.esp
 F3Eyelashes.esp
 _R_Tribals.esp
 
-\-----------
+\-------------
 \Middle Misc A
-\-----------
+\-------------
 AS-R CALIBR Patch ONLY.esp
 CALIBR Ammo Schematics - CRAFT.esp
 Ammo_Schematics.esp
@@ -1268,11 +1290,11 @@ PowerOfTheAtom_FOOKandFWE.esp
 \----------
 \ EVE Stuff
 \----------
-
+EVE Test Options.esp
 EVE Beta_0.9.4.esp
 ? Upgrade needed, there is a new version of EVE available.
 EVE.esp
-% {{BASH:Graphics,Sound}}
+% {{BASH:Graphics,Sound,Scripts}}
 EVE Operation Anchorage.esp
 % {{BASH:Graphics,Sound}}
 : Anchorage.ESM
@@ -1291,12 +1313,30 @@ CFWRloadlastEVE.esp
 \-----------
 \Middle Misc B
 \-----------
-
+Companion Core DLC Addon.esp
+: Companion Core.esm, Anchorage.ESM, ThePitt.ESM, BrokenSteel.ESM, PointLookout.esm, Zeta.esm
+Wasteland Whisperer v2 Broken Steel Addon.esp
+: Wasteland Whisperer v2.esm
+Wasteland Whisperer.esp
+RobCo Certified v2 Version Updater.esp
+: RobCo Certified v2.esm
+RobCo Certified v2 Mechanist's Edition.esp
+: RobCo Certified v2.esm
+RobCo Certified v2 Zeta Addon.esp
+: RobCo Certified v2.esm
+RobCo Certified.esp
+RobCo Certified - Robot Perks.esp
+RobCo Storage Module.esp
+RobCo Certified Engineer.esp
+RobCo Certified Engineer - Storage Enabled.esp
+RobCo Certified Engineer - Storage Enabled Fix.esp
+BuildableBots v0.3a.esp
+RobCo Engineer - Robot Repair.esp
+Buildablebots Robcert. addon.esp
 MarcuzVanishingPiles_EVE_Add.esp
 : EVE.esp
 VanishingPiles.esp
 NVG Activator Crash Fix [Experimental].esp
-Wasteland Whisperer.esp
 CBOv1.4.esp
 CBOv1.4.esp
 WSG Improved.esp
@@ -1332,15 +1372,6 @@ UWWUT_WT - BS Addon.esp
 UWWUT_WT - WMK Addon.esp
 % {{BASH:Graphics,Stats}}
 " UWWUT - WMK Addon.esp
-RobCo Certified.esp
-RobCo Certified - Robot Perks.esp
-RobCo Storage Module.esp
-RobCo Certified Engineer.esp
-RobCo Certified Engineer - Storage Enabled.esp
-RobCo Certified Engineer - Storage Enabled Fix.esp
-BuildableBots v0.3a.esp
-RobCo Engineer - Robot Repair.esp
-Buildablebots Robcert. addon.esp
 dD-More Gore.esp
 dD-More Gore-The Pitt.esp
 dD-More Gore-BrokenSteel.esp
@@ -1392,11 +1423,22 @@ WYB-DLC-Zeta.esp
 WYB-MOD-DCInteriors_Combo v2.5.esp
 WYB-OPT-WhiteCigarette.esp
 WYB-OPT-DynamicReplacer.esp
+Weld - Badge.esp
+% {{BASH:Graphics,Actors.Anims,Invent}}
+Weld - Badge and Hat.esp
+% {{BASH:Graphics,Actors.Anims,Invent}}
+Weld and Steel - Badges.esp
+% {{BASH:Graphics,Actors.Anims,Invent}}
+Weld and Steel - Badges, only Weld hat.esp
+% {{BASH:Graphics,Actors.Anims,Invent}}
+Deputy Weld and Steel - Badges and Hats.esp
+% {{BASH:Graphics,Actors.Anims,Invent}}
+Deputy Weld and Steel - Badges Steel Hat.esp
+% {{BASH:Graphics,Actors.Anims,Invent}}
 
 \-----------------
 \Mart's Mutant Mod
 \-----------------
-
 Mart's Mutant Mod.esp
 % {{BASH:Delev}}
 :Mart's Mutant Mod.esm
@@ -1459,9 +1501,6 @@ Mart's Mutant Mod - FOOK2 - DIK.esp
 : FOOK2 - Main.ESM, FOOK2 - [DIK] DLC Improvement Kit.esm and Mart's Mutant Mod.esm
 % {{BASH:Relations}}
 Mart's Mutant Mod - GSoS CaSO.esp
-Mart's Mutant Mod - FWE with EVE.esp
-: FO3 Wanderers Edition - Main File.esm
-: EVE.esp
 CT_FalloutAdvanced - MMM.esp
 Project Beauty- MMM Raiders.esp
 * Old. Download the latest Project Beauty files.
@@ -1473,6 +1512,10 @@ Mart's Mutant Mod - Project Beauty.esp
 % {{BASH:NpcFaces,Hair,Eyes,Voice-M,Voice-F,Body-M,Body-F,R.Teeth,R.Mouth,NoMerge}}
 Mart's Mutant Mod - FWE Master Release.esp
 % {{BASH:Invent,Relations}}
+Mart's Mutant Mod - FWE with EVE.esp
+% {{BASH:Invent,Relations}}
+: FO3 Wanderers Edition - Main File.esm
+: EVE.esp
 Mart's Mutant Mod - Project Beauty + FWE.esp
 Mart's Mutant Mod - Project Beauty (HD Addition).esp
 * Old. Download the latest Project Beauty files.
@@ -1485,7 +1528,6 @@ MMM_RtSS_Mod.esp
 \-----------
 \Middle Misc C
 \-----------
-
 1PipboyPDA.esp
 Savage Wasteland - Fewer Gun Wielding Maniacs.esp
 Original Moira Brown.esp
@@ -1508,10 +1550,11 @@ FEM - NILE enabler.esp
 : FEM.esm
 FEM - UF3 enabler.esp
 : FEM.esm
+LingsFinerThings.esp
 LingsPrettyThings.esp
 LingsPrettyThings-BrokenSteel.esp
 LingsPrettyThings-SeducingWomen.esp
-LingsFinerThings.esp
+LingsPrettyThings-FOOK2-MMM.esp
 SeducedDLC03.esp
 FEMed TYPE3 Cloths.esp
 BriannaCompanion.esp
@@ -1552,7 +1595,6 @@ GTent-FWE-WMK.esp
 \-------------
 \ Realism Mods
 \-------------
-
 RI_Base3.esp
 RI_PNeeds2S.esp
 RI_DoctorCost.esp
@@ -1570,7 +1612,6 @@ RiPnO - OPTIONAL - Cola Heals.esp
 \-----------
 \ Later Misc
 \-----------
-
 Accurate Sniper Rifles.esp
 Arwen_Realism_Core.esp
 Arwen_FULL_Tweaks.esp
@@ -1737,6 +1778,7 @@ yaDisguisesMod-DLC-BrokenSteel.esp
 yaDisguisesMod-DLC-ThePitt.esp
 No[EMPTY]ContainerMessages.esp
 5xlvling.esp
+ImmersiveTimescale.esp
 TimeScaleTo3.esp
 TimeScaleTo4.esp
 TimeScaleTo5.esp
@@ -1745,6 +1787,8 @@ TimeScaleTo20.esp
 TimeScaleTo25.esp
 TalkToAnybody.esp
 I'll Touch What I Want.esp
+Sleep in any bed.esp
+Whose been sleeping in my Bed.esp
 VATS - MCE.esp
 VatsLongerDistance.esp
 MZ No Karma Loss.esp
@@ -1779,10 +1823,9 @@ Phalanx-Obedient-Dogmeat.esp
 Dogmeat Never Dies.esp
 GTSFawkesWeapons.esp
 
-\-----
+\--------
 \ Lastish
-\-----
-
+\--------
 megalight.esp
 ? Do not use with latest FOOK2, it is already integrated.
 Enhanced Weather - Rain and Snow.esp
@@ -2082,7 +2125,6 @@ EZCompanion_Type-N.esp
 \------------
 \Merged Patch\CPs
 \------------
-
 RobCo Certified - FWE EVE Balance.esp
 RobCo Certified - FWE EVE Balance Light.esp
 Destruction - CP - Fellout.esp
@@ -2149,7 +2191,6 @@ CRBSOR [Achievements Removed].esp
 \------------
 \Bashed Patch
 \------------
-
 Bashed Patch, 0.esp
 Bashed Patch, 1.esp
 Bashed Patch, 2.esp
