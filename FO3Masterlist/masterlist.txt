@@ -59,6 +59,7 @@ CFWRv4.esm
 % {{BASH:Deflst,Delev,Invent,Names,Graphics,Scripts,Stats}}
 20thCenturyWeapons.esm
 20th Century Weapons.esm
+CMRS.esm
 CRAFTHelper.esm
 Ammo Bench.esm
 Refurbishes [ALL].esm
@@ -612,6 +613,7 @@ SS OTS Camera FOSE.esp
 1Animated Nightvision goggles.esp
 Binoculars.esp
 SniperZooming.esp
+ZoomReworked.esp
 Directional PipLight.esp
 Directional PipLight HDR.esp
 Expanded Megaton House V3.esp
@@ -669,6 +671,16 @@ ARTNightVision.esp
 ARTNightVision-No AP drain.esp
 ARTNightVision-Energy Cell.esp
 BM08RandomBobbleheadsFixed.esp
+CMRS - Vanilla.esp
+CMRS - Anchorage.esp
+CMRS - The Pitt.esp
+CMRS - Broken Steel.esp
+CMRS - Point Lookout.esp
+CMRS - Mothership Zeta.esp
+CMRS - 20th Century Weapons.esp
+CMRS - Rebalanced Junk.esp
+BA_WRM.esp
+BA_WRM_ALT.esp
 
 \---
 \NPC
@@ -1076,6 +1088,9 @@ CS_LightsaberQuest - Objectives Patch.esp
 ColtM4Carbines_RHIronSights.esp
 AsharasLightningItems.esp
 AMR-B04.esp
+ZL-SVD.esp
+ZL-SVD-CALIBR.esp
+ZL-MP5 Pack.esp
 
 \--------------
 \ Armor\Clothes
@@ -1185,6 +1200,8 @@ ME2_Inferno Armor.esp
 FatherandNun.esp
 NoInvisArcadeIndustries_SweetSneak.esp
 InvisArcadeIndustries_SweetSneak.esp
+ACU Battle Armor.esp
+T3T_CombatArmorSleeves.esp
 
 \---------
 \Cosmetics
@@ -1498,8 +1515,6 @@ MMM_RtSS_Mod.esp
 \-----------
 \Middle Misc C
 \-----------
-1PipboyPDA.esp
-Savage Wasteland - Fewer Gun Wielding Maniacs.esp
 Original Moira Brown.esp
 SeducingWomen_-_override.esp
 FEM - BABE enabler.esp
@@ -1546,21 +1561,16 @@ ChildrenEmpire Enemies.esp
 Fallout 3 Sexus Enemies.esp
 Fallout 3 Sexus - DLC The Pitt.esp
 Fallout 3 Sexus with Children Empire.esp
-vaps-automated-ammo-toolkit.esp
-CRAFTHelper_VAPS-ATK.esp
-vaps-broken-steel.esp
-vaps-point-lookout.esp
-vaps-fwe.esp
-vaps-marts-mutant-mod.esp
-GTent-FWE.esp
-: FO3 Wanderers Edition - Main File.esm
-: CRAFT.esm
-GTent-FWE-MMM.esp
-: GTent-FWE.esp
-: Mart's Mutant Mod.esm
-GTent-FWE-WMK.esp
-: GTent-FWE.esp
-: WeaponModKits.esp
+Mysteriouswoman_outfitonly.esp
+Mysteriouswoman_scout.esp
+Mysteriouswoman_dress.esp
+Mysteriouswoman_dressncoat.esp
+Mysteriouswoman_topless.esp
+Mysteriouswoman_underwearncoat.esp
+Mysteriouswoman_underwear.esp
+Mysteriouswoman_corsetntrousers.esp
+Mysteriouswoman_alternativetop.esp
+Mysteriouswoman_sexytopless.esp 
 
 \-------------
 \ Realism Mods
@@ -1582,6 +1592,7 @@ RiPnO - OPTIONAL - Cola Heals.esp
 \-----------
 \ Later Misc
 \-----------
+1PipboyPDA.esp
 Accurate Sniper Rifles.esp
 Arwen_Realism_Core.esp
 Arwen_FULL_Tweaks.esp
@@ -1640,6 +1651,10 @@ T3T_AT_ZetaCompanion.esp
 T3T_AT_CAS.esp
 T3T_BetterMegatonStorage.esp
 T3T_MiscItemIcons.esp
+ACRForFWE.esp
+SVDForFWE.esp
+MP5ForFWE.esp
+DTOForFWE.esp
 CombatEnhanced-Package v02.esp
 Attentater's Wasteland Economy.esp
 AsharasPresets.esp
@@ -1772,7 +1787,26 @@ AMPUTATE!.esp
 SpeechLite.esp
 SpeechLiteCombatDLC.esp
 EnduranceBasedHealthRegen.esp
-
+BoS Diversification.esp
+BoS Diversification - Broken Steel.esp
+BOC Diversification.esp
+BOC Diversification - Operation Anchorage.esp
+Savage Wasteland - Fewer Gun Wielding Maniacs.esp
+vaps-automated-ammo-toolkit.esp
+CRAFTHelper_VAPS-ATK.esp
+vaps-broken-steel.esp
+vaps-point-lookout.esp
+vaps-fwe.esp
+vaps-marts-mutant-mod.esp
+GTent-FWE.esp
+: FO3 Wanderers Edition - Main File.esm
+: CRAFT.esm
+GTent-FWE-MMM.esp
+: GTent-FWE.esp
+: Mart's Mutant Mod.esm
+GTent-FWE-WMK.esp
+: GTent-FWE.esp
+: WeaponModKits.esp
 
 \-------
 \Phalanx
