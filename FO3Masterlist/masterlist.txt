@@ -1040,6 +1040,7 @@ WeaponModKits - PointLookout.esp
 :PointLookout.ESM
 WeaponModKits - Zeta.esp
 :Zeta.ESM
+WeaponModKits - DIK.esp
 CRAFTHelper_WMK.esp
 SelfSurgeryKit.esp
 
@@ -1288,6 +1289,8 @@ Nova Interaction Revised.esp
 Menu Based Hacking & Picking.esp
 ? DO not use with latest FWE, it is already integrated.
 PowerOfTheAtom_FOOKandFWE.esp
+AutomatScriptRemoved.esp
+UpgradedCaravanMerchants.esp
 
 \----------
 \ EVE Stuff
@@ -1494,6 +1497,10 @@ Mart's Mutant Mod - Tougher Traders.esp
 % {{BASH:Actors.Stats}}
 Mart's Mutant Mod - Zones Respawn.esp
 Mart's Mutant Mod - Zombie Cementery.esp
+Project Beauty- MMM Raiders.esp
+* Old. Download the latest Project Beauty files.
+Mart's Mutant Mod - Project Beauty.esp
+% {{BASH:NpcFaces,Hair,Eyes,Voice-M,Voice-F,Body-M,Body-F,R.Teeth,R.Mouth,NoMerge}}
 Mart's Mutant Mod - FOOK.esp
 * Get FOOK2
 Mart's Mutant Mod - FOOK2.esp
@@ -1502,16 +1509,13 @@ Mart's Mutant Mod - FOOK2.esp
 Mart's Mutant Mod - FOOK2 - DIK.esp
 : FOOK2 - Main.ESM, FOOK2 - [DIK] DLC Improvement Kit.esm and Mart's Mutant Mod.esm
 % {{BASH:Relations}}
+Mart's Mutant Mod - FOOK2 - Natural Selection.esp
 Mart's Mutant Mod - GSoS CaSO.esp
 CT_FalloutAdvanced - MMM.esp
-Project Beauty- MMM Raiders.esp
-* Old. Download the latest Project Beauty files.
 ARSENAL MOD+MMM.esp
 Mutant perks for MMM 1.9.esp
 S.T.A.L.K.E.R. Call of D.C.+MMM.esp
 S.T.A.L.K.E.R. Mutants[addon for MMM].esp
-Mart's Mutant Mod - Project Beauty.esp
-% {{BASH:NpcFaces,Hair,Eyes,Voice-M,Voice-F,Body-M,Body-F,R.Teeth,R.Mouth,NoMerge}}
 Mart's Mutant Mod - FWE Master Release.esp
 % {{BASH:Invent,Relations}}
 Mart's Mutant Mod - FWE with EVE.esp
