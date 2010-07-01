@@ -592,6 +592,8 @@ Ammo Bench - Car Mechanic.esp
 Ammo Bench - Old Ammo-Benches.esp
 Ammo Bench - Toolkit Retex.esp
 Ammo Bench - Scattered Schematics.esp
+Angry Scientists.esp
+% {{BASH:Invent}}
 CRAFTHelper_ATK.esp
 DN_RecyclingMachine.esp
 MrLabTechnician.esp
