@@ -270,9 +270,6 @@ Shojo NPC.esp
 Moira-EXSP.esp
 % {{BASH:NpcFaces,NoMerge,Deactivate}}
 norepairneededv2.esp
-Hi-Res Weapons & Ammo Textures.esp
-Hi-Res Weapons & Ammo Textures - The Pitt.esp
-:The Pitt DLC
 BatteriesPlusV1_2.esp
 % {{BASH:Graphics}}
 Realistic icons.esp
@@ -297,21 +294,6 @@ LED pipboy light amber.esp
 LED pipboy light ember extended.esp
 LED pipboy light green.esp
 LED pipboy light green extended.esp
-=Extreme+Close=DOF1.1.esp
-=Extreme+Far=DOF1.1.esp
-=Extreme+Very Far=DOF1.1.esp
-=Insane+Close=DOF1.1.esp
-=Insane+Far=DOF1.1.esp
-=Insane+Very Far=DOF1.1.esp
-=Medium+Close=DOF1.1.esp
-=Medium+Far=DOF1.1.esp
-=Medium+Very Far=DOF1.1.esp
-=Strong+Close=DOF1.1.esp
-=Strong+Far=DOF1.1.esp
-=Strong+Very Far=DOF1.1.esp
-=Subtle+Close=DOF1.1.esp
-=Subtle+Far=DOF1.1.esp
-=Subtle+Very Far=DOF1.1.esp
 =Extreme+Close=DOF1.1.esp
 =Extreme+Far=DOF1.1.esp
 =Extreme+Very Far=DOF1.1.esp
@@ -490,8 +472,6 @@ Dree Perks Broken Steel.esp
 Dree Perks Point Lookout.esp
 Dree Perks Mothership Zeta.esp
 Dree Perks Requested by Fans .esp
-AccuracyPerks.esp
-Perk Revamp Mod - Broken Steel - Perks Only.esp
 Combat Style Perks.esp
 BookPerks.esp
 BookPerkBarterMOD.esp
@@ -641,7 +621,6 @@ Tenpenny_Expansion.esp
 MaintenanceShed.esp
 HomesteadMotelSuite.esp
 UrgeWashingtonBoS.esp
-tubRRCompound.esp
 merc.esp
 D.C. Confidential.esp
 ? Choose only one 'D.C. Confidential' ESP.
@@ -689,6 +668,7 @@ Slof's Boners!.esp
 ARTNightVision.esp
 ARTNightVision-No AP drain.esp
 ARTNightVision-Energy Cell.esp
+BM08RandomBobbleheadsFixed.esp
 
 \---
 \NPC
@@ -756,7 +736,6 @@ Hot n Dusty.esp
 Greenerworld.esp
 GreenWorld.esp
 Madhswasteland.esp
-Megaton Tweaks - Snipers Edition.esp
 AbandonedShack.esp
 RuinedOutposts.esp
 motelPL.esp
@@ -1047,7 +1026,6 @@ SelfSurgeryKit.esp
 \--------
 \ Weapons
 \--------
-MissingUniqueArmorClothing-Enhanced-NSF.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionTHEPOINT.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionANCHORAGE.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionTHEPITT.esp
@@ -1067,7 +1045,6 @@ Akira - Simple Silenced SMG.esp
 AsharasBatmanItems.esp
 GaussCompleteBeta.esp
 ColtM4Carbines.esp
-Wattz Laser Weapons Mod.esp
 7_HolsterForHandGunsV1_1.esp
 Wattz Laser Pistols Mod.esp
 WMKAA12Shotgun.esp
@@ -1083,7 +1060,6 @@ SR25Rifle.esp
 DanWessonPPC357(CALIBR).esp
 18inchCSLatinMachete.esp
 P94-95.esp
-Tactical Weapons by gRs Frederyck.esp
 xCALIBRmunitions.esp
 xCALIBRmunitions_FOSEnhancements.esp
 ZL-ACR.esp
@@ -1225,8 +1201,6 @@ CALIBR Ammo Schematics - CRAFT.esp
 Ammo_Schematics.esp
 : CRAFT.esm
 CRAFTHelper_AS.esp
-Stealthboy Recon Armor - CRAFT.esp
-: CRAFT.esm
 CRAFT Improvised Weaponry.esp
 CRAFT Improvised Weaponry - Unmodeled.esp
 CRAFT Improvised Weaponry - FOOK+FWE.esp
@@ -1242,8 +1216,6 @@ JHB House Robots Can Repair.esp
 Burnification.esp
 TL Freeze.esp
 TL [Color].esp
-Sally Fix 2.1.esp
-Alternate Start - Roleplayers.esp
 Kick Dogmeat.esp
 Slof's Alsatian Dogmeat.esp
 IgDRDeathclawGauntletFix.esp
@@ -1343,7 +1315,6 @@ MarcuzVanishingPiles_EVE_Add.esp
 VanishingPiles.esp
 NVG Activator Crash Fix [Experimental].esp
 CBOv1.4.esp
-CBOv1.4.esp
 WSG Improved.esp
 XPReward20Percent.esp
 ThePitt-NoFireFollowers.esp
@@ -1377,12 +1348,6 @@ UWWUT_WT - BS Addon.esp
 UWWUT_WT - WMK Addon.esp
 % {{BASH:Graphics,Stats}}
 " UWWUT - WMK Addon.esp
-dD-More Gore.esp
-dD-More Gore-The Pitt.esp
-dD-More Gore-BrokenSteel.esp
-dD-More Gore-PointLookout.esp
-dD-More Gore-Zeta.esp
-dD-Reduced Dismember Force.esp
 Less Useless Karma Gifts.esp
 % {{BASH:Relev,Delev}}
 Less Useless Karma Gifts 2.0.esp
@@ -1528,7 +1493,6 @@ Mart's Mutant Mod - Project Beauty (HD Addition).esp
 Mart's Mutant Mod - Linged.esp
 Mart's Mutant Mod - CFW.esp
 Mart's Mutant Mod - XFO.esp
-LingsPrettyThings-FOOK2-MMM.esp
 MMM_RtSS_Mod.esp
 
 \-----------
@@ -1711,8 +1675,6 @@ Owned!.esp
 % {{BASH:Factions}}
 FaceMe-MMM.esp
 FaceMe-MMM Tougher Traders.esp
-Selected Containers Respawn - Emptied Trash Cans in Player Homes.esp
-Selected Containers Respawn.esp
 Gifts4Kids.esp
 NoTheftComments.esp
 RRV1 Bedroom Redecorated.esp
@@ -1731,9 +1693,9 @@ dD-Less Blood Time, Larger Blood.esp
 dD-No Screen Blood.esp
 dD-Full Screen Blood.esp
 dD-More Gore.esp
-dD-More Gore-PointLookout.esp
-dD-More Gore-BrokenSteel.esp
 dD-More Gore-The Pitt.esp
+dD-More Gore-BrokenSteel.esp
+dD-More Gore-PointLookout.esp
 dD-More Gore-Zeta.esp
 FO3 Wanderers Edition - More Gore.esp
 FO3 Wanderers Edition - More Gore Zeta.esp
@@ -1862,7 +1824,6 @@ Fellout-Zeta.esp
 FelloutWithLightingOverhual-1.0.esp
 % {{BASH:C.Light}}
 FOOK2 Nightvision for Fellout.esp
-Destruction - CP - Fellout.esp
 Realistic Interior Lighting.esp
 % {{BASH:C.Light}}
 Realistic Interior Lighting - BS.esp
