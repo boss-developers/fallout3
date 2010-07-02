@@ -1128,6 +1128,12 @@ BoS_FOOKedition_Armor.esp
 % {{BASH:Graphics}}
 ? Do not use with latest FOOK2, it is already integrated.
 BunnySuit.esp
+Cat Outfit Fanged.esp
+% {{BASH:Eyes}}
+? Use either 'Cat Outfit Fanged.esp' or 'Cat Outfit Only.esp', not both.
+Cat Outfit Only.esp
+% {{BASH:Eyes}}
+? Use either 'Cat Outfit Fanged.esp' or 'Cat Outfit Only.esp', not both.
 Colossus Outcast.esp
 colossus BOS.esp
 Colossus Headgear.esp
@@ -1478,6 +1484,11 @@ Mart's Mutant Mod - Reduced Wasteland Spawns.esp
 Mart's Mutant Mod - Tougher Traders.esp
 % {{BASH:Actors.Stats}}
 Mart's Mutant Mod - Zones Respawn.esp
+Mart's Mutant Mod - Soft Unleveler.esp
+? Use either 'Soft Unleveler' or 'Soft Unleveler Hardcore' but not both.
+Mart's Mutant Mod - Soft Unleveler Hardcore.esp
+? Use either 'Soft Unleveler' or 'Soft Unleveler Hardcore' but not both.
+Mart's Mutant Mod - Dynamic Player Scaling.esp
 Mart's Mutant Mod - Zombie Cementery.esp
 Project Beauty- MMM Raiders.esp
 * Old. Download the latest Project Beauty files.
