@@ -51,6 +51,7 @@ CRAFT.esm
 CALIBR.esm
 xCALIBR.esm
 % {{BASH:Names,Graphics,Stats}}
+CRAFTHelper.esm
 Project Beauty HD version.esm
 * Old. Download the latest Project Beauty files.
 Project Beauty.esm
@@ -60,7 +61,6 @@ CFWRv4.esm
 20thCenturyWeapons.esm
 20th Century Weapons.esm
 CMRS.esm
-CRAFTHelper.esm
 Ammo Bench.esm
 Refurbishes [ALL].esm
 ? Do not use with latest FOOK2, it is already integrated.
@@ -96,6 +96,7 @@ LingsFinerThings.esm
 LingsMMMpatch3-3.esm
 MMZombieCemetery.esm
 CubeExperimental (EN).esm
+All Your Bananas.esm
 vaps.esm
 Companion Core.esm
 Companion Share & Recruit.esm
@@ -331,13 +332,8 @@ ASU.esp
 CRAFT - Activation Perk.esp
 : CRAFT.ESM
 CRAFT -Zeta -  Activation Perk.esp
-CRAFTHelper_ReplaceWorkbenchScript.esp
-"CRAFT - Activation Perk.esp
-CRAFTHelper_Vanilla.esp
 TinCanCRAFTing.esp
-CRAFTHelper_TinCan.esp
 CRAFT - EnergyAmmo.esp
-CRAFTHelper_EA.esp
 CALIBRxMerchant.esp
 : CALIBR.ESM
 DelayAnchorage.esp
@@ -562,9 +558,6 @@ MarkB50K_Dynamic_Missions.esp
 FF_DestructibleRadios.esp
 % {{BASH:Destructable}}
 MiniVaultNoScav.esp
-vaps.esp
-vaps-corrections.esp
-CRAFTHelper_VAPS.esp
 Ammo Bench - Alien Power Cell.esp
 Ammo Bench - Artisan.esp
 Ammo Bench - CRAFT Plugin.esp
@@ -575,7 +568,6 @@ Ammo Bench - Toolkit Retex.esp
 Ammo Bench - Scattered Schematics.esp
 Angry Scientists.esp
 % {{BASH:Invent}}
-CRAFTHelper_ATK.esp
 DN_RecyclingMachine.esp
 MrLabTechnician.esp
 % {{BASH:Relev}}
@@ -734,6 +726,8 @@ After War.esp
 ClutterFreeWorld.esp
 megaton_lighting.esp
 B.B.G.esp
+Megaton Tweaks 1.28 (no podium).esp
+Megaton Tweaks 1.28.esp
 Megaton Park.esp
 Megaton House and Theme Overhaul.esp
 Megaton Walkway.esp
@@ -956,10 +950,6 @@ FO3 Wanderers Edition - Optional Restore Tracers (automatics only).esp
 FWE - Weightless Ammo.esp
 FO3 Wanderers Edition - FOOK Support.esp
 ? Check for updates; you may have the old version installed.
-CRAFTHelper_FWE.esp
-CRAFTHelper_FWEAlternateTravel.esp
-CRAFTHelper_ReplaceWorkbenchScriptFWE.esp
-" CRAFT - Activation Perk.esp
 FaceMe-FWE.esp
 DarNifiedUIF3_FWE.esp
 ? Do not use with latest FWE, it is already integrated.
@@ -1032,7 +1022,6 @@ WeaponModKits - PointLookout.esp
 WeaponModKits - Zeta.esp
 :Zeta.ESM
 WeaponModKits - DIK.esp
-CRAFTHelper_WMK.esp
 SelfSurgeryKit.esp
 
 \--------
@@ -1142,7 +1131,6 @@ COL Enclave VER2.esp
 % {{BASH:Graphics}}
 COL Enclave Hell.esp
 % {{BASH:Graphics}}
-CRAFTHelper_SBReconArmor.esp
 CSwimsuit_and_Harness_recolor.esp
 ChineseStealthArmorFixed.esp
 DIM TYPE3 conversions.esp
@@ -1152,7 +1140,6 @@ Persona_and_Secret.esp
 Dark_Temptress.esp
 Dogmeat Leather Armor - CRAFT.esp
 Dogmeat Leather Armor - no crafting.esp
-CRAFTHelper_DLAC.esp
 Dragonskin Tactical Outfit.esp
 DragonskinBonusPack.esp
 Freebooter_Armor.esp
@@ -1223,7 +1210,6 @@ AS-R CALIBR Patch ONLY.esp
 CALIBR Ammo Schematics - CRAFT.esp
 Ammo_Schematics.esp
 : CRAFT.esm
-CRAFTHelper_AS.esp
 CRAFT Improvised Weaponry.esp
 CRAFT Improvised Weaponry - Unmodeled.esp
 CRAFT Improvised Weaponry - FOOK+FWE.esp
@@ -1803,8 +1789,8 @@ BoS Diversification - Broken Steel.esp
 BOC Diversification.esp
 BOC Diversification - Operation Anchorage.esp
 Savage Wasteland - Fewer Gun Wielding Maniacs.esp
+vaps.esp
 vaps-automated-ammo-toolkit.esp
-CRAFTHelper_VAPS-ATK.esp
 vaps-broken-steel.esp
 vaps-point-lookout.esp
 vaps-fwe.esp
@@ -1839,6 +1825,22 @@ GTSFawkesWeapons.esp
 \--------
 \ Lastish
 \--------
+CRAFTHelper_ReplaceWorkbenchScript.esp
+"CRAFT - Activation Perk.esp
+CRAFTHelper_ReplaceWorkbenchScriptFWE.esp
+" CRAFT - Activation Perk.esp
+CRAFTHelper_Vanilla.esp
+CRAFTHelper_TinCan.esp
+CRAFTHelper_EA.esp
+CRAFTHelper_VAPS.esp
+CRAFTHelper_ATK.esp
+CRAFTHelper_FWE.esp
+CRAFTHelper_FWEAlternateTravel.esp
+CRAFTHelper_WMK.esp
+CRAFTHelper_SBReconArmor.esp
+CRAFTHelper_DLAC.esp
+CRAFTHelper_AS.esp
+CRAFTHelper_VAPS-ATK.esp
 megalight.esp
 ? Do not use with latest FOOK2, it is already integrated.
 Enhanced Weather - Rain and Snow.esp
