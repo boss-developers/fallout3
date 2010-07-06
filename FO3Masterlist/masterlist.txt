@@ -117,6 +117,7 @@ GTSEssentials.esm
 GTSDeathCanyon.esm
 CT_FalloutAdvanced.esm
 RTS.esm
+RTS NW.esm
 "ArefuExpandedByAzar.esm
 "1PipboyPDA.esp
 Nos' Cosmetic Resource.esm
@@ -289,6 +290,8 @@ Internet Mod.esp
 ? Do not use with latest FOOK2, it is already integrated.
 LessRocks.esp
 Reduced Dust Particles.esp
+TakingOutTheTrash.esp
+TOTTPointLookoutEdition.esp
 YearlingsGlasses.esp
 MaxLevelWorkaround-BS.esp
 Max Level 99 V2.esp
@@ -475,6 +478,7 @@ Combat Style Perks.esp
 BookPerks.esp
 BookPerkBarterMOD.esp
 implants.esp
+Cyber-Enhancements.esp
 PRFEW.esp
 SRFBG.esp
 PointLookOutGoodies.esp
@@ -482,7 +486,8 @@ Double Perks.esp
 Double Perks Half.esp
 goat_perks.esp
 Bicurious.esp
-Cyber-Enhancements.esp
+ender perks unlocked.esp
+Makes Sense Bounty Hunter 0.91.esp
 
 \------
 \Quests
@@ -578,6 +583,9 @@ RobCo Universal Battery Charger Kit - Zeta.esp
 Rude Awakening.esp
 Rude Awakening - MMM.esp
 tubRRCompound.esp
+RTS NW - Volume 1st.esp
+RTS NW - Volume 2nd.esp
+RTS NW - Volume 3rd.esp
 rockville.esp
 Stealth Kills Enabled.esp
 Stealth Kills Enabled - Pitt Compatibility.esp
@@ -589,6 +597,7 @@ PortableMattress.esp
 Portable Distilling Lab.esp
 PortableCampStuff.esp
 PortableCampStuff - CRAFT.esp
+Sack of Holding.esp
 BlackWolf Backpack.esp
 BlackWolf Backpack - Vendor Script Replenish.esp
 BlackWolf Backpack - Vanilla Big Guns Fix.esp
@@ -614,6 +623,10 @@ Tenpenny_Expansion.esp
 JHBNewHouse.esp
 Transporter.esp
 Forge.esp
+LurkTank.esp
+LurkTank_v2.esp
+LurkTank_v2_meg_door_corner.esp
+LurkTank_v2_Meg_Upstairs.esp
 MaintenanceShed.esp
 HomesteadMotelSuite.esp
 UrgeWashingtonBoS.esp
@@ -629,6 +642,7 @@ RRUmpaDance.esp
 RR Companion Vault 20thCW Supply.esp
 RRSorter100_20thCentury.esp
 RR_Refurbished.esp
+RZW_SlotMachine.esp
 ShadySands.esp
 MoreMapMarkers.esp
 rockopolisandabandonedtentmapmarker.esp
@@ -703,6 +717,7 @@ EZ_citizens.esp
 Clothed Sarah Lyons - Sleepwear.esp
 Named Wasteland.esp
 % {{BASH:Names}}
+NPCs Sleep Tighter.esp
 
 
 \--------
@@ -1136,6 +1151,9 @@ WinterizedT51bDX.esp
 Outcast DX.esp
 % {{BASH:Graphics}}
 ? Do not use with latest FOOK2, it is already integrated.
+Outcast DX - FWE patch.esp
+% {{BASH:Graphics}}
+: FO3 Wanderers Edition - Main File.esm
 Tribal_DX.esp
 % {{BASH:Deflst,Graphics}}
 ? Do not use with latest FOOK2, it is already integrated.
@@ -1222,6 +1240,8 @@ InvisArcadeIndustries_SweetSneak.esp
 ACU Battle Armor.esp
 T3T_CombatArmorSleeves.esp
 TalonExtraArmor.esp
+K2Clothes_BrownLeather03.esp
+BABEreconarmor.esp
 
 \---------
 \Cosmetics
@@ -1579,6 +1599,8 @@ Mystyk's Followers.esp
 Follower Autumn.esp
 DanteCompanion.esp
 JessiCompanion.esp
+KelseyCompanion.esp
+KingCompanion.esp
 RoadWardens.esp
 ? If using MMM, use 'RoadWardensMMM.esp' instead
 RoadWardensMMM.esp
@@ -1895,6 +1917,24 @@ FO3 Wanderers Edition - More Gore.esp
 FO3 Wanderers Edition - More Gore Zeta.esp
 FO3 Wanderers Edition - More Gore The Pitt.esp
 FO3 Wanderers Edition - More Gore PointLookout.esp
+GT_No_Gore.esp
+GT_No_Bloody_Mess_Gore.esp
+GT_No_Dismemberment.esp
+GT_No_Exploding_Parts.esp
+GT_Less_Dismemberment.esp
+GT_Less_Exploding_Parts.esp
+GT_More_Dismemberment.esp
+GT_More_Exploding_Parts.esp
+GT_Always_Dismemberment.esp
+GT_Always_Exploding_Parts.esp
+GT_BM_No_Full_Dismemberment.esp
+GT_BM_Less_Full_Dismemberment.esp
+GT_BM_More_Full_Dismemberment.esp
+GT_BM_Always_Full_Dismemberment.esp
+GT_BM_No_Exploding_Torsos.esp
+GT_BM_Less_Exploding_Torsos.esp
+GT_BM_More_Exploding_Torsos.esp
+GT_BM_Always_Exploding_Torsos.esp
 dD-Reduced Ragdoll Force.esp
 dD-Reduced Dismember Force.esp
 dD-Smaller Wounds.esp
