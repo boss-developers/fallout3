@@ -47,6 +47,7 @@ PointLookout-FollowersGetToGo.esm
 : PointLookout.ESM
 The Librarian.esm
 TalonExtraArmor.esm
+Impervious Power Armour.esm
 CRAFT.esm
 CALIBR.esm
 xCALIBR.esm
