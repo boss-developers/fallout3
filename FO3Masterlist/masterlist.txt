@@ -64,10 +64,13 @@ CMRS.esm
 Ammo Bench.esm
 Refurbishes [ALL].esm
 ? Do not use with latest FOOK2, it is already integrated.
+Megaton Expansion Project V03.esm
+: CALIBR.esm
 ArefuExpandedByAzar.esm
 COMM.esm
 Cotozic's Vault Home.esm
 vault64.esm
+Bunker72 v3.esm 
 RoadWardens.esm
 % {{BASH:Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.Stats,Factions,Invent,Scripts,ScriptContents}}
 FOOK2 - Main.esm
@@ -150,6 +153,7 @@ DCInteriors_SewardSq.esm
 " DCInteriors_ComboEdition.ESM
 DCInteriors_Takoma.esm
 " DCInteriors_ComboEdition.ESM
+Scannadd5000.esm
 Selected Containers Respawn.esm
 AngelRaces.esm
 SeducingWomen.esm
@@ -259,7 +263,6 @@ IbIui.esp
 PIDL-lite.esp
 PIDL-lite(metric).esp
 Crosshair Toggle.esp
-QZ No VATS Radial Blur.esp
 FaceMe.esp
 % {{BASH:NpcFaces,NoMerge,Deactivate}}
 FaceMe-Broken Steel.esp
@@ -285,17 +288,12 @@ praiseatom.esp
 Internet Mod.esp
 ? Do not use with latest FOOK2, it is already integrated.
 LessRocks.esp
-MrSlackPants-DecentPipBoyLight.esp
-Fellout-pipboylight.esp
-RaiderMercenaryExpanded.esp
+Reduced Dust Particles.esp
 YearlingsGlasses.esp
 MaxLevelWorkaround-BS.esp
-LED pipboy light.esp
-LED pipboy light extended.esp
-LED pipboy light amber.esp
-LED pipboy light ember extended.esp
-LED pipboy light green.esp
-LED pipboy light green extended.esp
+Max Level 99 V2.esp
+QZ No VATS Radial Blur.esp
+no blur on hit.esp
 =Extreme+Close=DOF1.1.esp
 =Extreme+Far=DOF1.1.esp
 =Extreme+Very Far=DOF1.1.esp
@@ -332,6 +330,9 @@ ASU.esp
 CRAFT - Activation Perk.esp
 : CRAFT.ESM
 CRAFT -Zeta -  Activation Perk.esp
+: CRAFT.ESM
+CRAFT - Workbench and Crafting Expansion combined.esp
+: CRAFT.esm
 TinCanCRAFTing.esp
 CRAFT - EnergyAmmo.esp
 CALIBRxMerchant.esp
@@ -381,6 +382,7 @@ Alternate Start - Roleplayers.esp
 ? DO not use with latest FWE, it is already integrated.
 Selected Containers Respawn.esp
 ? DO not use with latest FWE, it is already integrated.
+AlternateEnding.esp
 Zombie Sounds V2.esp
 choose_XP_FOSE.esp
 RH_IronSights_Basic_VanillaPlugin.esp
@@ -478,13 +480,9 @@ SRFBG.esp
 PointLookOutGoodies.esp
 Double Perks.esp
 Double Perks Half.esp
-
-\--------
-\ Weather
-\--------
-Wasteland Weather Overhaul .9.esp
-Wasteland Weather Overhaul .9 (no interiors).esp
-Wasteland Weather Overhaul .9 Level 2 Color.esp
+goat_perks.esp
+Bicurious.esp
+Cyber-Enhancements.esp
 
 \------
 \Quests
@@ -604,6 +602,7 @@ JSbackpack.esp
 SS OTS Camera FOSE.esp
 1Animated Nightvision goggles.esp
 Binoculars.esp
+Binoculars and Scopes.esp
 SniperZooming.esp
 ZoomReworked.esp
 Directional PipLight.esp
@@ -612,6 +611,9 @@ Expanded Megaton House V3.esp
 MegatonBasement.esp
 Princess Tenpenny Home Extension.esp
 Tenpenny_Expansion.esp
+JHBNewHouse.esp
+Transporter.esp
+Forge.esp
 MaintenanceShed.esp
 HomesteadMotelSuite.esp
 UrgeWashingtonBoS.esp
@@ -629,9 +631,11 @@ RRSorter100_20thCentury.esp
 RR_Refurbished.esp
 ShadySands.esp
 MoreMapMarkers.esp
+rockopolisandabandonedtentmapmarker.esp
 MaxLevelWorkaround-HP-BS.esp
 WastelandMastery.esp
 SkillCheck.esp
+BA_InventorySorterVanilla.esp
 Treasure Maps_Underground.esp
 Treasure Maps_Secrets of the Wasteland.esp
 Treasure Maps_Bobblehead Edition.esp
@@ -652,17 +656,21 @@ FPS Grenade Hotkey.esp
 ? Do not use with latest FOOK2/FWE, it is already integrated.
 FPS Grenade Hotkey - Zeta addon.esp
 ? Do not use with latest FOOK2/FWE, it is already integrated.
+Melee Lock-On.esp
 NoKnockedOverComments.esp
 bzArmour.esp
 bzArmour-nude.esp
 bzArmour-non-nude.esp
 bzBodySuits.esp
+R18BodyPack.esp
+APReanimated.esp
 Mannequin.esp
 Slof's Boners!.esp
 ARTNightVision.esp
 ARTNightVision-No AP drain.esp
 ARTNightVision-Energy Cell.esp
 BM08RandomBobbleheadsFixed.esp
+DriveableMotorCycle.esp
 CMRS - Vanilla.esp
 CMRS - Anchorage.esp
 CMRS - The Pitt.esp
@@ -693,6 +701,8 @@ EZ_TempleOfCant.esp
 EZ_Ammo_Restriction.esp
 EZ_citizens.esp
 Clothed Sarah Lyons - Sleepwear.esp
+Named Wasteland.esp
+% {{BASH:Names}}
 
 
 \--------
@@ -738,6 +748,12 @@ ParadiseHomePlugin.esp
 Vault64.esp
 Toasty's Rooved Megaton, Holey Light.esp
 Tenpenny Suite.esp
+B72v3-03.esp
+: Bunker72 v3.esm
+B72v3 Clutterfree.esp
+: Bunker72 v3.esm
+B72v3 Mainelevator timerswitch.esp
+: Bunker72 v3.esm
 Hot n Dusty.esp
 Greenerworld.esp
 GreenWorld.esp
@@ -818,6 +834,9 @@ PersonalVertibird.esp
 FLAK.esp
 MyMansion.esp
 RockopolisRebuilt.esp
+Aghatas house v0.3.esp
+megbunker.esp
+RobotFacility.esp
 
 \---------
 \Overhauls
@@ -989,7 +1008,7 @@ Refurbish [MZ].esp
 \-------------
 
 \------------
-\ Tailor Maid
+\Tailor Maid
 \------------
 Tailor Maid.esp
 Tailor Maid Anchorage.esp
@@ -1003,7 +1022,7 @@ Tailor Maid ZETA.esp
 Tailor Maid Black Retex.esp
 
 \--------------
-\ WeaponModKits
+\WeaponModKits
 \--------------
 WeaponModKits.esp
 WeaponModKits - FOOK.esp
@@ -1022,10 +1041,11 @@ WeaponModKits - PointLookout.esp
 WeaponModKits - Zeta.esp
 :Zeta.ESM
 WeaponModKits - DIK.esp
+WeaponModKits - Scope Increases VATS Accuracy.esp
 SelfSurgeryKit.esp
 
 \--------
-\ Weapons
+\Weapons
 \--------
 BRUTE_GunKnockdownsSpecialScriptedEditionTHEPOINT.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionANCHORAGE.esp
@@ -1071,6 +1091,7 @@ MPammo.esp
 VashDeagleV5.esp
 Wattz Laser Non Replacer Mod.esp
 F3RWPMolotovCocktail-0_1.esp
+Flashbangs.esp
 Weapon - Some Katanas.esp
 CS_ LightsaberQuest.esp
 CS_LightsaberQuest - Objectives Patch.esp
@@ -1080,9 +1101,14 @@ AMR-B04.esp
 ZL-SVD.esp
 ZL-SVD-CALIBR.esp
 ZL-MP5 Pack.esp
+Arms_dealer_V1.esp
+" RH_IRONSIGHTS.esm
+: CALIBR.esm
+A_D_Calibr_ammo.esp
+: Arms_dealer_V1.esp
 
 \--------------
-\ Armor\Clothes
+\Armor\Clothes
 \--------------
 1SB_VenomousArmor.esp
 Arcade'sNightwear.esp
@@ -1195,6 +1221,7 @@ NoInvisArcadeIndustries_SweetSneak.esp
 InvisArcadeIndustries_SweetSneak.esp
 ACU Battle Armor.esp
 T3T_CombatArmorSleeves.esp
+TalonExtraArmor.esp
 
 \---------
 \Cosmetics
@@ -1274,7 +1301,7 @@ AutomatScriptRemoved.esp
 UpgradedCaravanMerchants.esp
 
 \----------
-\ EVE Stuff
+\EVE Stuff
 \----------
 EVE Test Options.esp
 EVE Beta_0.9.4.esp
@@ -1323,7 +1350,6 @@ MarcuzVanishingPiles_EVE_Add.esp
 : EVE.esp
 VanishingPiles.esp
 NVG Activator Crash Fix [Experimental].esp
-CBOv1.4.esp
 WSG Improved.esp
 XPReward20Percent.esp
 ThePitt-NoFireFollowers.esp
@@ -1357,6 +1383,9 @@ UWWUT_WT - BS Addon.esp
 UWWUT_WT - WMK Addon.esp
 % {{BASH:Graphics,Stats}}
 " UWWUT - WMK Addon.esp
+WeaponModKits-Unique.esp
+: WeaponModKits.esp
+% {{BASH:Graphics}}
 Less Useless Karma Gifts.esp
 % {{BASH:Relev,Delev}}
 Less Useless Karma Gifts 2.0.esp
@@ -1392,6 +1421,8 @@ PlasmaPistolRedesign.esp
 Water Bottles 3000.esp
 % {{BASH:Graphics,NoMerge,Deactivate}}
 schematics2.esp
+% {{BASH:Graphics,NoMerge}}
+Item Descriptions Img.esp
 % {{BASH:Graphics,NoMerge}}
 WYB-Base.esp
 WYB-DLC-Anchorage.esp
@@ -1513,6 +1544,8 @@ MMM_RtSS_Mod.esp
 \Middle Misc C
 \-----------
 Original Moira Brown.esp
+MoriaX3Caps.esp
+MoriaX10Caps.esp
 SeducingWomen_-_override.esp
 FEM - BABE enabler.esp
 : FEM.esm
@@ -1568,9 +1601,15 @@ Mysteriouswoman_underwear.esp
 Mysteriouswoman_corsetntrousers.esp
 Mysteriouswoman_alternativetop.esp
 Mysteriouswoman_sexytopless.esp 
+CBOv1.4.esp
+CBOv1.4_bittercup_comp.esp
+CBOv1.4_bittercup_comp_waitrelax_restyled.esp
+CBOv1.4_the_other_bittercup_comp_waitrelax.esp
+CBOv1.4_spcross_dimonized_brazilian_b.esp
+CBOv1.4_slaveraider.esp
 
 \-------------
-\ Realism Mods
+\Realism Mods
 \-------------
 RI_Base3.esp
 RI_PNeeds2S.esp
@@ -1587,7 +1626,7 @@ CP - RiPnO [MMM] Meats.esp
 RiPnO - OPTIONAL - Cola Heals.esp
 
 \-----------
-\ Later Misc
+\Later Misc
 \-----------
 1PipboyPDA.esp
 Accurate Sniper Rifles.esp
@@ -1614,13 +1653,6 @@ Arwen_MMM_Patch.esp
 Arwen_Encumbrance.esp
 FatmanExp.esp
 Megaton Closes.esp
-Slower Levelling - slow.esp
-Slower Levelling - slower.esp
-Slower Levelling - Very Slow.esp
-Slower Levelling - Extremely Slow.esp
-Slower Levelling - Super Duper Slow.esp
-Slower Levelling - Super Duper Extreme.esp
-Slower Degradation (-50%).esp
 PHIG_IncreasedLocationalDamage.esp
 PHIG_IncreasedDamageLITE.esp
 PHIG_IncreasedDamageLOWERLEVELHP.esp
@@ -1652,13 +1684,18 @@ ACRForFWE.esp
 SVDForFWE.esp
 MP5ForFWE.esp
 DTOForFWE.esp
+Useful Wasteland Clipboards.esp
 CombatEnhanced-Package v02.esp
 Attentater's Wasteland Economy.esp
 AsharasPresets.esp
 FasterMorePowerfulMines.esp
 EnhVision.esp
+" EnhVisionHK.esp
+EnhVisionHK.esp
+" EnhVision.esp
 Arwen_VisionFX.esp
 NightvisionGoggles(Powered).esp
+NVFAAPANoTex.esp
 Gore_No_More.esp
 Less_Blood.esp
 FeminizedPowerArmor.esp
@@ -1679,7 +1716,6 @@ Action_Boy_hacking.esp
 StripClub.esp
 Keep Anchorage Equipment.esp
 Vault-Tec Experimental Dimensional Safe.esp
-Magic Pip-Light (50 Brightness).esp
 Portable Camp.esp
 oroLookoutFix.esp
 Misc Mod.esp
@@ -1693,32 +1729,16 @@ RRV1 Bedroom Redecorated.esp
 RRQuests.esp
 RR Companion Vault Raider Attacks.esp
 All Companions Essential.esp
+FollowersHireContinued-KarmaCheck-NoCharismaCheck-NoCountCheck.esp
+FollowersHireContinued-CharismaCheck-KarmaCheck.esp
+FollowersHireContinued-CharismaCheck-NoKarmaCheck.esp
+FollowersHireContinued-NoChecks.esp
 T_R_A_S_C_H.esp
 SCC 187GURLZ.esp
 : Sharing and Caring Companions.esm
 Shojo Companions.esp
 Brahmin Cattles ENG v1 - FWE patch.esp
 teddybear_brothers.esp
-dD-Larger Blood.esp
-dD-Less Blood Time.esp
-dD-Less Blood Time, Larger Blood.esp
-dD-No Screen Blood.esp
-dD-Full Screen Blood.esp
-dD-More Gore.esp
-dD-More Gore-The Pitt.esp
-dD-More Gore-BrokenSteel.esp
-dD-More Gore-PointLookout.esp
-dD-More Gore-Zeta.esp
-FO3 Wanderers Edition - More Gore.esp
-FO3 Wanderers Edition - More Gore Zeta.esp
-FO3 Wanderers Edition - More Gore The Pitt.esp
-FO3 Wanderers Edition - More Gore PointLookout.esp
-dD-Reduced Ragdoll Force.esp
-dD-Reduced Dismember Force.esp
-dD-Smaller Wounds.esp
-dD-Smaller Spatters.esp
-Realistic Death Physics.esp
-? Do not use with latest FWE, it is already integrated.
 knockdowns.esp
 ek.BrokenSteel.esp
 1stPersonKnockDowns VATS Working!.esp
@@ -1744,27 +1764,16 @@ ZumbsDarkerSunglasses_no_replace.esp
 ZumbsDarkerSunglasses_screen_effect.esp
 ?Zumbs has asked you to rename this to ZumbsDarkerSunglasses.esp
 MZAllAccessPass.esp
-lessviewdistance.esp
-lessviewdistanceThePitt.esp
-OAlessviewdistance.esp
 ACE2-0.esp
 ACE2-1b.esp
 Mighty Mouse Alternative 4.esp
 Ammo Press Fix.esp
+tacticalAmmo.esp
 Point Lookout Travel Fix.esp
 yaDisguisesMod.esp
 yaDisguisesMod-DLC-Anchorage.esp
 yaDisguisesMod-DLC-BrokenSteel.esp
 yaDisguisesMod-DLC-ThePitt.esp
-No[EMPTY]ContainerMessages.esp
-5xlvling.esp
-ImmersiveTimescale.esp
-TimeScaleTo3.esp
-TimeScaleTo4.esp
-TimeScaleTo5.esp
-TimeScaleTo15.esp
-TimeScaleTo20.esp
-TimeScaleTo25.esp
 TalkToAnybody.esp
 I'll Touch What I Want.esp
 Sleep in any bed.esp
@@ -1781,6 +1790,7 @@ Inebriation-FOSE.esp
 Devour Gore.esp
 AMPUTATE!.esp
 % {{BASH:Scripts}}
+Cliff's_Sellable_Body_Parts.esp
 SpeechLite.esp
 SpeechLiteCombatDLC.esp
 EnduranceBasedHealthRegen.esp
@@ -1788,7 +1798,23 @@ BoS Diversification.esp
 BoS Diversification - Broken Steel.esp
 BOC Diversification.esp
 BOC Diversification - Operation Anchorage.esp
+RaiderExpanced.esp
+MercenaryExpanded.esp
+RaiderMercenaryExpanded.esp
+RaiderExpanded[MMM].esp
+MercenaryExpanded[MMM].esp
+RaiderMercenaryExpanded[MMM].esp
+RaiderExpanded[WMK].esp
+MercenaryExpanded[WMK].esp
+RaiderMercenaryExpanded[WMK].esp
+RaiderExpanded[M&W].esp
+MercenaryExpanded[M&W].esp
+RaiderMercenaryExpanded[M&W].esp
 Savage Wasteland - Fewer Gun Wielding Maniacs.esp
+CrossRepairArmor.esp
+Updated XRepair.esp
+NippersWeaponNips.esp
+NippersArmorNips.esp
 vaps.esp
 vaps-automated-ammo-toolkit.esp
 vaps-broken-steel.esp
@@ -1818,29 +1844,84 @@ Phalanx-PointLookout-Integration.esp
 ? Do not use with latest FOOK2, it is already integrated.
 Phalanx-PerksAndStims.esp
 Phalanx-Obedient-Dogmeat.esp
-
 Dogmeat Never Dies.esp
 GTSFawkesWeapons.esp
 
-\--------
-\ Lastish
-\--------
-CRAFTHelper_ReplaceWorkbenchScript.esp
-"CRAFT - Activation Perk.esp
-CRAFTHelper_ReplaceWorkbenchScriptFWE.esp
-" CRAFT - Activation Perk.esp
-CRAFTHelper_Vanilla.esp
-CRAFTHelper_TinCan.esp
-CRAFTHelper_EA.esp
-CRAFTHelper_VAPS.esp
-CRAFTHelper_ATK.esp
-CRAFTHelper_FWE.esp
-CRAFTHelper_FWEAlternateTravel.esp
-CRAFTHelper_WMK.esp
-CRAFTHelper_SBReconArmor.esp
-CRAFTHelper_DLAC.esp
-CRAFTHelper_AS.esp
-CRAFTHelper_VAPS-ATK.esp
+\--------------
+\Game-Settings
+\--------------
+No[EMPTY]ContainerMessages.esp
+5xlvling.esp
+Slower Levelling - slow.esp
+Slower Levelling - slower.esp
+Slower Levelling - Very Slow.esp
+Slower Levelling - Extremely Slow.esp
+Slower Levelling - Super Duper Slow.esp
+Slower Levelling - Super Duper Extreme.esp
+Slower Degradation (-50%).esp
+ImmersiveTimescale.esp
+TimeScaleTo3.esp
+TimeScaleTo4.esp
+TimeScaleTo5.esp
+TimeScaleTo15.esp
+TimeScaleTo20.esp
+TimeScaleTo25.esp
+SuperJump1.5x.esp
+SuperJump2x.esp
+SuperJump3x.esp
+SuperJump4x.esp
+SuperJump10x.esp
+SuperJump5x.esp
+SuperJumpWater1.5x.esp
+SuperJumpWater2x.esp
+SuperJumpWater3x.esp
+SuperJumpWater4x.esp
+SuperJumpWater5x.esp
+SuperJumpWater10x.esp
+lessviewdistance.esp
+lessviewdistanceThePitt.esp
+OAlessviewdistance.esp
+dD-Larger Blood.esp
+dD-Less Blood Time.esp
+dD-Less Blood Time, Larger Blood.esp
+dD-No Screen Blood.esp
+dD-Full Screen Blood.esp
+dD-More Gore.esp
+dD-More Gore-The Pitt.esp
+dD-More Gore-BrokenSteel.esp
+dD-More Gore-PointLookout.esp
+dD-More Gore-Zeta.esp
+FO3 Wanderers Edition - More Gore.esp
+FO3 Wanderers Edition - More Gore Zeta.esp
+FO3 Wanderers Edition - More Gore The Pitt.esp
+FO3 Wanderers Edition - More Gore PointLookout.esp
+dD-Reduced Ragdoll Force.esp
+dD-Reduced Dismember Force.esp
+dD-Smaller Wounds.esp
+dD-Smaller Spatters.esp
+Realistic Death Physics.esp
+? Do not use with latest FWE, it is already integrated.
+Magic Pip-Light (50 Brightness).esp
+MrSlackPants-DecentPipBoyLight.esp
+Fellout-pipboylight.esp
+pip30.esp
+pip60.esp
+pip150.esp
+pipomfg.esp
+LED pipboy light.esp
+LED pipboy light extended.esp
+LED pipboy light amber.esp
+LED pipboy light ember extended.esp
+LED pipboy light green.esp
+LED pipboy light green extended.esp
+
+\-------------------
+\Weather\Light\Water
+\-------------------
+
+Wasteland Weather Overhaul .9.esp
+Wasteland Weather Overhaul .9 (no interiors).esp
+Wasteland Weather Overhaul .9 Level 2 Color.esp
 megalight.esp
 ? Do not use with latest FOOK2, it is already integrated.
 Enhanced Weather - Rain and Snow.esp
@@ -1954,11 +2035,71 @@ Xepha's Dynamic Weather - Climate OverRider (OA + Rain) - No Fog.esp
 "Xepha's Dynamic Weather - Climate OverRider.esp
 Xepha's Dynamic Weather - Darker Water.esp
 Night Time Sneak Boost.esp
-pip30.esp
-pip60.esp
-pip150.esp
-pipomfg.esp
+OasisSafeWater.esp
+TheOutbreak - WMS Combo Pack - C12H.esp
+TheOutbreak - WMS Combo Pack - C24H.esp
+TheOutbreak - WMS Combo Pack - C6H.esp
+TheOutbreak - WMS SPVol 1 - Hell - Broken Steel.esp
+TheOutbreak - WMS SPVol 1 - Hell - Point Lookout.esp
+TheOutbreak - WMS SPVol 1 - Hell - The Pitt.esp
+TheOutbreak - WMS SPVol 1 - Hell.esp
+TheOutbreak - WMS Vanilla Combo Pack - C12H.esp
+TheOutbreak - WMS Vanilla Combo Pack - C24H.esp
+TheOutbreak - WMS Vanilla Combo Pack - C6H.esp
+TheOutbreak - WMS Vol 1 - C12H - No Blue.esp
+TheOutbreak - WMS Vol 1 - C12H.esp
+TheOutbreak - WMS Vol 1 - C24H - No Blue.esp
+TheOutbreak - WMS Vol 1 - C24H.esp
+TheOutbreak - WMS Vol 1 - C6H - No Blue.esp
+TheOutbreak - WMS Vol 1 - C6H.esp
+TheOutbreak - WMS Vol 1 - IDoV.esp
+TheOutbreak - WMS Vol 1 - Rusted Rose.esp
+TheOutbreak - WMS Vol 1 - Silent Hell.esp
+TheOutbreak - WMS Vol 1 - Super Blue.esp
+TheOutbreak - WMS Vol 1 - Weather Controller.esp
+TheOutbreak - WMS Vol 2 - C12H - No Dust.esp
+TheOutbreak - WMS Vol 2 - C12H.esp
+TheOutbreak - WMS Vol 2 - C24H - No Dust.esp
+TheOutbreak - WMS Vol 2 - C24H.esp
+TheOutbreak - WMS Vol 2 - C6H - No Dust.esp
+TheOutbreak - WMS Vol 2 - C6H.esp
+TheOutbreak - WMS Vol 2 - Calm.esp
+TheOutbreak - WMS Vol 2 - Cloudy.esp
+TheOutbreak - WMS Vol 2 - Duststorm.esp
+TheOutbreak - WMS Vol 2 - Fog.esp
+TheOutbreak - WMS Vol 2 - Hot.esp
+TheOutbreak - VATS - No Color Shift.esp
+TheOutbreak - Piplight - Hell.esp
+TheOutbreak - Silent Hell Piplight.esp
+muzzle with no lightening.esp
+muzzle with 100 radius lightening.esp
 
+\--------
+\Lastish
+\--------
+CRAFTHelper_ReplaceWorkbenchScript.esp
+"CRAFT - Activation Perk.esp
+CRAFTHelper_ReplaceWorkbenchScriptFWE.esp
+" CRAFT - Activation Perk.esp
+CRAFTHelper_Vanilla.esp
+CRAFTHelper_TinCan.esp
+CRAFTHelper_EA.esp
+CRAFTHelper_WCE.esp
+CRAFTHelper_VAPS.esp
+CRAFTHelper_ATK.esp
+CRAFTHelper_FWE.esp
+CRAFTHelper_FWEAlternateTravel.esp
+CRAFTHelper_WMK.esp
+CRAFTHelper_SBReconArmor.esp
+CRAFTHelper_DLAC.esp
+CRAFTHelper_AS.esp
+CRAFTHelper_VAPS-ATK.esp
+CRAFT - WCE FOOK+FWE Patch.esp
+: FOOK2 - Main.esm
+: FO3 Wanderers Edition - Main File.esm
+: CRAFT - Workbench and Crafting Expansion combined.esp
+CRAFT - WCE Warmonger Addon.esp
+: CRAFT - Workbench and Crafting Expansion combined.esp
 20th Century v4 ALIVE (Vendor).esp
 20th Century v4 ALIVE (NPC_Settler).esp
 20th Century v4 ALIVE (Raider).esp
@@ -1968,7 +2109,6 @@ pipomfg.esp
 20th Century v4 ALIVE (Vault 101).esp
 20th Century v4 ALIVE (Chinese Ghoul).esp
 20th Century v4 ALIVE (Talon_Regulator).esp
-
 20th Century v5 ALIVE (Vendor).esp
 20th Century v5 ALIVE (Containers).esp
 20th Century v5 ALIVE (NPC_Settler).esp
@@ -1981,7 +2121,7 @@ pipomfg.esp
 20th Century v5 ALIVE (Talon_Regulator).esp
 20th Century v5 ALIVE (Brotherhood_Outcast).esp
 20th Century v5 ALIVE (TEST Container).esp
-
+CarvanTrader.esp
 CaravanEssential.esp
 Achievement Remover [FO3+OA+BS].esp
 ? Choose only one 'Achievement Remover' ESP.
@@ -2059,41 +2199,6 @@ Dog lover's mod NO ANCHORAGE.esp
 % {{BASH:Deflst,Delev}}
 MMM dog lover's mod.esp
 % {{BASH:Deflst,Delev}}
-TheOutbreak - WMS Combo Pack - C12H.esp
-TheOutbreak - WMS Combo Pack - C24H.esp
-TheOutbreak - WMS Combo Pack - C6H.esp
-TheOutbreak - WMS SPVol 1 - Hell - Broken Steel.esp
-TheOutbreak - WMS SPVol 1 - Hell - Point Lookout.esp
-TheOutbreak - WMS SPVol 1 - Hell - The Pitt.esp
-TheOutbreak - WMS SPVol 1 - Hell.esp
-TheOutbreak - WMS Vanilla Combo Pack - C12H.esp
-TheOutbreak - WMS Vanilla Combo Pack - C24H.esp
-TheOutbreak - WMS Vanilla Combo Pack - C6H.esp
-TheOutbreak - WMS Vol 1 - C12H - No Blue.esp
-TheOutbreak - WMS Vol 1 - C12H.esp
-TheOutbreak - WMS Vol 1 - C24H - No Blue.esp
-TheOutbreak - WMS Vol 1 - C24H.esp
-TheOutbreak - WMS Vol 1 - C6H - No Blue.esp
-TheOutbreak - WMS Vol 1 - C6H.esp
-TheOutbreak - WMS Vol 1 - IDoV.esp
-TheOutbreak - WMS Vol 1 - Rusted Rose.esp
-TheOutbreak - WMS Vol 1 - Silent Hell.esp
-TheOutbreak - WMS Vol 1 - Super Blue.esp
-TheOutbreak - WMS Vol 1 - Weather Controller.esp
-TheOutbreak - WMS Vol 2 - C12H - No Dust.esp
-TheOutbreak - WMS Vol 2 - C12H.esp
-TheOutbreak - WMS Vol 2 - C24H - No Dust.esp
-TheOutbreak - WMS Vol 2 - C24H.esp
-TheOutbreak - WMS Vol 2 - C6H - No Dust.esp
-TheOutbreak - WMS Vol 2 - C6H.esp
-TheOutbreak - WMS Vol 2 - Calm.esp
-TheOutbreak - WMS Vol 2 - Cloudy.esp
-TheOutbreak - WMS Vol 2 - Duststorm.esp
-TheOutbreak - WMS Vol 2 - Fog.esp
-TheOutbreak - WMS Vol 2 - Hot.esp
-TheOutbreak - VATS - No Color Shift.esp
-TheOutbreak - Piplight - Hell.esp
-TheOutbreak - Silent Hell Piplight.esp
 Vault101 Exit Cancel.esp
 
 \---------
