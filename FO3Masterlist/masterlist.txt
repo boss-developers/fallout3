@@ -35,6 +35,7 @@ HairPack.esm
 % {{BASH:Hair,Eyes}}
 Hairday.esm
 RI_Core.esm
+IMCN.esm
 FaceMe.esm
 % {{BASH:NpcFaces,Hair,Eyes}}
 Destruction.esm
@@ -118,6 +119,8 @@ GTSEssentials.esm
 GTSDeathCanyon.esm
 CT_FalloutAdvanced.esm
 RTS.esm
+"ArefuExpandedByAzar.esm
+"1PipboyPDA.esp
 RTS NW.esm
 "ArefuExpandedByAzar.esm
 "1PipboyPDA.esp
@@ -131,6 +134,7 @@ Nos' RR Companions.esm
 Herculine's RR Scouts.esm
 Herculine's RR Scouts DLC.esm
 RR Vault 1 Alternate Guards.esm
+AmyWong.esm
 StreetLights.esm
 ? Do not use with latest FOOK2, it is already integrated.
 EnclaveCommander-Steel.esm
@@ -448,6 +452,7 @@ Radio Stutter fix.esp
 \Load RadioHotkey after all other radio mods
 RadioHotkey.esp
 RadioHotkey_RadioBluesAddon.esp
+IPip.esp
 
 
 \------------
@@ -719,6 +724,14 @@ Clothed Sarah Lyons - Sleepwear.esp
 Named Wasteland.esp
 % {{BASH:Names}}
 NPCs Sleep Tighter.esp
+royphilipsevil.esp
+% {{BASH:Actors.ACBS,Actors.AIData}}
+royphilipsveryevil.esp
+% {{BASH:Actors.ACBS,Actors.AIData}}
+royphilipsveryevilwmask.esp
+% {{BASH:Actors.ACBS,Actors.AIData}}
+royphilipsevilwmask.esp
+% {{BASH:Actors.ACBS,Actors.AIData}}
 
 
 \--------
@@ -1176,6 +1189,12 @@ COL Enclave VER2.esp
 % {{BASH:Graphics}}
 COL Enclave Hell.esp
 % {{BASH:Graphics}}
+ClassicEnclaveAPA-german.esp
+ClassicEnclaveAPA-english.esp
+ClassicEnclaveAPA-Better-APA-german.esp
+ClassicEnclaveAPA-Better-APA-english.esp
+ClassicEnclaveAPA-Replacement-German.esp
+ClassicEnclaveAPA-Replacement-english.esp
 CSwimsuit_and_Harness_recolor.esp
 ChineseStealthArmorFixed.esp
 DIM TYPE3 conversions.esp
@@ -1243,6 +1262,11 @@ T3T_CombatArmorSleeves.esp
 TalonExtraArmor.esp
 K2Clothes_BrownLeather03.esp
 BABEreconarmor.esp
+Powered Power Armor.esp
+PPA - FWE.esp
+: FO3 Wanderers Edition - Main File.esm
+PPA - Super Human Jump Perk.esp
+: super_jump_perk.esp
 
 \---------
 \Cosmetics
@@ -1602,6 +1626,63 @@ DanteCompanion.esp
 JessiCompanion.esp
 KelseyCompanion.esp
 KingCompanion.esp
+AmyWong - FOSE.esp
+: AmyWong.esm
+AmyWong - DLCs.esp
+: AmyWong.esm
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+: Zeta.esm
+AmyWong - DLCs (FOOK2 1.1 DIK).esp
+: AmyWong.esm
+: FOOK2 - [DIK] DLC Improvement Kit.esm
+" AmyWong - DLCs.esp
+AmyWong - DLC01 Anchorage.esp
+: AmyWong.esm
+: Anchorage.esm
+" AmyWong - DLCs.esp
+AmyWong - DLC02 The Pitt.esp
+: AmyWong.esm
+: ThePitt.esm
+" AmyWong - DLCs.esp
+AmyWong - DLC03 Broken Steel.esp
+: AmyWong.esm
+: BrokenSteel.esm
+" AmyWong - DLCs.esp
+AmyWong - DLC04 Pt.Lookout.esp
+: AmyWong.esm
+: PointLookout.esm
+" AmyWong - DLCs.esp
+AmyWong - DLC05 Zeta.esp
+: AmyWong.esm
+: Zeta.esm
+" AmyWong - DLCs.esp
+AmyWong - CALIBR 1.3 (FWE 5).esp
+: AmyWong.esm
+: CALIBR.esm
+" AmyWong - CALIBR 1.3.esp
+" AmyWong - CALIBR 1.2.esp
+AmyWong - CALIBR 1.3.esp
+: AmyWong.esm
+: CALIBR.esm
+" AmyWong - CALIBR 1.3.esp
+" AmyWong - CALIBR 1.3 (FWE 5).esp
+AmyWong - CALIBR 1.2.esp
+: AmyWong.esm
+: CALIBR.esm
+" AmyWong - CALIBR 1.3 (FWE 5).esp
+" AmyWong - CALIBR 1.2.esp
+AmyWong - FWE 5.esp
+: AmyWong.esm
+: FO3 Wanderers Edition - Main File.esm
+AmyWong - FOOK2.esp
+: AmyWong.esm
+: FOOK2 - Main.ESM
+AmyWong - FOOK2 1.1.esp
+: AmyWong.esm
+: FOOK2 - Main.ESM
 RoadWardens.esp
 ? If using MMM, use 'RoadWardensMMM.esp' instead
 RoadWardensMMM.esp
@@ -1640,6 +1721,61 @@ RI_DoctorCost.esp
 RI_Alcohol.esp
 RI_FOSE.esp
 RiPnO CorePatch.esp
+Imp's More Complex Needs.esp
+: IMCN.esm
+IMCN - 5 DLC Merged.esp
+: IMCN.esm
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+: Zeta.esm
+IMCN - Operation Anchorage.esp
+: IMCN.esm
+: Anchorage.esm
+" IMCN - 5 DLC Merged.esp
+IMCN - The Pitt.esp
+: IMCN.esm
+: ThePitt.esm
+" IMCN - 5 DLC Merged.esp
+IMCN - Broken Steel.esp
+: IMCN.esm
+: BrokenSteel.esm
+" IMCN - 5 DLC Merged.esp
+IMCN - Point Lookout.esp
+: IMCN.esm
+: PointLookout.esm
+" IMCN - 5 DLC Merged.esp
+IMCN - Mothership Zeta.esp
+: IMCN.esm
+: Zeta.esm
+" IMCN - 5 DLC Merged.esp
+IMCN - FWE Compatibility and Ingestibles.esp
+: IMCN.esm
+: FO3 Wanderers Edition - Main File.esm
+IMCN - FOOK2 Ingestibles.esp
+: IMCN.esm
+: FOOK2 - Main.ESM
+IMCN - BLTC Compatibility and Ingestibles.esp
+: IMCN.esm
+: bltc.esp
+" IMCN - FWE Compatibility and Ingestibles.esp
+IMCN - BLTC RiPnO Combined Compatibility.esp
+: IMCN.esm
+: bltc.esp
+: RI_Core.esm
+: RiPnO Core Patch.esp
+" IMCN - FWE Compatibility and Ingestibles.esp
+IMCN - RiPnO Compatibility and Ingestibles.esp
+: IMCN.esm
+: RI_Core.esm
+: RiPnO Core Patch.esp
+" IMCN - FWE Compatibility and Ingestibles.esp
+IMCN - MMM Meats, Bloods, and Eyeballs.esp
+: IMCN.esm
+: Mart's Mutant Mod.esm
+IMCN - Forced Initialization.esp
+: IMCN.esm
 bltc.esp
 BLTC Immersion Patch.esp
 BLTC Hypo Fix.esp
@@ -1801,6 +1937,10 @@ TalkToAnybody.esp
 I'll Touch What I Want.esp
 Sleep in any bed.esp
 Whose been sleeping in my Bed.esp
+Ghouls Cohabitate.esp
+% {{BASH:ScriptContents}}
+TenpennyGhoulsAtPeace.esp
+% {{BASH:ScriptContents}}
 VATS - MCE.esp
 VatsLongerDistance.esp
 MZ No Karma Loss.esp
@@ -1964,6 +2104,7 @@ Wasteland Weather Overhaul .9.esp
 Wasteland Weather Overhaul .9 (no interiors).esp
 Wasteland Weather Overhaul .9 Level 2 Color.esp
 megalight.esp
+% {{BASH:C.Light}}
 ? Do not use with latest FOOK2, it is already integrated.
 Enhanced Weather - Rain and Snow.esp
 Enhanced Weather - Rain and Snow in Fallout.esp
@@ -2285,6 +2426,8 @@ EZCompanion_Type-N.esp
 \------------
 \Merged Patch\CPs
 \------------
+AmyWong - Load Order Fix.esp
+: AmyWong.esm
 RobCo Certified - FWE EVE Balance.esp
 RobCo Certified - FWE EVE Balance Light.esp
 Destruction - CP - Fellout.esp
