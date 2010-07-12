@@ -72,7 +72,12 @@ ArefuExpandedByAzar.esm
 COMM.esm
 Cotozic's Vault Home.esm
 vault64.esm
-Bunker72 v3.esm 
+Bunker72 v3.esm
+MMZombieCemetery.esm
+MMFastZombieCemetery-NotRecommended.esm
+Vault 101 Revisited.esm
+CubeExperimental (EN).esm
+All Your Bananas.esm
 RoadWardens.esm
 % {{BASH: Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.Stats,Factions,Invent,Scripts,ScriptContents}}
 FOOK2 - Main.esm
@@ -99,9 +104,6 @@ Mart's Mutant Mod.esm
 % {{BASH: Invent,Relations,Delev}}
 LingsFinerThings.esm
 LingsMMMpatch3-3.esm
-MMZombieCemetery.esm
-CubeExperimental (EN).esm
-All Your Bananas.esm
 vaps.esm
 Companion Core.esm
 Companion Share & Recruit.esm
@@ -288,6 +290,15 @@ Fast VATS 2.esp
 VATS_Normal_dmg_to_player.esp
 " Fast VATS X.esp.
 Fast_but_dramatic_VATS_0.9.esp
+QuickerMessages.esp
+QuickerMessagesOA.esp
+: Anchorage.esm
+QuickerMessagesPITT.esp
+: ThePitt.esm
+QuickerMessagesBS.esp
+: BrokenSteel.esm
+QuickerMessagesPL.esp
+: PointLookout.esm
 Clear Cell Buffers every Cell.esp
 Arwen_Reduced_QuestXPR.esp
 Headshot_Balance.esp
@@ -1338,6 +1349,10 @@ PPA - Super Human Jump Perk.esp
 \BeginGroup\\ Cosmetics
 \-----------
 DIM CUSTOM PRESETS V1.3WEB.esp
+Sparkling Eyes.esp
+: HairPack.esm
+SparklingEyes for Eyelashes and HairPack Fix for MMM.esp
+: Sparkling Eyes.esp
 F3Eyelashes.esp
 _R_Tribals.esp
 \EndGroup\\
@@ -1928,6 +1943,20 @@ ACRForFWE.esp
 SVDForFWE.esp
 MP5ForFWE.esp
 DTOForFWE.esp
+DLM_FFOutcastsQuest(FWEEd).esp
+DLM_FFOutcastsQuest_Override.esp
+: FO3 Wanderers Edition - Main File.esm
+: DLM_FFOutcastsQuest(FWEEd).esp
+DLM_FFOutcastsQuest_Override-BS.esp
+: BrokenSteel.esm
+: FO3 Wanderers Edition - Main File.esm
+: DLM_FFOutcastsQuest(FWEEd).esp
+DLM_FFOutcastsQuest_Override-DLC.esp
+: Anchorage.esm
+: BrokenSteel.esm
+: Zeta.esm
+: FO3 Wanderers Edition - Main File.esm
+: DLM_FFOutcastsQuest(FWEEd).esp
 Useful Wasteland Clipboards.esp
 CombatEnhanced-Package v02.esp
 Attentater's Wasteland Economy.esp
@@ -2100,7 +2129,7 @@ GTSFawkesWeapons.esp
 \EndGroup\\
 
 
-\BeginGroup\\ Game-Settings
+\BeginGroup\\ Game-Settings and Overrides
 \-----------
 No[EMPTY]ContainerMessages.esp
 5xlvling.esp
