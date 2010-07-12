@@ -195,14 +195,19 @@ FEM.esm
 Selected Containers Respawn - Emptied Trash Cans in Player Homes.esp
 Unofficial Fallout 3 Patch - Operation Anchorage.esp
 % {{BASH: Deflst,Names}}
+: Anchorage.esm
 Unofficial Fallout 3 Patch - The Pitt.esp
 % {{BASH: Deflst,Names}}
+: ThePitt.esm
 Unofficial Fallout 3 Patch - Broken Steel.esp
 % {{BASH: Deflst,Names}}
+: BrokenSteel.esm
 Unofficial Fallout 3 Patch - Point Lookout.esp
 % {{BASH: Deflst,Names,Invent,Stats}}
+: PointLookout.esm
 Unofficial Fallout 3 Patch - Mothership Zeta.esp
 % {{BASH: Deflst,Names}}
+: Zeta.esm
 UF3P Crane Fix.esp
 Citadel Crane Fix.esp
 Error Correction.esp
@@ -221,13 +226,23 @@ Error Correction - Transparency Rubble Piles.esp
 " Error Correction - All Transparency & Trees.esp
 Error Correction - Trees.esp
 " Error Correction - All Transparency & Trees.esp
+OADLCfix.esp
+: Anchorage.esm
+zetabugfix.esp
+: Zeta.esm
 BenTweaks-FO3.esp
 BenTweaks-OAE.esp
+: Anchorage.esm
 BenTweaks-TPE.esp
-BenTweaks-BSE.esp
-BenTweaks-PLE.esp
-BenTweaks-MZE.esp
+: ThePitt.esm
 BenTweaks-AAF.esp
+: ThePitt.esm
+BenTweaks-BSE.esp
+: BrokenSteel.esm
+BenTweaks-PLE.esp
+: PointLookout.esm
+BenTweaks-MZE.esp
+: Zeta.esm
 BenTweaks-CWS.esp
 FireLightFix.esp
 % {{BASH: C.Light}}
@@ -723,6 +738,7 @@ MTC Wasteland Travellers (Optional)- Crowded Cities less NPCs.esp
 " MTC Wasteland Travellers (Optional)- Crowded Cities.esp
 MTC Wasteland Travellers (Optional)- Crowded Cities.esp
 " MTC Wasteland Travellers (Optional)- Crowded Cities less NPCs.esp
+MTC MoreGuardsInBigTown.esp
 Clover Makeover - Asian Bedraggled.esp
 Angel.esp
 EZ_MoreVoices.esp
@@ -754,6 +770,7 @@ Arefu Player House.esp
 MiniHideout.esp
 SShop.esp
 UndergroundHideout.esp
+Ashur's Palace Player room.esp
 UrgeSpringvaleHome.esp
 Cliff's_Residences Of DC - Player Version.esp
 K2_PlayWearClub.esp
@@ -1502,6 +1519,7 @@ PlasmaRifleRedesign_standardonly.esp
 PlasmaPistolRedesign.esp
 % {{BASH: Graphics,Sound}}
 ? DO not use with latest FWE, it is already integrated.
+PostalProjectile.esp
 Water Bottles 3000.esp
 % {{BASH: Graphics,NoMerge,Deactivate}}
 schematics2.esp
@@ -1628,7 +1646,7 @@ MMM_RtSS_Mod.esp
 \EndGroup\\
 
 
-\BeginGroup\\ Middle Misc C
+\BeginGroup\\ Companions
 \-----------
 Original Moira Brown.esp
 MoriaX3Caps.esp
@@ -2549,6 +2567,8 @@ tubunarFWE.esp
 CRBSOR.esp
 ? Do not use with latest FWE, it is already integrated.
 CRBSOR [Achievements Removed].esp
+Merged.esp
+Merged Patch.esp
 \EndGroup\\
 
 
