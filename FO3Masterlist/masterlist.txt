@@ -190,7 +190,7 @@ FEM.esm
 \EndGroup\\
 
 
-\BeginGroup\\ Unofficial Patches/Fixes
+\BeginGroup\\ Unofficial Patches and Fixes
 \-----------
 Selected Containers Respawn - Emptied Trash Cans in Player Homes.esp
 Unofficial Fallout 3 Patch - Operation Anchorage.esp
@@ -246,6 +246,24 @@ BenTweaks-MZE.esp
 BenTweaks-CWS.esp
 FireLightFix.esp
 % {{BASH: C.Light}}
+QuickFix.esp
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+: Zeta.esm
+Gnr Cleaned.esp
+Megaton Cleaned.esp
+Rivet City Cleaned.esp
+Underworld Cleaned.esp
+Project Cleaned Patch V1.0.esp
+Project Clean FOOK 2 Patch V1.0.esp
+: CALIBR.esm
+: FOOK2 - Main.ESM
+LessRocks.esp
+Reduced Dust Particles.esp
+Bettergameperformance.esp
+Megatonnavmesh.esp
 BSMovieSkip.esp
 \EndGroup\\
 
@@ -310,8 +328,6 @@ praiseatom.esp
 ? Do not use with latest FOOK2, it is already integrated.
 Internet Mod.esp
 ? Do not use with latest FOOK2, it is already integrated.
-LessRocks.esp
-Reduced Dust Particles.esp
 TakingOutTheTrash.esp
 TOTTPointLookoutEdition.esp
 YearlingsGlasses.esp
@@ -605,6 +621,8 @@ MrLabTechnician.esp
 % {{BASH: Relev}}
 MrLabTechnician - FWE.esp
 % {{BASH: Deflst,Delev}}
+SelfSurgeryKit.esp
+% {{BASH: Relev}}
 RobCo Universal Battery Charger Kit.esp
 " RobCo Universal Battery Charger Kit - Zeta.esp
 RobCo Universal Battery Charger Kit - Zeta.esp
@@ -623,6 +641,7 @@ SCC Armor.esp
 Echo_BatteryCharger.esp
 HouseholdWaterPurifier.esp
 PortableMattress.esp
+
 Portable Distilling Lab.esp
 PortableCampStuff.esp
 PortableCampStuff - CRAFT.esp
@@ -673,6 +692,8 @@ RRSorter100_20thCentury.esp
 RR_Refurbished.esp
 RZW_SlotMachine.esp
 ShadySands.esp
+BM22CelestialSphere.esp
+Twinkies.esp
 MoreMapMarkers.esp
 rockopolisandabandonedtentmapmarker.esp
 MaxLevelWorkaround-HP-BS.esp
@@ -1107,7 +1128,6 @@ WeaponModKits - Zeta.esp
 : Zeta.ESM
 WeaponModKits - DIK.esp
 WeaponModKits - Scope Increases VATS Accuracy.esp
-SelfSurgeryKit.esp
 \EndGroup\\
 
 
@@ -1172,6 +1192,8 @@ Arms_dealer_V1.esp
 : CALIBR.esm
 A_D_Calibr_ammo.esp
 : Arms_dealer_V1.esp
+PlastekPrototypeRiflev1.esp
+Fallout3ProtoGun.esp
 \EndGroup\\
 
 
@@ -1771,6 +1793,7 @@ CBOv1.4_bittercup_comp_waitrelax_restyled.esp
 CBOv1.4_the_other_bittercup_comp_waitrelax.esp
 CBOv1.4_spcross_dimonized_brazilian_b.esp
 CBOv1.4_slaveraider.esp
+
 \EndGroup\\
 
 
@@ -2037,6 +2060,7 @@ MercenaryExpanded[M&W].esp
 RaiderMercenaryExpanded[M&W].esp
 Savage Wasteland - Fewer Gun Wielding Maniacs.esp
 CrossRepairArmor.esp
+repairfix.esp
 Updated XRepair.esp
 NippersWeaponNips.esp
 NippersArmorNips.esp
@@ -2046,6 +2070,7 @@ vaps-broken-steel.esp
 vaps-point-lookout.esp
 vaps-fwe.esp
 vaps-marts-mutant-mod.esp
+PortableCampStuff - WMK.esp
 GTent-FWE.esp
 : FO3 Wanderers Edition - Main File.esm
 : CRAFT.esm
