@@ -536,7 +536,7 @@ Double Perks.esp
 Double Perks Half.esp
 goat_perks.esp
 Bicurious.esp
-ender perks unlocked.esp
+gender perks unlocked.esp
 Makes Sense Bounty Hunter 0.91.esp
 \EndGroup\\
 
@@ -595,7 +595,7 @@ Devoured in Darkness.esp
 \EndGroup\\
 
 
-\BeginGroup\\ Early misc B
+\BeginGroup\\ Early Misc B
 \-----------
 0rb_BookSet1.esp
 0rb_ComicPack1.esp
@@ -604,7 +604,6 @@ BetterHitSquads.esp
 MegatonScavengers.esp
 Not alone in the Wasteland anymore.esp
 FemaleEnclaveSoldiers - Broken Steel.esp
-Ghoulified Cromwell.esp
 BoSPatrols.esp
 MarkB50K_Wasteland_Patrols.esp
 : Anchorage.ESM
@@ -652,7 +651,6 @@ SCC Armor.esp
 Echo_BatteryCharger.esp
 HouseholdWaterPurifier.esp
 PortableMattress.esp
-
 Portable Distilling Lab.esp
 PortableCampStuff.esp
 PortableCampStuff - CRAFT.esp
@@ -711,6 +709,19 @@ MaxLevelWorkaround-HP-BS.esp
 WastelandMastery.esp
 SkillCheck.esp
 BA_InventorySorterVanilla.esp
+% {{BASH: Names}
+AmmoSorter - Start.esp
+% {{BASH: Names}}
+AmmoSorter - End.esp
+% {{BASH: Names}}
+Scenic_Loading_Background.esp
+% {{BASH: Graphics}}
+Scenic_Loading_Background_PointofLookoutDLC.esp
+% {{BASH: Graphics}}
+: PointLookout.esm
+Scenic_Loading_Background_OperationAnchorageDLC.esp
+% {{BASH: Graphics}}
+: Anchorage.esm
 Treasure Maps_Underground.esp
 Treasure Maps_Secrets of the Wasteland.esp
 Treasure Maps_Bobblehead Edition.esp
@@ -772,6 +783,7 @@ MTC Wasteland Travellers (Optional)- Crowded Cities.esp
 " MTC Wasteland Travellers (Optional)- Crowded Cities less NPCs.esp
 MTC MoreGuardsInBigTown.esp
 Clover Makeover - Asian Bedraggled.esp
+Ghoulified Cromwell.esp
 Angel.esp
 EZ_MoreVoices.esp
 EZ_TempleOfCant.esp
