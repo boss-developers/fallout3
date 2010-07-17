@@ -1653,6 +1653,7 @@ Mart's Mutant Mod - Reduced Wasteland Spawns.esp
 Mart's Mutant Mod - Tougher Traders.esp
 % {{BASH: Actors.Stats}}
 Mart's Mutant Mod - Zones Respawn.esp
+Mart's Mutant Mod - Mutant Mod Menu.esp
 Mart's Mutant Mod - Soft Unleveler.esp
 ? Use either 'Soft Unleveler' or 'Soft Unleveler Hardcore' but not both.
 Mart's Mutant Mod - Soft Unleveler Hardcore.esp
