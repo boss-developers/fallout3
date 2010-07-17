@@ -701,6 +701,7 @@ RRSorter100_20thCentury.esp
 RR_Refurbished.esp
 RZW_SlotMachine.esp
 ShadySands.esp
+% {{BASH: Factions,Relations}}
 BM22CelestialSphere.esp
 Twinkies.esp
 MoreMapMarkers.esp
@@ -1651,7 +1652,7 @@ Mart's Mutant Mod - Natural Selection.esp
 Mart's Mutant Mod - Reduced Wasteland Spawns.esp
 % {{BASH: Delev,Relev}}
 Mart's Mutant Mod - Tougher Traders.esp
-% {{BASH: Actors.Stats}}
+% {{BASH: Actors.Stats,Factions,Relations}}
 Mart's Mutant Mod - Zones Respawn.esp
 Mart's Mutant Mod - Mutant Mod Menu.esp
 Mart's Mutant Mod - Soft Unleveler.esp
