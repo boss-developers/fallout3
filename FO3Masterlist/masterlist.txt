@@ -102,6 +102,7 @@ FO3 Wanderers Edition - Main File.esm
 : CALIBR.esm
 Mart's Mutant Mod.esm
 % {{BASH: Invent,Relations,Delev}}
+FNNIguana.esm
 LingsFinerThings.esm
 LingsMMMpatch3-3.esm
 vaps.esm
@@ -264,7 +265,8 @@ Project Clean FOOK 2 Patch V1.0.esp
 : FOOK2 - Main.ESM
 LessRocks.esp
 Reduced Dust Particles.esp
-Bettergameperformance.esp
+BetterGamePerformance.esp
+% {{BASH: Deflst,Delev}}
 Megatonnavmesh.esp
 BSMovieSkip.esp
 \EndGroup\\
@@ -403,6 +405,7 @@ Delay ThePitt + Anchorage.esp
 : Anchorage.ESM
 More Hotkeys.esp
 QuickClothes.esp
+Console Key Binder.esp
 Princess Better Prompts v1pt1.esp
 PCIdles.esp
 Arwen_Camera.esp
@@ -592,6 +595,8 @@ MX_Vault74fix.esp
 Jury Street.esp
 The Bunker.esp
 Devoured in Darkness.esp
+EIP.esp
+: BrokenSteel.esm
 \EndGroup\\
 
 
@@ -605,6 +610,7 @@ MegatonScavengers.esp
 Not alone in the Wasteland anymore.esp
 FemaleEnclaveSoldiers - Broken Steel.esp
 BoSPatrols.esp
+SteelWPatrolV_1.esp
 MarkB50K_Wasteland_Patrols.esp
 : Anchorage.ESM
 : ThePitt.ESM
@@ -628,7 +634,6 @@ Angry Scientists.esp
 % {{BASH: Invent}}
 DN_RecyclingMachine.esp
 MrLabTechnician.esp
-% {{BASH: Relev}}
 MrLabTechnician - FWE.esp
 % {{BASH: Deflst,Delev}}
 SelfSurgeryKit.esp
@@ -674,6 +679,7 @@ ZoomReworked.esp
 Directional PipLight.esp
 Directional PipLight HDR.esp
 Expanded Megaton House V3.esp
+Expanded Megaton House V3-No Stove.esp
 MegatonBasement.esp
 Princess Tenpenny Home Extension.esp
 Tenpenny_Expansion.esp
@@ -894,6 +900,7 @@ Rivetcityhotelupgrade.esp
 Better Museum of History EN.esp
 Underworld Underground.esp
 UnderWorld House.esp
+LevelersChamber.esp
 Submarine Wreck.esp
 GameForWilks.esp
 rivet city 2.esp
@@ -1218,6 +1225,7 @@ A_D_Calibr_ammo.esp
 : Arms_dealer_V1.esp
 PlastekPrototypeRiflev1.esp
 Fallout3ProtoGun.esp
+HZ_M14.esp
 \EndGroup\\
 
 
@@ -1500,6 +1508,8 @@ Buildablebots Robcert. addon.esp
 MarcuzVanishingPiles_EVE_Add.esp
 : EVE.esp
 VanishingPiles.esp
+Salvagable cars.esp
+Salvagable cars_Smallbooms.esp
 NVG Activator Crash Fix [Experimental].esp
 WSG Improved.esp
 XPReward20Percent.esp
@@ -2123,6 +2133,7 @@ GTent-FWE-MMM.esp
 GTent-FWE-WMK.esp
 : GTent-FWE.esp
 : WeaponModKits.esp
+
 \EndGroup\\
 
 
@@ -2347,6 +2358,7 @@ Xepha's Dynamic Weather - Climate OverRider (OA + Rain) - No Fog.esp
 " Xepha's Dynamic Weather - Climate OverRider (OA).esp
 " Xepha's Dynamic Weather - Climate OverRider (Rain).esp
 " Xepha's Dynamic Weather - Climate OverRider.esp
+Xepha's Dynamic Weather - Sandstorm.esp
 Xepha's Dynamic Weather - Darker Water.esp
 Night Time Sneak Boost.esp
 OasisSafeWater.esp
@@ -2564,6 +2576,12 @@ AmyWong - Load Order Fix.esp
 RobCo Certified - FWE EVE Balance.esp
 RobCo Certified - FWE EVE Balance Light.esp
 Destruction - CP - Fellout.esp
+FNNIguana - MMM.esp
+: FNNIguana.esm
+: Mart's Mutant Mod.esm
+FNNIguana - FWE.esp
+: FNNIguana.esm
+: FO3 Wanderers Edition - Main File.esm
 FWE - FOOK DLC Support.esp
 : Anchorage.ESM
 : ThePitt.ESM
