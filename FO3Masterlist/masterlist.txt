@@ -73,6 +73,7 @@ COMM.esm
 Cotozic's Vault Home.esm
 vault64.esm
 Bunker72 v3.esm
+The Bunker.esm
 MMZombieCemetery.esm
 MMFastZombieCemetery-NotRecommended.esm
 Vault 101 Revisited.esm
@@ -275,6 +276,7 @@ BSMovieSkip.esp
 \BeginGroup\\ Early Loading Mods
 \-----------
 DarNifiedUIF3.esp
+PIMP.esp
 Project Beauty.esp
 * Old. Download the latest Project Beauty files.
 Project Beauty- Broken Steel.esp
@@ -348,6 +350,7 @@ MaxLevelWorkaround-BS.esp
 Max Level 99 V2.esp
 QZ No VATS Radial Blur.esp
 no blur on hit.esp
+Advanced Visionary Effects.esp
 =Extreme+Close=DOF1.1.esp
 =Extreme+Far=DOF1.1.esp
 =Extreme+Very Far=DOF1.1.esp
@@ -379,6 +382,7 @@ krzymar-MoonSize_400%.esp
 krzymar-MoonSize_500%.esp
 V.A.T.S. Depth of Field v1.0.esp
 CASM.esp
+Fallout Safe Exit v1.1.esp
 ASU.esp
 CRAFT - Activation Perk.esp
 : CRAFT.ESM
@@ -436,6 +440,7 @@ Alternate Start - Roleplayers.esp
 ? DO not use with latest FWE, it is already integrated.
 Selected Containers Respawn.esp
 ? DO not use with latest FWE, it is already integrated.
+Precision_AutoAim_6000.esp
 AlternateEnding.esp
 Zombie Sounds V2.esp
 choose_XP_FOSE.esp
@@ -454,10 +459,24 @@ PAL - MERGED.esp
 PAL - BASE File.esp
 " PAL - MERGED.esp
 PAL - Operation Anchorage.esp
+: Anchorage.esm
 PAL - The Pitt.esp
+: ThePitt.esm
 PAL - Broken Steel.esp
+: BrokenSteel.esm
 PAL - Point Lookout.esp
+: PointLookout.esm
 PAL - Mothership Zeta.esp
+: Zeta.esm
+Achievements for All.esp
+Achievements for All - Anchorage.esp
+: Anchorage.esm
+Achievements for All - The Pitt.esp
+: ThePitt.esm
+Achievements for All - Broken Steel.esp
+: BrokenSteel.esm
+Achievements for All - Point Lookout.esp
+: PointLookout.esm
 PCB.esp
 \EndGroup\\
 
@@ -530,6 +549,7 @@ Dree Perks Requested by Fans .esp
 Combat Style Perks.esp
 BookPerks.esp
 BookPerkBarterMOD.esp
+VDSP-01.esp
 implants.esp
 Cyber-Enhancements.esp
 PRFEW.esp
@@ -541,6 +561,16 @@ goat_perks.esp
 Bicurious.esp
 gender perks unlocked.esp
 Makes Sense Bounty Hunter 0.91.esp
+Ice Cold Nuka, Converted.esp
+: BrokenSteel.esm
+Almost Perfect Anytime Bobbleheads + No Level.esp
+: BrokenSteel.esm
+Almost Perfect Anytime Bobbleheads.esp
+: BrokenSteel.esm
+Perfectly SPECIAL + No Level.esp
+: BrokenSteel.esm
+Perfectly SPECIAL.esp
+: BrokenSteel.esm
 \EndGroup\\
 
 
@@ -595,6 +625,7 @@ MX_Vault74fix.esp
 Jury Street.esp
 The Bunker.esp
 Devoured in Darkness.esp
+Darkness.esp
 EIP.esp
 : BrokenSteel.esm
 \EndGroup\\
@@ -633,6 +664,7 @@ Ammo Bench - Scattered Schematics.esp
 Angry Scientists.esp
 % {{BASH: Invent}}
 DN_RecyclingMachine.esp
+Explosive Entry.esp
 MrLabTechnician.esp
 MrLabTechnician - FWE.esp
 % {{BASH: Deflst,Delev}}
@@ -681,6 +713,7 @@ Directional PipLight HDR.esp
 Expanded Megaton House V3.esp
 Expanded Megaton House V3-No Stove.esp
 MegatonBasement.esp
+JB-MegatonHouse_v1.0.esp
 Princess Tenpenny Home Extension.esp
 Tenpenny_Expansion.esp
 JHBNewHouse.esp
@@ -779,6 +812,8 @@ BA_WRM_ALT.esp
 
 \BeginGroup\\ NPC
 \-----------
+NPC Height Randomizer.esp
+NPC Height Randomizer Less Variance.esp
 CrowdedCities_v2.esp
 " CrowdedCities_v2_lessNPCs.esp
 CrowdedCities_v2_lessNPCs.esp
@@ -944,6 +979,8 @@ RockopolisRebuilt.esp
 Aghatas house v0.3.esp
 megbunker.esp
 RobotFacility.esp
+Meet the Devs.ESP
+MegatonWeapons.esp
 \EndGroup\\
 
 
@@ -1225,7 +1262,12 @@ A_D_Calibr_ammo.esp
 : Arms_dealer_V1.esp
 PlastekPrototypeRiflev1.esp
 Fallout3ProtoGun.esp
+ImmaFirinMahLazor.esp
 HZ_M14.esp
+MissingUniqueWeapons-Enhanced.
+cryolator.esp
+WinchesterModel1894Yellowboy.esp
+YK40 Pulse Pistol.esp
 \EndGroup\\
 
 
@@ -1832,7 +1874,8 @@ CBOv1.4_bittercup_comp_waitrelax_restyled.esp
 CBOv1.4_the_other_bittercup_comp_waitrelax.esp
 CBOv1.4_spcross_dimonized_brazilian_b.esp
 CBOv1.4_slaveraider.esp
-
+EnclaveCommander.esp
+EnclaveCommander-OA.esp
 \EndGroup\\
 
 
@@ -1981,6 +2024,8 @@ DLM_FFOutcastsQuest_Override-DLC.esp
 : Zeta.esm
 : FO3 Wanderers Edition - Main File.esm
 : DLM_FFOutcastsQuest(FWEEd).esp
+Outcast Collection Agent Expanded.esp
+Outcast Collection Agent Expanded - DLC Plugin.esp
 Useful Wasteland Clipboards.esp
 CombatEnhanced-Package v02.esp
 Attentater's Wasteland Economy.esp
@@ -2060,6 +2105,7 @@ ZumbsDarkerSunglasses_no_replace.esp
 ? Zumbs has asked you to rename this to ZumbsDarkerSunglasses.esp
 ZumbsDarkerSunglasses_screen_effect.esp
 ? Zumbs has asked you to rename this to ZumbsDarkerSunglasses.esp
+FourEyes.esp
 MZAllAccessPass.esp
 ACE2-0.esp
 ACE2-1b.esp
