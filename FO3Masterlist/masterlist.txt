@@ -1323,6 +1323,9 @@ COL Enclave VER2.esp
 % {{BASH: Graphics}}
 COL Enclave Hell.esp
 % {{BASH: Graphics}}
+COW-CustamArmor.esp
+: EnhancedChildren.esm
+: AliciasCuteShop.esm
 ClassicEnclaveAPA-german.esp
 ClassicEnclaveAPA-english.esp
 ClassicEnclaveAPA-Better-APA-german.esp
@@ -2593,6 +2596,13 @@ The Groovatron_DLC_PL_Addon.esp
 \BeginGroup\\ Beauty Packs & Race Addons
 \-----------
 \Hair, eyes, race addons & changes and other cosmetics.
+
+\BeginGroup\: Body and head changes
+\'''''''''''''''''''''
+EwwGhoulyBody.esp
+% {{BASH: Body-F}}
+\EndGroup\\
+
 \Hair
 \''''
 HairPack_2chPlus.esp
