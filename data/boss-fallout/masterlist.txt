@@ -1,0 +1,2738 @@
+﻿
+\ Leading symbol code:
+\
+\ \ A silent comment - will be ignored by the program.
+\ % A Bashed Patch suggestion for the mod above.
+\ ? A comment about the mod above.
+\ * Flags a critical mistake for FOOK2 installation in relation to the mod above.
+\ : Means "Requires:"
+\ " Means "Conflicts with:"
+\
+\ > process this line only if FOOK2 is installed.
+\ < process this line only if FOOK2 isn't installed.
+\
+\ Multiple remark/comment/bash/error lines allowed.
+\ Lines beginning with \ and blank lines are treated the same (ignored).
+\
+\ AliTHeLord has made changes to the source code for FO3 BOSS
+
+
+\BeginGroup\\ ESMs
+\------------
+Fallout3.esm
+? Masterlist Information: $Revision: 1194 $, $Date:: 2010-07-27 20:06:43 +0100#$, $LastChangedBy: valda68k $
+Lings.esm
+Anchorage.esm
+ThePitt.esm
+BrokenSteel.esm
+% {{BASH: Actors.AIPackages}}
+PointLookout.esm
+Zeta.esm
+Unofficial Fallout 3 Patch.esm
+% {{BASH: Deflst,Delev,Relev,Factions,Invent,Names,Relations,Stats}}
+LingsDLC.esm
+HairPack.esm
+% {{BASH: Hair,Eyes}}
+Hairday.esm
+RI_Core.esm
+IMCN.esm
+FaceMe.esm
+% {{BASH: NpcFaces,Hair,Eyes}}
+Destruction.esm
+% {{BASH: Destructable,Scripts}}
+S.T.A.L.K.E.R. Call of D.C..esm
+ARSENAL MOD.esm
+FallsChurchMetroFix.esm
+Phalanx-PointLookout-Navmesh.esm
+PointLookout-FollowersGetToGo.esm
+: PointLookout.ESM
+The Librarian.esm
+TalonExtraArmor.esm
+Impervious Power Armour.esm
+CRAFT.esm
+CALIBR.esm
+xCALIBR.esm
+% {{BASH: Names,Graphics,Stats}}
+CRAFTHelper.esm
+Project Beauty HD version.esm
+* Old. Download the latest Project Beauty files.
+Project Beauty.esm
+% {{BASH: NpcFaces,Hair,Eyes,Voice-M,Voice-F,Body-M,Body-F,R.Teeth,R.Mouth}}
+CFWRv4.esm
+% {{BASH: Deflst,Delev,Invent,Names,Graphics,Scripts,Stats}}
+20thCenturyWeapons.esm
+20th Century Weapons.esm
+CMRS.esm
+Ammo Bench.esm
+Refurbishes [ALL].esm
+? Do not use with latest FOOK2, it is already integrated.
+Megaton Expansion Project V03.esm
+: CALIBR.esm
+ArefuExpandedByAzar.esm
+COMM.esm
+Cotozic's Vault Home.esm
+vault64.esm
+Bunker72 v3.esm
+The Bunker.esm
+MMZombieCemetery.esm
+MMFastZombieCemetery-NotRecommended.esm
+Vault 101 Revisited.esm
+CubeExperimental (EN).esm
+All Your Bananas.esm
+RoadWardens.esm
+% {{BASH: Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.Stats,Factions,Invent,Scripts,ScriptContents}}
+FOOK2 - Main.esm
+% {{BASH: Invent,Stats,Relations,Factions}}
+: CALIBR.esm
+FOOK.ESM
+* Get FOOK2
+FOOK2 - [WANK] World And Neighbourhood Kit.esm
+: CALIBR.esm
+: FOOK2 - Main.ESM
+* Remove if using FOOK2 1.1 and above
+FOOK2 - [DIK] DLC Improvement Kit.esm
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+: CALIBR.esm
+: FOOK2 - Main.ESM
+FO3 Wanderers Edition - Main File.esm
+% {{BASH: Actors.ACBS,Actors.Stats,Deflst,Delev,Invent,Relations,Relev,Stats}}
+: CRAFT.esm
+: CALIBR.esm
+Mart's Mutant Mod.esm
+% {{BASH: Invent,Relations,Delev}}
+FNNIguana.esm
+LingsFinerThings.esm
+LingsMMMpatch3-3.esm
+vaps.esm
+Companion Core.esm
+Companion Share & Recruit.esm
+: Companion Core.esm
+RobCo Certified v2.esm
+: Companion Core.esm
+Wasteland Whisperer v2.esm
+: Companion Core.esm
+Summer_2.5.esm
+Enhanced Weather - Rain and Snow.esm
+Xepha's Dynamic Weather.esm
+% {{BASH: C.Climate,Sound}}
+Globaltravelsystem.esm
+GTSEssentials.esm
+GTSDeathCanyon.esm
+CT_FalloutAdvanced.esm
+RTS.esm
+" ArefuExpandedByAzar.esm
+" 1PipboyPDA.esp
+RTS NW.esm
+" ArefuExpandedByAzar.esm
+" 1PipboyPDA.esp
+Nos' Cosmetic Resource.esm
+RRCompanionVault.esm
+RRGuards.esm
+RR5MoreMales.esm
+RR5MoreFemales.esm
+RR All Vanilla Companions.esm
+Nos' RR Companions.esm
+Herculine's RR Scouts.esm
+Herculine's RR Scouts DLC.esm
+RR Vault 1 Alternate Guards.esm
+AmyWong.esm
+StreetLights.esm
+? Do not use with latest FOOK2, it is already integrated.
+EnclaveCommander-Steel.esm
+EnclaveCommander-OA-Steel.esm
+EnclaveCommander-OA-Pitt-Steel.esm
+CrossModData.esm
+BHR&M.esm
+PB mika.esm
+* Old. Download the latest Project Beauty files.
+Animy_prostitution.esm
+: CrossModData.esm
+ParadiseHome.esm
+DCInteriors_ComboEdition.ESM
+" DCInteriors components.
+DCInteriors_Georgtown.esm
+" DCInteriors_ComboEdition.ESM
+DCInteriors_LEnfntPl.esm
+" DCInteriors_ComboEdition.ESM
+DCInteriors_Mason.esm
+" DCInteriors_ComboEdition.ESM
+DCInteriors_SewardSq.esm
+" DCInteriors_ComboEdition.ESM
+DCInteriors_Takoma.esm
+" DCInteriors_ComboEdition.ESM
+Scannadd5000.esm
+Selected Containers Respawn.esm
+AngelRaces.esm
+SeducingWomen.esm
+Shojo Race.esm
+% {{BASH: Hair,Eyes}}
+XENH.esm
+% {{BASH: Hair,Eyes}}
+EZCompanion.esm
+EZ_citizens.esm
+EnhancedChildren.esm
+% {{BASH: Hair,Eyes}}
+AliciasCuteShop.esm
+% {{BASH: Stats}}
+CEH.esm
+IbIui.esm
+Sharing and Caring Companions.esm
+Fallout 3 Sexus.esm
+ChildrenEmpire.esm
+MiniVault+Race.esm
+RH_IRONSIGHTS.esm
+Abbreviated Effects.esm
+% {{BASH: Names}}
+? Do not use with latest FWE, it is already integrated.
+FNNCQ.esm
+FNNCQ_DavidsLab.esm
+WYB.esm
+FEM.esm
+\EndGroup\\
+
+
+\BeginGroup\\ Unofficial Patches and Fixes
+\-----------
+Selected Containers Respawn - Emptied Trash Cans in Player Homes.esp
+Unofficial Fallout 3 Patch - Operation Anchorage.esp
+% {{BASH: Deflst,Names}}
+: Anchorage.esm
+Unofficial Fallout 3 Patch - The Pitt.esp
+% {{BASH: Deflst,Names}}
+: ThePitt.esm
+Unofficial Fallout 3 Patch - Broken Steel.esp
+% {{BASH: Deflst,Names}}
+: BrokenSteel.esm
+Unofficial Fallout 3 Patch - Point Lookout.esp
+% {{BASH: Deflst,Names,Invent,Stats}}
+: PointLookout.esm
+Unofficial Fallout 3 Patch - Mothership Zeta.esp
+% {{BASH: Deflst,Names}}
+: Zeta.esm
+UF3P Crane Fix.esp
+Citadel Crane Fix.esp
+Error Correction.esp
+% {{BASH: Scripts}}
+Error Correction - All Transparency.esp
+Error Correction - All Transparency & Trees.esp
+" Error Correction - All Transparency.esp
+Error Correction - Transparency Megaton.esp
+" Error Correction - All Transparency.esp
+" Error Correction - All Transparency & Trees.esp
+Error Correction - Transparency RC.esp
+" Error Correction - All Transparency.esp
+" Error Correction - All Transparency & Trees.esp
+Error Correction - Transparency Rubble Piles.esp
+" Error Correction - All Transparency.esp
+" Error Correction - All Transparency & Trees.esp
+Error Correction - Trees.esp
+" Error Correction - All Transparency & Trees.esp
+OADLCfix.esp
+: Anchorage.esm
+zetabugfix.esp
+: Zeta.esm
+BenTweaks-FO3.esp
+BenTweaks-OAE.esp
+: Anchorage.esm
+BenTweaks-TPE.esp
+: ThePitt.esm
+BenTweaks-AAF.esp
+: ThePitt.esm
+BenTweaks-BSE.esp
+: BrokenSteel.esm
+BenTweaks-PLE.esp
+: PointLookout.esm
+BenTweaks-MZE.esp
+: Zeta.esm
+BenTweaks-CWS.esp
+FireLightFix.esp
+% {{BASH: C.Light}}
+QuickFix.esp
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+: Zeta.esm
+Gnr Cleaned.esp
+Megaton Cleaned.esp
+Rivet City Cleaned.esp
+Underworld Cleaned.esp
+Project Cleaned Patch V1.0.esp
+Project Clean FOOK 2 Patch V1.0.esp
+: CALIBR.esm
+: FOOK2 - Main.ESM
+LessRocks.esp
+Reduced Dust Particles.esp
+BetterGamePerformance.esp
+% {{BASH: Deflst,Delev}}
+Megatonnavmesh.esp
+BSMovieSkip.esp
+\EndGroup\\
+
+
+\BeginGroup\\ Early Loading Mods
+\-----------
+DarNifiedUIF3.esp
+PIMP.esp
+Project Beauty.esp
+* Old. Download the latest Project Beauty files.
+Project Beauty- Broken Steel.esp
+% {{BASH: NpcFaces,NoMerge,Deactivate}}
+Project Beauty- Point Lookout.esp
+% {{BASH: NpcFaces,NoMerge,Deactivate}}
+Raider preset beta.esp
+% {{BASH: NpcFaces,NoMerge,Deactivate}}
+Project Beauty HD version [Hair Fix].esp
+% {{BASH: NpcFaces,NoMerge,Deactivate}}
+Fast VATS 1.esp
+" Fast VATS 2.esp
+Fast VATS 2.esp
+" Fast VATS 1.esp
+VATS_Normal_dmg_to_player.esp
+" Fast VATS X.esp.
+Fast_but_dramatic_VATS_0.9.esp
+QuickerMessages.esp
+QuickerMessagesOA.esp
+: Anchorage.esm
+QuickerMessagesPITT.esp
+: ThePitt.esm
+QuickerMessagesBS.esp
+: BrokenSteel.esm
+QuickerMessagesPL.esp
+: PointLookout.esm
+Clear Cell Buffers every Cell.esp
+Arwen_Reduced_QuestXPR.esp
+Headshot_Balance.esp
+actionpoints_instant_regen.esp
+playbackdelay_001.esp
+CT_FalloutAdvanced - DLC.esp
+CT_FalloutAdvanced - AAOFF.esp
+Noise Filter.esp
+IbIui - BS.esp
+IbIui - OA.esp
+IbIui - Pitt.esp
+IbIui - PL.esp
+IbIui.esp
+PIDL-lite.esp
+PIDL-lite(metric).esp
+Crosshair Toggle.esp
+FaceMe.esp
+% {{BASH: NpcFaces,NoMerge,Deactivate}}
+FaceMe-Broken Steel.esp
+% {{BASH: NpcFaces,NoMerge,Deactivate}}
+eyes_hairpack_en.esp
+hair_add_npc.esp
+Dalls_Sex_in_City.esp
+Shojo NPC.esp
+% {{BASH: Invent,NpcFaces}}
+Moira-EXSP.esp
+% {{BASH: NpcFaces,NoMerge,Deactivate}}
+norepairneededv2.esp
+BatteriesPlusV1_2.esp
+% {{BASH: Graphics}}
+Realistic icons.esp
+% {{BASH: Graphics}}
+StreetLights - Wasteland.esp
+? Do not use with latest FOOK2, it is already integrated.
+RK-Skelette-3.0.esp
+? Do not use with latest FOOK2, it is already integrated.
+praiseatom.esp
+? Do not use with latest FOOK2, it is already integrated.
+Internet Mod.esp
+? Do not use with latest FOOK2, it is already integrated.
+TakingOutTheTrash.esp
+TOTTPointLookoutEdition.esp
+YearlingsGlasses.esp
+MaxLevelWorkaround-BS.esp
+Max Level 99 V2.esp
+QZ No VATS Radial Blur.esp
+no blur on hit.esp
+Advanced Visionary Effects.esp
+=Extreme+Close=DOF1.1.esp
+=Extreme+Far=DOF1.1.esp
+=Extreme+Very Far=DOF1.1.esp
+=Insane+Close=DOF1.1.esp
+=Insane+Far=DOF1.1.esp
+=Insane+Very Far=DOF1.1.esp
+=Medium+Close=DOF1.1.esp
+=Medium+Far=DOF1.1.esp
+=Medium+Very Far=DOF1.1.esp
+=Strong+Close=DOF1.1.esp
+=Strong+Far=DOF1.1.esp
+=Strong+Very Far=DOF1.1.esp
+=Subtle+Close=DOF1.1.esp
+=Subtle+Far=DOF1.1.esp
+=Subtle+Very Far=DOF1.1.esp
+=Extreme=MotionBlur1.1.esp
+=Insane=MotionBlur1.1.esp
+=Medium=MotionBlur1.1.esp
+=Strong=MotionBlur1.1.esp
+=Subtle=MotionBlur1.1.esp
+krzymar-MoonSize_040%.esp
+krzymar-MoonSize_060%.esp
+krzymar-MoonSize_120%.esp
+krzymar-MoonSize_080%.esp
+krzymar-MoonSize_200%.esp
+krzymar-MoonSize_160%.esp
+krzymar-MoonSize_300%.esp
+krzymar-MoonSize_400%.esp
+krzymar-MoonSize_500%.esp
+V.A.T.S. Depth of Field v1.0.esp
+CASM.esp
+Fallout Safe Exit v1.1.esp
+ASU.esp
+CRAFT - Activation Perk.esp
+: CRAFT.ESM
+CRAFT -Zeta -  Activation Perk.esp
+: CRAFT.ESM
+CRAFT - Workbench and Crafting Expansion combined.esp
+: CRAFT.esm
+TinCanCRAFTing.esp
+CRAFT - EnergyAmmo.esp
+CALIBRxMerchant.esp
+: CALIBR.ESM
+DelayAnchorage.esp
+: Anchorage.ESM
+DelayThePitt.esp
+: ThePitt.ESM
+DelaySteel.esp
+: BrokenSteel.ESM
+delaypl.esp
+: PointLookout.ESM
+delayzeta.esp
+: Zeta.ESM
+Delay ThePitt + Anchorage.esp
+: ThePitt.ESM
+: Anchorage.ESM
+More Hotkeys.esp
+QuickClothes.esp
+Console Key Binder.esp
+Princess Better Prompts v1pt1.esp
+PCIdles.esp
+Arwen_Camera.esp
+Vanity Camera Mod.esp
+KTs_Centercamera.esp
+Centered 3P Cam.esp
+Overhead3PCamera.esp
+ROTS2.esp
+ROTS3.esp
+Zumbs' Equipable Pip Boy.esp
+" That Glove.esp
+" Pip Boy Be Gone Mark II.esp
+" Pip Boy Be Gone Mark II 1.1.esp
+" PipBegone.esp
+" PipBoyBeGone.esp
+" 1PipboyPDA.esp
+Zumbs'_Overhauled_Real_Time_Security.esp
+LongerDeathCamera.esp
+DK_BulletTime.esp
+? DO not use with latest FWE, it is already integrated.
+Sprint Mod.esp
+? DO not use with latest FWE, it is already integrated.
+Auto Aim Fix v1.1.esp
+? DO not use with latest FWE, it is already integrated.
+KHWeaponscanner.esp
+? DO not use with latest FWE, it is already integrated.
+Alternate Start - Roleplayers.esp
+? DO not use with latest FWE, it is already integrated.
+Selected Containers Respawn.esp
+? DO not use with latest FWE, it is already integrated.
+Precision_AutoAim_6000.esp
+AlternateEnding.esp
+Zombie Sounds V2.esp
+choose_XP_FOSE.esp
+RH_IronSights_Basic_VanillaPlugin.esp
+RH_IronSights_Basic_PittPlugin.esp
+RH_IronSights_Basic_PointLookoutPlugin.esp
+1alexscorpionFPSanimations.esp
+OneKeyArmor.esp
+Automated FOV.esp
+Lights.esp
+LightBall.esp
+Feng Shui.esp
+Feng Shui - Keymap Template.esp
+PAL - MERGED.esp
+" PAL - BASE File.esp
+PAL - BASE File.esp
+" PAL - MERGED.esp
+PAL - Operation Anchorage.esp
+: Anchorage.esm
+PAL - The Pitt.esp
+: ThePitt.esm
+PAL - Broken Steel.esp
+: BrokenSteel.esm
+PAL - Point Lookout.esp
+: PointLookout.esm
+PAL - Mothership Zeta.esp
+: Zeta.esm
+Achievements for All.esp
+Achievements for All - Anchorage.esp
+: Anchorage.esm
+Achievements for All - The Pitt.esp
+: ThePitt.esm
+Achievements for All - Broken Steel.esp
+: BrokenSteel.esm
+Achievements for All - Point Lookout.esp
+: PointLookout.esm
+PCB.esp
+\EndGroup\\
+
+
+\BeginGroup\\ Sounds
+\-----------
+GeneratorSound.esp
+Moshman's Wasteland Ambiance.esp
+GalaxyNewsRadioFix[S].esp
+" GalaxyNewsRadioXXX[M].esp
+Radio Active.esp
+GalaxyNewsRadio100[M].esp
+" GalaxyNewsRadioXXX[M].esp
+GalaxyNewsRadio80[M].esp
+" GalaxyNewsRadioXXX[M].esp
+GalaxyNewsRadio60[M].esp
+" GalaxyNewsRadioXXX[M].esp
+GalaxyNewsRadio40[M].esp
+" GalaxyNewsRadioXXX[M].esp
+GalaxyNewsRadio20[M].esp
+" GalaxyNewsRadioXXX[M].esp
+GNR-MWTCF BS.esp
+ArefuExpandedByAzar-Radio.esp
+RadioBlues.esp
+WAR_radio.esp
+People_Radio.esp
+InvasionRadio.esp
+KBATRadio.esp
+VTAP25.esp
+GhostRadio.esp
+mutantradio.esp
+LookoutRadio.esp
+RadioTenpenny.esp
+We Jazz.esp
+GNR Fix.esp
+ReneersRadioMod.esp
+? Do not use with latest FOOK2, it is already integrated.
+Radio Stutter fix.esp
+? Load RadioHotkey after all other radio mods
+RadioHotkey.esp
+RadioHotkey_RadioBluesAddon.esp
+IPip.esp
+\EndGroup\\
+
+
+\BeginGroup\\ Early Misc A
+\-----------
+ReloadAmmo.esp
+Consistent Books.esp
+RemoteControlCompanionsPlus.esp
+CONELRAD 640-1240.esp
+Existence2.0.esp
+UPP - Pack 1.esp
+UPP - Pack 2.esp
+UPP - Original Perks.esp
+UPP - Experience Perks.esp
+UPP - Quest Perks.esp
+UPP  - Quest Perks.esp
+UPP - Beverage Perks.esp
+PreWar Book Titles and Perks.esp
+Perk Revamp Mod - Broken Steel - Perks Only.esp
+AccuracyPerks.esp
+Dree Perks.esp
+Dree Perks Anchorage.esp
+Dree Perks Pitts.esp
+Dree Perks Broken Steel.esp
+Dree Perks Point Lookout.esp
+Dree Perks Mothership Zeta.esp
+Dree Perks Requested by Fans .esp
+Combat Style Perks.esp
+BookPerks.esp
+BookPerkBarterMOD.esp
+VDSP-01.esp
+implants.esp
+Cyber-Enhancements.esp
+PRFEW.esp
+SRFBG.esp
+PointLookOutGoodies.esp
+Double Perks.esp
+Double Perks Half.esp
+goat_perks.esp
+Bicurious.esp
+gender perks unlocked.esp
+Makes Sense Bounty Hunter 0.91.esp
+Ice Cold Nuka, Converted.esp
+: BrokenSteel.esm
+Almost Perfect Anytime Bobbleheads + No Level.esp
+: BrokenSteel.esm
+Almost Perfect Anytime Bobbleheads.esp
+: BrokenSteel.esm
+Perfectly SPECIAL + No Level.esp
+: BrokenSteel.esm
+Perfectly SPECIAL.esp
+: BrokenSteel.esm
+\EndGroup\\
+
+
+\BeginGroup\\ Quests
+\-----------
+NotSoFast.esp
+% {{BASH: Scripts}}
+NotSoFastFOOK.esp
+HeirApparent.esp
+% {{BASH: Scripts}}
+HeirApparentFOOK.esp
+IntoTheDeepWoods.esp
+% {{BASH: Scripts}}
+PLweightadjust.esp
+% {{BASH: Scripts,Stats}}
+: PointLookout.ESM
+PLFewerItems.esp
+: PointLookout.ESM
+The Mantis Imperative - Mantis.esp
+% {{BASH: Relev}}
+The Mantis Imperative - Jello.esp
+The Mantis Imperative - XP.esp
+The Mantis Imperative - SkillBooks.esp
+The Mantis Imperative - Medical.esp
+The Mantis Imperative - Combat.esp
+AReasonedArgument.esp
+MegatonContracts.esp
+Regulators.esp
+" Regulators_Overhaul.esp
+" Regulators _Overhaul_lvl7.esp
+" Regulators _Overhaul_lvl2.esp
+Regulators_Overhaul.esp
+" Regulators.esp
+" Regulators _Overhaul_lvl7.esp
+" Regulators _Overhaul_lvl2.esp
+Regulators _Overhaul_lvl7.esp
+" Regulators_Overhaul.esp
+" Regulators.esp
+" Regulators _Overhaul_lvl2.esp
+Regulators _Overhaul_lvl2.esp
+" Regulators_Overhaul.esp
+" Regulators _Overhaul_lvl7.esp
+" Regulators.esp
+A Trail of Crumbs.esp
+The Librarian.esp
+firelance-quest.esp
+TriggerFirelance.esp
+lamplight secrets.esp
+AQFH_C_103.esp
+MX_Vault74_eng.esp
+MX_Vault74fix.esp
+Jury Street.esp
+The Bunker.esp
+Devoured in Darkness.esp
+Darkness.esp
+EIP.esp
+: BrokenSteel.esm
+\EndGroup\\
+
+
+\BeginGroup\\ Early Misc B
+\-----------
+0rb_BookSet1.esp
+0rb_ComicPack1.esp
+Megaton Tweaks - Snipers Edition.esp
+BetterHitSquads.esp
+MegatonScavengers.esp
+Not alone in the Wasteland anymore.esp
+FemaleEnclaveSoldiers - Broken Steel.esp
+BoSPatrols.esp
+SteelWPatrolV_1.esp
+MarkB50K_Wasteland_Patrols.esp
+: Anchorage.ESM
+: ThePitt.ESM
+: BrokenSteel.ESM
+: PointLookout.esm
+MarkB50K_Dynamic_Missions.esp
+: Anchorage.ESM
+: BrokenSteel.ESM
+FF_DestructibleRadios.esp
+% {{BASH: Destructable}}
+MiniVaultNoScav.esp
+Ammo Bench - Alien Power Cell.esp
+Ammo Bench - Artisan.esp
+Ammo Bench - CRAFT Plugin.esp
+Ammo Bench - CALIBR.esp
+Ammo Bench - Car Mechanic.esp
+Ammo Bench - Old Ammo-Benches.esp
+Ammo Bench - Toolkit Retex.esp
+Ammo Bench - Scattered Schematics.esp
+Angry Scientists.esp
+% {{BASH: Invent}}
+DN_RecyclingMachine.esp
+Explosive Entry.esp
+MrLabTechnician.esp
+MrLabTechnician - FWE.esp
+% {{BASH: Deflst,Delev}}
+SelfSurgeryKit.esp
+% {{BASH: Relev}}
+RobCo Universal Battery Charger Kit.esp
+" RobCo Universal Battery Charger Kit - Zeta.esp
+RobCo Universal Battery Charger Kit - Zeta.esp
+" RobCo Universal Battery Charger Kit.esp
+Rude Awakening.esp
+Rude Awakening - MMM.esp
+tubRRCompound.esp
+RTS NW - Volume 1st.esp
+RTS NW - Volume 2nd.esp
+RTS NW - Volume 3rd.esp
+rockville.esp
+Stealth Kills Enabled.esp
+Stealth Kills Enabled - Pitt Compatibility.esp
+SCC - Talk to Anyone.esp
+SCC Armor.esp
+Echo_BatteryCharger.esp
+HouseholdWaterPurifier.esp
+PortableMattress.esp
+Portable Distilling Lab.esp
+PortableCampStuff.esp
+PortableCampStuff - CRAFT.esp
+Sack of Holding.esp
+BlackWolf Backpack.esp
+BlackWolf Backpack - Vendor Script Replenish.esp
+BlackWolf Backpack - Vanilla Big Guns Fix.esp
+BlackWolf Backpack - Anchorage Gauss Rifle Fix.esp
+BlackWolf Backpack - Zeta Drone Cannon Fix.esp
+Blank's Container Backpack (BlackWolf Backpack Plugin).esp
+BlackWolf Backpack - Blank's Container Patch.esp
+Backpacks - SedPL.esp
+GunnySack.esp
+JSbackpack.esp
+SS OTS Camera FOSE.esp
+1Animated Nightvision goggles.esp
+Binoculars.esp
+Binoculars and Scopes.esp
+SniperZooming.esp
+ZoomReworked.esp
+Directional PipLight.esp
+Directional PipLight HDR.esp
+Expanded Megaton House V3.esp
+Expanded Megaton House V3-No Stove.esp
+MegatonBasement.esp
+JB-MegatonHouse_v1.0.esp
+Princess Tenpenny Home Extension.esp
+Tenpenny_Expansion.esp
+JHBNewHouse.esp
+Transporter.esp
+Forge.esp
+LurkTank.esp
+LurkTank_v2.esp
+LurkTank_v2_meg_door_corner.esp
+LurkTank_v2_Meg_Upstairs.esp
+MaintenanceShed.esp
+HomesteadMotelSuite.esp
+UrgeWashingtonBoS.esp
+merc.esp
+D.C. Confidential.esp
+? Choose only one 'D.C. Confidential' ESP.
+D.C. Confidential with Glow.esp
+? Choose only one 'D.C. Confidential' ESP.
+RR No Vault 1 Protectrons.esp
+RRWastelandPosters.esp
+RR Vanilla Companion Integration.esp
+RRUmpaDance.esp
+RR Companion Vault 20thCW Supply.esp
+RRSorter100_20thCentury.esp
+RR_Refurbished.esp
+RZW_SlotMachine.esp
+ShadySands.esp
+% {{BASH: Factions,Relations}}
+BM22CelestialSphere.esp
+Twinkies.esp
+MoreMapMarkers.esp
+rockopolisandabandonedtentmapmarker.esp
+MaxLevelWorkaround-HP-BS.esp
+WastelandMastery.esp
+SkillCheck.esp
+BA_InventorySorterVanilla.esp
+% {{BASH: Names}
+AmmoSorter - Start.esp
+% {{BASH: Names}}
+AmmoSorter - End.esp
+% {{BASH: Names}}
+Scenic_Loading_Background.esp
+% {{BASH: Graphics}}
+Scenic_Loading_Background_PointofLookoutDLC.esp
+% {{BASH: Graphics}}
+: PointLookout.esm
+Scenic_Loading_Background_OperationAnchorageDLC.esp
+% {{BASH: Graphics}}
+: Anchorage.esm
+Treasure Maps_Underground.esp
+Treasure Maps_Secrets of the Wasteland.esp
+Treasure Maps_Bobblehead Edition.esp
+Treasure Maps_A Fist Full of Caps.esp
+Destruction - Main.esp
+% {{BASH: Destructable,Scripts,Graphics}}
+Destruction - Main - Statics.esp
+Destruction - DLC.esp
+% {{BASH: Destructable,Scripts}}
+Destruction - DLC - Statics.esp
+DESTRUCt61SP.ESP
+Classic Fallout Weapons BETA.esp
+BusworldV1.05.esp
+? Possible cause of CTDs, try disabling to test for improvments, or try BusworldV1.05noexpl.esp
+BusworldV1.05noexpl.esp
+BusworldV1.05d.esp
+FPS Grenade Hotkey.esp
+? Do not use with latest FOOK2/FWE, it is already integrated.
+FPS Grenade Hotkey - Zeta addon.esp
+? Do not use with latest FOOK2/FWE, it is already integrated.
+Melee Lock-On.esp
+NoKnockedOverComments.esp
+bzArmour.esp
+bzArmour-nude.esp
+bzArmour-non-nude.esp
+bzBodySuits.esp
+R18BodyPack.esp
+APReanimated.esp
+Mannequin.esp
+Slof's Boners!.esp
+ARTNightVision.esp
+ARTNightVision-No AP drain.esp
+ARTNightVision-Energy Cell.esp
+BM08RandomBobbleheadsFixed.esp
+DriveableMotorCycle.esp
+CMRS - Vanilla.esp
+CMRS - Anchorage.esp
+CMRS - The Pitt.esp
+CMRS - Broken Steel.esp
+CMRS - Point Lookout.esp
+CMRS - Mothership Zeta.esp
+CMRS - 20th Century Weapons.esp
+CMRS - Rebalanced Junk.esp
+BA_WRM.esp
+BA_WRM_ALT.esp
+\EndGroup\\
+
+
+\BeginGroup\\ NPC
+\-----------
+NPC Height Randomizer.esp
+NPC Height Randomizer Less Variance.esp
+CrowdedCities_v2.esp
+" CrowdedCities_v2_lessNPCs.esp
+CrowdedCities_v2_lessNPCs.esp
+" CrowdedCities_v2.esp
+MTC Wasteland Travellers.esp
+MTC Wasteland Travellers (Optional)- Crowded Cities less NPCs.esp
+" MTC Wasteland Travellers (Optional)- Crowded Cities.esp
+MTC Wasteland Travellers (Optional)- Crowded Cities.esp
+" MTC Wasteland Travellers (Optional)- Crowded Cities less NPCs.esp
+MTC MoreGuardsInBigTown.esp
+Clover Makeover - Asian Bedraggled.esp
+Ghoulified Cromwell.esp
+Angel.esp
+EZ_MoreVoices.esp
+EZ_TempleOfCant.esp
+EZ_Ammo_Restriction.esp
+EZ_citizens.esp
+Clothed Sarah Lyons - Sleepwear.esp
+Named Wasteland.esp
+% {{BASH: Names}}
+NPCs Sleep Tighter.esp
+royphilipsevil.esp
+% {{BASH: Actors.ACBS,Actors.AIData}}
+royphilipsveryevil.esp
+% {{BASH: Actors.ACBS,Actors.AIData}}
+royphilipsveryevilwmask.esp
+% {{BASH: Actors.ACBS,Actors.AIData}}
+royphilipsevilwmask.esp
+% {{BASH: Actors.ACBS,Actors.AIData}}
+\EndGroup\\
+
+
+\BeginGroup\\ Places
+\-----------
+HiVE.esp
+UNDCity.esp
+Arefu Player House.esp
+" ArefuExpandedByAzar.esm
+01AtM - Firefly Ranch.esp
+MiniHideout.esp
+SShop.esp
+UndergroundHideout.esp
+Ashur's Palace Player room.esp
+UrgeSpringvaleHome.esp
+Cliff's_Residences Of DC - Player Version.esp
+K2_PlayWearClub.esp
+DCInteriors_ComboEdition.esp
+DCInteriors_Georgtown.esp
+DCInteriors_SewardSq.esp
+DCInteriors_Mason.esp
+DCInteriors_LEnfntPl.esp
+DCInteriors_DLC_Collectables.esp
+WIP_BigTown.esp
+Trophies - Megaton.esp
+Trophies- Tenpenny.esp
+Rivet City Realignment.esp
+Wadsworth-Prewar.esp
+RedTricycleBoot.esp
+MiniServants.esp
+After War.esp
+ClutterFreeWorld.esp
+megaton_lighting.esp
+B.B.G.esp
+Megaton Tweaks 1.28 (no podium).esp
+Megaton Tweaks 1.28.esp
+Megaton Park.esp
+Megaton House and Theme Overhaul.esp
+Megaton Walkway.esp
+Sandstorm.esp
+TpWasteThemeMod.esp
+Carter_Fallout_Shelter.esp
+ParadiseHomePlugin.esp
+Vault64.esp
+Toasty's Rooved Megaton, Holey Light.esp
+Tenpenny Suite.esp
+B72v3-03.esp
+: Bunker72 v3.esm
+B72v3 Clutterfree.esp
+: Bunker72 v3.esm
+B72v3 Mainelevator timerswitch.esp
+: Bunker72 v3.esm
+Hot n Dusty.esp
+Greenerworld.esp
+GreenWorld.esp
+Madhswasteland.esp
+AbandonedShack.esp
+RuinedOutposts.esp
+motelPL.esp
+AbramsOverpassTent.esp
+Death Canyon v3.esp
+FIN-NWSeneca.esp
+Fallin3 South East Wasteland.esp
+Mole Rat Maze.esp
+OutlookPoint.esp
+Pylon Home.esp
+Republic of Dave House.esp
+OakleyRidge1_1.esp
+MovinOnUp3.0.esp
+SecuredBarn.esp
+TheRaiderHut.esp
+Simple Camp.esp
+Ghoul Mansion v3.esp
+Ghoul Mansion v3.1.esp
+Kaza's NorthwestSeneca.esp
+Meresti Metro Station Entrance.esp
+BigTown - Outskirts.esp
+PeachCreekRuins.esp
+scraphideST.esp
+Talon Outpost Expansion - Megaton.esp
+BusInWilderness.esp
+LookoutPointCamp.esp
+AndaleHouse.esp
+VulturesRest.esp
+potomac home.esp
+Talon Outpost Expansion - Rivet City.esp
+Rivet City Underworks 1.1.esp
+Princess Rivet City House FIXED.esp
+Rivetcityhotelupgrade.esp
+Better Museum of History EN.esp
+Underworld Underground.esp
+UnderWorld House.esp
+LevelersChamber.esp
+Submarine Wreck.esp
+GameForWilks.esp
+rivet city 2.esp
+Rivet City Apartment.esp
+The town of girdershade.esp
+shopping-spree.esp
+CanterburyCommonsEmbiggened.esp
+Talon Outpost Expansion - Canterbury Commons.esp
+CanterburyCommonsInteriors.esp
+JL121RCAltDoor.esp
+Canterbury Boomtown.esp
+csxBlastwaveRider.esp
+ranger den.esp
+Museum Station Bunker - 3.esp
+Riverside Apartments.esp
+YevicsUrbanTownhome.esp
+Princess Big Blue House.esp
+Talon Outpost Expansion - Arlington.esp
+Talon Outpost Expansion - Takoma.esp
+Takoma Bank.esp
+Jury Street Metro Station Shelter.esp
+CEI - CaesarrulezExcessiveInteriorsEN.esp
+Built For The Future.esp
+AliciasCuteShopDoorOverride.esp
+MiniVault+.esp
+99+2.esp
+CEH_DLC02_03_Opt.esp
+CEH_DLC04_05_Opt.esp
+CEH_S_241J_Opt.esp
+CEH_Shojo_07_Opt.esp
+Cotozic'sVaultHomeGlobalPatch.esp
+The Yard V1.3.esp
+The Yard v1.3 - Games Theme.esp
+The Yard V1.6 - The Lab.esp
+The Yard V1.5 - The Lab - No Items.esp
+Underground Home.esp
+PersonalVertibird.esp
+FLAK.esp
+MyMansion.esp
+RockopolisRebuilt.esp
+Aghatas house v0.3.esp
+megbunker.esp
+RobotFacility.esp
+Meet the Devs.ESP
+MegatonWeapons.esp
+\EndGroup\\
+
+
+\BeginGroup\\ Overhauls
+\-----------
+
+
+\BeginGroup\\ FOOK
+\-----------
+FOOK2 - Main.esp
+% {{BASH: Delev,Relev}}
+: CALIBR.ESM and FOOK2 - Main.ESM
+PB FOOK2 - Main.esp
+FOOK2 - Project Beauty.esp
+FOOK2 - [EVE] Energy Visuals Enhanced.esp
+: FOOK2 - Main.ESM
+* Remove if using FOOK2 1.1 and above
+FOOK2 - [DIK] DLC Improvement Kit.esp
+: Anchorage.ESM
+: ThePitt.ESM
+: BrokenSteel.ESM
+: PointLookout.esm
+: CALIBR.ESM
+: and FOOK2 - Main.ESM
+PB FOOK2 [DIK].esp
+FOOK2 - Mothership Zeta.esp
+: FOOK2 - Main.ESM and Zeta.ESM
+FOOK2 - DIK - Project Beauty.esp
+FOOK2 - Main [Hotfix].esp
+* Please update to FOOK2 1.1 Open Beta 2
+FOOK2 - DIK [Hotfix].esp
+* Please update to FOOK2 1.1 Open Beta 2
+FOOK2 Main [Hotfix].esp
+FOOK2 DIK [Hotfix].esp
+MyFOOK2 - Color Tranquility Lane.esp
+* Remove if using FOOK2 1.1 and above
+MyFOOK2 - No Nightvision on Power Helmets.esp
+: FOOK2 - Main.ESM
+* Remove if using FOOK2 1.1 and above
+MyFOOK2 - No RAPE Victims.esp
+: FOOK2 - Main.ESM
+* Remove if using FOOK2 1.1 and above
+MyFOOK2 - S.H.A.D.E.esp
+: FOOK2 - Main.ESM
+* Remove if using FOOK2 1.1 and above
+MyFOOK2 - Black & White Tranquility Lane.esp
+: FOOK2 - Main.ESM
+* Remove if using FOOK2 1.1 and above
+FOOK2 - [DESTRUCTION] Main.esp
+% {{BASH: Destructable,Scripts}}
+: FOOK2 - Main.ESM
+FOOK2 - [DESTRUCTION] Main - Statics.esp
+: FOOK2 - Main.ESM
+FOOK2 - [DESTRUCTION] DIK.esp
+% {{BASH: Destructable,Scripts}}
+: Anchorage.ESM
+: ThePitt.ESM
+: BrokenSteel.ESM
+: PointLookout.esm
+: CALIBR.ESM
+: and FOOK2 - Main.ESM
+FOOK2 - [DESTRUCTION] DIK - Statics.esp
+: Anchorage.ESM
+: ThePitt.ESM
+: BrokenSteel.ESM
+: PointLookout.esm
+: CALIBR.ESM
+: and FOOK2 - Main.ESM
+FOOK2 - [DESTRUCTION] Mothership Zeta.esp
+% {{BASH: Destructable,Scripts}}
+: FOOK2 - Main.ESM and Zeta.ESM
+FOOK2 - [DESTRUCTION] Mothership Zeta - Statics.esp
+: FOOK2 - Main.ESM and Zeta.ESM
+DESTRUCt61f0k2.ESP
+FOOK2 - Main Level Up Fix 1.3.esp
+FOOK2 - DIK Level Up Fix 1.3.esp
+[DIK] DLC Transition Hotfix.esp
+RRSorter100_FOOK2.esp
+FPS Grenade Hotkey - FOOK2.esp
+* Remove if using FOOK2 1.1 and above
+FPS Grenade Hotkey - FOOK2 DIK.esp
+* Remove if using FOOK2 1.1 and above
+FOOK2 - DUI Grenade Fix for 11 Open Beta.esp
+Sally Fix 2.esp
+GSoS - FOOK2 Open Beta - Combat and Sneaking Overhaul.esp
+* Old, please update to the latest version
+GSoS - FOOK2 Open Beta - CaSO.esp
+GSoS - CaSO - BS Fix.esp
+CaSO - Project Beauty.esp
+GSoS - FOOK2 Open Beta - XP Tag Perks.esp
+* Old, please update to the latest version
+GSoS - FOOK2 Open Beta - XP.esp
+GSoS - FOOK2 Open Beta - Tag.esp
+GSoS - FOOK2 Open Beta - Stimpaks Revamp.esp
+GSoS - FOOK2 Open Beta - Stimpaks Revamp v1.esp
+GSoS - FOOK2 Open Beta - Stimpaks Revamp v2.esp
+GSoS - Speed.esp
+GSoS - FOOK2 Open Beta - Perks.esp
+GSoS - Bed Heal Tweak.esp
+GSoS - Portable Water Purifier.esp
+GSoS - B-Head Effects B-Gone.esp
+GSoS - Car Explosions.esp
+\EndGroup\\
+
+
+\BeginGroup\\ Fallout Wanderer's Edition
+\-----------
+FO3 Wanderers Edition - Main File.esp
+% {{BASH: Deflst,Delev,Relev}}
+FO3 Wanderers Edition - DLC Anchorage.esp
+% {{BASH: Deflst}}
+FO3 Wanderers Edition - DLC The Pitt.esp
+FO3 Wanderers Edition - DLC Broken Steel.esp
+FO3 Wanderers Edition - DLC Point Lookout.esp
+% {{BASH: Relev,Delev}}
+FO3 Wanderers Edition - DLC Mothership Zeta.esp
+FO3 Wanderers Edition - UFP Support.esp
+FO3 Wanderers Edition - Alternate Travel.esp
+FO3 Wanderers Edition - Lvl 30 High Skills.esp
+FO3 Wanderers Edition - Lvl 30 Balance.esp
+" FO3 Wanderers Edition - Lvl 30 More Skills.esp
+FO3 Wanderers Edition - Lvl 30 More Skills.esp
+" FO3 Wanderers Edition - Lvl 30 Balance.esp
+FO3 Wanderers Edition - Followers Enhanced.esp
+" FO3 Wanderers Edition - Followers Enhanced (BrokenSteel).esp:
+FO3 Wanderers Edition - Followers Enhanced (BrokenSteel).esp
+" FO3 Wanderers Edition - Followers Enhanced.esp
+FO3 Wanderers Edition - Optional Free Play After MQ.esp
+" BrokenSteel.esm
+FO3 Wanderers Edition - Optional Free Play After Mainquest.esp
+" BrokenSteel.esm
+FO3 Wanderers Edition - Optional No Fast Travel.esp
+" FO3 Wanderers Edition - Alternate Travel.esp
+FO3 Wanderers Edition - Optional Restore Tracers.esp
+FO3 Wanderers Edition - Optional VATS Halftime.esp
+FO3 Wanderers Edition - Optional VATS Realtime.esp
+FO3 Wanderers Edition - Optional Harsher Wasteland.esp
+FO3 Wanderers Edition - Optional Worn Weapons.esp
+% {{BASH: Delev,Relev}}
+FO3 Wanderers Edition - Optional Restore Tracers (automatics only).esp
+FWE - Weightless Ammo.esp
+FO3 Wanderers Edition - FOOK Support.esp
+? Check for updates; you may have the old version installed.
+FaceMe-FWE.esp
+DarNifiedUIF3_FWE.esp
+? Do not use with latest FWE, it is already integrated.
+Refurbish [OA] - FWE.esp
+FO3 Wanderers Edition - Project Beauty.esp
+FO3 Wanderers Edition - Project Beauty (Followers Enhanced B-S).esp
+FO3 Wanderers Edition - Project Beauty (HD Addition).esp
+: Project Beauty HD version.esm
+" Project Beauty.esp
+FO3 Wanderers Edition - Project Beauty (Followers Enhanced).esp
+Return to Shady Sands - FWE weapons rebalance.esp
+\EndGroup\\
+
+
+\BeginGroup\\ Other
+\-----------
+Refurbishes [ALL].esp
+? Do not use with latest FOOK2, it is already integrated.
+Refurbish [OA].esp
+? Do not use with latest FOOK2, it is already integrated.
+" Refurbishes [ALL].esp
+Refurbish [TP].esp
+? Do not use with latest FOOK2, it is already integrated.
+" Refurbishes [ALL].esp
+Refurbish [BS].esp
+? Do not use with latest FOOK2, it is already integrated.
+" Refurbishes [ALL].esp
+Refurbish [PL].esp
+? Do not use with latest FOOK2, it is already integrated.
+" Refurbishes [ALL].esp
+Refurbish [MZ].esp
+? Do not use with latest FOOK2, it is already integrated.
+" Refurbishes [ALL].esp
+\EndGroup\\
+\EndGroup\\ Overhauls
+
+
+\BeginGroup\\ Tailor Maid
+\-----------
+Tailor Maid.esp
+Tailor Maid Anchorage.esp
+: Anchorage.ESM
+Tailor Maid PITT.esp
+: ThePitt.ESM
+Tailor Maid Brokensteel.esp
+: BrokenSteel.ESM
+Tailor Maid ZETA.esp
+: Zeta.ESM
+Tailor Maid Black Retex.esp
+\EndGroup\\
+
+
+\BeginGroup\\ WeaponModKits
+\-----------
+WeaponModKits.esp
+WeaponModKits - FOOK.esp
+WeaponModKits - FWE Master Release.esp
+% {{BASH: Deflst,Relev}}
+WeaponModKits - FWE Optional Worn Weapons.esp
+% {{BASH: Delev}}
+WeaponModKits - OperationAnchorage.esp
+: Anchorage.ESM
+WeaponModKits - ThePitt.esp
+: ThePitt.ESM
+WeaponModKits - BrokenSteel.esp
+: BrokenSteel.ESM
+WeaponModKits - PointLookout.esp
+: PointLookout.ESM
+WeaponModKits - Zeta.esp
+: Zeta.ESM
+WeaponModKits - DIK.esp
+WeaponModKits - Scope Increases VATS Accuracy.esp
+\EndGroup\\
+
+
+\BeginGroup\\ Weapons
+\-----------
+BRUTE_GunKnockdownsSpecialScriptedEditionTHEPOINT.esp
+BRUTE_GunKnockdownsSpecialScriptedEditionANCHORAGE.esp
+BRUTE_GunKnockdownsSpecialScriptedEditionTHEPITT.esp
+Echo_UseBothGloves.esp
+jmschematics - CRAFT.esp
+Hi-Res Weapons & Ammo Textures - The Pitt.esp
+Hi-Res Weapons & Ammo Textures.esp
+Reykjavik.esp
+Remote Bottlecap Mines ADVANCED.esp
+Glock 86 Plasma Pistol (scoped).esp
+P94 Plasma Rifle.esp
+YK42B Pulse Rifle.esp
+Wattz Laser Weapons Mod.esp
+SnakesBandana.esp
+Tactical Weapons-Calibr-V3.esp
+Akira - Simple Silenced SMG.esp
+AsharasBatmanItems.esp
+GaussCompleteBeta.esp
+ColtM4Carbines.esp
+7_HolsterForHandGunsV1_1.esp
+Wattz Laser Pistols Mod.esp
+WMKAA12Shotgun.esp
+% {{BASH: Graphics}}
+HZ_M92SE.esp
+Kneecapper Linked.esp
+Solar-Scorcher.esp
+10mmReplacer.esp
+Wealisitc Wifles.esp
+joefoxx Gun Mod v1.0 Normal Tracers.esp
+Tactical Weapons by gRs Frederyck.esp
+SR25Rifle.esp
+DanWessonPPC357(CALIBR).esp
+18inchCSLatinMachete.esp
+P94-95.esp
+xCALIBRmunitions.esp
+xCALIBRmunitions_FOSEnhancements.esp
+ZL-ACR.esp
+ZL-ACRForFWE.esp
+Star Trek Tri-Beam Phaser.esp
+AER10V2 Laser Rifle.esp
+MPammo.esp
+VashDeagleV5.esp
+Wattz Laser Non Replacer Mod.esp
+F3RWPMolotovCocktail-0_1.esp
+Flashbangs.esp
+Weapon - Some Katanas.esp
+CS_ LightsaberQuest.esp
+CS_LightsaberQuest - Objectives Patch.esp
+ColtM4Carbines_RHIronSights.esp
+AsharasLightningItems.esp
+AMR-B04.esp
+ZL-SVD.esp
+ZL-SVD-CALIBR.esp
+ZL-MP5 Pack.esp
+Arms_dealer_V1.esp
+" RH_IRONSIGHTS.esm
+: CALIBR.esm
+A_D_Calibr_ammo.esp
+: Arms_dealer_V1.esp
+PlastekPrototypeRiflev1.esp
+Fallout3ProtoGun.esp
+ImmaFirinMahLazor.esp
+HZ_M14.esp
+MissingUniqueWeapons-Enhanced.
+cryolator.esp
+WinchesterModel1894Yellowboy.esp
+YK40 Pulse Pistol.esp
+\EndGroup\\
+
+
+\BeginGroup\\ Armor\Clothes
+\-----------
+1SB_VenomousArmor.esp
+Arcade'sNightwear.esp
+Jessica Outfit.esp
+Gantz stuff.esp
+Mantis07Reflex.esp
+3EFdrg.esp
+3EFdrgplate.esp
+3EFhelmlessstealthsuit.esp
+3EFwandererGear.esp
+Amy_Armor.esp
+AsharasFormalClothing.esp
+BodyJewelry.esp
+BodyJewelryEx.esp
+BoS_DX.esp
+% {{BASH: Graphics}}
+? Do not use with latest FOOK2, it is already integrated.
+? Old. Upgrade to latest version.
+BoSDX.esp
+% {{BASH: Graphics}}
+? Do not use with latest FOOK2, it is already integrated.
+WinterizedT51bDX.esp
+% {{BASH: Graphics}}
+? Do not use with latest FOOK2, it is already integrated.
+Outcast DX.esp
+% {{BASH: Graphics}}
+? Do not use with latest FOOK2, it is already integrated.
+Outcast DX - FWE patch.esp
+% {{BASH: Graphics}}
+: FO3 Wanderers Edition - Main File.esm
+Tribal_DX.esp
+% {{BASH: Deflst,Graphics}}
+? Do not use with latest FOOK2, it is already integrated.
+BoS_FOOKedition_Armor.esp
+% {{BASH: Graphics}}
+? Do not use with latest FOOK2, it is already integrated.
+BunnySuit.esp
+Cat Outfit Fanged.esp
+% {{BASH: Eyes}}
+? Use either 'Cat Outfit Fanged.esp' or 'Cat Outfit Only.esp', not both.
+Cat Outfit Only.esp
+% {{BASH: Eyes}}
+? Use either 'Cat Outfit Fanged.esp' or 'Cat Outfit Only.esp', not both.
+Colossus Outcast.esp
+colossus BOS.esp
+Colossus Headgear.esp
+Colossus Armor.esp
+COL Enclave VER2.esp
+% {{BASH: Graphics}}
+COL Enclave Hell.esp
+% {{BASH: Graphics}}
+COW-CustamArmor.esp
+: EnhancedChildren.esm
+: AliciasCuteShop.esm
+ClassicEnclaveAPA-german.esp
+ClassicEnclaveAPA-english.esp
+ClassicEnclaveAPA-Better-APA-german.esp
+ClassicEnclaveAPA-Better-APA-english.esp
+ClassicEnclaveAPA-Replacement-German.esp
+ClassicEnclaveAPA-Replacement-english.esp
+CSwimsuit_and_Harness_recolor.esp
+ChineseStealthArmorFixed.esp
+DIM TYPE3 conversions.esp
+DIM TYPE3clothesRETAIL.esp
+Bikini_Armor_TYPE3.esp
+Persona_and_Secret.esp
+Dark_Temptress.esp
+Dogmeat Leather Armor - CRAFT.esp
+Dogmeat Leather Armor - no crafting.esp
+Dragonskin Tactical Outfit.esp
+DragonskinBonusPack.esp
+Freebooter_Armor.esp
+FO3Ayumi.esp
+FO3Fate.esp
+FO3Moon.esp
+FO3Nami.esp
+FO3Tona.esp
+FO3Western.esp
+FO3-Closing-merged.esp
+" FO3Tona.esp
+" FO3Western.esp
+" FO3Ayumi.esp
+" FO3Fate.esp
+" FO3Moon.esp
+" FO3Nami.esp
+FrenchMaid.esp
+Ghostbodysuitv3.esp
+Hentai Mania.esp
+JillBSAA.esp
+Lookout Outfits.esp
+Micro Bikini and more recolors.esp
+MicroBikini.esp
+MicroBikini_recolour.esp
+MissingUniqueArmorClothing-Base.esp
+MissingUniqueArmorClothing-Enhanced-NSF.esp
+MissingUniqueArmorClothing-Enhanced.esp
+MissingUniqueArmorClothing-RenamerOnly.esp
+Mysteriouswoman_clothesaddon.esp
+OutFits.esp
+Prototype Medic Armor Upgrade.esp
+AdvancedReconGear.esp
+AdvReconEasierStealth.esp
+SchoolUniforms.esp
+Scout Outfits.esp
+StealthArmorHelmLess.esp
+Stealthboy Recon Armor - CRAFT.esp
+Tactical Vest CIRAS.esp
+Tesla Metal Armor (Extended).esp
+Testweapon Arms x Arms.esp
+Test-Weapon_additional armor.esp
+% {{BASH: Invent}}
+Testweapon_SP  MedicKuma-Spirits.esp
+TombRaider.esp
+Tonibiatch.esp
+Trooper_outfits.esp
+Wasteland and Bog Outfits.esp
+wasteland_mix1F.esp
+Yoko'sOutfits.esp
+ignis.esp
+kikaiEquipment.esp
+sunglassescollection.esp
+thongpack.esp
+FixedEyeglasses.esp
+ME2_Inferno Armor.esp
+FatherandNun.esp
+NoInvisArcadeIndustries_SweetSneak.esp
+InvisArcadeIndustries_SweetSneak.esp
+ACU Battle Armor.esp
+T3T_CombatArmorSleeves.esp
+TalonExtraArmor.esp
+K2Clothes_BrownLeather03.esp
+BABEreconarmor.esp
+Powered Power Armor.esp
+PPA - FWE.esp
+: FO3 Wanderers Edition - Main File.esm
+PPA - Super Human Jump Perk.esp
+: super_jump_perk.esp
+\EndGroup\\
+
+
+\BeginGroup\\ Cosmetics
+\-----------
+DIM CUSTOM PRESETS V1.3WEB.esp
+Sparkling Eyes.esp
+: HairPack.esm
+SparklingEyes for Eyelashes and HairPack Fix for MMM.esp
+: Sparkling Eyes.esp
+F3Eyelashes.esp
+_R_Tribals.esp
+\EndGroup\\
+
+
+\BeginGroup\\ Middle Misc A
+\-----------
+AS-R CALIBR Patch ONLY.esp
+CALIBR Ammo Schematics - CRAFT.esp
+Ammo_Schematics.esp
+: CRAFT.esm
+CRAFT Improvised Weaponry.esp
+CRAFT Improvised Weaponry - Unmodeled.esp
+CRAFT Improvised Weaponry - FOOK+FWE.esp
+: FOOK+FWE Merger
+Force Start The Pitt.esp
+Vault 87 [Script Reversion].esp
+jmschematics.esp
+Ballistics-ALL-MoreRealism.esp
+RealFragGrenade3.esp
+Ks_DynamicSneak.esp
+PHIG_SteadyAim.esp
+JHB House Robots Can Repair.esp
+Burnification.esp
+TL Freeze.esp
+TL [Color].esp
+Kick Dogmeat.esp
+Slof's Alsatian Dogmeat.esp
+IgDRDeathclawGauntletFix.esp
+KarmaRevampExtreme1010.esp
+ReneerInvisibleKarmaMod.esp
+Improved Turrets.esp
+Improved Turret Hacking.esp
+? Old. Upgrade to latest version.
+Improved Turret Hacking - BASE.esp
+" Improved Turret Hacking - ALL.esp
+Improved Turret Hacking - BS.esp
+" Improved Turret Hacking - ALL.esp
+Improved Turret Hacking - Pitt.esp
+" Improved Turret Hacking - ALL.esp
+Improved Turret Hacking - PL.esp
+" Improved Turret Hacking - ALL.esp
+Improved Turret Hacking - ALL.esp
+: ThePitt.ESM
+: BrokenSteel.ESM
+: PointLookout.esm
+" Improved Turret Hacking - BASE.esp
+" Improved Turret Hacking - BS.esp
+" Improved Turret Hacking - Pitt.esp
+" Improved Turret Hacking - PL.esp
+Improved Turret Reprogramming - BASE.esp
+" Improved Turret Reprogramming - ALL.esp
+Improved Turret Reprogramming - BS.esp
+" Improved Turret Reprogramming - ALL.esp
+Improved Turret Reprogramming - Pitt.esp
+" Improved Turret Reprogramming - ALL.esp
+Improved Turret Reprogramming - PL.esp
+" Improved Turret Reprogramming - ALL.esp
+Improved Turret Reprogramming - ALL.esp
+: ThePitt.ESM
+: BrokenSteel.ESM
+: PointLookout.esm
+" Improved Turret Reprogramming - BASE.esp
+" Improved Turret Reprogramming - BS.esp
+" Improved Turret Reprogramming - Pitt.esp
+" Improved Turret Reprogramming - PL.esp
+Childhood Beginning.esp
+: EnhancedChildren.esm
+CB Add-on.esp
+Childhood Beginning v3 Tweaks.esp
+: EnhancedChildren.esm
+Nova Interaction Revised.esp
+Menu Based Hacking & Picking.esp
+? DO not use with latest FWE, it is already integrated.
+PowerOfTheAtom_FOOKandFWE.esp
+AutomatScriptRemoved.esp
+UpgradedCaravanMerchants.esp
+\EndGroup\\
+
+
+\BeginGroup\\ EVE Stuff
+\-----------
+EVE Test Options.esp
+EVE Beta_0.9.4.esp
+? Upgrade needed, there is a new version of EVE available.
+EVE.esp
+% {{BASH: Graphics,Sound,Scripts}}
+EVE Operation Anchorage.esp
+% {{BASH: Graphics,Sound}}
+: Anchorage.ESM
+EVE Main - FWE Master Release.esp
+? May cause crashes at start. If so disable this and find updated version.
+EVE - FWE Master Release.esp
+% {{BASH: Graphics,Sound}}
+EVE - FWE Master Release (Follower Enhanced).esp
+% {{BASH: Graphics,Sound}}
+EVE Anchorage - FWE DLC Anchorage.esp
+% {{BASH: Graphics,Sound}}
+EVE - FWE with WeaponModKits.esp
+% {{BASH: Graphics,Sound}}
+CFWRloadlastEVE.esp
+\EndGroup\\
+
+
+\BeginGroup\\ Middle Misc B
+\-----------
+Companion Core DLC Addon.esp
+: Companion Core.esm
+: Anchorage.ESM
+: ThePitt.ESM
+: BrokenSteel.ESM
+: PointLookout.esm
+: Zeta.esm
+Wasteland Whisperer v2 Broken Steel Addon.esp
+: Wasteland Whisperer v2.esm
+Wasteland Whisperer.esp
+RobCo Certified v2 Version Updater.esp
+: RobCo Certified v2.esm
+RobCo Certified v2 Mechanist's Edition.esp
+: RobCo Certified v2.esm
+RobCo Certified v2 Zeta Addon.esp
+: RobCo Certified v2.esm
+RobCo Certified.esp
+RobCo Certified - Robot Perks.esp
+RobCo Storage Module.esp
+RobCo Certified Engineer.esp
+RobCo Certified Engineer - Storage Enabled.esp
+RobCo Certified Engineer - Storage Enabled Fix.esp
+BuildableBots v0.3a.esp
+RobCo Engineer - Robot Repair.esp
+Buildablebots Robcert. addon.esp
+MarcuzVanishingPiles_EVE_Add.esp
+: EVE.esp
+VanishingPiles.esp
+Salvagable cars.esp
+Salvagable cars_Smallbooms.esp
+NVG Activator Crash Fix [Experimental].esp
+WSG Improved.esp
+XPReward20Percent.esp
+ThePitt-NoFireFollowers.esp
+KickDogs.esp
+Replenishment.esp
+UWWUT.esp
+% {{BASH: Graphics}}
+" UWWUT_WT.esp
+UWWUT - The Pitt Addon.esp
+% {{BASH: Graphics}}
+: The Pitt.esm
+" UWWUT_WT - TP Addon.esp
+UWWUT - Broken Steel Addon.esp
+% {{BASH: Graphics}}
+: BrokenSteel.ESM
+" UWWUT_WT - BS Addon.esp
+UWWUT - WMK Addon.esp
+% {{BASH: Graphics}}
+" UWWUT_WT - WMK Addon.esp
+UWWUT_WT.esp
+% {{BASH: Graphics,Stats}}
+" UWWUT.esp
+UWWUT_WT - TP Addon.esp
+% {{BASH: Graphics,Stats}}
+: The Pitt.esm
+" UWWUT - The Pitt Addon.esp
+UWWUT_WT - BS Addon.esp
+% {{BASH: Graphics,Stats}}
+: BrokenSteel.ESM
+" UWWUT - Broken Steel Addon.esp
+UWWUT_WT - WMK Addon.esp
+% {{BASH: Graphics,Stats}}
+" UWWUT - WMK Addon.esp
+WeaponModKits-Unique.esp
+: WeaponModKits.esp
+% {{BASH: Graphics}}
+Less Useless Karma Gifts.esp
+% {{BASH: Relev,Delev}}
+Less Useless Karma Gifts 2.0.esp
+% {{BASH: Relev,Delev}}
+S.T.A.L.K.E.R. Call of D.C..esp
+S.T.A.L.K.E.R. MOD.esp
+ARSENAL MOD.esp
+Responsive Kill Reactions.esp
+ImmersiveHealth.esp
+ImmersiveHealth-LITE.esp
+Bottle That Water.esp
+{{BASH: Scripts}}
+AddBottle.esp
+? DO not use with latest FWE or RI - Primary Needs, it is already integrated.
+Persistent Skill Books.esp
+? DO not use with latest FWE, it is already integrated.
+VDSC.esp
+PlasmaWeaponsRedesignRebalance.esp
+% {{BASH: Graphics,Sound}}
+? DO not use with latest FWE, it is already integrated.
+PlasmaRifleRedesign.esp
+% {{BASH: Graphics,Sound}}
+? DO not use with latest FWE, it is already integrated.
+PlasmaRifleRedesign_A321only.esp
+% {{BASH: Graphics,Sound}}
+? DO not use with latest FWE, it is already integrated.
+PlasmaRifleRedesign_standardonly.esp
+% {{BASH: Graphics,Sound}}
+? DO not use with latest FWE, it is already integrated.
+PlasmaPistolRedesign.esp
+% {{BASH: Graphics,Sound}}
+? DO not use with latest FWE, it is already integrated.
+PostalProjectile.esp
+Water Bottles 3000.esp
+% {{BASH: Graphics,NoMerge,Deactivate}}
+schematics2.esp
+% {{BASH: Graphics,NoMerge}}
+Item Descriptions Img.esp
+% {{BASH: Graphics,NoMerge}}
+WYB-Base.esp
+WYB-DLC-Anchorage.esp
+WYB-DLC-ThePitt.esp
+WYB-DLC-BrokenSteel.esp
+WYB-DLC-PointLookout.esp
+WYB-DLC-Zeta.esp
+WYB-MOD-DCInteriors_Combo v2.5.esp
+WYB-OPT-WhiteCigarette.esp
+WYB-OPT-DynamicReplacer.esp
+Weld - Badge.esp
+% {{BASH: Graphics,Actors.Anims,Invent}}
+Weld - Badge and Hat.esp
+% {{BASH: Graphics,Actors.Anims,Invent}}
+Weld and Steel - Badges.esp
+% {{BASH: Graphics,Actors.Anims,Invent}}
+Weld and Steel - Badges, only Weld hat.esp
+% {{BASH: Graphics,Actors.Anims,Invent}}
+Deputy Weld and Steel - Badges and Hats.esp
+% {{BASH: Graphics,Actors.Anims,Invent}}
+Deputy Weld and Steel - Badges Steel Hat.esp
+% {{BASH: Graphics,Actors.Anims,Invent}}
+\EndGroup\\
+
+
+\BeginGroup\\ Mart's Mutant Mod
+\-----------
+Mart's Mutant Mod.esp
+% {{BASH: Delev}}
+: Mart's Mutant Mod.esm
+Mart's Mutant Mod - UF3P.esp
+% {{BASH: Invent}}
+PB MMM HD.esp
+* Old. Download the latest Project Beauty files.
+PB MMM.esp
+* Old. Download the latest Project Beauty files.
+Mart's Mutant Mod - DLC Anchorage.esp
+: Anchorage.ESM
+Mart's Mutant Mod - DLC The Pitt.esp
+% {{BASH: Delev}}
+: ThePitt.ESM
+Mart's Mutant Mod - DLC Broken Steel.esp
+% {{BASH: Delev,Relev}}
+: BrokenSteel.ESM
+Mart's Mutant Mod - UF3P - BS.esp
+: Mart's Mutant Mod - UF3P.esp
+Mart's Mutant Mod - DLC Point Lookout.esp
+% {{BASH: Delev,Relev}}
+: PointLookout.ESM
+Project Beauty- Point Lookout MMM.esp
+% {{BASH: NpcFaces,NoMerge,Deactivate}}
+Mart's Mutant Mod - DLC Zeta.esp
+: Zeta.ESM
+Mart's Mutant Mod - No Corpse Flies.esp
+% {{BASH: Relev}}
+Mart's Mutant Mod - No DLC Increased Spawns.esp
+Mart's Mutant Mod - No Floaters.esp
+% {{BASH: Relev}}
+Mart's Mutant Mod - No Geckos.esp
+% {{BASH: Relev}}
+Mart's Mutant Mod - No Ghoul Raise.esp
+Mart's Mutant Mod - No Size Scaling.esp
+Mart's Mutant Mod - No Skeleton Decay.esp
+Mart's Mutant Mod - No Wanamingos.esp
+% {{BASH: Relev}}
+Mart's Mutant Mod - Feral Ghoul Rampage.esp
+% {{BASH: Relev}}
+Mart's Mutant Mod - Hunting & Looting.esp
+Mart's Mutant Mod - Increased Increased Spawns.esp
+% {{BASH: Relev}}
+Mart's Mutant Mod - Increased Spawns.esp
+% {{BASH: Relev}}
+Mart's Mutant Mod - Natural Selection.esp
+% {{BASH: Relations}}
+Mart's Mutant Mod - Reduced Wasteland Spawns.esp
+% {{BASH: Delev,Relev}}
+Mart's Mutant Mod - Tougher Traders.esp
+% {{BASH: Actors.Stats,Factions,Relations}}
+Mart's Mutant Mod - Zones Respawn.esp
+Mart's Mutant Mod - Mutant Mod Menu.esp
+Mart's Mutant Mod - Soft Unleveler.esp
+? Use either 'Soft Unleveler' or 'Soft Unleveler Hardcore' but not both.
+Mart's Mutant Mod - Soft Unleveler Hardcore.esp
+? Use either 'Soft Unleveler' or 'Soft Unleveler Hardcore' but not both.
+Mart's Mutant Mod - Dynamic Player Scaling.esp
+Mart's Mutant Mod - Zombie Cementery.esp
+Project Beauty- MMM Raiders.esp
+* Old. Download the latest Project Beauty files.
+Mart's Mutant Mod - Project Beauty.esp
+% {{BASH: NpcFaces,Hair,Eyes,Voice-M,Voice-F,Body-M,Body-F,R.Teeth,R.Mouth,NoMerge}}
+Mart's Mutant Mod - FOOK.esp
+* Get FOOK2
+Mart's Mutant Mod - FOOK2.esp
+: FOOK2 - Main.ESM and Mart's Mutant Mod.esm
+% {{BASH: Relations}}
+Mart's Mutant Mod - FOOK2 - DIK.esp
+: FOOK2 - Main.ESM
+: FOOK2 - [DIK] DLC Improvement Kit.esm and Mart's Mutant Mod.esm
+% {{BASH: Relations}}
+Mart's Mutant Mod - FOOK2 - Natural Selection.esp
+Mart's Mutant Mod - GSoS CaSO.esp
+CT_FalloutAdvanced - MMM.esp
+ARSENAL MOD+MMM.esp
+Mutant perks for MMM 1.9.esp
+S.T.A.L.K.E.R. Call of D.C.+MMM.esp
+S.T.A.L.K.E.R. Mutants[addon for MMM].esp
+Mart's Mutant Mod - FWE Master Release.esp
+% {{BASH: Invent,Relations}}
+Mart's Mutant Mod - FWE with EVE.esp
+% {{BASH: Invent,Relations}}
+: FO3 Wanderers Edition - Main File.esm
+: EVE.esp
+Mart's Mutant Mod - Project Beauty + FWE.esp
+Mart's Mutant Mod - Project Beauty (HD Addition).esp
+* Old. Download the latest Project Beauty files.
+Mart's Mutant Mod - Linged.esp
+Mart's Mutant Mod - CFW.esp
+Mart's Mutant Mod - XFO.esp
+MMM_RtSS_Mod.esp
+\EndGroup\\
+
+
+\BeginGroup\\ Companions
+\-----------
+Original Moira Brown.esp
+MoriaX3Caps.esp
+MoriaX10Caps.esp
+SeducingWomen_-_override.esp
+FEM - BABE enabler.esp
+: FEM.esm
+FEM - DIMON enabler.esp
+: FEM.esm
+FEM - EXNEM enabler.esp
+: FEM.esm
+FEM - FANTASY enabler.esp
+: FEM.esm
+FEM - GROWLF enabler.esp
+: FEM.esm
+FEM - MALOS enabler.esp
+: FEM.esm
+FEM - NAOUAK enabler.esp
+: FEM.esm
+FEM - NILE enabler.esp
+: FEM.esm
+FEM - UF3 enabler.esp
+: FEM.esm
+LingsFinerThings.esp
+LingsPrettyThings.esp
+LingsPrettyThings-BrokenSteel.esp
+LingsPrettyThings-SeducingWomen.esp
+LingsPrettyThings-FOOK2-MMM.esp
+SeducedDLC03.esp
+FEMed TYPE3 Cloths.esp
+BriannaCompanion.esp
+LucyWestCompanion.esp
+bittercup_comp.esp
+Mystyk's Followers.esp
+Follower Autumn.esp
+DanteCompanion.esp
+JessiCompanion.esp
+KelseyCompanion.esp
+KingCompanion.esp
+AmyWong - FOSE.esp
+: AmyWong.esm
+AmyWong - DLCs.esp
+: AmyWong.esm
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+: Zeta.esm
+AmyWong - DLCs (FOOK2 1.1 DIK).esp
+: AmyWong.esm
+: FOOK2 - [DIK] DLC Improvement Kit.esm
+" AmyWong - DLCs.esp
+AmyWong - DLC01 Anchorage.esp
+: AmyWong.esm
+: Anchorage.esm
+" AmyWong - DLCs.esp
+AmyWong - DLC02 The Pitt.esp
+: AmyWong.esm
+: ThePitt.esm
+" AmyWong - DLCs.esp
+AmyWong - DLC03 Broken Steel.esp
+: AmyWong.esm
+: BrokenSteel.esm
+" AmyWong - DLCs.esp
+AmyWong - DLC04 Pt.Lookout.esp
+: AmyWong.esm
+: PointLookout.esm
+" AmyWong - DLCs.esp
+AmyWong - DLC05 Zeta.esp
+: AmyWong.esm
+: Zeta.esm
+" AmyWong - DLCs.esp
+AmyWong - CALIBR 1.3 (FWE 5).esp
+: AmyWong.esm
+: CALIBR.esm
+" AmyWong - CALIBR 1.3.esp
+" AmyWong - CALIBR 1.2.esp
+AmyWong - CALIBR 1.3.esp
+: AmyWong.esm
+: CALIBR.esm
+" AmyWong - CALIBR 1.3.esp
+" AmyWong - CALIBR 1.3 (FWE 5).esp
+AmyWong - CALIBR 1.2.esp
+: AmyWong.esm
+: CALIBR.esm
+" AmyWong - CALIBR 1.3 (FWE 5).esp
+" AmyWong - CALIBR 1.2.esp
+AmyWong - FWE 5.esp
+: AmyWong.esm
+: FO3 Wanderers Edition - Main File.esm
+AmyWong - FOOK2.esp
+: AmyWong.esm
+: FOOK2 - Main.ESM
+AmyWong - FOOK2 1.1.esp
+: AmyWong.esm
+: FOOK2 - Main.ESM
+RoadWardens.esp
+? If using MMM, use 'RoadWardensMMM.esp' instead
+RoadWardensMMM.esp
+MTC RealWildnessLife.esp
+% {{BASH: Relations}}
+Lil_Critters.esp
+Lil_Critters_NG.esp
+ChildrenEmpire Soldiers.esp
+ChildrenEmpire Enemies.esp
+Fallout 3 Sexus Enemies.esp
+Fallout 3 Sexus - DLC The Pitt.esp
+Fallout 3 Sexus with Children Empire.esp
+Mysteriouswoman_outfitonly.esp
+Mysteriouswoman_scout.esp
+Mysteriouswoman_dress.esp
+Mysteriouswoman_dressncoat.esp
+Mysteriouswoman_topless.esp
+Mysteriouswoman_underwearncoat.esp
+Mysteriouswoman_underwear.esp
+Mysteriouswoman_corsetntrousers.esp
+Mysteriouswoman_alternativetop.esp
+Mysteriouswoman_sexytopless.esp 
+CBOv1.4.esp
+CBOv1.4_bittercup_comp.esp
+CBOv1.4_bittercup_comp_waitrelax_restyled.esp
+CBOv1.4_the_other_bittercup_comp_waitrelax.esp
+CBOv1.4_spcross_dimonized_brazilian_b.esp
+CBOv1.4_slaveraider.esp
+EnclaveCommander.esp
+EnclaveCommander-OA.esp
+\EndGroup\\
+
+
+\BeginGroup\\ Realism Mods
+\-----------
+RI_Base3.esp
+RI_PNeeds2S.esp
+RI_DoctorCost.esp
+RI_Alcohol.esp
+RI_FOSE.esp
+RiPnO CorePatch.esp
+Imp's More Complex Needs.esp
+: IMCN.esm
+IMCN - 5 DLC Merged.esp
+: IMCN.esm
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+: Zeta.esm
+IMCN - Operation Anchorage.esp
+: IMCN.esm
+: Anchorage.esm
+" IMCN - 5 DLC Merged.esp
+IMCN - The Pitt.esp
+: IMCN.esm
+: ThePitt.esm
+" IMCN - 5 DLC Merged.esp
+IMCN - Broken Steel.esp
+: IMCN.esm
+: BrokenSteel.esm
+" IMCN - 5 DLC Merged.esp
+IMCN - Point Lookout.esp
+: IMCN.esm
+: PointLookout.esm
+" IMCN - 5 DLC Merged.esp
+IMCN - Mothership Zeta.esp
+: IMCN.esm
+: Zeta.esm
+" IMCN - 5 DLC Merged.esp
+IMCN - FWE Compatibility and Ingestibles.esp
+: IMCN.esm
+: FO3 Wanderers Edition - Main File.esm
+IMCN - FOOK2 Ingestibles.esp
+: IMCN.esm
+: FOOK2 - Main.ESM
+IMCN - BLTC Compatibility and Ingestibles.esp
+: IMCN.esm
+: bltc.esp
+" IMCN - FWE Compatibility and Ingestibles.esp
+IMCN - BLTC RiPnO Combined Compatibility.esp
+: IMCN.esm
+: bltc.esp
+: RI_Core.esm
+: RiPnO Core Patch.esp
+" IMCN - FWE Compatibility and Ingestibles.esp
+IMCN - RiPnO Compatibility and Ingestibles.esp
+: IMCN.esm
+: RI_Core.esm
+: RiPnO Core Patch.esp
+" IMCN - FWE Compatibility and Ingestibles.esp
+IMCN - MMM Meats, Bloods, and Eyeballs.esp
+: IMCN.esm
+: Mart's Mutant Mod.esm
+IMCN - Forced Initialization.esp
+: IMCN.esm
+bltc.esp
+BLTC Immersion Patch.esp
+BLTC Hypo Fix.esp
+BLTC Less Addictions.esp
+CP - RiPnO [bltc032].esp
+CP - RiPnO [MMM] Meats.esp
+RiPnO - OPTIONAL - Cola Heals.esp
+\EndGroup\\
+
+
+\BeginGroup\\ Later Misc
+\-----------
+1PipboyPDA.esp
+Accurate Sniper Rifles.esp
+Arwen_Realism_Core.esp
+Arwen_FULL_Tweaks.esp
+Arwen_Skills.esp
+Arwen_Armor.esp
+" Arwen_FULL_Tweaks.esp
+Arwen_Less_Is_More.esp
+" Arwen_FULL_Tweaks.esp
+Arwen_Less-Is-More.esp
+" Arwen_FULL_Tweaks.esp
+Arwen_Localized_Damage.esp
+" Arwen_FULL_Tweaks.esp
+Arwen_SmarterAI.esp
+" Arwen_FULL_Tweaks.esp
+Arwen_Survival.esp
+" Arwen_FULL_Tweaks.esp
+Arwen_Tweaks_Main.esp
+" Arwen_FULL_Tweaks.esp
+Arwen_Weapons.esp
+" Arwen_FULL_Tweaks.esp
+Arwen_MMM_Patch.esp
+Arwen_Encumbrance.esp
+FatmanExp.esp
+Megaton Closes.esp
+PHIG_IncreasedLocationalDamage.esp
+PHIG_IncreasedDamageLITE.esp
+PHIG_IncreasedDamageLOWERLEVELHP.esp
+PHIG_IncreasedArmor.esp
+PHIG_GunKnockdownsTOUGHERSUPERS.esp
+PHIG_GunKnockdownsSpecialScriptedEdition.esp
+PHIG_SteadyAimPERKONLY.esp
+RTS_Life_Of_Raider_Addon.esp
+RTSpatch_RVW.esp
+RTSBeta0.1c_extension_FarmingBob1.2.1.esp
+T3T_OutcastTechSupport.esp
+T3T_AnchorageExtras.esp
+T3T_WeaponTweaks.esp
+T3T_WT_AnchorageCompanion.esp
+T3T_WT_ThePittCompanion.esp
+T3T_WT_BrokenSteelCompanion.esp
+T3T_WT_PointLookoutCompanion.esp
+T3T_WT_ZetaCompanion.esp
+T3T_ArmorTweaks.esp
+T3T_AT_AnchorageCompanion.esp
+T3T_AT_ThePittCompanion.esp
+T3T_AT_BrokenSteelCompanion.esp
+T3T_AT_PointLookoutCompanion.esp
+T3T_AT_ZetaCompanion.esp
+T3T_AT_CAS.esp
+T3T_BetterMegatonStorage.esp
+T3T_MiscItemIcons.esp
+ACRForFWE.esp
+SVDForFWE.esp
+MP5ForFWE.esp
+DTOForFWE.esp
+DLM_FFOutcastsQuest(FWEEd).esp
+DLM_FFOutcastsQuest_Override.esp
+: FO3 Wanderers Edition - Main File.esm
+: DLM_FFOutcastsQuest(FWEEd).esp
+DLM_FFOutcastsQuest_Override-BS.esp
+: BrokenSteel.esm
+: FO3 Wanderers Edition - Main File.esm
+: DLM_FFOutcastsQuest(FWEEd).esp
+DLM_FFOutcastsQuest_Override-DLC.esp
+: Anchorage.esm
+: BrokenSteel.esm
+: Zeta.esm
+: FO3 Wanderers Edition - Main File.esm
+: DLM_FFOutcastsQuest(FWEEd).esp
+Outcast Collection Agent Expanded.esp
+Outcast Collection Agent Expanded - DLC Plugin.esp
+Useful Wasteland Clipboards.esp
+CombatEnhanced-Package v02.esp
+Attentater's Wasteland Economy.esp
+AsharasPresets.esp
+FasterMorePowerfulMines.esp
+EnhVision.esp
+" EnhVisionHK.esp
+EnhVisionHK.esp
+" EnhVision.esp
+Arwen_VisionFX.esp
+NightvisionGoggles(Powered).esp
+NVFAAPANoTex.esp
+Gore_No_More.esp
+Less_Blood.esp
+FeminizedPowerArmor.esp
+Arwen_XPR_Extreme.esp
+KillableKids.esp
+? Choose only one 'KillableKids' ESP.
+KillableKidsOptional.esp
+? Choose only one 'KillableKids' ESP.
+KillableKidsNormalHealth.esp
+? Choose only one 'KillableKids' ESP.
+KillableKidsNormalHealthOptional.esp
+? Choose only one 'KillableKids' ESP.
+KillableKidsNoExtra.esp
+? Choose only one 'KillableKids' ESP.
+UsableCigarettes.esp
+ipipextended.esp
+Action_Boy_hacking.esp
+StripClub.esp
+Keep Anchorage Equipment.esp
+Vault-Tec Experimental Dimensional Safe.esp
+Portable Camp.esp
+oroLookoutFix.esp
+Misc Mod.esp
+Owned!.esp
+% {{BASH: Factions}}
+FaceMe-MMM.esp
+FaceMe-MMM Tougher Traders.esp
+Gifts4Kids.esp
+NoTheftComments.esp
+RRV1 Bedroom Redecorated.esp
+RRQuests.esp
+RR Companion Vault Raider Attacks.esp
+All Companions Essential.esp
+FollowersHireContinued-KarmaCheck-NoCharismaCheck-NoCountCheck.esp
+FollowersHireContinued-CharismaCheck-KarmaCheck.esp
+FollowersHireContinued-CharismaCheck-NoKarmaCheck.esp
+FollowersHireContinued-NoChecks.esp
+T_R_A_S_C_H.esp
+SCC 187GURLZ.esp
+: Sharing and Caring Companions.esm
+Shojo Companions.esp
+Brahmin Cattles ENG v1 - FWE patch.esp
+teddybear_brothers.esp
+knockdowns.esp
+ek.BrokenSteel.esp
+1stPersonKnockDowns VATS Working!.esp
+Recoil.esp
+ShellRain.esp
+Kill and Loot Unconscious Essential NPCs.esp
+" Kill and Loot Unconscious Essential NPCs_NoGore.esp
+" Kill and Loot Unconscious Essential NPCs_FOSE.esp
+Kill and Loot Unconscious Essential NPCs_FOSE.esp
+" Kill and Loot Unconscious Essential NPCs.esp
+" Kill and Loot Unconscious Essential NPCs_NoGore.esp
+Kill and Loot Unconscious Essential NPCs_NoGore.esp
+" Kill and Loot Unconscious Essential NPCs.esp
+" Kill and Loot Unconscious Essential NPCs_FOSE.esp
+Zumbs' Console Mod.esp
+improved_glasses.esp
+improved_shades.esp
+improved_shades_zumbs.esp
+SunGlassesFX.esp
+ZumbsDarkerSunglasses.esp
+ZumbsDarkerSunglasses_no_replace.esp
+? Zumbs has asked you to rename this to ZumbsDarkerSunglasses.esp
+ZumbsDarkerSunglasses_screen_effect.esp
+? Zumbs has asked you to rename this to ZumbsDarkerSunglasses.esp
+FourEyes.esp
+MZAllAccessPass.esp
+ACE2-0.esp
+ACE2-1b.esp
+Mighty Mouse Alternative 4.esp
+Ammo Press Fix.esp
+tacticalAmmo.esp
+Point Lookout Travel Fix.esp
+yaDisguisesMod.esp
+yaDisguisesMod-DLC-Anchorage.esp
+yaDisguisesMod-DLC-BrokenSteel.esp
+yaDisguisesMod-DLC-ThePitt.esp
+TalkToAnybody.esp
+I'll Touch What I Want.esp
+Sleep in any bed.esp
+Whose been sleeping in my Bed.esp
+Ghouls Cohabitate.esp
+% {{BASH: ScriptContents}}
+TenpennyGhoulsAtPeace.esp
+% {{BASH: ScriptContents}}
+VATS - MCE.esp
+VatsLongerDistance.esp
+MZ No Karma Loss.esp
+NoQuestItems.esp
+FNNCQ_Mesmetron.esp
+Inebriation.esp
+" Inebriation.esp
+Inebriation-FOSE.esp
+" Inebriation-FOSE.esp
+Devour Gore.esp
+AMPUTATE!.esp
+% {{BASH: Scripts}}
+Cliff's_Sellable_Body_Parts.esp
+SpeechLite.esp
+SpeechLiteCombatDLC.esp
+EnduranceBasedHealthRegen.esp
+BoS Diversification.esp
+BoS Diversification - Broken Steel.esp
+BOC Diversification.esp
+BOC Diversification - Operation Anchorage.esp
+RaiderExpanced.esp
+MercenaryExpanded.esp
+RaiderMercenaryExpanded.esp
+RaiderExpanded[MMM].esp
+MercenaryExpanded[MMM].esp
+RaiderMercenaryExpanded[MMM].esp
+RaiderExpanded[WMK].esp
+MercenaryExpanded[WMK].esp
+RaiderMercenaryExpanded[WMK].esp
+RaiderExpanded[M&W].esp
+MercenaryExpanded[M&W].esp
+RaiderMercenaryExpanded[M&W].esp
+Savage Wasteland - Fewer Gun Wielding Maniacs.esp
+CrossRepairArmor.esp
+repairfix.esp
+Updated XRepair.esp
+NippersWeaponNips.esp
+NippersArmorNips.esp
+vaps.esp
+vaps-automated-ammo-toolkit.esp
+vaps-broken-steel.esp
+vaps-point-lookout.esp
+vaps-fwe.esp
+vaps-marts-mutant-mod.esp
+PortableCampStuff - WMK.esp
+GTent-FWE.esp
+: FO3 Wanderers Edition - Main File.esm
+: CRAFT.esm
+GTent-FWE-MMM.esp
+: GTent-FWE.esp
+: Mart's Mutant Mod.esm
+GTent-FWE-WMK.esp
+: GTent-FWE.esp
+: WeaponModKits.esp
+
+\EndGroup\\
+
+
+\BeginGroup\\ Phalanx
+\-----------
+Phalanx-MainFollowerModule.esp
+? Do not use with latest FOOK2, it is already integrated.
+Phalanx-BrokenSteel-Integration.esp
+: BrokenSteel.esm
+? Do not use with latest FOOK2, it is already integrated.
+Phalanx-PointLookout-Integration.esp
+: PointLookout.esm
+? Do not use with latest FOOK2, it is already integrated.
+Phalanx-PerksAndStims.esp
+Phalanx-Obedient-Dogmeat.esp
+Dogmeat Never Dies.esp
+GTSFawkesWeapons.esp
+\EndGroup\\
+
+
+\BeginGroup\\ Game-Settings and Overrides
+\-----------
+No[EMPTY]ContainerMessages.esp
+5xlvling.esp
+Slower Levelling - slow.esp
+Slower Levelling - slower.esp
+Slower Levelling - Very Slow.esp
+Slower Levelling - Extremely Slow.esp
+Slower Levelling - Super Duper Slow.esp
+Slower Levelling - Super Duper Extreme.esp
+Slower Degradation (-50%).esp
+ImmersiveTimescale.esp
+TimeScaleTo3.esp
+TimeScaleTo4.esp
+TimeScaleTo5.esp
+TimeScaleTo15.esp
+TimeScaleTo20.esp
+TimeScaleTo25.esp
+SuperJump1.5x.esp
+SuperJump2x.esp
+SuperJump3x.esp
+SuperJump4x.esp
+SuperJump10x.esp
+SuperJump5x.esp
+SuperJumpWater1.5x.esp
+SuperJumpWater2x.esp
+SuperJumpWater3x.esp
+SuperJumpWater4x.esp
+SuperJumpWater5x.esp
+SuperJumpWater10x.esp
+lessviewdistance.esp
+lessviewdistanceThePitt.esp
+OAlessviewdistance.esp
+dD-Larger Blood.esp
+dD-Less Blood Time.esp
+dD-Less Blood Time, Larger Blood.esp
+dD-No Screen Blood.esp
+dD-Full Screen Blood.esp
+dD-More Gore.esp
+dD-More Gore-The Pitt.esp
+dD-More Gore-BrokenSteel.esp
+dD-More Gore-PointLookout.esp
+dD-More Gore-Zeta.esp
+FO3 Wanderers Edition - More Gore.esp
+FO3 Wanderers Edition - More Gore Zeta.esp
+FO3 Wanderers Edition - More Gore The Pitt.esp
+FO3 Wanderers Edition - More Gore PointLookout.esp
+GT_No_Gore.esp
+GT_No_Bloody_Mess_Gore.esp
+GT_No_Dismemberment.esp
+GT_No_Exploding_Parts.esp
+GT_Less_Dismemberment.esp
+GT_Less_Exploding_Parts.esp
+GT_More_Dismemberment.esp
+GT_More_Exploding_Parts.esp
+GT_Always_Dismemberment.esp
+GT_Always_Exploding_Parts.esp
+GT_BM_No_Full_Dismemberment.esp
+GT_BM_Less_Full_Dismemberment.esp
+GT_BM_More_Full_Dismemberment.esp
+GT_BM_Always_Full_Dismemberment.esp
+GT_BM_No_Exploding_Torsos.esp
+GT_BM_Less_Exploding_Torsos.esp
+GT_BM_More_Exploding_Torsos.esp
+GT_BM_Always_Exploding_Torsos.esp
+dD-Reduced Ragdoll Force.esp
+dD-Reduced Dismember Force.esp
+dD-Smaller Wounds.esp
+dD-Smaller Spatters.esp
+Realistic Death Physics.esp
+? Do not use with latest FWE, it is already integrated.
+Magic Pip-Light (50 Brightness).esp
+MrSlackPants-DecentPipBoyLight.esp
+Fellout-pipboylight.esp
+pip30.esp
+pip60.esp
+pip150.esp
+pipomfg.esp
+LED pipboy light.esp
+LED pipboy light extended.esp
+LED pipboy light amber.esp
+LED pipboy light ember extended.esp
+LED pipboy light green.esp
+LED pipboy light green extended.esp
+\EndGroup\\
+
+
+\BeginGroup\\ Weather\Light\Water
+\-----------
+Wasteland Weather Overhaul .9.esp
+Wasteland Weather Overhaul .9 (no interiors).esp
+Wasteland Weather Overhaul .9 Level 2 Color.esp
+megalight.esp
+% {{BASH: C.Light}}
+? Do not use with latest FOOK2, it is already integrated.
+Enhanced Weather - Rain and Snow.esp
+Enhanced Weather - Rain and Snow in Fallout.esp
+Enhanced Weather - Radioactive Rain and Snow Plugin.esp
+Enhanced Weather - Rainbows.esp
+Enhanced Weather - Weather Sounds in Interiors.esp
+Enhanced Weather - Sneak Bonus during Storms.esp
+MTC DoctorsFix for Enhanced Weather - Rain.esp
+MTC RadAwayFix for Enhanced Weather - Rain.esp
+Fellout-Full.esp
+" Fellout-SOTD.esp
+? Do not use with latest FOOK2, it is already integrated.
+Fellout-SOTD.esp
+" Either Fellout-Full.esp
+? Do not use with latest FOOK2, it is already integrated.
+Fellout-Anchorage.esp
+: Anchorage.esm
+? Do not use with latest FOOK2, it is already integrated.
+Fellout-BrokenSteel.esp
+: BrokenSteel.esm
+? Do not use with latest FOOK2, it is already integrated.
+Fellout-PointLookout.esp
+: PointLookout.esm
+? Do not use with latest FOOK2, it is already integrated.
+Fellout-Zeta.esp
+? Do not use with latest FOOK2, it is already integrated.
+FelloutWithLightingOverhual-1.0.esp
+% {{BASH: C.Light}}
+FOOK2 Nightvision for Fellout.esp
+Realistic Interior Lighting.esp
+% {{BASH: C.Light}}
+Realistic Interior Lighting - BS.esp
+% {{BASH: C.Light}}
+Realistic Interior Lighting - OA.esp
+% {{BASH: C.Light}}
+DarkerInteriorsFallOut3.esp
+% {{BASH: C.Light}}
+DarkerInteriorsAnchorage.esp
+% {{BASH: C.Light}}
+DarkerInteriorsThePitt.esp
+% {{BASH: C.Light}}
+DarkerInteriorsBrokenSteel.esp
+% {{BASH: C.Light}}
+DarkerInteriorsPointLookout.esp
+% {{BASH: C.Light}}
+DarkerInteriorsZeta.esp
+% {{BASH: C.Light}}
+Xepha's Dynamic Weather - Main.esp
+% {{BASH: C.Climate}}
+Xepha's Dynamic Weather - Anchorage.esp
+% {{BASH: C.Climate}}
+: Anchorage.esm
+Xepha's Dynamic Weather - The Pitt.esp
+% {{BASH: C.Climate}}
+: ThePitt.esm
+Xepha's Dynamic Weather - Broken Steel.esp
+% {{BASH: C.Climate}}
+: BrokenSteel.esm
+Xepha's Dynamic Weather - Point Lookout.esp
+% {{BASH: C.Climate}}
+: PointLookout.esm
+Xepha's Dynamic Weather - Night Eye Edition.esp
+" Xepha's Dynamic Weather - Night Eye Edition.esp
+Xepha's Dynamic Weather - Night Eye Edition (Anchorage).esp
+" Xepha's Dynamic Weather - Night Eye Edition (Anchorage).esp
+: Anchorage.esm
+Xepha's Dynamic Weather - Experimental Green Tint Remover.esp
+Xepha's Dynamic Weather - Rain (NEE).esp
+: Enhanced Weather - Rain and Snow.esm
+: Xepha's Dynamic Weather - Night Eye Edition.esp
+Xepha's Dynamic Weather - Rain (OA + NEE).esp
+: Anchorage.esm
+: Enhanced Weather - Rain and Snow.esm
+: Xepha's Dynamic Weather - Night Eye Edition (Anchorage).esp
+Xepha's Dynamic Weather - Rain (OA).esp
+: Anchorage.esm
+: Enhanced Weather - Rain and Snow.esm
+Xepha's Dynamic Weather - Rain.esp
+: Enhanced Weather - Rain and Snow.esm
+Xepha's Dynamic Weather - Climate OverRider (OA + Rain).esp
+: Anchorage.esm
+: Enhanced Weather - Rain and Snow.esm
+" Xepha's Dynamic Weather - Climate OverRider (OA).esp
+" Xepha's Dynamic Weather - Climate OverRider (Rain).esp
+" Xepha's Dynamic Weather - Climate OverRider.esp
+" Xepha's Dynamic Weather - Climate OverRider (OA + Rain) - No Fog.esp
+Xepha's Dynamic Weather - Climate OverRider (OA).esp
+: Anchorage.esm
+" Xepha's Dynamic Weather - Climate OverRider (OA + Rain).esp
+" Xepha's Dynamic Weather - Climate OverRider (Rain).esp
+" Xepha's Dynamic Weather - Climate OverRider.esp
+" Xepha's Dynamic Weather - Climate OverRider (OA + Rain) - No Fog.esp
+Xepha's Dynamic Weather - Climate OverRider (Rain).esp
+: Enhanced Weather - Rain and Snow.esm
+" Xepha's Dynamic Weather - Climate OverRider (OA + Rain).esp
+" Xepha's Dynamic Weather - Climate OverRider (OA).esp
+" Xepha's Dynamic Weather - Climate OverRider.esp
+" Xepha's Dynamic Weather - Climate OverRider (OA + Rain) - No Fog.esp
+Xepha's Dynamic Weather - Climate OverRider.esp
+" Xepha's Dynamic Weather - Climate OverRider (OA + Rain).esp
+" Xepha's Dynamic Weather - Climate OverRider (OA).esp
+" Xepha's Dynamic Weather - Climate OverRider (Rain).esp
+" Xepha's Dynamic Weather - Climate OverRider (OA + Rain) - No Fog.esp
+Xepha's Dynamic Weather - Climate OverRider (OA + Rain) - No Fog.esp
+: Anchorage.esm
+: Enhanced Weather - Rain and Snow.esm
+" Xepha's Dynamic Weather - Climate OverRider (OA + Rain).esp
+" Xepha's Dynamic Weather - Climate OverRider (OA).esp
+" Xepha's Dynamic Weather - Climate OverRider (Rain).esp
+" Xepha's Dynamic Weather - Climate OverRider.esp
+Xepha's Dynamic Weather - Sandstorm.esp
+Xepha's Dynamic Weather - Darker Water.esp
+Night Time Sneak Boost.esp
+OasisSafeWater.esp
+TheOutbreak - WMS Combo Pack - C12H.esp
+TheOutbreak - WMS Combo Pack - C24H.esp
+TheOutbreak - WMS Combo Pack - C6H.esp
+TheOutbreak - WMS SPVol 1 - Hell - Broken Steel.esp
+TheOutbreak - WMS SPVol 1 - Hell - Point Lookout.esp
+TheOutbreak - WMS SPVol 1 - Hell - The Pitt.esp
+TheOutbreak - WMS SPVol 1 - Hell.esp
+TheOutbreak - WMS Vanilla Combo Pack - C12H.esp
+TheOutbreak - WMS Vanilla Combo Pack - C24H.esp
+TheOutbreak - WMS Vanilla Combo Pack - C6H.esp
+TheOutbreak - WMS Vol 1 - C12H - No Blue.esp
+TheOutbreak - WMS Vol 1 - C12H.esp
+TheOutbreak - WMS Vol 1 - C24H - No Blue.esp
+TheOutbreak - WMS Vol 1 - C24H.esp
+TheOutbreak - WMS Vol 1 - C6H - No Blue.esp
+TheOutbreak - WMS Vol 1 - C6H.esp
+TheOutbreak - WMS Vol 1 - IDoV.esp
+TheOutbreak - WMS Vol 1 - Rusted Rose.esp
+TheOutbreak - WMS Vol 1 - Silent Hell.esp
+TheOutbreak - WMS Vol 1 - Super Blue.esp
+TheOutbreak - WMS Vol 1 - Weather Controller.esp
+TheOutbreak - WMS Vol 2 - C12H - No Dust.esp
+TheOutbreak - WMS Vol 2 - C12H.esp
+TheOutbreak - WMS Vol 2 - C24H - No Dust.esp
+TheOutbreak - WMS Vol 2 - C24H.esp
+TheOutbreak - WMS Vol 2 - C6H - No Dust.esp
+TheOutbreak - WMS Vol 2 - C6H.esp
+TheOutbreak - WMS Vol 2 - Calm.esp
+TheOutbreak - WMS Vol 2 - Cloudy.esp
+TheOutbreak - WMS Vol 2 - Duststorm.esp
+TheOutbreak - WMS Vol 2 - Fog.esp
+TheOutbreak - WMS Vol 2 - Hot.esp
+TheOutbreak - VATS - No Color Shift.esp
+TheOutbreak - Piplight - Hell.esp
+TheOutbreak - Silent Hell Piplight.esp
+muzzle with no lightening.esp
+muzzle with 100 radius lightening.esp
+\EndGroup\\
+
+
+\BeginGroup\\ Lastish
+\-----------
+CRAFTHelper_ReplaceWorkbenchScript.esp
+" CRAFT - Activation Perk.esp
+CRAFTHelper_ReplaceWorkbenchScriptFWE.esp
+" CRAFT - Activation Perk.esp
+CRAFTHelper_Vanilla.esp
+CRAFTHelper_TinCan.esp
+CRAFTHelper_EA.esp
+CRAFTHelper_WCE.esp
+CRAFTHelper_VAPS.esp
+CRAFTHelper_ATK.esp
+CRAFTHelper_FWE.esp
+CRAFTHelper_FWEAlternateTravel.esp
+CRAFTHelper_WMK.esp
+CRAFTHelper_SBReconArmor.esp
+CRAFTHelper_DLAC.esp
+CRAFTHelper_AS.esp
+CRAFTHelper_VAPS-ATK.esp
+CRAFT - WCE FOOK+FWE Patch.esp
+: FOOK2 - Main.esm
+: FO3 Wanderers Edition - Main File.esm
+: CRAFT - Workbench and Crafting Expansion combined.esp
+CRAFT - WCE Warmonger Addon.esp
+: CRAFT - Workbench and Crafting Expansion combined.esp
+20th Century v4 ALIVE (Vendor).esp
+20th Century v4 ALIVE (NPC_Settler).esp
+20th Century v4 ALIVE (Raider).esp
+20th Century v4 ALIVE (RivetCity).esp
+20th Century v4 ALIVE (Brotherhood_Outcast).esp
+20th Century v4 ALIVE (SuperMutant).esp
+20th Century v4 ALIVE (Vault 101).esp
+20th Century v4 ALIVE (Chinese Ghoul).esp
+20th Century v4 ALIVE (Talon_Regulator).esp
+20th Century v5 ALIVE (Vendor).esp
+20th Century v5 ALIVE (Containers).esp
+20th Century v5 ALIVE (NPC_Settler).esp
+20th Century v5 ALIVE (Vault 101).esp
+20th Century v5 ALIVE (RivetCity).esp
+20th Century v5 ALIVE (Raider).esp
+20th Century v5 ALIVE (Slaver).esp
+20th Century v5 ALIVE (Chinese Ghoul).esp
+20th Century v5 ALIVE (SuperMutant).esp
+20th Century v5 ALIVE (Talon_Regulator).esp
+20th Century v5 ALIVE (Brotherhood_Outcast).esp
+20th Century v5 ALIVE (TEST Container).esp
+CarvanTrader.esp
+CaravanEssential.esp
+Achievement Remover [FO3+OA+BS].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA+TP+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA+TP+PL].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+BS+PL].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+BS+PL+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+BS].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA+TP].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA+PL+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA+BS+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+PL+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+PL].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+TP+BS+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA+BS+PL+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+TP+BS+PL+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA+PL].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA+BS+PL].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+BS+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+TP].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA+TP+BS+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA+TP+BS+PL].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA+TP+BS].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+TP+PL].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+TP+PL+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+TP+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+OA+TP+PL+MZ].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [All].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+TP+BS].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [FO3+TP+BS+PL].esp
+? Choose only one 'Achievement Remover' ESP.
+Achievement Remover [DIK].esp
+: FOOK2.
+Achievement Remover [FWE].esp
+: FO3 Wanderers Edition.
+DUIF3Extras.esp
+? Obsolete. Update DarNifiedUIF3 to latest version.
+Dog lover's mod.es
+% {{BASH: Deflst,Delev}}
+Dog lover's mod NO ANCHORAGE.esp
+% {{BASH: Deflst,Delev}}
+MMM dog lover's mod.esp
+% {{BASH: Deflst,Delev}}
+Vault101 Exit Cancel.esp
+\EndGroup\\
+
+
+\BeginGroup\\ Pose mods
+\-----------
+\Scripts and new animations.
+SomePoses.esp
+FacialExpressions.esp
+F3UmpaAnimation.esp
+Poses-Animation.esp
+The Groovatron.esp
+The Groovatron_DLC_Anch_Addon.esp
+The Groovatron_DLC_Pitt_Addon.esp
+The Groovatron_DLC_PL_Addon.esp
+\EndGroup\\
+
+
+\BeginGroup\\ Beauty Packs & Race Addons
+\-----------
+\Hair, eyes, race addons & changes and other cosmetics.
+
+\BeginGroup\: Body and head changes
+\'''''''''''''''''''''
+EwwGhoulyBody.esp
+% {{BASH: Body-F}}
+\EndGroup\\
+
+\Hair
+\''''
+HairPack_2chPlus.esp
+% {{BASH: Hair}}
+HairPack_2chPlus+.esp
+% {{BASH: Hair}}
+HairPack_2chPlus+EYE.esp
+% {{BASH: Hair,eyes}}
+\Race additions (+ hair + eyes etc)
+\''''''''''''''''''''''''''''''''''
+Shojo Race.esp
+% {{BASH: Hair,Eyes}}
+? Old. Upgrade to latest version.
+XENH.esp
+% {{BASH: Hair,Eyes}}
+[Nukomimi-San] Starter.esp
+% {{BASH: Hair,Eyes}}
+EZCompanion_Type-N.esp
+% {{BASH: Hair,Eyes}}
+\EndGroup\\
+
+
+\BeginGroup\\ Merged Patch\CPs
+\-----------
+AmyWong - Load Order Fix.esp
+: AmyWong.esm
+RobCo Certified - FWE EVE Balance.esp
+RobCo Certified - FWE EVE Balance Light.esp
+Destruction - CP - Fellout.esp
+FNNIguana - MMM.esp
+: FNNIguana.esm
+: Mart's Mutant Mod.esm
+FNNIguana - FWE.esp
+: FNNIguana.esm
+: FO3 Wanderers Edition - Main File.esm
+FWE - FOOK DLC Support.esp
+: Anchorage.ESM
+: ThePitt.ESM
+: BrokenSteel.ESM
+: PointLookout.esm
+: CRAFT.ESM
+: CALIBR.ESM
+: FOOK2 - Main.ESM
+: FO3 Wanderers Edition - Main File.esm
+FO3 Wanderers Edition - FOOK Support - Classic DR.esp
+FWE - FOOK DLC Support - Classic DR.esp
+: FO3 Wanderers Edition - Main File.esm
+: FOOK2 - Main.ESM
+FOOK+FWE+WMK - DLC Version.esp
+FOOK+FWE+PB+MMM.esp
+FOOK+FWE+EVE+UWWUT.esp
+Mez's Merged Patch - FWE-WMK-MMM.esp
+Mez's Merged Patch 5-0 - DLC-FWE-WMK-MMM.esp
+% {{BASH: Deflst,Delev,Factions,Invent,Relations,Relev,Scripts}}
+Sydney Follower.esp
+Sydney Follower - Load Order Fix.esp
+JHBSydneyUpdate.esp
+xCALIBR_override.esp
+% {{BASH: Names,Graphics,Stats}}
+: CALIBR.esm
+: xCALIBR.esm
+xCALIBR_override_unsorted.esp
+% {{BASH: Names,Graphics,Stats}}
+: CALIBR.esm
+: xCALIBR.esm
+xCALIBR_override_FWE5.esp
+% {{BASH: Names,Graphics,Stats}}
+: CALIBR.esm
+: xCALIBR.esm
+xCALIBR_FWE5_Override.esp
+% {{BASH: Names,Graphics,Stats}}
+: CALIBR.esm
+: xCALIBR.esm
+xCALIBR_2CW_CP.esp
+% {{BASH: Names,Graphics,Stats}}
+: CALIBR.esm
+: xCALIBR.esm
+: 20th Century Weapons.esm
+xCALIBR_2CW_CP_Sorted.esp
+% {{BASH: Names,Graphics,Stats}}
+: CALIBR.esm
+: xCALIBR.esm
+: 20th Century Weapons.esm
+FWE+WMK_weapons_xCALIBRified.esp
+% {{BASH: Names,Graphics,Stats}}
+FWE(v.5.04)+WMK_weapons_xCALIBRified.esp
+% {{BASH: Names,Graphics,Stats}}
+FWE+WMKexcalibrified(Anch).esp
+% {{BASH: Names,Graphics,Stats}}
+FWE+WMKexcalibrified(Pitt).esp
+% {{BASH: Names,Graphics,Stats}}
+FWE+WMKexcalibrified(Lkout).esp
+% {{BASH: Names,Graphics,Stats}}
+frederyck+FWE+xCALIBR.esp
+% {{BASH: Names,Graphics,Stats}}
+: FO3 Wanderers Edition - Main File.esm
+: CALIBR.esm
+: xCALIBR.esm
+: WeaponModKits.esp
+: WeaponModKits - FWE Master Release.esp
+Choose your own hairstyle (load this last on FOMM).esp
+% {{BASH: NpcFaces,Hair,Eyes}}
+tubunarFWE.esp
+CRBSOR.esp
+? Do not use with latest FWE, it is already integrated.
+CRBSOR [Achievements Removed].esp
+Merged.esp
+Merged Patch.esp
+\EndGroup\\
+
+
+\BeginGroup\\ Bashed Patch
+\-----------
+Bashed Patch, 0.esp
+Bashed Patch, 1.esp
+Bashed Patch, 2.esp
+Bashed Patch, 3.esp
+Bashed Patch, 4.esp
+Bashed Patch, 5.esp
+Bashed Patch, 6.esp
+Bashed Patch, 7.esp
+Bashed Patch, 8.esp
+Bashed Patch, 9.esp
+Bashed Patch.esp
+\EndGroup\\
+
+
+\BeginGroup\\ Post Bashed Patch
+\-----------
+\Mods rumoured to be needed after Bashed Patch.
+\Utility addons.
+\Ultimate final absolute end last mods, ever.
+\EndGroup\\
