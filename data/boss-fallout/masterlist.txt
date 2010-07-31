@@ -20,7 +20,7 @@
 \BeginGroup\\ ESMs
 \------------
 Fallout3.esm
-? Masterlist Information: $Revision: 1194 $, $Date:: 2010-07-27 20:06:43 +0100#$, $LastChangedBy: valda68k $
+? Masterlist Information: $Revision$, $Date$, $LastChangedBy$
 Lings.esm
 Anchorage.esm
 ThePitt.esm
