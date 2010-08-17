@@ -1239,8 +1239,8 @@ P94-95.esp
 xCALIBRmunitions.esp
 xCALIBRmunitions_FOSEnhancements.esp
 xCALIBRuniverse.esp
-xCALIBRuniverse_repairLists.esp
 xCALIBRuniverse_ammoLists.esp
+xCALIBRuniverse_repairLists.esp
 ZL-ACR.esp
 ZL-ACRForFWE.esp
 Star Trek Tri-Beam Phaser.esp
