@@ -1452,6 +1452,7 @@ TL [Color].esp
 Kick Dogmeat.esp
 Slof's Alsatian Dogmeat.esp
 IgDRDeathclawGauntletFix.esp
+KarmaRevamp1010.esp
 KarmaRevampExtreme1010.esp
 ReneerInvisibleKarmaMod.esp
 Improved Turrets.esp
