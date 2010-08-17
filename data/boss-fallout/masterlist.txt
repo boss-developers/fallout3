@@ -53,6 +53,7 @@ CRAFT.esm
 CALIBR.esm
 xCALIBR.esm
 % {{BASH: Names,Graphics,Stats}}
+xCALIBRuniverse.esm
 CRAFTHelper.esm
 Project Beauty HD version.esm
 * Old. Download the latest Project Beauty files.
@@ -1237,6 +1238,9 @@ DanWessonPPC357(CALIBR).esp
 P94-95.esp
 xCALIBRmunitions.esp
 xCALIBRmunitions_FOSEnhancements.esp
+xCALIBRuniverse.esp
+xCALIBRuniverse_repairLists.esp
+xCALIBRuniverse_ammoLists.esp
 ZL-ACR.esp
 ZL-ACRForFWE.esp
 Star Trek Tri-Beam Phaser.esp
