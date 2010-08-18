@@ -1508,6 +1508,7 @@ Menu Based Hacking & Picking.esp
 PowerOfTheAtom_FOOKandFWE.esp
 AutomatScriptRemoved.esp
 UpgradedCaravanMerchants.esp
+PP - Less Paranoid NPCs.esp
 \EndGroup\\
 
 
@@ -1972,6 +1973,7 @@ RiPnO - OPTIONAL - Cola Heals.esp
 1PipboyPDA.esp
 Accurate Sniper Rifles.esp
 Arwen_Realism_Core.esp
+Arwen_Hard-Core.esp
 Arwen_FULL_Tweaks.esp
 Arwen_Skills.esp
 Arwen_Armor.esp
@@ -1990,8 +1992,12 @@ Arwen_Tweaks_Main.esp
 " Arwen_FULL_Tweaks.esp
 Arwen_Weapons.esp
 " Arwen_FULL_Tweaks.esp
-Arwen_MMM_Patch.esp
 Arwen_Encumbrance.esp
+Arwen_MMM_Patch.esp
+Arwen_EVE_Patch.esp
+Arwen_EVE_RH-IS_Patch.esp
+Arwen_RiPnO_Patch.esp
+Arwen_RiPnO_BLTC_Patch.esp
 FatmanExp.esp
 Megaton Closes.esp
 PHIG_IncreasedLocationalDamage.esp
