@@ -1268,7 +1268,14 @@ PlastekPrototypeRiflev1.esp
 Fallout3ProtoGun.esp
 ImmaFirinMahLazor.esp
 HZ_M14.esp
-MissingUniqueWeapons-Enhanced.
+MissingUniqueWeapons-Standard.esp
+MissingUniqueWeapons-Standard-BS.esp
+MissingUniqueWeapons-Standard-PL.esp
+MissingUniqueWeapons-Standard-BS+PL.esp
+MissingUniqueWeapons-Enhanced.esp
+MissingUniqueWeapons-Enhanced-BS.esp
+MissingUniqueWeapons-Enhanced-PL.esp
+MissingUniqueWeapons-Enhanced-BS+PL.esp
 cryolator.esp
 WinchesterModel1894Yellowboy.esp
 YK40 Pulse Pistol.esp
