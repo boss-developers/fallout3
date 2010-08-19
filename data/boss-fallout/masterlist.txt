@@ -54,6 +54,7 @@ CALIBR.esm
 xCALIBR.esm
 % {{BASH: Names,Graphics,Stats}}
 xCALIBRuniverse.esm
+% {{BASH: Names,Graphics,Stats}}
 CRAFTHelper.esm
 Project Beauty HD version.esm
 * Old. Download the latest Project Beauty files.
@@ -1238,9 +1239,6 @@ DanWessonPPC357(CALIBR).esp
 P94-95.esp
 xCALIBRmunitions.esp
 xCALIBRmunitions_FOSEnhancements.esp
-xCALIBRuniverse.esp
-xCALIBRuniverse_ammoLists.esp
-xCALIBRuniverse_repairLists.esp
 ZL-ACR.esp
 ZL-ACRForFWE.esp
 Star Trek Tri-Beam Phaser.esp
@@ -2678,6 +2676,10 @@ Mez's Merged Patch 5-0 - DLC-FWE-WMK-MMM.esp
 Sydney Follower.esp
 Sydney Follower - Load Order Fix.esp
 JHBSydneyUpdate.esp
+xCALIBRuniverse.esp
+% {{BASH: Names,Graphics,Stats}}
+xCALIBRuniverse_ammoLists.esp
+xCALIBRuniverse_repairLists.esp
 xCALIBR_override.esp
 % {{BASH: Names,Graphics,Stats}}
 : CALIBR.esm
