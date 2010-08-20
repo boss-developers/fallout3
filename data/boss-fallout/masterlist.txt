@@ -1370,6 +1370,7 @@ FrenchMaid.esp
 Ghostbodysuitv3.esp
 Hentai Mania.esp
 JillBSAA.esp
+Ladyoutfit1.esp
 Lookout Outfits.esp
 Micro Bikini and more recolors.esp
 MicroBikini.esp
@@ -2627,6 +2628,10 @@ HairPack_2chPlus+.esp
 % {{BASH: Hair}}
 HairPack_2chPlus+EYE.esp
 % {{BASH: Hair,eyes}}
+VB_Hair_Shojo+CotW_15.esp
+% {{BASH: Hair}}
+: EnhancedChildren.esm
+: Shojo Race.esm
 \Race additions (+ hair + eyes etc)
 \''''''''''''''''''''''''''''''''''
 Shojo Race.esp
