@@ -480,6 +480,7 @@ Achievements for All - Broken Steel.esp
 Achievements for All - Point Lookout.esp
 : PointLookout.esm
 PCB.esp
+PurgeCellBuffers.esp
 \EndGroup\\
 
 
