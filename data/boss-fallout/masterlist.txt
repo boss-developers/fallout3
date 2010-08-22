@@ -1456,6 +1456,7 @@ JHB House Robots Can Repair.esp
 Burnification.esp
 TL Freeze.esp
 TL [Color].esp
+TL_Color.esp
 Kick Dogmeat.esp
 Slof's Alsatian Dogmeat.esp
 IgDRDeathclawGauntletFix.esp
