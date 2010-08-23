@@ -2185,6 +2185,11 @@ repairfix.esp
 Updated XRepair.esp
 NippersWeaponNips.esp
 NippersArmorNips.esp
+AnchoRepair.esp
+PittRepair.esp
+BSteelRepair.esp
+PLookoutRepair.esp
+MZetaRepair.esp
 vaps.esp
 vaps-automated-ammo-toolkit.esp
 vaps-broken-steel.esp
