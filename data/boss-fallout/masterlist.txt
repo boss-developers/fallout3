@@ -1555,11 +1555,18 @@ RobCo Certified v2 Mechanist's Edition.esp
 : RobCo Certified v2.esm
 RobCo Certified v2 Zeta Addon.esp
 : RobCo Certified v2.esm
-RobCo Certified.esp
 RobCo Certified v2 Omnipatch.esp
+: RobCo Certified v2.esm
 RobCo Certified v2 FWE.esp
+: RobCo Certified v2.esm
 RobCo Certified v2 Impervious.esp
+: RobCo Certified v2.esm
 RobCo Certified v2 Impervious for FWE.esp
+: RobCo Certified v2.esm
+Mr Smith's Scrapyard.esp
+: RobCo Certified v2.esm
+: ThePitt.ESM
+RobCo Certified.esp
 RobCo Certified - Robot Perks.esp
 RobCo Storage Module.esp
 RobCo Certified Engineer.esp
@@ -2477,6 +2484,7 @@ TheOutbreak - Piplight - Hell.esp
 TheOutbreak - Silent Hell Piplight.esp
 muzzle with no lightening.esp
 muzzle with 100 radius lightening.esp
+URWL.esp
 \EndGroup\\
 
 
