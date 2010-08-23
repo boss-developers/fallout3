@@ -1556,6 +1556,10 @@ RobCo Certified v2 Mechanist's Edition.esp
 RobCo Certified v2 Zeta Addon.esp
 : RobCo Certified v2.esm
 RobCo Certified.esp
+RobCo Certified v2 Omnipatch.esp
+RobCo Certified v2 FWE.esp
+RobCo Certified v2 Impervious.esp
+RobCo Certified v2 Impervious for FWE.esp
 RobCo Certified - Robot Perks.esp
 RobCo Storage Module.esp
 RobCo Certified Engineer.esp
@@ -2180,6 +2184,7 @@ RaiderExpanded[M&W].esp
 MercenaryExpanded[M&W].esp
 RaiderMercenaryExpanded[M&W].esp
 Savage Wasteland - Fewer Gun Wielding Maniacs.esp
+CrossRepairWeapons.esp
 CrossRepairArmor.esp
 repairfix.esp
 Updated XRepair.esp
