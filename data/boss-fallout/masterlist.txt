@@ -2485,6 +2485,8 @@ TheOutbreak - Silent Hell Piplight.esp
 muzzle with no lightening.esp
 muzzle with 100 radius lightening.esp
 URWL.esp
+URWL-Normal Color Saturation.esp
+" URWL.esp
 \EndGroup\\
 
 
