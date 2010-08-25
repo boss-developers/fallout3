@@ -813,6 +813,7 @@ CMRS - Rebalanced Junk.esp
 BA_WRM.esp
 BA_WRM_ALT.esp
 SS Weapons.esp
+SS Weapon Effects.esp
 SS Enhanced Combat Maneuvers.esp
 \EndGroup\\
 
