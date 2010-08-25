@@ -193,6 +193,8 @@ FNNCQ.esm
 FNNCQ_DavidsLab.esm
 WYB.esm
 FEM.esm
+SS Master File.esm
+SS Creature Compendium.esm
 \EndGroup\\
 
 
@@ -810,6 +812,8 @@ CMRS - 20th Century Weapons.esp
 CMRS - Rebalanced Junk.esp
 BA_WRM.esp
 BA_WRM_ALT.esp
+SS Weapons.esp
+SS Enhanced Combat Maneuvers.esp
 \EndGroup\\
 
 
@@ -2030,6 +2034,7 @@ T3T_WT_ThePittCompanion.esp
 T3T_WT_BrokenSteelCompanion.esp
 T3T_WT_PointLookoutCompanion.esp
 T3T_WT_ZetaCompanion.esp
+T3T_WeaponSettingsCompanion.esp
 T3T_ArmorTweaks.esp
 T3T_AT_AnchorageCompanion.esp
 T3T_AT_ThePittCompanion.esp
