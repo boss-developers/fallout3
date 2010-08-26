@@ -1374,6 +1374,7 @@ FO3-Closing-merged.esp
 " FO3Nami.esp
 FrenchMaid.esp
 Ghostbodysuitv3.esp
+Gloria Armor.esp
 Hentai Mania.esp
 JillBSAA.esp
 Ladyoutfit1.esp
@@ -2627,6 +2628,7 @@ Vault101 Exit Cancel.esp
 \BeginGroup\\ Pose mods
 \-----------
 \Scripts and new animations.
+SlavePoses.esp
 SomePoses.esp
 FacialExpressions.esp
 F3UmpaAnimation.esp
