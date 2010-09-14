@@ -1149,6 +1149,15 @@ Return to Shady Sands - FWE weapons rebalance.esp
 
 \BeginGroup\\ Other
 \-----------
+Fallout3Tactics.esm
+Fallout3Tactics Creatures.esm
+Fallout3Tactics NPCs.esp
+Fallout3Tactics Food.esp
+Fallout3Tactics Wasteland.esp
+Fallout3Tactics Quests.esp
+Fallout3Tactics Weapons.esp
+Fallout3Tactics Weather.esp
+Fallout3Tactics Citys.esp
 Refurbishes [ALL].esp
 ? Do not use with latest FOOK2, it is already integrated.
 Refurbish [OA].esp
