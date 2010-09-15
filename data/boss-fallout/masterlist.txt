@@ -103,6 +103,8 @@ FO3 Wanderers Edition - Main File.esm
 % {{BASH: Actors.ACBS,Actors.Stats,Deflst,Delev,Invent,Relations,Relev,Stats}}
 : CRAFT.esm
 : CALIBR.esm
+Fallout3Tactics.esm
+Fallout3Tactics Creatures.esm
 Mart's Mutant Mod.esm
 % {{BASH: Invent,Relations,Delev}}
 FNNIguana.esm
@@ -1149,8 +1151,6 @@ Return to Shady Sands - FWE weapons rebalance.esp
 
 \BeginGroup\\ Other
 \-----------
-Fallout3Tactics.esm
-Fallout3Tactics Creatures.esm
 Fallout3Tactics NPCs.esp
 Fallout3Tactics Food.esp
 Fallout3Tactics Wasteland.esp
@@ -2359,6 +2359,7 @@ Enhanced Weather - Radioactive Rain and Snow Plugin.esp
 Enhanced Weather - Rainbows.esp
 Enhanced Weather - Weather Sounds in Interiors.esp
 Enhanced Weather - Sneak Bonus during Storms.esp
+Enhanced Weather - REBOOT.esp
 MTC DoctorsFix for Enhanced Weather - Rain.esp
 MTC RadAwayFix for Enhanced Weather - Rain.esp
 Fellout-Full.esp
@@ -2386,6 +2387,8 @@ Realistic Interior Lighting.esp
 Realistic Interior Lighting - BS.esp
 % {{BASH: C.Light}}
 Realistic Interior Lighting - OA.esp
+% {{BASH: C.Light}}
+Realistic Interior Lighting - PL.esp
 % {{BASH: C.Light}}
 DarkerInteriorsFallOut3.esp
 % {{BASH: C.Light}}
@@ -2464,6 +2467,7 @@ Xepha's Dynamic Weather - Climate OverRider (OA + Rain) - No Fog.esp
 " Xepha's Dynamic Weather - Climate OverRider.esp
 Xepha's Dynamic Weather - Sandstorm.esp
 Xepha's Dynamic Weather - Darker Water.esp
+Xepha's Dynamic Weather - NightTime SneakBoost.esp
 Night Time Sneak Boost.esp
 OasisSafeWater.esp
 TheOutbreak - WMS Combo Pack - C12H.esp
@@ -2656,14 +2660,14 @@ The Groovatron_DLC_PL_Addon.esp
 \-----------
 \Hair, eyes, race addons & changes and other cosmetics.
 
-\BeginGroup\: Body and head changes
-\'''''''''''''''''''''
+\BeginGroup\\ Body and head changes
+\-----------
 EwwGhoulyBody.esp
 % {{BASH: Body-F}}
 \EndGroup\\
 
-\Hair
-\''''
+\BeginGroup\\ Hair
+\-----------
 HairPack_2chPlus.esp
 % {{BASH: Hair}}
 HairPack_2chPlus+.esp
@@ -2685,6 +2689,8 @@ XENH.esp
 % {{BASH: Hair,Eyes}}
 EZCompanion_Type-N.esp
 % {{BASH: Hair,Eyes}}
+\EndGroup\\
+
 \EndGroup\\
 
 
