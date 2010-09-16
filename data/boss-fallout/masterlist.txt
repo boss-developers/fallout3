@@ -1405,6 +1405,7 @@ Dogmeat Leather Armor - CRAFT.esp
 Dogmeat Leather Armor - no crafting.esp
 Dragonskin Tactical Outfit.esp
 DragonskinBonusPack.esp
+FaithOutfit.esp
 Freebooter_Armor.esp
 FO3Ayumi.esp
 FO3Fate.esp
@@ -2852,6 +2853,8 @@ tubunarFWE.esp
 CRBSOR.esp
 ? Do not use with latest FWE, it is already integrated.
 CRBSOR [Achievements Removed].esp
+MMM-Zeta crash fix.esp
+MMM-FWE fix.esp
 Merged.esp
 Merged Patch.esp
 \EndGroup\\
