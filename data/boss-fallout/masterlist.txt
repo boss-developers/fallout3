@@ -5,6 +5,7 @@
 \ % A Bashed Patch suggestion for the mod above.
 \ ? A comment about the mod above.
 \ * Flags a critical mistake for FOOK2 installation in relation to the mod above.
+\ $ Flags a critical mistake for FWE installation in relation to the mod above.
 \ : Means "Requires:"
 \ " Means "Conflicts with:"
 \
@@ -80,7 +81,9 @@ MMZombieCemetery.esm
 MMFastZombieCemetery-NotRecommended.esm
 Vault 101 Revisited.esm
 CubeExperimental (EN).esm
+NewCairo.esm
 All Your Bananas.esm
+Malos_Arena_EV.esm
 RoadWardens.esm
 % {{BASH: Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.Stats,Factions,Invent,Scripts,ScriptContents}}
 FOOK2 - Main.esm
@@ -222,6 +225,11 @@ UF3P Crane Fix.esp
 Citadel Crane Fix.esp
 Error Correction.esp
 % {{BASH: Scripts}}
+: Requires: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+: Zeta.esm
 Error Correction - All Transparency.esp
 Error Correction - All Transparency & Trees.esp
 " Error Correction - All Transparency.esp
@@ -276,6 +284,9 @@ BetterGamePerformance.esp
 % {{BASH: Deflst,Delev}}
 Megatonnavmesh.esp
 BSMovieSkip.esp
+Dialogue Tweaks.esp
+SGsUA - No Borders v.1.0-EN.esp
+SGsUA - No Borders v.1.0-DE.esp
 \EndGroup\\
 
 
@@ -578,6 +589,7 @@ Perfectly SPECIAL + No Level.esp
 : BrokenSteel.esm
 Perfectly SPECIAL.esp
 : BrokenSteel.esm
+FreePumpkin-perk.esp
 \EndGroup\\
 
 
@@ -635,6 +647,13 @@ Devoured in Darkness.esp
 Darkness.esp
 EIP.esp
 : BrokenSteel.esm
+TheMissingScientist1_V1.21.esp
+The Car Fort With Quests.esp
+Project-Valhalla.esp
+SOL.esp
+NecronomiconExMortis 5.5.esp
+TheProjectV1.1.esp
+Vault88_TmFox.esp
 \EndGroup\\
 
 
@@ -698,6 +717,11 @@ PortableMattress.esp
 Portable Distilling Lab.esp
 PortableCampStuff.esp
 PortableCampStuff - CRAFT.esp
+RZW_PortableFans.esp
+RZW_PortableBearTraps.esp
+mazas_campfire.esp
+FF_PortableLabInfirmary.esp
+FF_WonderMeatMaker.esp
 Sack of Holding.esp
 BlackWolf Backpack.esp
 BlackWolf Backpack - Vendor Script Replenish.esp
@@ -709,6 +733,7 @@ BlackWolf Backpack - Blank's Container Patch.esp
 Backpacks - SedPL.esp
 GunnySack.esp
 JSbackpack.esp
+WeightedCompanionCube.esp
 SS OTS Camera FOSE.esp
 1Animated Nightvision goggles.esp
 Binoculars.esp
@@ -828,6 +853,7 @@ CrowdedCities_v2.esp
 " CrowdedCities_v2_lessNPCs.esp
 CrowdedCities_v2_lessNPCs.esp
 " CrowdedCities_v2.esp
+A Crowded Wasteland.esp
 MTC Wasteland Travellers.esp
 MTC Wasteland Travellers (Optional)- Crowded Cities less NPCs.esp
 " MTC Wasteland Travellers (Optional)- Crowded Cities.esp
@@ -845,6 +871,7 @@ Clothed Sarah Lyons - Sleepwear.esp
 Named Wasteland.esp
 % {{BASH: Names}}
 NPCs Sleep Tighter.esp
+richvendors.esp
 royphilipsevil.esp
 % {{BASH: Actors.ACBS,Actors.AIData}}
 royphilipsveryevil.esp
@@ -992,6 +1019,11 @@ RobotFacility.esp
 Meet the Devs.ESP
 MegatonWeapons.esp
 TestingRoom.esp
+Sanctum.esp
+Sanctum-Storage.esp
+Rat Trap v1.01.esp
+MCCALL_FriendsAreForever.esp
+DadsRCRoom.esp
 \EndGroup\\
 
 
@@ -1293,6 +1325,11 @@ MissingUniqueWeapons-Enhanced-BS+PL.esp
 cryolator.esp
 WinchesterModel1894Yellowboy.esp
 YK40 Pulse Pistol.esp
+H&KUSPWithWorkingFlashlight.esp
+HZ_USP.esp
+SilencedSniperRiflesStd.esp
+SilencedSniperRiflesUnq.esp
+More308Ammo.esp
 \EndGroup\\
 
 
@@ -1514,6 +1551,7 @@ Improved Turret Reprogramming - ALL.esp
 " Improved Turret Reprogramming - BS.esp
 " Improved Turret Reprogramming - Pitt.esp
 " Improved Turret Reprogramming - PL.esp
+Friendly Portable Turrets.esp
 Childhood Beginning.esp
 : EnhancedChildren.esm
 CB Add-on.esp
@@ -1526,30 +1564,6 @@ PowerOfTheAtom_FOOKandFWE.esp
 AutomatScriptRemoved.esp
 UpgradedCaravanMerchants.esp
 PP - Less Paranoid NPCs.esp
-\EndGroup\\
-
-
-\BeginGroup\\ EVE Stuff
-\-----------
-EVE Test Options.esp
-EVE Beta_0.9.4.esp
-? Upgrade needed, there is a new version of EVE available.
-EVE.esp
-% {{BASH: Graphics,Sound,Scripts}}
-EVE Operation Anchorage.esp
-% {{BASH: Graphics,Sound}}
-: Anchorage.ESM
-EVE Main - FWE Master Release.esp
-? May cause crashes at start. If so disable this and find updated version.
-EVE - FWE Master Release.esp
-% {{BASH: Graphics,Sound}}
-EVE - FWE Master Release (Follower Enhanced).esp
-% {{BASH: Graphics,Sound}}
-EVE Anchorage - FWE DLC Anchorage.esp
-% {{BASH: Graphics,Sound}}
-EVE - FWE with WeaponModKits.esp
-% {{BASH: Graphics,Sound}}
-CFWRloadlastEVE.esp
 \EndGroup\\
 
 
@@ -1633,6 +1647,18 @@ UWWUT_WT - WMK Addon.esp
 WeaponModKits-Unique.esp
 : WeaponModKits.esp
 % {{BASH: Graphics}}
+unique_uniques.esp
+" unique_uniquesDLC.esp
+% {{BASH: Graphics}}
+unique_uniquesCut.esp
+" unique_uniquesCutDLC.esp
+% {{BASH: Graphics}}
+unique_uniquesDLC.esp
+" unique_uniques.esp
+% {{BASH: Graphics}}
+unique_uniquesCutDLC.esp
+" unique_uniquesCut.esp
+% {{BASH: Graphics}}
 Less Useless Karma Gifts.esp
 % {{BASH: Relev,Delev}}
 Less Useless Karma Gifts 2.0.esp
@@ -1693,6 +1719,30 @@ Deputy Weld and Steel - Badges and Hats.esp
 % {{BASH: Graphics,Actors.Anims,Invent}}
 Deputy Weld and Steel - Badges Steel Hat.esp
 % {{BASH: Graphics,Actors.Anims,Invent}}
+\EndGroup\\
+
+
+\BeginGroup\\ EVE Stuff
+\-----------
+EVE Test Options.esp
+EVE Beta_0.9.4.esp
+? Upgrade needed, there is a new version of EVE available.
+EVE.esp
+% {{BASH: Graphics,Sound,Scripts}}
+EVE Operation Anchorage.esp
+% {{BASH: Graphics,Sound}}
+: Anchorage.ESM
+EVE Main - FWE Master Release.esp
+? May cause crashes at start. If so disable this and find updated version.
+EVE - FWE Master Release.esp
+% {{BASH: Graphics,Sound}}
+EVE - FWE Master Release (Follower Enhanced).esp
+% {{BASH: Graphics,Sound}}
+EVE Anchorage - FWE DLC Anchorage.esp
+% {{BASH: Graphics,Sound}}
+EVE - FWE with WeaponModKits.esp
+% {{BASH: Graphics,Sound}}
+CFWRloadlastEVE.esp
 \EndGroup\\
 
 
@@ -1916,6 +1966,7 @@ Mysteriouswoman_alternativetop.esp
 Mysteriouswoman_sexytopless.esp 
 CBOv1.4.esp
 CBOv1.4_bittercup_comp.esp
+CBOv1.4_bittercup_comp_restyled.esp
 CBOv1.4_bittercup_comp_waitrelax_restyled.esp
 CBOv1.4_the_other_bittercup_comp_waitrelax.esp
 CBOv1.4_spcross_dimonized_brazilian_b.esp
@@ -2058,6 +2109,13 @@ T3T_AT_ZetaCompanion.esp
 T3T_AT_CAS.esp
 T3T_BetterMegatonStorage.esp
 T3T_MiscItemIcons.esp
+? Do not use with latest FWE, it is already integrated.
+Standard Weapon's Spread.esp
+Anchorage Weapon Spread.esp
+Pitt Weapon Spread.esp
+BOS Weapon Spread.esp
+Pt Lookout Weapon Spread.esp
+M. Zeta Weapon Spread.esp
 ACRForFWE.esp
 SVDForFWE.esp
 MP5ForFWE.esp
@@ -2210,10 +2268,17 @@ RaiderExpanded[M&W].esp
 MercenaryExpanded[M&W].esp
 RaiderMercenaryExpanded[M&W].esp
 Savage Wasteland - Fewer Gun Wielding Maniacs.esp
+Zombie Apocalypse.esp
+Zombie Apocalypse - Point Lookout.esp
 CrossRepairWeapons.esp
 CrossRepairArmor.esp
 repairfix.esp
 Updated XRepair.esp
+AnchoRepair.esp
+PittRepair.esp
+BSteelRepair.esp
+PLookoutRepair.esp
+MZetaRepair.esp 
 NippersWeaponNips.esp
 NippersArmorNips.esp
 AnchoRepair.esp
@@ -2228,6 +2293,8 @@ vaps-point-lookout.esp
 vaps-fwe.esp
 vaps-marts-mutant-mod.esp
 PortableCampStuff - WMK.esp
+WeaponModKits - PortableCampStuff.esp
+ColeensTent.esp
 GTent-FWE.esp
 : FO3 Wanderers Edition - Main File.esm
 : CRAFT.esm
@@ -2290,6 +2357,7 @@ SuperJumpWater5x.esp
 SuperJumpWater10x.esp
 lessviewdistance.esp
 lessviewdistanceThePitt.esp
+LessViewDistance Fellout Compatability Patch.esp
 OAlessviewdistance.esp
 dD-Larger Blood.esp
 dD-Less Blood Time.esp
@@ -2726,6 +2794,7 @@ FOOK+FWE+EVE+UWWUT.esp
 Mez's Merged Patch - FWE-WMK-MMM.esp
 Mez's Merged Patch 5-0 - DLC-FWE-WMK-MMM.esp
 % {{BASH: Deflst,Delev,Factions,Invent,Relations,Relev,Scripts}}
+Impervious Power Armour- FWE Fixer.esp
 Sydney Follower.esp
 Sydney Follower - Load Order Fix.esp
 JHBSydneyUpdate.esp
@@ -2776,6 +2845,7 @@ frederyck+FWE+xCALIBR.esp
 : xCALIBR.esm
 : WeaponModKits.esp
 : WeaponModKits - FWE Master Release.esp
+UPP - NaturalBornSniper WMK compatibility.esp
 Choose your own hairstyle (load this last on FOMM).esp
 % {{BASH: NpcFaces,Hair,Eyes}}
 tubunarFWE.esp
