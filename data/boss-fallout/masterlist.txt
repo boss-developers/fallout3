@@ -103,7 +103,7 @@ FOOK2 - [DIK] DLC Improvement Kit.esm
 : CALIBR.esm
 : FOOK2 - Main.ESM
 FO3 Wanderers Edition - Main File.esm
-% {{BASH: Actors.ACBS,Actors.Stats,Deflst,Delev,Invent,Relations,Relev,Stats}}
+% {{BASH: Actors.ACBS,Actors.Stats,Deflst,Delev,Invent,Names,Relations,Relev,Stats}}
 : CRAFT.esm
 : CALIBR.esm
 Fallout3Tactics.esm
@@ -1229,6 +1229,7 @@ Tailor Maid Black Retex.esp
 \BeginGroup\\ WeaponModKits
 \-----------
 WeaponModKits.esp
+% {{BASH: Names}}
 WeaponModKits - FOOK.esp
 WeaponModKits - FWE Master Release.esp
 % {{BASH: Deflst,Relev}}
