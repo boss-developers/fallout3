@@ -462,8 +462,14 @@ AlternateEnding.esp
 Zombie Sounds V2.esp
 choose_XP_FOSE.esp
 RH_IronSights_Basic_VanillaPlugin.esp
+RH_IronSights_Basic_AnchoragePlugin.esp
 RH_IronSights_Basic_PittPlugin.esp
+RH_IronSights_Basic_BrokenSteelPlugin.esp
 RH_IronSights_Basic_PointLookoutPlugin.esp
+RH_IronSights_Basic_ZetaPlugin.esp
+RH_IronSights_Pitt_NewRifleSights.esp
+RH_IronSights_PL_HatAndShotgun.esp
+RH_IronSights_RemoveReticule.esp
 1alexscorpionFPSanimations.esp
 OneKeyArmor.esp
 Automated FOV.esp
