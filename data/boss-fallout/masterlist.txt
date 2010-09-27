@@ -1,5 +1,4 @@
-﻿
-\ Leading symbol code:
+﻿\ Leading symbol code:
 \
 \ \ A silent comment - will be ignored by the program.
 \ % A Bashed Patch suggestion for the mod above.
@@ -12,10 +11,11 @@
 \ > process this line only if FOOK2 is installed.
 \ < process this line only if FOOK2 isn't installed.
 \
+\ Unused symbols: ^
+\ Don't try using them, as they aren't assigned to do anything special.
+\
 \ Multiple remark/comment/bash/error lines allowed.
 \ Lines beginning with \ and blank lines are treated the same (ignored).
-\
-\ AliTHeLord has made changes to the source code for FO3 BOSS
 
 
 \BeginGroup\\ ESMs
