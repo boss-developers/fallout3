@@ -1594,14 +1594,6 @@ RobCo Certified v2 Mechanist's Edition.esp
 : RobCo Certified v2.esm
 RobCo Certified v2 Zeta Addon.esp
 : RobCo Certified v2.esm
-RobCo Certified v2 Omnipatch.esp
-: RobCo Certified v2.esm
-RobCo Certified v2 FWE.esp
-: RobCo Certified v2.esm
-RobCo Certified v2 Impervious.esp
-: RobCo Certified v2.esm
-RobCo Certified v2 Impervious for FWE.esp
-: RobCo Certified v2.esm
 Mr Smith's Scrapyard.esp
 : RobCo Certified v2.esm
 : ThePitt.ESM
@@ -2479,6 +2471,10 @@ DarkerInteriorsPointLookout.esp
 % {{BASH: C.Light}}
 DarkerInteriorsZeta.esp
 % {{BASH: C.Light}}
+URWL47.esp
+% {{BASH: C.Light}}
+NColorDCInteriors.esp
+% {{BASH: C.Light}}
 Xepha's Dynamic Weather - Main.esp
 % {{BASH: C.Climate}}
 Xepha's Dynamic Weather - Anchorage.esp
@@ -2777,6 +2773,19 @@ AmyWong - Load Order Fix.esp
 : AmyWong.esm
 RobCo Certified - FWE EVE Balance.esp
 RobCo Certified - FWE EVE Balance Light.esp
+RobCo Certified v2 EVE.esp
+: RobCo Certified v2.esm
+RobCo Certified v2 FWE.esp
+: RobCo Certified v2.esm
+RobCo Certified v2 Omnipatch.esp
+: RobCo Certified v2.esm
+" RobCo Certified v2 EVE.esp
+" RobCo Certified v2 FWE.esp
+" RobCo Certified v2 Zeta Addon.esp
+RobCo Certified v2 Impervious.esp
+: RobCo Certified v2.esm
+RobCo Certified v2 Impervious for FWE.esp
+: RobCo Certified v2.esm
 Destruction - CP - Fellout.esp
 FNNIguana - MMM.esp
 : FNNIguana.esm
