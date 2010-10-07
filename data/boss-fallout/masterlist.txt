@@ -57,7 +57,7 @@ CALIBR.esm
 xCALIBR.esm
 % {{BASH: Names,Graphics,Stats}}
 xCALIBRuniverse.esm
-% {{BASH: Names,Graphics,Sound,Stats}}
+% {{BASH: Names,Graphics,Invent,Sound,Stats}}
 CRAFTHelper.esm
 Project Beauty HD version.esm
 * Old. Download the latest Project Beauty files.
@@ -2454,6 +2454,8 @@ DarkerInteriorsZeta.esp
 % {{BASH: C.Light}}
 URWL47.esp
 % {{BASH: C.Light}}
+URWL48.esp
+% {{BASH: C.Light}}
 NColorDCInteriors.esp
 % {{BASH: C.Light}}
 Xepha's Dynamic Weather - Main.esp
@@ -2592,26 +2594,57 @@ CRAFT - WCE FOOK+FWE Patch.esp
 CRAFT - WCE Warmonger Addon.esp
 : CRAFT - Workbench and Crafting Expansion combined.esp
 20th Century v4 ALIVE (Vendor).esp
+% {{BASH: Invent}}
 20th Century v4 ALIVE (NPC_Settler).esp
+% {{BASH: Invent}}
 20th Century v4 ALIVE (Raider).esp
+% {{BASH: Invent}}
 20th Century v4 ALIVE (RivetCity).esp
+% {{BASH: Invent}}
 20th Century v4 ALIVE (Brotherhood_Outcast).esp
+% {{BASH: Invent}}
 20th Century v4 ALIVE (SuperMutant).esp
+% {{BASH: Invent}}
 20th Century v4 ALIVE (Vault 101).esp
+% {{BASH: Invent}}
 20th Century v4 ALIVE (Chinese Ghoul).esp
+% {{BASH: Invent}}
 20th Century v4 ALIVE (Talon_Regulator).esp
+% {{BASH: Invent}}
 20th Century v5 ALIVE (Vendor).esp
+% {{BASH: Invent}}
 20th Century v5 ALIVE (Containers).esp
+% {{BASH: Invent}}
 20th Century v5 ALIVE (NPC_Settler).esp
+% {{BASH: Invent}}
 20th Century v5 ALIVE (Vault 101).esp
+% {{BASH: Invent}}
 20th Century v5 ALIVE (RivetCity).esp
+% {{BASH: Invent}}
 20th Century v5 ALIVE (Raider).esp
+% {{BASH: Invent}}
 20th Century v5 ALIVE (Slaver).esp
+% {{BASH: Invent}}
 20th Century v5 ALIVE (Chinese Ghoul).esp
+% {{BASH: Invent}}
 20th Century v5 ALIVE (SuperMutant).esp
+% {{BASH: Invent}}
 20th Century v5 ALIVE (Talon_Regulator).esp
+% {{BASH: Invent}}
 20th Century v5 ALIVE (Brotherhood_Outcast).esp
+% {{BASH: Invent}}
 20th Century v5 ALIVE (TEST Container).esp
+FWE Ammo Rarity for 20th Century.esp
+FWE Ammo Weight for 20th Century.esp
+" FWE Realistic Ammo Weight inc 20th Cent.esp
+FWE-20thCent Ammo Weight in Names.esp
+" FWE Realistic Ammo Weight in Names inc. 20th Cent.esp
+% {{BASH: Names}}
+FWE Realistic Ammo Weight inc 20th Cent.esp
+" FWE Ammo Weight for 20th Century.esp
+FWE Realistic Ammo Weight in Names inc. 20th Cent.esp
+" FWE-20thCent Ammo Weight in Names.esp
+% {{BASH: Names}}
 CarvanTrader.esp
 CaravanEssential.esp
 Achievement Remover [FO3+OA+BS].esp
@@ -2792,7 +2825,7 @@ Sydney Follower.esp
 Sydney Follower - Load Order Fix.esp
 JHBSydneyUpdate.esp
 xCALIBRuniverse.esp
-% {{BASH: Names,Graphics,Sound,Stats}}
+% {{BASH: Names,Graphics,Invent,Sound,Stats}}
 xCALIBRuniverse_ammoLists.esp
 xCALIBRuniverse_repairLists.esp
 xCALIBRUniverse - WMK.esp
