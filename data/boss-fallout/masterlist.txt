@@ -2850,37 +2850,37 @@ xCALIBRuniverse_repairLists.esp
 xCALIBRUniverse - WMK.esp
 % {{BASH: Names,Graphics,Sound,Stats}}
 xCALIBR_override.esp
-% {{BASH: Names,Graphics,Stats}}
+% {{BASH: Names,Graphics}}
 : CALIBR.esm
 : xCALIBR.esm
 xCALIBR_override_unsorted.esp
-% {{BASH: Names,Graphics,Stats}}
+% {{BASH: Names,Graphics}}
 : CALIBR.esm
 : xCALIBR.esm
 xCALIBR_override_FWE5.esp
-% {{BASH: Names,Graphics,Stats}}
+% {{BASH: Names,Graphics}}
 : CALIBR.esm
 : xCALIBR.esm
 xCALIBR_FWE5_Override.esp
-% {{BASH: Names,Graphics,Stats}}
+% {{BASH: Names,Graphics}}
 : CALIBR.esm
 : xCALIBR.esm
 xCALIBRammo_FWE.esp
-% {{BASH: Names,Graphics,Stats}}
+% {{BASH: Names,Graphics}}
 : CALIBR.esm
 : xCALIBR.esm
 xCALIBR_2CW_CP.esp
-% {{BASH: Names,Graphics,Stats}}
+% {{BASH: Names,Graphics}}
 : CALIBR.esm
 : xCALIBR.esm
 : 20th Century Weapons.esm
 xCALIBR_2CW_CP_Sorted.esp
-% {{BASH: Names,Graphics,Stats}}
+% {{BASH: Names,Graphics}}
 : CALIBR.esm
 : xCALIBR.esm
 : 20th Century Weapons.esm
 xCALIBR_20CW_v5.12.esp
-% {{BASH: Names,Graphics,Stats}}
+% {{BASH: Names,Graphics}}
 : CALIBR.esm
 : xCALIBR.esm
 : 20th Century Weapons.esm
