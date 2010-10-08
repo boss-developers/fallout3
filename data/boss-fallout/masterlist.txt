@@ -559,6 +559,7 @@ IPip.esp
 ReloadAmmo.esp
 Consistent Books.esp
 RemoteControlCompanionsPlus.esp
+FollowersRelax.esp
 CONELRAD 640-1240.esp
 Existence2.0.esp
 UPP - Pack 1.esp
@@ -1977,6 +1978,7 @@ CBOv1.4_spcross_dimonized_brazilian_b.esp
 CBOv1.4_slaveraider.esp
 EnclaveCommander.esp
 EnclaveCommander-OA.esp
+JHBCloverPlus.esp
 \EndGroup\\
 
 \BeginGroup\: Realism Mods
