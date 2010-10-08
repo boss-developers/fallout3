@@ -63,6 +63,8 @@ Project Beauty HD version.esm
 * Old. Download the latest Project Beauty files.
 Project Beauty.esm
 % {{BASH: NpcFaces,Hair,Eyes,Voice-M,Voice-F,Body-M,Body-F,R.Teeth,R.Mouth}}
+FACE3.esm
+% {{BASH: NpcFaces,Hair,Eyes,Voice-M,Voice-F,Body-M,Body-F,R.Teeth,R.Mouth}}
 CFWRv4.esm
 % {{BASH: Deflst,Delev,Invent,Names,Graphics,Scripts,Stats}}
 20thCenturyWeapons.esm
@@ -302,12 +304,19 @@ Raider preset beta.esp
 % {{BASH: NpcFaces,NoMerge,Deactivate}}
 Project Beauty HD version [Hair Fix].esp
 % {{BASH: NpcFaces,NoMerge,Deactivate}}
+FACE3 - NPCS.esp
+% {{BASH: NpcFaces,NoMerge,Deactivate}}
+FACE3 - DLC04 Point Lookout.esp
+% {{BASH: NpcFaces,NoMerge,Deactivate}}
+FACE3 NPCS - DLC03 Broken Steel.esp
+% {{BASH: NpcFaces,NoMerge,Deactivate}}
 Fast VATS 1.esp
 " Fast VATS 2.esp
 Fast VATS 2.esp
 " Fast VATS 1.esp
 VATS_Normal_dmg_to_player.esp
 " Fast VATS X.esp.
+VATS Normal Weapon Degradation.esp
 Fast_but_dramatic_VATS_0.9.esp
 QuickerMessages.esp
 QuickerMessagesOA.esp
@@ -364,6 +373,7 @@ YearlingsGlasses.esp
 MaxLevelWorkaround-BS.esp
 Max Level 99 V2.esp
 MaxLevel100.esp
+NoLockTopic.esp
 QZ No VATS Radial Blur.esp
 no blur on hit.esp
 Advanced Visionary Effects.esp
@@ -452,6 +462,7 @@ Auto Aim Fix v1.1.esp
 ? DO not use with latest FWE, it is already integrated.
 KHWeaponscanner.esp
 ? DO not use with latest FWE, it is already integrated.
+DBAS.esp
 Alternate Start - Roleplayers.esp
 ? DO not use with latest FWE, it is already integrated.
 Selected Containers Respawn.esp
@@ -1175,6 +1186,7 @@ FO3 Wanderers Edition - Project Beauty (HD Addition).esp
 FO3 Wanderers Edition - Project Beauty (Followers Enhanced).esp
 Return to Shady Sands - FWE weapons rebalance.esp
 RH_FWE_Patch.esp
+Alt Start Weapons - FWE.esp
 \EndGroup\\
 
 \BeginGroup\: Other
@@ -1560,6 +1572,7 @@ Menu Based Hacking & Picking.esp
 PowerOfTheAtom_FOOKandFWE.esp
 AutomatScriptRemoved.esp
 UpgradedCaravanMerchants.esp
+CaravanUpgrades.esp
 PP - Less Paranoid NPCs.esp
 \EndGroup\\
 
@@ -1799,6 +1812,10 @@ Project Beauty- MMM Raiders.esp
 * Old. Download the latest Project Beauty files.
 Mart's Mutant Mod - Project Beauty.esp
 % {{BASH: NpcFaces,Hair,Eyes,Voice-M,Voice-F,Body-M,Body-F,R.Teeth,R.Mouth,NoMerge}}
+CP - FACE3 NPCS [MMM].esp
+% {{BASH: NpcFaces,NoMerge,Deactivate}}
+CP - FACE3 [MMM] Racefix.esp
+% {{BASH: NpcFaces,NoMerge,Deactivate}}
 Mart's Mutant Mod - FOOK.esp
 * Get FOOK2
 Mart's Mutant Mod - FOOK2.esp
@@ -1822,7 +1839,9 @@ Mart's Mutant Mod - FWE with EVE.esp
 : FO3 Wanderers Edition - Main File.esm
 : EVE.esp
 Mart's Mutant Mod - Project Beauty + FWE.esp
+% {{BASH: NpcFaces,NoMerge}}
 Mart's Mutant Mod - Project Beauty (HD Addition).esp
+% {{BASH: NpcFaces,NoMerge}}
 * Old. Download the latest Project Beauty files.
 Mart's Mutant Mod - Linged.esp
 Mart's Mutant Mod - CFW.esp
@@ -2846,12 +2865,21 @@ xCALIBR_FWE5_Override.esp
 % {{BASH: Names,Graphics,Stats}}
 : CALIBR.esm
 : xCALIBR.esm
+xCALIBRammo_FWE.esp
+% {{BASH: Names,Graphics,Stats}}
+: CALIBR.esm
+: xCALIBR.esm
 xCALIBR_2CW_CP.esp
 % {{BASH: Names,Graphics,Stats}}
 : CALIBR.esm
 : xCALIBR.esm
 : 20th Century Weapons.esm
 xCALIBR_2CW_CP_Sorted.esp
+% {{BASH: Names,Graphics,Stats}}
+: CALIBR.esm
+: xCALIBR.esm
+: 20th Century Weapons.esm
+xCALIBR_20CW_v5.12.esp
 % {{BASH: Names,Graphics,Stats}}
 : CALIBR.esm
 : xCALIBR.esm
