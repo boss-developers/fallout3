@@ -113,7 +113,7 @@ FO3 Wanderers Edition - Main File.esm
 Fallout3Tactics.esm
 Fallout3Tactics Creatures.esm
 Mart's Mutant Mod.esm
-% {{BASH: Delev,Invent,Names,Relations}}
+% {{BASH: Delev,Invent,Names,Relations,Scripts}}
 FNNIguana.esm
 LingsFinerThings.esm
 LingsMMMpatch3-3.esm
