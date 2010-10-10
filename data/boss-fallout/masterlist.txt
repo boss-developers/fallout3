@@ -38,6 +38,7 @@ HairPack.esm
 % {{BASH: Hair,Eyes}}
 Hairday.esm
 RI_Core.esm
+FNNsys.esm
 IMCN.esm
 FaceMe.esm
 % {{BASH: NpcFaces,Hair,Eyes}}
@@ -89,6 +90,7 @@ NewCairo.esm
 All Your Bananas.esm
 Mothership Crew.esm
 NecronomiconExMortis 5.6.esm
+Bridge Town.esm
 Malos_Arena_EV.esm
 RoadWardens.esm
 % {{BASH: Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.Stats,Factions,Invent,Scripts,ScriptContents}}
@@ -199,6 +201,7 @@ MiniVault+Race.esm
 RH_IRONSIGHTS.esm
 Zumbs' Overhauled Real Time Security.esm
 PunisherGear.esm
+Thermal Vision.esm
 Abbreviated Effects.esm
 % {{BASH: Names}}
 ? Do not use with latest FWE, it is already integrated.
@@ -474,6 +477,7 @@ Alternate Start - Roleplayers.esp
 ? DO not use with latest FWE, it is already integrated.
 Selected Containers Respawn.esp
 ? DO not use with latest FWE, it is already integrated.
+Containers Respawn.esp
 Precision_AutoAim_6000.esp
 AlternateEnding.esp
 Zombie Sounds V2.esp
@@ -567,6 +571,7 @@ IPip.esp
 ReloadAmmo.esp
 Consistent Books.esp
 RemoteControlCompanionsPlus.esp
+TCOS.esp
 FollowersRelax.esp
 CONELRAD 640-1240.esp
 Existence2.0.esp
@@ -612,6 +617,8 @@ Perfectly SPECIAL + No Level.esp
 : BrokenSteel.esm
 Perfectly SPECIAL.esp
 : BrokenSteel.esm
+PowerArmorTraining.esp
+PowerArmorTraining_MedicArmor.esp 
 \EndGroup\\
 
 \BeginGroup\\ Global Traveling System
@@ -838,6 +845,7 @@ Expanded Megaton House V3-No Stove.esp
 MegatonBasement.esp
 JB-MegatonHouse_v1.0.esp
 Princess Tenpenny Home Extension.esp
+Princess Megaton Home Extension.esp
 Tenpenny_Expansion.esp
 JHBNewHouse.esp
 Transporter.esp
@@ -869,6 +877,7 @@ QuantumPipeV2.esp
 Mark and recall.esp
 Twinkies.esp
 MoreMapMarkers.esp
+GPS Tracking.esp
 rockopolisandabandonedtentmapmarker.esp
 MaxLevelWorkaround-HP-BS.esp
 WastelandMastery.esp
@@ -907,6 +916,7 @@ FPS Grenade Hotkey.esp
 ? Do not use with latest FOOK2/FWE, it is already integrated.
 FPS Grenade Hotkey - Zeta addon.esp
 ? Do not use with latest FOOK2/FWE, it is already integrated.
+FPS Knife Hotkey.esp
 Melee Lock-On.esp
 NoKnockedOverComments.esp
 bzArmour.esp
@@ -966,6 +976,7 @@ Named Wasteland.esp
 % {{BASH: Names}}
 NPCs Sleep Tighter.esp
 richvendors.esp
+More Merchant Caps.esp
 royphilipsevil.esp
 % {{BASH: Actors.ACBS,Actors.AIData}}
 royphilipsveryevil.esp
@@ -1278,6 +1289,7 @@ Return to Shady Sands - FWE weapons rebalance.esp
 RH_FWE_Patch.esp
 Alt Start Weapons - FWE.esp
 MZC-FWE_FOIP.esp
+FNNsys - FWE.esp
 \EndGroup\\
 
 \BeginGroup\\ Other
@@ -1419,6 +1431,7 @@ MissingUniqueWeapons-Enhanced.esp
 MissingUniqueWeapons-Enhanced-BS.esp
 MissingUniqueWeapons-Enhanced-PL.esp
 MissingUniqueWeapons-Enhanced-BS+PL.esp
+Uniqueweapons.esp
 cryolator.esp
 WinchesterModel1894Yellowboy.esp
 YK40 Pulse Pistol.esp
@@ -1428,6 +1441,11 @@ SilencedSniperRiflesStd.esp
 SilencedSniperRiflesUnq.esp
 More308Ammo.esp
 InverseCombatKnife.esp
+g36mod.esp
+2Bore.esp
+Gatling Plasma.esp
+JQ-40K.esp
+JQ40K2.esp
 \EndGroup\\
 
 \BeginGroup\\ Armor\Clothes
@@ -1582,7 +1600,18 @@ Tactical Vest CIRAS - Vendor Restock Script.esp
 EMPGrenadeKnockoutPowArmor.esp
 EnclavePACollars.esp
 All Anchorage Armors Usable.esp
-Armor Your Vault Suits.esp 
+Armor Your Vault Suits.esp
+StealthCamouflage.esp
+Thermoptic PowerArmor Helmets.esp
+: Thermal Vision.esm
+Thermoptic Glasses.esp
+: Thermal Vision.esm
+NAPA.esp
+MZ-Weak-EbonTek.esp
+Cybernetic Implants Xangi.esp
+RaiderPowerArmor_lvl.esp
+WHSpaceMarineArmor.esp
+outcast_recon_armor_zeta.esp
 \EndGroup\\
 
 \BeginGroup\\ Cosmetics
@@ -1814,6 +1843,7 @@ Less Useless Karma Gifts 2.0.esp
 S.T.A.L.K.E.R. Call of D.C..esp
 S.T.A.L.K.E.R. MOD.esp
 ARSENAL MOD.esp
+ARSENAL MOD_Test Box.esp
 Responsive Kill Reactions.esp
 ImmersiveHealth.esp
 ImmersiveHealth-LITE.esp
@@ -1985,6 +2015,7 @@ Mart's Mutant Mod - FOOK2 - Natural Selection.esp
 Mart's Mutant Mod - GSoS CaSO.esp
 CT_FalloutAdvanced - MMM.esp
 ARSENAL MOD+MMM.esp
+ARSENAL MOD+Mart's Mutant Mod.esp
 Mutant perks for MMM 1.9.esp
 S.T.A.L.K.E.R. Call of D.C.+MMM.esp
 S.T.A.L.K.E.R. Mutants[addon for MMM].esp
@@ -2148,7 +2179,12 @@ RI_Base3.esp
 RI_PNeeds2S.esp
 RI_DoctorCost.esp
 RI_Alcohol.esp
+RI_PNMMM.esp
 RI_FOSE.esp
+RI_LootTableRI.esp
+RI_LootTablePN.esp
+RI_PNAnchorage.esp
+RI_CrippledEffects.esp
 RiPnO CorePatch.esp
 Imp's More Complex Needs.esp
 : IMCN.esm
@@ -2212,6 +2248,7 @@ BLTC Less Addictions.esp
 CP - RiPnO [bltc032].esp
 CP - RiPnO [MMM] Meats.esp
 RiPnO - OPTIONAL - Cola Heals.esp
+Realistic Explosions.esp
 \EndGroup\\
 
 \BeginGroup\\ Later Misc
@@ -2308,6 +2345,7 @@ CombatEnhanced-Package v02.esp
 Attentater's Wasteland Economy.esp
 AsharasPresets.esp
 FasterMorePowerfulMines.esp
+VisionMod-Tom.esp
 EnhVision.esp
 " EnhVisionHK.esp
 EnhVisionHK.esp
@@ -2318,6 +2356,10 @@ NVFAAPANoTex.esp
 Gore_No_More.esp
 Less_Blood.esp
 FeminizedPowerArmor.esp
+OAFeminizedPowerArmor.esp
+: Anchorage.esm
+TPFeminizedPowerArmor.esp
+: ThePitt.esm
 Arwen_XPR_Extreme.esp
 KillableKids.esp
 ? Choose only one 'KillableKids' ESP.
@@ -2340,6 +2382,8 @@ oroLookoutFix.esp
 Misc Mod.esp
 Owned!.esp
 % {{BASH: Factions}}
+infiltrations.esp
+% {{BASH: Scripts}}
 FaceMe-MMM.esp
 FaceMe-MMM Tougher Traders.esp
 Gifts4Kids.esp
@@ -2515,6 +2559,7 @@ TimeScaleTo5.esp
 TimeScaleTo15.esp
 TimeScaleTo20.esp
 TimeScaleTo25.esp
+Backpedal.esp
 SuperJump1.5x.esp
 SuperJump2x.esp
 SuperJump3x.esp
@@ -2587,6 +2632,16 @@ PiPBoy Light Range x4.esp
 PiPBoy Yellow Light.esp
 PiPBoy Grey Light.esp
 Faster PipBoy Light.esp
+Magic Pip-Light (Night-Vision Edition).esp
+Magic Pip-Light (20 Brightness).esp 
+Magic Pip-Light (25 Brightness).esp 
+Magic Pip-Light (30 Brightness).esp 
+Magic Pip-Light (35 Brightness).esp 
+Magic Pip-Light (40 Brightness).esp 
+Magic Pip-Light (45 Brightness).esp 
+Magic Pip-Light (55 Brightness).esp 
+Magic Pip-Light (60 Brightness).esp 
+Magic Pip-Light (90 Brightness).esp 
 \EndGroup\\
 
 \BeginGroup\\ Weather\Light\Water
