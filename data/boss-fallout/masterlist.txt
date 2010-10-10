@@ -87,6 +87,8 @@ Vault 101 Revisited.esm
 CubeExperimental (EN).esm
 NewCairo.esm
 All Your Bananas.esm
+Mothership Crew.esm
+NecronomiconExMortis 5.6.esm
 Malos_Arena_EV.esm
 RoadWardens.esm
 % {{BASH: Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.Stats,Factions,Invent,Scripts,ScriptContents}}
@@ -195,12 +197,16 @@ Fallout 3 Sexus.esm
 ChildrenEmpire.esm
 MiniVault+Race.esm
 RH_IRONSIGHTS.esm
+Zumbs' Overhauled Real Time Security.esm
+PunisherGear.esm
 Abbreviated Effects.esm
 % {{BASH: Names}}
 ? Do not use with latest FWE, it is already integrated.
 FNNCQ.esm
 FNNCQ_DavidsLab.esm
 WYB.esm
+CMF-Zeta.esm
+: Zeta.esm
 FEM.esm
 SS Master File.esm
 SS Creature Compendium.esm
@@ -454,7 +460,6 @@ Zumbs' Equipable Pip Boy.esp
 " PipBegone.esp
 " PipBoyBeGone.esp
 " 1PipboyPDA.esp
-Zumbs'_Overhauled_Real_Time_Security.esp
 LongerDeathCamera.esp
 DK_BulletTime.esp
 ? DO not use with latest FWE, it is already integrated.
@@ -514,6 +519,7 @@ Achievements for All - Point Lookout.esp
 : PointLookout.esm
 PCB.esp
 PurgeCellBuffers.esp
+Pause.esp
 \EndGroup\\
 
 \BeginGroup\\ Sounds
@@ -737,6 +743,7 @@ SOL.esp
 NecronomiconExMortis 5.5.esp
 TheProjectV1.1.esp
 Vault88_TmFox.esp
+FOW - The Last Child of Gallifrey.esp
 \EndGroup\\
 
 \BeginGroup\\ Early Misc B
@@ -824,6 +831,8 @@ SniperZooming.esp
 ZoomReworked.esp
 Directional PipLight.esp
 Directional PipLight HDR.esp
+solarchargerzeta.esp
+solarcharger.esp
 Expanded Megaton House V3.esp
 Expanded Megaton House V3-No Stove.esp
 MegatonBasement.esp
@@ -856,6 +865,8 @@ RZW_SlotMachine.esp
 ShadySands.esp
 % {{BASH: Factions,Relations}}
 BM22CelestialSphere.esp
+QuantumPipeV2.esp
+Mark and recall.esp
 Twinkies.esp
 MoreMapMarkers.esp
 rockopolisandabandonedtentmapmarker.esp
@@ -902,6 +913,8 @@ bzArmour.esp
 bzArmour-nude.esp
 bzArmour-non-nude.esp
 bzBodySuits.esp
+bzFatiques.esp
+bzJocks.esp
 R18BodyPack.esp
 APReanimated.esp
 Mannequin.esp
@@ -961,6 +974,8 @@ royphilipsveryevilwmask.esp
 % {{BASH: Actors.ACBS,Actors.AIData}}
 royphilipsevilwmask.esp
 % {{BASH: Actors.ACBS,Actors.AIData}}
+VaultSuitBetterRearsForFemales.esp
+NPC Response Expansion.esp
 \EndGroup\\
 
 \BeginGroup\\ Places
@@ -1104,6 +1119,10 @@ Sanctum-Storage.esp
 Rat Trap v1.01.esp
 MCCALL_FriendsAreForever.esp
 DadsRCRoom.esp
+Zumbs' Improved Sniper Shack Home.esp
+Big Town Overhaul.esp
+Big Town Overhaul [GangStore].esp
+Canterbury Commons Interiors Embiggened.esp
 \EndGroup\\
 
 \BeginGroup\\ Overhauls
@@ -1258,6 +1277,7 @@ FO3 Wanderers Edition - Project Beauty (Followers Enhanced).esp
 Return to Shady Sands - FWE weapons rebalance.esp
 RH_FWE_Patch.esp
 Alt Start Weapons - FWE.esp
+MZC-FWE_FOIP.esp
 \EndGroup\\
 
 \BeginGroup\\ Other
@@ -1407,6 +1427,7 @@ HZ_USP.esp
 SilencedSniperRiflesStd.esp
 SilencedSniperRiflesUnq.esp
 More308Ammo.esp
+InverseCombatKnife.esp
 \EndGroup\\
 
 \BeginGroup\\ Armor\Clothes
@@ -1475,6 +1496,8 @@ ChineseStealthArmorFixed.esp
 DIM TYPE3 conversions.esp
 DIM TYPE3clothesRETAIL.esp
 Bikini_Armor_TYPE3.esp
+Type3Accessories.esp
+Type3Clothes.esp
 Persona_and_Secret.esp
 Dark_Temptress.esp
 Dogmeat Leather Armor - CRAFT.esp
@@ -1545,11 +1568,21 @@ T3T_CombatArmorSleeves.esp
 TalonExtraArmor.esp
 K2Clothes_BrownLeather03.esp
 BABEreconarmor.esp
+PPA - Operation Anchorage.esp
+: Anchorage.esm
+PPA - Broken Steel.esp
+: BrokenSteel.esm
 Powered Power Armor.esp
 PPA - FWE.esp
 : FO3 Wanderers Edition - Main File.esm
 PPA - Super Human Jump Perk.esp
 : super_jump_perk.esp
+Tribal & Ashur's Power Helmet.esp
+Tactical Vest CIRAS - Vendor Restock Script.esp
+EMPGrenadeKnockoutPowArmor.esp
+EnclavePACollars.esp
+All Anchorage Armors Usable.esp
+Armor Your Vault Suits.esp 
 \EndGroup\\
 
 \BeginGroup\\ Cosmetics
@@ -1587,6 +1620,9 @@ TL [Color].esp
 TL_Color.esp
 Kick Dogmeat.esp
 Slof's Alsatian Dogmeat.esp
+DogmeatEssentialModv1.2.esp
+Move-Dogmeat.esp
+DogmeatStealth.esp
 IgDRDeathclawGauntletFix.esp
 KarmaRevamp1010.esp
 KarmaRevampExtreme1010.esp
@@ -1596,6 +1632,7 @@ KarmaHard1010.esp
 KarmaStealIncrease1010.esp
 KarmaThreshold1010.esp
 ReneerInvisibleKarmaMod.esp
+DeadlyTurrets.esp
 Improved Turrets.esp
 Improved Turret Hacking.esp
 ? Old. Upgrade to latest version.
@@ -1632,6 +1669,45 @@ Improved Turret Reprogramming - ALL.esp
 " Improved Turret Reprogramming - Pitt.esp
 " Improved Turret Reprogramming - PL.esp
 Friendly Portable Turrets.esp
+ZORTS - Content Destruction - Normal.esp
+: Zumbs' Overhauled Real Time Security.esm
+" ZORTS - Content Destruction - Extreme.esp
+ZORTS - Content Destruction - Extreme.esp
+: Zumbs' Overhauled Real Time Security.esm
+" ZORTS - Content Destruction - Normal.esp
+ZORTS - Custom HP.esp
+: Zumbs' Overhauled Real Time Security.esm
+" ZORTS - Custom HP - FOOK2.esp
+" ZORTS - Custom HP - FWE.esp
+% {{BASH: Scripts}}
+ZORTS - Custom HP - FOOK2.esp
+: Zumbs' Overhauled Real Time Security.esm
+: FOOK2 - Main.esp
+" ZORTS - Custom HP.esp
+" ZORTS - Custom HP - FWE.esp
+% {{BASH: Scripts}}
+ZORTS - Custom HP - FWE.esp
+: Zumbs' Overhauled Real Time Security.esm
+: FO3 Wanderers Edition - Main File.esp
+" ZORTS - Custom HP.esp
+" ZORTS - Custom HP - FOOK2.esp
+% {{BASH: Scripts}}
+ZORTS - Disable FOOK2 activate.esp
+: Zumbs' Overhauled Real Time Security.esm
+" ZORTS - Disable FWE activate.esp
+ZORTS - Disable FWE activate.esp
+: Zumbs' Overhauled Real Time Security.esm
+" ZORTS - Disable FOOK2 activate.esp
+ZORTS - Lockbash only.esp
+: Zumbs' Overhauled Real Time Security.esm
+ZORTS - Enable minigames.esp
+: Zumbs' Overhauled Real Time Security.esm
+Zumbs'_Overhauled_Real_Time_Security.esp
+? Please update to latest version.
+Zumbs'_Overhauled_Real_Time_Security_lockbash_only.esp
+? Please update to latest version.
+Zumbs'_Overhauled_Real_Time_Security_minigames_enabled.esp
+? Please update to latest version.
 Childhood Beginning.esp
 : EnhancedChildren.esm
 CB Add-on.esp
@@ -1770,6 +1846,9 @@ schematics2.esp
 % {{BASH: Graphics,NoMerge}}
 Item Descriptions Img.esp
 % {{BASH: Graphics,NoMerge}}
+Gunfire Sound Range Increased.esp
+% {{BASH: Sound,NoMerge,Deactivate}}
+Mark and recall.esp
 WYB-Base.esp
 WYB-DLC-Anchorage.esp
 WYB-DLC-ThePitt.esp
@@ -1791,6 +1870,12 @@ Deputy Weld and Steel - Badges and Hats.esp
 % {{BASH: Graphics,Actors.Anims,Invent}}
 Deputy Weld and Steel - Badges Steel Hat.esp
 % {{BASH: Graphics,Actors.Anims,Invent}}
+CMF-Zeta.esp
+: Zeta.esm
+Anchorage - Extra Holotapes.esp
+: Anchorage
+GaryHoloTape.esp
+MTCBigTownRobotFix.esp
 \EndGroup\\
 
 \BeginGroup\\ EVE Stuff
@@ -2242,7 +2327,7 @@ KillableKidsNormalHealth.esp
 ? Choose only one 'KillableKids' ESP.
 KillableKidsNormalHealthOptional.esp
 ? Choose only one 'KillableKids' ESP.
-KillableKidsNoExtra.esp
+KillableKidsNoExtras.esp
 ? Choose only one 'KillableKids' ESP.
 UsableCigarettes.esp
 ipipextended.esp
@@ -2410,6 +2495,7 @@ Dogmeat Never Dies.esp
 
 \BeginGroup\\ Game-Settings and Overrides
 \-----------
+Aim Toggle.esp
 No[EMPTY]ContainerMessages.esp
 5xlvling.esp
 Slower Levelling - slow.esp
@@ -2418,7 +2504,10 @@ Slower Levelling - Very Slow.esp
 Slower Levelling - Extremely Slow.esp
 Slower Levelling - Super Duper Slow.esp
 Slower Levelling - Super Duper Extreme.esp
+Slower Degradation (-25%).esp
 Slower Degradation (-50%).esp
+Slower Degradation (-80%).esp
+Slower Degradation (-95%).esp
 ImmersiveTimescale.esp
 TimeScaleTo3.esp
 TimeScaleTo4.esp
@@ -2493,6 +2582,11 @@ LED pipboy light amber.esp
 LED pipboy light ember extended.esp
 LED pipboy light green.esp
 LED pipboy light green extended.esp
+PiPBoy Light Range x3.esp
+PiPBoy Light Range x4.esp
+PiPBoy Yellow Light.esp
+PiPBoy Grey Light.esp
+Faster PipBoy Light.esp
 \EndGroup\\
 
 \BeginGroup\\ Weather\Light\Water
@@ -2500,6 +2594,8 @@ LED pipboy light green extended.esp
 Wasteland Weather Overhaul .9.esp
 Wasteland Weather Overhaul .9 (no interiors).esp
 Wasteland Weather Overhaul .9 Level 2 Color.esp
+MegatonLights.esp 
+% {{BASH: C.Light}}
 megalight.esp
 % {{BASH: C.Light}}
 ? Do not use with latest FOOK2, it is already integrated.
@@ -2624,7 +2720,10 @@ Xepha's Dynamic Weather - Climate OverRider (OA + Rain) - No Fog.esp
 Xepha's Dynamic Weather - Sandstorm.esp
 Xepha's Dynamic Weather - Darker Water.esp
 Xepha's Dynamic Weather - NightTime SneakBoost.esp
+Xepha's Dynamic Weather - Sandstorms Damage Armor.esp
 Night Time Sneak Boost.esp
+Dynamic Weather Sneak Bonus.esp 
+Dynamic Weather Sneak Bonus NoInteriors.esp
 OasisSafeWater.esp
 TheOutbreak - WMS Combo Pack - C12H.esp
 TheOutbreak - WMS Combo Pack - C24H.esp
@@ -2982,6 +3081,9 @@ frederyck+FWE+xCALIBR.esp
 : xCALIBR.esm
 : WeaponModKits.esp
 : WeaponModKits - FWE Master Release.esp
+Compatibility_Plugin_TalonExtraArmor_FWE_BrokenSteel.esp
+Compatibility Plugin00 TalonCo & Marts.esp
+Compatibility Plugin01 PunisherGear & TalonCo.esp
 UPP - NaturalBornSniper WMK compatibility.esp
 Choose your own hairstyle (load this last on FOMM).esp
 % {{BASH: NpcFaces,Hair,Eyes}}
