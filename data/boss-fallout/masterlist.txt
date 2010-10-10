@@ -18,7 +18,7 @@
 \ Lines beginning with \ and blank lines are treated the same (ignored).
 
 
-\BeginGroup\: ESMs
+\BeginGroup\\ ESMs
 \------------
 Fallout3.esm
 ? Masterlist Information: $Revision$, $Date$, $LastChangedBy$
@@ -113,7 +113,7 @@ FO3 Wanderers Edition - Main File.esm
 Fallout3Tactics.esm
 Fallout3Tactics Creatures.esm
 Mart's Mutant Mod.esm
-% {{BASH: Delev,Invent,Names,Relations,Scripts}}
+% {{BASH: Invent,Relations,Delev}}
 FNNIguana.esm
 LingsFinerThings.esm
 LingsMMMpatch3-3.esm
@@ -204,7 +204,7 @@ SS Master File.esm
 SS Creature Compendium.esm
 \EndGroup\\
 
-\BeginGroup\: Unofficial Patches and Fixes
+\BeginGroup\\ Unofficial Patches and Fixes
 \-----------
 Selected Containers Respawn - Emptied Trash Cans in Player Homes.esp
 Unofficial Fallout 3 Patch - Operation Anchorage.esp
@@ -290,7 +290,7 @@ SGsUA - No Borders v.1.0-EN.esp
 SGsUA - No Borders v.1.0-DE.esp
 \EndGroup\\
 
-\BeginGroup\: Early Loading Mods
+\BeginGroup\\ Early Loading Mods
 \-----------
 DarNifiedUIF3.esp
 PIMP.esp
@@ -374,7 +374,6 @@ MaxLevelWorkaround-BS.esp
 Max Level 99 V2.esp
 MaxLevel100.esp
 NoLockTopic.esp
-LockMan.esp
 QZ No VATS Radial Blur.esp
 no blur on hit.esp
 Advanced Visionary Effects.esp
@@ -515,7 +514,7 @@ PCB.esp
 PurgeCellBuffers.esp
 \EndGroup\\
 
-\BeginGroup\: Sounds
+\BeginGroup\\ Sounds
 \-----------
 GeneratorSound.esp
 Moshman's Wasteland Ambiance.esp
@@ -555,7 +554,7 @@ RadioHotkey_RadioBluesAddon.esp
 IPip.esp
 \EndGroup\\
 
-\BeginGroup\: Early Misc A
+\BeginGroup\\ Early Misc A
 \-----------
 ReloadAmmo.esp
 Consistent Books.esp
@@ -607,7 +606,7 @@ Perfectly SPECIAL.esp
 : BrokenSteel.esm
 \EndGroup\\
 
-\BeginGroup\: Quests
+\BeginGroup\\ Quests
 \-----------
 NotSoFast.esp
 % {{BASH: Scripts}}
@@ -670,7 +669,7 @@ TheProjectV1.1.esp
 Vault88_TmFox.esp
 \EndGroup\\
 
-\BeginGroup\: Early Misc B
+\BeginGroup\\ Early Misc B
 \-----------
 0rb_BookSet1.esp
 0rb_ComicPack1.esp
@@ -857,7 +856,7 @@ SS Weapon Effects.esp
 SS Enhanced Combat Maneuvers.esp
 \EndGroup\\
 
-\BeginGroup\: NPC
+\BeginGroup\\ NPC
 \-----------
 NPC Height Randomizer.esp
 NPC Height Randomizer Less Variance.esp
@@ -894,7 +893,7 @@ royphilipsevilwmask.esp
 % {{BASH: Actors.ACBS,Actors.AIData}}
 \EndGroup\\
 
-\BeginGroup\: Places
+\BeginGroup\\ Places
 \-----------
 HiVE.esp
 UNDCity.esp
@@ -1037,11 +1036,11 @@ MCCALL_FriendsAreForever.esp
 DadsRCRoom.esp
 \EndGroup\\
 
-\BeginGroup\: Overhauls
+\BeginGroup\\ Overhauls
 \-----------
 
 
-\BeginGroup\: FOOK
+\BeginGroup\\ FOOK
 \-----------
 FOOK2 - Main.esp
 % {{BASH: Delev,Relev}}
@@ -1138,7 +1137,7 @@ GSoS - B-Head Effects B-Gone.esp
 GSoS - Car Explosions.esp
 \EndGroup\\
 
-\BeginGroup\: Fallout Wanderer's Edition
+\BeginGroup\\ Fallout Wanderer's Edition
 \-----------
 FO3 Wanderers Edition - Main File.esp
 % {{BASH: Deflst,Delev,Relev}}
@@ -1191,7 +1190,7 @@ RH_FWE_Patch.esp
 Alt Start Weapons - FWE.esp
 \EndGroup\\
 
-\BeginGroup\: Other
+\BeginGroup\\ Other
 \-----------
 Fallout3Tactics NPCs.esp
 Fallout3Tactics Food.esp
@@ -1220,7 +1219,7 @@ Refurbish [MZ].esp
 \EndGroup\\
 \EndGroup\\ Overhauls
 
-\BeginGroup\: Tailor Maid
+\BeginGroup\\ Tailor Maid
 \-----------
 Tailor Maid.esp
 Tailor Maid Anchorage.esp
@@ -1234,7 +1233,7 @@ Tailor Maid ZETA.esp
 Tailor Maid Black Retex.esp
 \EndGroup\\
 
-\BeginGroup\: WeaponModKits
+\BeginGroup\\ WeaponModKits
 \-----------
 WeaponModKits.esp
 % {{BASH: Names}}
@@ -1257,7 +1256,7 @@ WeaponModKits - DIK.esp
 WeaponModKits - Scope Increases VATS Accuracy.esp
 \EndGroup\\
 
-\BeginGroup\: Weapons
+\BeginGroup\\ Weapons
 \-----------
 BRUTE_GunKnockdownsSpecialScriptedEditionTHEPOINT.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionANCHORAGE.esp
@@ -1340,7 +1339,7 @@ SilencedSniperRiflesUnq.esp
 More308Ammo.esp
 \EndGroup\\
 
-\BeginGroup\: Armor\Clothes
+\BeginGroup\\ Armor\Clothes
 \-----------
 1SB_VenomousArmor.esp
 Arcade'sNightwear.esp
@@ -1483,7 +1482,7 @@ PPA - Super Human Jump Perk.esp
 : super_jump_perk.esp
 \EndGroup\\
 
-\BeginGroup\: Cosmetics
+\BeginGroup\\ Cosmetics
 \-----------
 DIM CUSTOM PRESETS V1.3WEB.esp
 Sparkling Eyes.esp
@@ -1494,7 +1493,7 @@ F3Eyelashes.esp
 _R_Tribals.esp
 \EndGroup\\
 
-\BeginGroup\: Middle Misc A
+\BeginGroup\\ Middle Misc A
 \-----------
 AS-R CALIBR Patch ONLY.esp
 CALIBR Ammo Schematics - CRAFT.esp
@@ -1578,7 +1577,7 @@ CaravanUpgrades.esp
 PP - Less Paranoid NPCs.esp
 \EndGroup\\
 
-\BeginGroup\: Middle Misc B
+\BeginGroup\\ Middle Misc B
 \-----------
 Companion Core DLC Addon.esp
 : Companion Core.esm
@@ -1724,7 +1723,7 @@ Deputy Weld and Steel - Badges Steel Hat.esp
 % {{BASH: Graphics,Actors.Anims,Invent}}
 \EndGroup\\
 
-\BeginGroup\: EVE Stuff
+\BeginGroup\\ EVE Stuff
 \-----------
 EVE Test Options.esp
 EVE Beta_0.9.4.esp
@@ -1747,7 +1746,7 @@ EVE - FWE with WeaponModKits.esp
 CFWRloadlastEVE.esp
 \EndGroup\\
 
-\BeginGroup\: Mart's Mutant Mod
+\BeginGroup\\ Mart's Mutant Mod
 \-----------
 Mart's Mutant Mod.esp
 % {{BASH: Delev}}
@@ -1759,23 +1758,21 @@ PB MMM HD.esp
 PB MMM.esp
 * Old. Download the latest Project Beauty files.
 Mart's Mutant Mod - DLC Anchorage.esp
-% {{BASH: Scripts}}
 : Anchorage.ESM
 Mart's Mutant Mod - DLC The Pitt.esp
-% {{BASH: Delev,Scripts}}
+% {{BASH: Delev}}
 : ThePitt.ESM
 Mart's Mutant Mod - DLC Broken Steel.esp
-% {{BASH: Delev,Relev,Scripts}}
+% {{BASH: Delev,Relev}}
 : BrokenSteel.ESM
 Mart's Mutant Mod - UF3P - BS.esp
 : Mart's Mutant Mod - UF3P.esp
 Mart's Mutant Mod - DLC Point Lookout.esp
-% {{BASH: Delev,Relev,Scripts}}
+% {{BASH: Delev,Relev}}
 : PointLookout.ESM
 Project Beauty- Point Lookout MMM.esp
 % {{BASH: NpcFaces,NoMerge,Deactivate}}
 Mart's Mutant Mod - DLC Zeta.esp
-% {{BASH: Scripts}}
 : Zeta.ESM
 Mart's Mutant Mod - No Corpse Flies.esp
 % {{BASH: Relev}}
@@ -1814,17 +1811,12 @@ Mart's Mutant Mod - Dynamic Player Scaling.esp
 Mart's Mutant Mod - Zombie Cementery.esp
 Project Beauty- MMM Raiders.esp
 * Old. Download the latest Project Beauty files.
-Mart's Mutant Mod - Project Beauty (HD Addition).esp
-% {{BASH: NpcFaces,NoMerge}}
-* Old. Download the latest Project Beauty files.
 Mart's Mutant Mod - Project Beauty.esp
-% {{BASH: NpcFaces,NoMerge}}
-Mart's Mutant Mod - Project Beauty + FWE.esp
-% {{BASH: NpcFaces,NoMerge}}
+% {{BASH: NpcFaces,Hair,Eyes,Voice-M,Voice-F,Body-M,Body-F,R.Teeth,R.Mouth,NoMerge}}
 CP - FACE3 NPCS [MMM].esp
-% {{BASH: NpcFaces,NoMerge}}
+% {{BASH: NpcFaces,NoMerge,Deactivate}}
 CP - FACE3 [MMM] Racefix.esp
-% {{BASH: NpcFaces,NoMerge}}
+% {{BASH: NpcFaces,NoMerge,Deactivate}}
 Mart's Mutant Mod - FOOK.esp
 * Get FOOK2
 Mart's Mutant Mod - FOOK2.esp
@@ -1843,21 +1835,22 @@ S.T.A.L.K.E.R. Call of D.C.+MMM.esp
 S.T.A.L.K.E.R. Mutants[addon for MMM].esp
 Mart's Mutant Mod - FWE Master Release.esp
 % {{BASH: Invent,Relations}}
-Mart's Mutant Mod - FWE Master Release + DLCs.esp
-% {{BASH: Invent,Relations,Scripts}}
-Mart's Mutant Mod - FWE Master Release + Project Beauty.esp
-% {{BASH: NpcFaces,NoMerge}}
 Mart's Mutant Mod - FWE with EVE.esp
 % {{BASH: Invent,Relations}}
 : FO3 Wanderers Edition - Main File.esm
 : EVE.esp
+Mart's Mutant Mod - Project Beauty + FWE.esp
+% {{BASH: NpcFaces,NoMerge}}
+Mart's Mutant Mod - Project Beauty (HD Addition).esp
+% {{BASH: NpcFaces,NoMerge}}
+* Old. Download the latest Project Beauty files.
 Mart's Mutant Mod - Linged.esp
 Mart's Mutant Mod - CFW.esp
 Mart's Mutant Mod - XFO.esp
 MMM_RtSS_Mod.esp
 \EndGroup\\
 
-\BeginGroup\: Companions
+\BeginGroup\\ Companions
 \-----------
 Original Moira Brown.esp
 MoriaX3Caps.esp
@@ -1988,7 +1981,7 @@ EnclaveCommander-OA.esp
 JHBCloverPlus.esp
 \EndGroup\\
 
-\BeginGroup\: Realism Mods
+\BeginGroup\\ Realism Mods
 \-----------
 RI_Base3.esp
 RI_PNeeds2S.esp
@@ -2060,7 +2053,7 @@ CP - RiPnO [MMM] Meats.esp
 RiPnO - OPTIONAL - Cola Heals.esp
 \EndGroup\\
 
-\BeginGroup\: Later Misc
+\BeginGroup\\ Later Misc
 \-----------
 1PipboyPDA.esp
 Accurate Sniper Rifles.esp
@@ -2320,7 +2313,7 @@ GTent-FWE-WMK.esp
 
 \EndGroup\\
 
-\BeginGroup\: Phalanx
+\BeginGroup\\ Phalanx
 \-----------
 Phalanx-MainFollowerModule.esp
 ? Do not use with latest FOOK2, it is already integrated.
@@ -2336,7 +2329,7 @@ Dogmeat Never Dies.esp
 GTSFawkesWeapons.esp
 \EndGroup\\
 
-\BeginGroup\: Game-Settings and Overrides
+\BeginGroup\\ Game-Settings and Overrides
 \-----------
 No[EMPTY]ContainerMessages.esp
 5xlvling.esp
@@ -2423,7 +2416,7 @@ LED pipboy light green.esp
 LED pipboy light green extended.esp
 \EndGroup\\
 
-\BeginGroup\: Weather\Light\Water
+\BeginGroup\\ Weather\Light\Water
 \-----------
 Wasteland Weather Overhaul .9.esp
 Wasteland Weather Overhaul .9 (no interiors).esp
@@ -2596,7 +2589,7 @@ URWL-Normal Color Saturation.esp
 " URWL.esp
 \EndGroup\\
 
-\BeginGroup\: Lastish
+\BeginGroup\\ Lastish
 \-----------
 CRAFTHelper_ReplaceWorkbenchScript.esp
 " CRAFT - Activation Perk.esp
@@ -2754,7 +2747,7 @@ MMM dog lover's mod.esp
 Vault101 Exit Cancel.esp
 \EndGroup\\
 
-\BeginGroup\: Pose mods
+\BeginGroup\\ Pose mods
 \-----------
 \Scripts and new animations.
 SlavePoses.esp
@@ -2768,17 +2761,17 @@ The Groovatron_DLC_Pitt_Addon.esp
 The Groovatron_DLC_PL_Addon.esp
 \EndGroup\\
 
-\BeginGroup\: Beauty Packs & Race Addons
+\BeginGroup\\ Beauty Packs & Race Addons
 \-----------
 \Hair, eyes, race addons & changes and other cosmetics.
 
-\BeginGroup\:\ Body and head changes
+\BeginGroup\\\ Body and head changes
 \-----------
 EwwGhoulyBody.esp
 % {{BASH: Body-F}}
 \EndGroup\\
 
-\BeginGroup\: Hair
+\BeginGroup\\ Hair
 \-----------
 HairPack_2chPlus.esp
 % {{BASH: Hair}}
@@ -2803,7 +2796,7 @@ EZCompanion_Type-N.esp
 % {{BASH: Hair,Eyes}}
 \EndGroup\\
 
-\BeginGroup\: Merged Patch\CPs
+\BeginGroup\\ Merged Patch\CPs
 \-----------
 AmyWong - Load Order Fix.esp
 : AmyWong.esm
@@ -2923,7 +2916,7 @@ Merged.esp
 Merged Patch.esp
 \EndGroup\\
 
-\BeginGroup\: Bashed Patch
+\BeginGroup\\ Bashed Patch
 \-----------
 Bashed Patch, 0.esp
 Bashed Patch, 1.esp
@@ -2938,7 +2931,7 @@ Bashed Patch, 9.esp
 Bashed Patch.esp
 \EndGroup\\
 
-\BeginGroup\: Post Bashed Patch
+\BeginGroup\\ Post Bashed Patch
 \-----------
 \Mods rumoured to be needed after Bashed Patch.
 \Utility addons.
