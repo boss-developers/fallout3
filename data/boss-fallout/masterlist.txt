@@ -606,6 +606,74 @@ Perfectly SPECIAL.esp
 : BrokenSteel.esm
 \EndGroup\\
 
+\BeginGroup\\ Global Traveling System
+\-----------
+ClawPeak.esp
+: GlobalTravelSystem.esm
+GTSPointLookOut.esp
+: GlobalTravelSystem.esm
+: PointLookout.esm
+GTSThePitt.esp
+: GlobalTravelSystem.esm
+: ThePitt.esm
+GTSCOMM.esp
+: GlobalTravelSystem.esm
+: COMM.esm
+GTSFawkesWeapons.esp
+: GlobalTravelSystem.esm
+: GTEssentials.esm
+Fallout 1+2 All in One Locations.esp 
+: GlobalTravelSystem.esm
+GTS - Military Base.esp 
+: GlobalTravelSystem.esm
+GTS - San Francisco.esp 
+: GlobalTravelSystem.esm
+GTS - Cathedral.esp 
+: GlobalTravelSystem.esm
+GTS - Arroyo.esp 
+: GlobalTravelSystem.esm
+GTS - Toxic Caves.esp 
+: GlobalTravelSystem.esm
+GTS - Klamath.esp 
+: GlobalTravelSystem.esm
+GTS - The Den.esp 
+: GlobalTravelSystem.esm
+GTS - Ghost Farm.esp 
+: GlobalTravelSystem.esm
+GTS - Redding.esp 
+: GlobalTravelSystem.esm
+GTS - Modoc.esp 
+: GlobalTravelSystem.esm
+GTS - Vault City.esp 
+: GlobalTravelSystem.esm
+GTS - Broken Hills.esp 
+: GlobalTravelSystem.esm
+GTS - New Reno.esp 
+: GlobalTravelSystem.esm
+GTS - Vault 13.esp 
+: GlobalTravelSystem.esm
+GTS - N.C.R..esp 
+: GlobalTravelSystem.esm
+GTS - The Glow.esp 
+: GlobalTravelSystem.esm
+GTS - Vault 15.esp 
+: GlobalTravelSystem.esm
+GTS - Junktown.esp 
+: GlobalTravelSystem.esm
+GTS - Necropolis.esp 
+: GlobalTravelSystem.esm
+GTS - Gecko.esp 
+: GlobalTravelSystem.esm
+GTS - The Hub.esp 
+: GlobalTravelSystem.esm
+GTS - Boneyard.esp 
+: GlobalTravelSystem.esm
+GTS - Brotherhood.esp 
+: GlobalTravelSystem.esm
+GTS - Navarro.esp 
+: GlobalTravelSystem.esm
+\EndGroup\\
+
 \BeginGroup\\ Quests
 \-----------
 NotSoFast.esp
@@ -2326,7 +2394,6 @@ Phalanx-PointLookout-Integration.esp
 Phalanx-PerksAndStims.esp
 Phalanx-Obedient-Dogmeat.esp
 Dogmeat Never Dies.esp
-GTSFawkesWeapons.esp
 \EndGroup\\
 
 \BeginGroup\\ Game-Settings and Overrides
