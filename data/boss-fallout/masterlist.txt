@@ -90,6 +90,8 @@ All Your Bananas.esm
 Malos_Arena_EV.esm
 RoadWardens.esm
 % {{BASH: Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.Stats,Factions,Invent,Scripts,ScriptContents}}
+EVE.esm
+% {{BASH: Graphics,Sound,Scripts}}
 FOOK2 - Main.esm
 % {{BASH: Invent,Stats,Relations,Factions}}
 : CALIBR.esm
@@ -1903,6 +1905,12 @@ S.T.A.L.K.E.R. Call of D.C.+MMM.esp
 S.T.A.L.K.E.R. Mutants[addon for MMM].esp
 Mart's Mutant Mod - FWE Master Release.esp
 % {{BASH: Invent,Relations}}
+: FO3 Wanderers Edition - Main File.esm
+Mart's Mutant Mod - FWE Master Release + DLCs.esp
+% {{BASH: Invent,Relations}}
+: ThePitt.esm
+: BrokenSteel.esm
+: FO3 Wanderers Edition - Main File.esm
 Mart's Mutant Mod - FWE with EVE.esp
 % {{BASH: Invent,Relations}}
 : FO3 Wanderers Edition - Main File.esm
@@ -2369,6 +2377,10 @@ vaps-marts-mutant-mod.esp
 PortableCampStuff - WMK.esp
 WeaponModKits - PortableCampStuff.esp
 ColeensTent.esp
+GTent.esp
+GTent-MMM.esp 
+: GTent.esp
+: Mart's Mutant Mod.esm
 GTent-FWE.esp
 : FO3 Wanderers Edition - Main File.esm
 : CRAFT.esm
