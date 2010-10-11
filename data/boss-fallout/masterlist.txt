@@ -1,4 +1,4 @@
-\ Leading symbol code:
+﻿\ Leading symbol code:
 \
 \ \ A silent comment - will be ignored by the program.
 \ % A Bashed Patch suggestion for the mod above.
@@ -77,6 +77,9 @@ Refurbishes [ALL].esm
 Megaton Expansion Project V03.esm
 : CALIBR.esm
 ArefuExpandedByAzar.esm
+Canterbury Commons Interiors Embiggened.esm
+tubrrCompound.esm
+Big Town Overhaul.esm
 COMM.esm
 Cotozic's Vault Home.esm
 vault64.esm
@@ -389,6 +392,10 @@ LockMan.esp
 QZ No VATS Radial Blur.esp
 no blur on hit.esp
 Advanced Visionary Effects.esp
+DoF-PureLow.esp
+DoF-PureNormal.esp
+DoF-PureStrong.esp
+DoF-PureStronger.esp
 =Extreme+Close=DOF1.1.esp
 =Extreme+Far=DOF1.1.esp
 =Extreme+Very Far=DOF1.1.esp
@@ -567,7 +574,7 @@ RadioHotkey_RadioBluesAddon.esp
 IPip.esp
 \EndGroup\\
 
-\BeginGroup\\ Early Misc A
+\BeginGroup\\ Early Misc A (Perks)
 \-----------
 ReloadAmmo.esp
 Consistent Books.esp
@@ -584,6 +591,7 @@ UPP - Quest Perks.esp
 UPP  - Quest Perks.esp
 UPP - Beverage Perks.esp
 PreWar Book Titles and Perks.esp
+Ex Libris - PreWar Book Titles.esp
 Perk Revamp Mod - Broken Steel - Perks Only.esp
 AccuracyPerks.esp
 Dree Perks.esp
@@ -934,6 +942,7 @@ ARTNightVision.esp
 ARTNightVision-No AP drain.esp
 ARTNightVision-Energy Cell.esp
 BM08RandomBobbleheadsFixed.esp
+RandomizedSkillbooks.esp
 DriveableMotorCycle.esp
 CMRS - Vanilla.esp
 CMRS - Anchorage.esp
@@ -1019,13 +1028,20 @@ RedTricycleBoot.esp
 MiniServants.esp
 After War.esp
 ClutterFreeWorld.esp
-megaton_lighting.esp
+RandomExtraTraps.esp
 B.B.G.esp
 Megaton Tweaks 1.28 (no podium).esp
 Megaton Tweaks 1.28.esp
 Megaton Park.esp
 Megaton House and Theme Overhaul.esp
 Megaton Walkway.esp
+megaton_lighting.esp
+% {{BASH: C.Light}}
+MegatonLights.esp 
+% {{BASH: C.Light}}
+megalight.esp
+% {{BASH: C.Light}}
+? Do not use with latest FOOK2, it is already integrated.
 Sandstorm.esp
 TpWasteThemeMod.esp
 Carter_Fallout_Shelter.esp
@@ -1279,7 +1295,6 @@ FO3 Wanderers Edition - FOOK Support.esp
 FaceMe-FWE.esp
 DarNifiedUIF3_FWE.esp
 ? Do not use with latest FWE, it is already integrated.
-Refurbish [OA] - FWE.esp
 FO3 Wanderers Edition - Project Beauty.esp
 FO3 Wanderers Edition - Project Beauty (Followers Enhanced B-S).esp
 FO3 Wanderers Edition - Project Beauty (HD Addition).esp
@@ -1306,6 +1321,8 @@ Refurbishes [ALL].esp
 ? Do not use with latest FOOK2, it is already integrated.
 Refurbish [OA].esp
 ? Do not use with latest FOOK2, it is already integrated.
+" Refurbishes [ALL].esp
+Refurbish [OA] - FWE.esp
 " Refurbishes [ALL].esp
 Refurbish [TP].esp
 ? Do not use with latest FOOK2, it is already integrated.
@@ -1387,6 +1404,7 @@ WMKAA12Shotgun.esp
 HZ_M92SE.esp
 Kneecapper Linked.esp
 Solar-Scorcher.esp
+SolarScorcher.esp
 10mmReplacer.esp
 Wealisitc Wifles.esp
 joefoxx Gun Mod v1.0 Normal Tracers.esp
@@ -1447,6 +1465,12 @@ g36mod.esp
 Gatling Plasma.esp
 JQ-40K.esp
 JQ40K2.esp
+Playing With Firepower.esp
+: CRAFT.esm
+WieldableTorches (Main).esp
+" Wieldable Torches (Optional).esp
+Wieldable Torches (Optional).esp
+" WieldableTorches (Main).esp
 \EndGroup\\
 
 \BeginGroup\\ Armor\Clothes
@@ -1613,6 +1637,14 @@ Cybernetic Implants Xangi.esp
 RaiderPowerArmor_lvl.esp
 WHSpaceMarineArmor.esp
 outcast_recon_armor_zeta.esp
+FieldJackets.esp
+GhostArmor HGEC - Conversion.esp
+Crysis Marine Armor.esp
+Metro 2033.esp
+SteinerCombatGear.esp
+Assault Combat Gear.esp
+TSoutfitv1.esp
+LoxysCombinedClothingFF.esp
 \EndGroup\\
 
 \BeginGroup\\ Cosmetics
@@ -1854,6 +1886,8 @@ AddBottle.esp
 ? DO not use with latest FWE or RI - Primary Needs, it is already integrated.
 Persistent Skill Books.esp
 ? DO not use with latest FWE, it is already integrated.
+FalloutFood.esp
+FalloutFoods - FWE Master Release.esp
 VDSC.esp
 PlasmaWeaponsRedesignRebalance.esp
 % {{BASH: Graphics,Sound}}
@@ -2041,6 +2075,11 @@ Mart's Mutant Mod - FWE with EVE.esp
 % {{BASH: Invent,Relations}}
 : FO3 Wanderers Edition - Main File.esm
 : EVE.esp
+Mart's Mutant Mod - Project Beauty + FWE.esp
+% {{BASH: NpcFaces,NoMerge}}
+Mart's Mutant Mod - Project Beauty (HD Addition).esp
+% {{BASH: NpcFaces,NoMerge}}
+* Old. Download the latest Project Beauty files.
 Mart's Mutant Mod - Linged.esp
 Mart's Mutant Mod - CFW.esp
 Mart's Mutant Mod - XFO.esp
@@ -2176,6 +2215,7 @@ CBOv1.4_slaveraider.esp
 EnclaveCommander.esp
 EnclaveCommander-OA.esp
 JHBCloverPlus.esp
+mmMoleRatMount.esp
 \EndGroup\\
 
 \BeginGroup\\ Realism Mods
@@ -2438,6 +2478,10 @@ ACE2-1b.esp
 Mighty Mouse Alternative 4.esp
 Ammo Press Fix.esp
 tacticalAmmo.esp
+Weighted Bottlecaps [Insane].esp
+Weighted Bottlecaps [Harsher].esp
+Weighted Bottlecaps [Normal].esp
+Weighted Bottlecaps [Yushatak Version].esp
 Point Lookout Travel Fix.esp
 yaDisguisesMod.esp
 yaDisguisesMod-DLC-Anchorage.esp
@@ -2486,6 +2530,7 @@ RaiderMercenaryExpanded[M&W].esp
 Savage Wasteland - Fewer Gun Wielding Maniacs.esp
 Zombie Apocalypse.esp
 Zombie Apocalypse - Point Lookout.esp
+NTFS.esp
 CrossRepairWeapons.esp
 CrossRepairArmor.esp
 repairfix.esp
@@ -2524,7 +2569,6 @@ GTent-FWE-MMM.esp
 GTent-FWE-WMK.esp
 : GTent-FWE.esp
 : WeaponModKits.esp
-
 \EndGroup\\
 
 \BeginGroup\\ Phalanx
@@ -2539,6 +2583,10 @@ Phalanx-PointLookout-Integration.esp
 ? Do not use with latest FOOK2, it is already integrated.
 Phalanx-PerksAndStims.esp
 Phalanx-Obedient-Dogmeat.esp
+Phalanx-DogmeatEnemyTweaks.esp
+Phalanx-OPTIONAL-Weaponchange.esp
+Phalanx-OPTIONAL-WeaponRepairLists.esp
+Phalanx-OPTIONAL-BROKENSTEEL-WeaponRepairLists.esp
 Dogmeat Never Dies.esp
 \EndGroup\\
 
@@ -2654,11 +2702,6 @@ Magic Pip-Light (90 Brightness).esp
 Wasteland Weather Overhaul .9.esp
 Wasteland Weather Overhaul .9 (no interiors).esp
 Wasteland Weather Overhaul .9 Level 2 Color.esp
-MegatonLights.esp 
-% {{BASH: C.Light}}
-megalight.esp
-% {{BASH: C.Light}}
-? Do not use with latest FOOK2, it is already integrated.
 Enhanced Weather - Rain and Snow.esp
 Enhanced Weather - Rain and Snow in Fallout.esp
 Enhanced Weather - Radioactive Rain and Snow Plugin.esp
@@ -2785,6 +2828,8 @@ Night Time Sneak Boost.esp
 Dynamic Weather Sneak Bonus.esp 
 Dynamic Weather Sneak Bonus NoInteriors.esp
 OasisSafeWater.esp
+Their World.esp
+Apocalyptic.esp
 TheOutbreak - WMS Combo Pack - C12H.esp
 TheOutbreak - WMS Combo Pack - C24H.esp
 TheOutbreak - WMS Combo Pack - C6H.esp
@@ -3148,6 +3193,7 @@ UPP - NaturalBornSniper WMK compatibility.esp
 Choose your own hairstyle (load this last on FOMM).esp
 % {{BASH: NpcFaces,Hair,Eyes}}
 tubunarFWE.esp
+tubunarCombatFWE.esp
 CRBSOR.esp
 ? Do not use with latest FWE, it is already integrated.
 CRBSOR [Achievements Removed].esp
