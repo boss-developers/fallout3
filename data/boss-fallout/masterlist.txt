@@ -1915,14 +1915,40 @@ Gunfire Sound Range Increased.esp
 % {{BASH: Sound,NoMerge,Deactivate}}
 Mark and recall.esp
 WYB-Base.esp
+: WYB.esm
+" WYB-Base+DLCs-Merged.esp
 WYB-DLC-Anchorage.esp
+: WYB.esm
+: Anchorage.esm
+" WYB-Base+DLCs-Merged.esp
 WYB-DLC-ThePitt.esp
+: WYB.esm
+: ThePitt.esm
+" WYB-Base+DLCs-Merged.esp
 WYB-DLC-BrokenSteel.esp
+: WYB.esm
+: BrokenSteel.esm
+" WYB-Base+DLCs-Merged.esp
 WYB-DLC-PointLookout.esp
+: WYB.esm
+: PointLookout.esm
+" WYB-Base+DLCs-Merged.esp
 WYB-DLC-Zeta.esp
+: WYB.esm
+: Zeta.esm
+" WYB-Base+DLCs-Merged.esp
+WYB-Base+DLCs-Merged.esp
+: WYB.esm
 WYB-MOD-DCInteriors_Combo v2.5.esp
+: WYB.esm
+: DCInteriors_ComboEdition.esm
+WYB-MOD-DCInteriors_Combo v2.6+.esp
+: WYB.esm
+: DCInteriors_ComboEdition.esm
 WYB-OPT-WhiteCigarette.esp
+: WYB.esm
 WYB-OPT-DynamicReplacer.esp
+: WYB.esm
 Weld - Badge.esp
 % {{BASH: Graphics,Actors.Anims,Invent}}
 Weld - Badge and Hat.esp
