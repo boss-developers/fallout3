@@ -1327,6 +1327,7 @@ RH_FWE_Patch.esp
 Alt Start Weapons - FWE.esp
 MZC-FWE_FOIP.esp
 FNNsys - FWE.esp
+% {{BASH: Scripts}}
 \EndGroup\\
 
 \BeginGroup\\ Other
