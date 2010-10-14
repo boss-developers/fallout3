@@ -393,6 +393,7 @@ LockMan.esp
 QZ No VATS Radial Blur.esp
 no blur on hit.esp
 Advanced Visionary Effects.esp
+VisionEnabler.esp
 DoF-PureLow.esp
 DoF-PureNormal.esp
 DoF-PureStrong.esp
@@ -497,6 +498,7 @@ RH_IronSights_Basic_PittPlugin.esp
 RH_IronSights_Basic_BrokenSteelPlugin.esp
 RH_IronSights_Basic_PointLookoutPlugin.esp
 RH_IronSights_Basic_ZetaPlugin.esp
+RH_Ironsights_Basic_DLC.esp
 RH_IronSights_Pitt_NewRifleSights.esp
 RH_IronSights_PL_HatAndShotgun.esp
 RH_IronSights_RemoveReticule.esp
@@ -846,6 +848,7 @@ Binoculars.esp
 Binoculars and Scopes.esp
 SniperZooming.esp
 ZoomReworked.esp
+No Scopeless Zooming.esp
 Directional PipLight.esp
 Directional PipLight HDR.esp
 solarchargerzeta.esp
@@ -1376,6 +1379,7 @@ WeaponModKits - Zeta.esp
 : Zeta.ESM
 WeaponModKits - DIK.esp
 WeaponModKits - Scope Increases VATS Accuracy.esp
+WMK-RH IronSights.esp
 \EndGroup\\
 
 \BeginGroup\\ Weapons
@@ -2249,15 +2253,17 @@ mmMoleRatMount.esp
 \BeginGroup\\ Realism Mods
 \-----------
 RI_Base3.esp
-RI_PNeeds2S.esp
 RI_DoctorCost.esp
+RI_CrippledEffects.esp
+RI_LootTableRI.esp
+RI_PNeeds2S.esp
 RI_Alcohol.esp
 RI_PNMMM.esp
-RI_FOSE.esp
-RI_LootTableRI.esp
-RI_LootTablePN.esp
 RI_PNAnchorage.esp
-RI_CrippledEffects.esp
+RI_FOSE.esp
+RI_LootTablePN.esp
+RI_PN_DLC.esp
+RI_PrimaryNeeds_DUI_Plugin.esp 
 RiPnO CorePatch.esp
 Imp's More Complex Needs.esp
 : IMCN.esm
