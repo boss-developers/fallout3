@@ -39,6 +39,7 @@ HairPack.esm
 Hairday.esm
 RI_Core.esm
 FNNsys.esm
+% {{BASH: Scripts}}
 IMCN.esm
 FaceMe.esm
 % {{BASH: NpcFaces,Hair,Eyes}}
@@ -1306,6 +1307,7 @@ RH_FWE_Patch.esp
 Alt Start Weapons - FWE.esp
 MZC-FWE_FOIP.esp
 FNNsys - FWE.esp
+% {{BASH: Scripts}}
 \EndGroup\\
 
 \BeginGroup\\ Other
@@ -3160,6 +3162,12 @@ xCALIBRuniverse_ammoLists.esp
 xCALIBRuniverse_repairLists.esp
 xCALIBRUniverse - WMK.esp
 % {{BASH: Names,Graphics,Sound,Stats}}
+xCALIBRUniverse_FWE_FPS.esp
+% {{BASH: Names,Graphics,Invent,Sound,Stats}}
+" xCALIBRUniverse_FWE_Tactical.esp
+xCALIBRUniverse_FWE_Tactical.esp
+% {{BASH: Names,Graphics,Invent,Sound,Stats}}
+" xCALIBRUniverse_FWE_FPS.esp
 xCALIBR_override.esp
 % {{BASH: Names,Graphics}}
 : CALIBR.esm
