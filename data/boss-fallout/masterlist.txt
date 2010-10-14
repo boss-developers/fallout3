@@ -39,7 +39,6 @@ HairPack.esm
 Hairday.esm
 RI_Core.esm
 FNNsys.esm
-% {{BASH: Scripts}}
 IMCN.esm
 FaceMe.esm
 % {{BASH: NpcFaces,Hair,Eyes}}
@@ -541,19 +540,33 @@ Pause.esp
 \-----------
 GeneratorSound.esp
 Moshman's Wasteland Ambiance.esp
+GalaxyNewsRadioFix[N].esp
+" GalaxyNewsRadioXXX[M].esp
+" GalaxyNewsRadioFix[S].esp
 GalaxyNewsRadioFix[S].esp
 " GalaxyNewsRadioXXX[M].esp
+" GalaxyNewsRadioFix[N].esp
 Radio Active.esp
 GalaxyNewsRadio100[M].esp
 " GalaxyNewsRadioXXX[M].esp
+" GalaxyNewsRadioFix[N].esp
+" GalaxyNewsRadioFix[S].esp
 GalaxyNewsRadio80[M].esp
 " GalaxyNewsRadioXXX[M].esp
+" GalaxyNewsRadioFix[N].esp
+" GalaxyNewsRadioFix[S].esp
 GalaxyNewsRadio60[M].esp
 " GalaxyNewsRadioXXX[M].esp
+" GalaxyNewsRadioFix[N].esp
+" GalaxyNewsRadioFix[S].esp
 GalaxyNewsRadio40[M].esp
 " GalaxyNewsRadioXXX[M].esp
+" GalaxyNewsRadioFix[N].esp
+" GalaxyNewsRadioFix[S].esp
 GalaxyNewsRadio20[M].esp
 " GalaxyNewsRadioXXX[M].esp
+" GalaxyNewsRadioFix[N].esp
+" GalaxyNewsRadioFix[S].esp
 GNR-MWTCF BS.esp
 ArefuExpandedByAzar-Radio.esp
 RadioBlues.esp
@@ -703,6 +716,8 @@ GTS - Navarro.esp
 
 \BeginGroup\\ Quests
 \-----------
+FreePlayAfterMQ_V05.esp
+FreePlay addon - clean Potomac.esp
 NotSoFast.esp
 % {{BASH: Scripts}}
 NotSoFastFOOK.esp
@@ -853,6 +868,7 @@ Directional PipLight.esp
 Directional PipLight HDR.esp
 solarchargerzeta.esp
 solarcharger.esp
+MegatonHouseExtraStorage.esp
 Expanded Megaton House V3.esp
 Expanded Megaton House V3-No Stove.esp
 MegatonBasement.esp
@@ -1310,7 +1326,6 @@ RH_FWE_Patch.esp
 Alt Start Weapons - FWE.esp
 MZC-FWE_FOIP.esp
 FNNsys - FWE.esp
-% {{BASH: Scripts}}
 \EndGroup\\
 
 \BeginGroup\\ Other
@@ -1683,6 +1698,7 @@ Ks_DynamicSneak.esp
 PHIG_SteadyAim.esp
 JHB House Robots Can Repair.esp
 Burnification.esp
+FleshBurninPlasma.esp
 TL Freeze.esp
 TL [Color].esp
 TL_Color.esp
@@ -2328,6 +2344,8 @@ CP - RiPnO [bltc032].esp
 CP - RiPnO [MMM] Meats.esp
 RiPnO - OPTIONAL - Cola Heals.esp
 Realistic Explosions.esp
+Explosive Explosives v1.3.esp
+RealPhysicsLessCarExplosions.esp
 \EndGroup\\
 
 \BeginGroup\\ Later Misc
@@ -3168,12 +3186,6 @@ xCALIBRuniverse_ammoLists.esp
 xCALIBRuniverse_repairLists.esp
 xCALIBRUniverse - WMK.esp
 % {{BASH: Names,Graphics,Sound,Stats}}
-xCALIBRUniverse_FWE_FPS.esp
-% {{BASH: Names,Graphics,Invent,Sound,Stats}}
-" xCALIBRUniverse_FWE_Tactical.esp
-xCALIBRUniverse_FWE_Tactical.esp
-% {{BASH: Names,Graphics,Invent,Sound,Stats}}
-" xCALIBRUniverse_FWE_FPS.esp
 xCALIBR_override.esp
 % {{BASH: Names,Graphics}}
 : CALIBR.esm
