@@ -18,7 +18,7 @@
 \ Lines beginning with \ and blank lines are treated the same (ignored).
 
 
-\BeginGroup\\ ESMs
+\BeginGroup\: ESMs
 \------------
 Fallout3.esm
 ? Masterlist Information: $Revision$, $Date$, $LastChangedBy$
@@ -219,7 +219,7 @@ SS Master File.esm
 SS Creature Compendium.esm
 \EndGroup\\
 
-\BeginGroup\\ Unofficial Patches and Fixes
+\BeginGroup\: Unofficial Patches and Fixes
 \-----------
 Selected Containers Respawn - Emptied Trash Cans in Player Homes.esp
 Unofficial Fallout 3 Patch - Operation Anchorage.esp
@@ -305,7 +305,7 @@ SGsUA - No Borders v.1.0-EN.esp
 SGsUA - No Borders v.1.0-DE.esp
 \EndGroup\\
 
-\BeginGroup\\ Early Loading Mods
+\BeginGroup\: Early Loading Mods
 \-----------
 DarNifiedUIF3.esp
 PIMP.esp
@@ -537,7 +537,7 @@ PurgeCellBuffers.esp
 Pause.esp
 \EndGroup\\
 
-\BeginGroup\\ Sounds
+\BeginGroup\: Sounds
 \-----------
 GeneratorSound.esp
 Moshman's Wasteland Ambiance.esp
@@ -591,7 +591,7 @@ RadioHotkey_RadioBluesAddon.esp
 IPip.esp
 \EndGroup\\
 
-\BeginGroup\\ Early Misc A (Perks)
+\BeginGroup\: Early Misc A (Perks)
 \-----------
 ReloadAmmo.esp
 Consistent Books.esp
@@ -647,7 +647,7 @@ PowerArmorTraining.esp
 PowerArmorTraining_MedicArmor.esp 
 \EndGroup\\
 
-\BeginGroup\\ Global Traveling System
+\BeginGroup\: Global Traveling System
 \-----------
 ClawPeak.esp
 : GlobalTravelSystem.esm
@@ -715,7 +715,7 @@ GTS - Navarro.esp
 : GlobalTravelSystem.esm
 \EndGroup\\
 
-\BeginGroup\\ Quests
+\BeginGroup\: Quests
 \-----------
 FreePlayAfterMQ_V05.esp
 FreePlay addon - clean Potomac.esp
@@ -781,7 +781,7 @@ Vault88_TmFox.esp
 FOW - The Last Child of Gallifrey.esp
 \EndGroup\\
 
-\BeginGroup\\ Early Misc B
+\BeginGroup\: Early Misc B
 \-----------
 0rb_BookSet1.esp
 0rb_ComicPack1.esp
@@ -980,7 +980,7 @@ SS Weapon Effects.esp
 SS Enhanced Combat Maneuvers.esp
 \EndGroup\\
 
-\BeginGroup\\ NPC
+\BeginGroup\: NPC
 \-----------
 NPC Height Randomizer.esp
 NPC Height Randomizer Less Variance.esp
@@ -1020,7 +1020,7 @@ VaultSuitBetterRearsForFemales.esp
 NPC Response Expansion.esp
 \EndGroup\\
 
-\BeginGroup\\ Places
+\BeginGroup\: Places
 \-----------
 HiVE.esp
 UNDCity.esp
@@ -1174,11 +1174,11 @@ Big Town Overhaul [GangStore].esp
 Canterbury Commons Interiors Embiggened.esp
 \EndGroup\\
 
-\BeginGroup\\ Overhauls
+\BeginGroup\: Overhauls
 \-----------
 
 
-\BeginGroup\\ FOOK
+\BeginGroup\: FOOK
 \-----------
 FOOK2 - Main.esp
 % {{BASH: Delev,Relev}}
@@ -1275,7 +1275,7 @@ GSoS - B-Head Effects B-Gone.esp
 GSoS - Car Explosions.esp
 \EndGroup\\
 
-\BeginGroup\\ Fallout Wanderer's Edition
+\BeginGroup\: Fallout Wanderer's Edition
 \-----------
 FO3 Wanderers Edition - Main File.esp
 % {{BASH: Deflst,Delev,Relev}}
@@ -1330,7 +1330,7 @@ FNNsys - FWE.esp
 % {{BASH: Scripts}}
 \EndGroup\\
 
-\BeginGroup\\ Other
+\BeginGroup\: Other
 \-----------
 Fallout3Tactics NPCs.esp
 Fallout3Tactics Food.esp
@@ -1361,7 +1361,7 @@ Refurbish [MZ].esp
 \EndGroup\\
 \EndGroup\\ Overhauls
 
-\BeginGroup\\ Tailor Maid
+\BeginGroup\: Tailor Maid
 \-----------
 Tailor Maid.esp
 Tailor Maid Anchorage.esp
@@ -1375,7 +1375,7 @@ Tailor Maid ZETA.esp
 Tailor Maid Black Retex.esp
 \EndGroup\\
 
-\BeginGroup\\ WeaponModKits
+\BeginGroup\: WeaponModKits
 \-----------
 WeaponModKits.esp
 % {{BASH: Names}}
@@ -1399,7 +1399,7 @@ WeaponModKits - Scope Increases VATS Accuracy.esp
 WMK-RH IronSights.esp
 \EndGroup\\
 
-\BeginGroup\\ Weapons
+\BeginGroup\: Weapons
 \-----------
 BRUTE_GunKnockdownsSpecialScriptedEditionTHEPOINT.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionANCHORAGE.esp
@@ -1496,7 +1496,7 @@ Wieldable Torches (Optional).esp
 " WieldableTorches (Main).esp
 \EndGroup\\
 
-\BeginGroup\\ Armor\Clothes
+\BeginGroup\: Armor\Clothes
 \-----------
 1SB_VenomousArmor.esp
 Arcade'sNightwear.esp
@@ -1670,7 +1670,7 @@ TSoutfitv1.esp
 LoxysCombinedClothingFF.esp
 \EndGroup\\
 
-\BeginGroup\\ Cosmetics
+\BeginGroup\: Cosmetics
 \-----------
 DIM CUSTOM PRESETS V1.3WEB.esp
 Sparkling Eyes.esp
@@ -1681,7 +1681,7 @@ F3Eyelashes.esp
 _R_Tribals.esp
 \EndGroup\\
 
-\BeginGroup\\ Middle Misc A
+\BeginGroup\: Middle Misc A
 \-----------
 AS-R CALIBR Patch ONLY.esp
 CALIBR Ammo Schematics - CRAFT.esp
@@ -1809,7 +1809,7 @@ CaravanUpgrades.esp
 PP - Less Paranoid NPCs.esp
 \EndGroup\\
 
-\BeginGroup\\ Middle Misc B
+\BeginGroup\: Middle Misc B
 \-----------
 Companion Core DLC Addon.esp
 : Companion Core.esm
@@ -1993,7 +1993,7 @@ GaryHoloTape.esp
 MTCBigTownRobotFix.esp
 \EndGroup\\
 
-\BeginGroup\\ EVE Stuff
+\BeginGroup\: EVE Stuff
 \-----------
 EVE Test Options.esp
 EVE Beta_0.9.4.esp
@@ -2016,7 +2016,7 @@ EVE - FWE with WeaponModKits.esp
 CFWRloadlastEVE.esp
 \EndGroup\\
 
-\BeginGroup\\ Mart's Mutant Mod
+\BeginGroup\: Mart's Mutant Mod
 \-----------
 Mart's Mutant Mod.esp
 % {{BASH: Delev}}
@@ -2136,7 +2136,7 @@ Mart's Mutant Mod - XFO.esp
 MMM_RtSS_Mod.esp
 \EndGroup\\
 
-\BeginGroup\\ Companions
+\BeginGroup\: Companions
 \-----------
 Original Moira Brown.esp
 MoriaX3Caps.esp
@@ -2268,7 +2268,7 @@ JHBCloverPlus.esp
 mmMoleRatMount.esp
 \EndGroup\\
 
-\BeginGroup\\ Realism Mods
+\BeginGroup\: Realism Mods
 \-----------
 RI_Base3.esp
 RI_DoctorCost.esp
@@ -2350,7 +2350,7 @@ Explosive Explosives v1.3.esp
 RealPhysicsLessCarExplosions.esp
 \EndGroup\\
 
-\BeginGroup\\ Later Misc
+\BeginGroup\: Later Misc
 \-----------
 1PipboyPDA.esp
 Accurate Sniper Rifles.esp
@@ -2625,7 +2625,7 @@ GTent-FWE-WMK.esp
 : WeaponModKits.esp
 \EndGroup\\
 
-\BeginGroup\\ Phalanx
+\BeginGroup\: Phalanx
 \-----------
 Phalanx-MainFollowerModule.esp
 ? Do not use with latest FOOK2, it is already integrated.
@@ -2644,7 +2644,7 @@ Phalanx-OPTIONAL-BROKENSTEEL-WeaponRepairLists.esp
 Dogmeat Never Dies.esp
 \EndGroup\\
 
-\BeginGroup\\ Game-Settings and Overrides
+\BeginGroup\: Game-Settings and Overrides
 \-----------
 Aim Toggle.esp
 No[EMPTY]ContainerMessages.esp
@@ -2751,7 +2751,7 @@ Magic Pip-Light (60 Brightness).esp
 Magic Pip-Light (90 Brightness).esp 
 \EndGroup\\
 
-\BeginGroup\\ Weather\Light\Water
+\BeginGroup\: Weather\Light\Water
 \-----------
 Wasteland Weather Overhaul .9.esp
 Wasteland Weather Overhaul .9 (no interiors).esp
@@ -2926,7 +2926,7 @@ URWL-Normal Color Saturation.esp
 " URWL.esp
 \EndGroup\\
 
-\BeginGroup\\ Lastish
+\BeginGroup\: Lastish
 \-----------
 CRAFTHelper_ReplaceWorkbenchScript.esp
 " CRAFT - Activation Perk.esp
@@ -3084,7 +3084,7 @@ MMM dog lover's mod.esp
 Vault101 Exit Cancel.esp
 \EndGroup\\
 
-\BeginGroup\\ Pose mods
+\BeginGroup\: Pose mods
 \-----------
 \Scripts and new animations.
 SlavePoses.esp
@@ -3098,17 +3098,17 @@ The Groovatron_DLC_Pitt_Addon.esp
 The Groovatron_DLC_PL_Addon.esp
 \EndGroup\\
 
-\BeginGroup\\ Beauty Packs & Race Addons
+\BeginGroup\: Beauty Packs & Race Addons
 \-----------
 \Hair, eyes, race addons & changes and other cosmetics.
 
-\BeginGroup\\\ Body and head changes
+\BeginGroup\:\ Body and head changes
 \-----------
 EwwGhoulyBody.esp
 % {{BASH: Body-F}}
 \EndGroup\\
 
-\BeginGroup\\ Hair
+\BeginGroup\: Hair
 \-----------
 HairPack_2chPlus.esp
 % {{BASH: Hair}}
@@ -3133,7 +3133,7 @@ EZCompanion_Type-N.esp
 % {{BASH: Hair,Eyes}}
 \EndGroup\\
 
-\BeginGroup\\ Merged Patch\CPs
+\BeginGroup\: Merged Patch\CPs
 \-----------
 AmyWong - Load Order Fix.esp
 : AmyWong.esm
@@ -3263,7 +3263,7 @@ Merged.esp
 Merged Patch.esp
 \EndGroup\\
 
-\BeginGroup\\ Bashed Patch
+\BeginGroup\: Bashed Patch
 \-----------
 Bashed Patch, 0.esp
 Bashed Patch, 1.esp
@@ -3278,7 +3278,7 @@ Bashed Patch, 9.esp
 Bashed Patch.esp
 \EndGroup\\
 
-\BeginGroup\\ Post Bashed Patch
+\BeginGroup\: Post Bashed Patch
 \-----------
 \Mods rumoured to be needed after Bashed Patch.
 \Utility addons.
