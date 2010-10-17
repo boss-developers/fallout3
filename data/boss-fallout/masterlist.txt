@@ -814,6 +814,18 @@ Ammo Bench - Scattered Schematics.esp
 Angry Scientists.esp
 % {{BASH: Invent}}
 DN_RecyclingMachine.esp
+ScrapMetal.esp
+% {{BASH: Invent}}
+" ScrapMetal_H.esp
+" ScrapMetal_Q.esp
+ScrapMetal_H.esp
+% {{BASH: Invent}}
+" ScrapMetal.esp
+" ScrapMetal_Q.esp
+ScrapMetal_Q.esp
+% {{BASH: Invent}}
+" ScrapMetal.esp
+" ScrapMetal_H.esp
 Explosive Entry.esp
 MrLabTechnician.esp
 MrLabTechnician - FWE.esp
