@@ -1338,8 +1338,6 @@ Return to Shady Sands - FWE weapons rebalance.esp
 RH_FWE_Patch.esp
 Alt Start Weapons - FWE.esp
 MZC-FWE_FOIP.esp
-FNNsys - FWE.esp
-% {{BASH: Scripts}}
 \EndGroup\\
 
 \BeginGroup\: Other
@@ -1646,11 +1644,15 @@ T3T_CombatArmorSleeves.esp
 TalonExtraArmor.esp
 K2Clothes_BrownLeather03.esp
 BABEreconarmor.esp
+Powered Power Armor.esp
 PPA - Operation Anchorage.esp
 : Anchorage.esm
 PPA - Broken Steel.esp
 : BrokenSteel.esm
-Powered Power Armor.esp
+PPA - The Pitt.esp 
+: ThePitt.esp
+PPA - Mothership Zeta.esp 
+: Zeta.esm
 PPA - FWE.esp
 : FO3 Wanderers Edition - Main File.esm
 PPA - Super Human Jump Perk.esp
@@ -3162,6 +3164,8 @@ RobCo Certified v2 Omnipatch.esp
 " RobCo Certified v2 Zeta Addon.esp
 RobCo Certified v2 Impervious.esp
 : RobCo Certified v2.esm
+RobCo Certified v2 Impervious FWE.esp
+: RobCo Certified v2.esm
 RobCo Certified v2 Impervious for FWE.esp
 : RobCo Certified v2.esm
 Destruction - CP - Fellout.esp
@@ -3190,6 +3194,9 @@ FOOK+FWE+EVE+UWWUT.esp
 Mez's Merged Patch - FWE-WMK-MMM.esp
 Mez's Merged Patch 5-0 - DLC-FWE-WMK-MMM.esp
 % {{BASH: Deflst,Delev,Factions,Invent,Relations,Relev,Scripts}}
+FNNIguana - MMMRC6.esp
+FNNsys - FWE.esp
+% {{BASH: Scripts}}
 Impervious Power Armour- FWE Fixer.esp
 Sydney Follower.esp
 Sydney Follower - Load Order Fix.esp
