@@ -818,14 +818,19 @@ ScrapMetal.esp
 % {{BASH: Invent}}
 " ScrapMetal_H.esp
 " ScrapMetal_Q.esp
+? Old, upgrade to 'CreateScrapMetal.esp'.
 ScrapMetal_H.esp
 % {{BASH: Invent}}
 " ScrapMetal.esp
 " ScrapMetal_Q.esp
+? Old, upgrade to 'CreateScrapMetal.esp'.
 ScrapMetal_Q.esp
 % {{BASH: Invent}}
 " ScrapMetal.esp
 " ScrapMetal_H.esp
+? Old, upgrade to 'CreateScrapMetal.esp'.
+CreateScrapMetal.esp
+% {{BASH: Invent}}
 Explosive Entry.esp
 MrLabTechnician.esp
 MrLabTechnician - FWE.esp
@@ -1609,6 +1614,7 @@ MissingUniqueArmorClothing-Base.esp
 MissingUniqueArmorClothing-Enhanced-NSF.esp
 MissingUniqueArmorClothing-Enhanced.esp
 MissingUniqueArmorClothing-RenamerOnly.esp
+My Cloth Collection.esp
 Mysteriouswoman_clothesaddon.esp
 OutFits.esp
 Prototype Medic Armor Upgrade.esp
@@ -2821,8 +2827,15 @@ DarkerInteriorsZeta.esp
 % {{BASH: C.Light}}
 URWL47.esp
 % {{BASH: C.Light}}
+? Old. Upgrade to latest version.
 URWL48.esp
 % {{BASH: C.Light}}
+? Old. Upgrade to latest version.
+URWL.esp
+% {{BASH: C.Light}}
+URWL-Normal Color Saturation.esp
+% {{BASH: C.Light}}
+" URWL.esp
 NColorDCInteriors.esp
 % {{BASH: C.Light}}
 Xepha's Dynamic Weather - Main.esp
@@ -2935,9 +2948,6 @@ TheOutbreak - Piplight - Hell.esp
 TheOutbreak - Silent Hell Piplight.esp
 muzzle with no lightening.esp
 muzzle with 100 radius lightening.esp
-URWL.esp
-URWL-Normal Color Saturation.esp
-" URWL.esp
 \EndGroup\\
 
 \BeginGroup\: Lastish
@@ -3207,6 +3217,7 @@ xCALIBRuniverse_ammoLists.esp
 xCALIBRuniverse_repairLists.esp
 xCALIBRUniverse - WMK.esp
 % {{BASH: Names,Graphics,Sound,Stats}}
+xCALIBRuniverse_M14EBRSopmod_Fix.esp
 xCALIBRUniverse_FWE_FPS.esp
 % {{BASH: Names,Graphics,Invent,Sound,Stats}}
 " xCALIBRUniverse_FWE_Tactical.esp
