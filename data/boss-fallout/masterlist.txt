@@ -40,6 +40,7 @@ Hairday.esm
 RI_Core.esm
 FNNsys.esm
 % {{BASH: Scripts}}
+Inventory Access.esm 
 IMCN.esm
 FaceMe.esm
 % {{BASH: NpcFaces,Hair,Eyes}}
@@ -217,6 +218,7 @@ CMF-Zeta.esm
 FEM.esm
 SS Master File.esm
 SS Creature Compendium.esm
+Ambient Temperature.esm 
 \EndGroup\\
 
 \BeginGroup\: Unofficial Patches and Fixes
@@ -308,6 +310,7 @@ SGsUA - No Borders v.1.0-DE.esp
 \BeginGroup\: Early Loading Mods
 \-----------
 DarNifiedUIF3.esp
+Ambient Temperature HUD.esp
 PIMP.esp
 Project Beauty.esp
 * Old. Download the latest Project Beauty files.
@@ -455,6 +458,7 @@ Delay ThePitt + Anchorage.esp
 : ThePitt.ESM
 : Anchorage.ESM
 More Hotkeys.esp
+LMDExpandedHotkeysFO3.esp
 QuickClothes.esp
 Console Key Binder.esp
 Princess Better Prompts v1pt1.esp
@@ -775,6 +779,7 @@ TheMissingScientist1_V1.21.esp
 The Car Fort With Quests.esp
 Project-Valhalla.esp
 SOL.esp
+NightmareRealm.esp
 NecronomiconExMortis 5.5.esp
 TheProjectV1.1.esp
 Vault88_TmFox.esp
@@ -887,6 +892,7 @@ Directional PipLight HDR.esp
 solarchargerzeta.esp
 solarcharger.esp
 MegatonHouseExtraStorage.esp
+Down Under.esp 
 Expanded Megaton House V3.esp
 Expanded Megaton House V3-No Stove.esp
 MegatonBasement.esp
@@ -1141,6 +1147,7 @@ Rivet City Apartment.esp
 The town of girdershade.esp
 shopping-spree.esp
 CanterburyCommonsEmbiggened.esp
+Canterbury Estates 0.8 beta.esp
 Talon Outpost Expansion - Canterbury Commons.esp
 CanterburyCommonsInteriors.esp
 JL121RCAltDoor.esp
@@ -1343,6 +1350,7 @@ Return to Shady Sands - FWE weapons rebalance.esp
 RH_FWE_Patch.esp
 Alt Start Weapons - FWE.esp
 MZC-FWE_FOIP.esp
+FO3 Quest Patch - FWE + BS.esp
 \EndGroup\\
 
 \BeginGroup\: Other
@@ -1424,6 +1432,7 @@ jmschematics - CRAFT.esp
 Hi-Res Weapons & Ammo Textures - The Pitt.esp
 Hi-Res Weapons & Ammo Textures.esp
 Reykjavik.esp
+AlexScorpion's and Weijiesen's Smoking Fun.esp
 Remote Bottlecap Mines ADVANCED.esp
 Glock 86 Plasma Pistol (scoped).esp
 P94 Plasma Rifle.esp
@@ -1859,6 +1868,7 @@ RobCo Certified Engineer - Storage Enabled Fix.esp
 BuildableBots v0.3a.esp
 RobCo Engineer - Robot Repair.esp
 Buildablebots Robcert. addon.esp
+tubURP.esp
 MarcuzVanishingPiles_EVE_Add.esp
 : EVE.esp
 VanishingPiles.esp
@@ -2358,6 +2368,10 @@ IMCN - MMM Meats, Bloods, and Eyeballs.esp
 : Mart's Mutant Mod.esm
 IMCN - Forced Initialization.esp
 : IMCN.esm
+IMCN - Ambient Temperature.esp 
+: Ambient Temperature.esm 
+PPA - IMCN.esp 
+: Powered Power Armor.esp 
 bltc.esp
 BLTC Immersion Patch.esp
 BLTC Hypo Fix.esp
@@ -2462,6 +2476,7 @@ Outcast Collection Agent Expanded - DLC Plugin.esp
 Useful Wasteland Clipboards.esp
 CombatEnhanced-Package v02.esp
 Attentater's Wasteland Economy.esp
+Zumbs' Smaller Condition Effect On Item Value.esp 
 AsharasPresets.esp
 FasterMorePowerfulMines.esp
 VisionMod-Tom.esp
@@ -3213,6 +3228,7 @@ Sydney Follower - Load Order Fix.esp
 JHBSydneyUpdate.esp
 xCALIBRuniverse.esp
 % {{BASH: Names,Graphics,Invent,Sound,Stats}}
+xCALIBR - Alternative Path.esp 
 xCALIBRuniverse_ammoLists.esp
 xCALIBRuniverse_repairLists.esp
 xCALIBRUniverse - WMK.esp
