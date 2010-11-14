@@ -1432,7 +1432,7 @@ jmschematics - CRAFT.esp
 Hi-Res Weapons & Ammo Textures - The Pitt.esp
 Hi-Res Weapons & Ammo Textures.esp
 Reykjavik.esp
-AlexScorpion's and Weijiesen's Smoking Fun.esp
+AlexScorpion's  and Weijiesen's Smoking Fun.esp
 Remote Bottlecap Mines ADVANCED.esp
 Glock 86 Plasma Pistol (scoped).esp
 P94 Plasma Rifle.esp
