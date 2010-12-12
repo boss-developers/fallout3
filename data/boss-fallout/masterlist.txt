@@ -91,6 +91,7 @@ MMZombieCemetery.esm
 MMFastZombieCemetery-NotRecommended.esm
 Vault 101 Revisited.esm
 CubeExperimental (EN).esm
+RatTrapRemastered.esm
 NewCairo.esm
 All Your Bananas.esm
 Mothership Crew.esm
@@ -745,7 +746,11 @@ The Mantis Imperative - Medical.esp
 The Mantis Imperative - Combat.esp
 AReasonedArgument.esp
 MegatonContracts.esp
+RatTrapEyeCandy.esp
+RatTrapRadio.esp
+RatTrapSound.esp
 Regulators.esp
+RatTrapRadio.esp 
 " Regulators_Overhaul.esp
 " Regulators _Overhaul_lvl7.esp
 " Regulators _Overhaul_lvl2.esp
@@ -887,6 +892,8 @@ Binoculars and Scopes.esp
 SniperZooming.esp
 ZoomReworked.esp
 No Scopeless Zooming.esp
+FNVFOV.esp
+Xepha's Radial Blurred Zoom.esp
 Directional PipLight.esp
 Directional PipLight HDR.esp
 solarchargerzeta.esp
@@ -1102,6 +1109,12 @@ B72v3 Mainelevator timerswitch.esp
 Hot n Dusty.esp
 Greenerworld.esp
 GreenWorld.esp
+WastelandRecovery0.esp
+WastelandRecovery1.esp
+WastelandRecovery2.esp
+WastelandRecovery3.esp
+WastelandRecovery4.esp
+WastelandRecovery5.esp
 Madhswasteland.esp
 AbandonedShack.esp
 RuinedOutposts.esp
