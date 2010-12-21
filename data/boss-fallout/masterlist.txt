@@ -91,6 +91,7 @@ MMZombieCemetery.esm
 MMFastZombieCemetery-NotRecommended.esm
 Vault 101 Revisited.esm
 CubeExperimental (EN).esm
+Project Genesis.esm
 RatTrapRemastered.esm
 NewCairo.esm
 All Your Bananas.esm
@@ -2385,6 +2386,7 @@ IMCN - Ambient Temperature.esp
 : Ambient Temperature.esm 
 PPA - IMCN.esp 
 : Powered Power Armor.esp 
+Fallout Fatigue v2.esp
 bltc.esp
 BLTC Immersion Patch.esp
 BLTC Hypo Fix.esp
