@@ -2315,6 +2315,7 @@ mmMoleRatMount.esp
 
 \BeginGroup\: Realism Mods
 \-----------
+Headshot Realist.esp
 RI_Base3.esp
 RI_DoctorCost.esp
 RI_CrippledEffects.esp
@@ -2523,6 +2524,10 @@ KillableKidsNoExtras.esp
 ? Choose only one 'KillableKids' ESP.
 UsableCigarettes.esp
 ipipextended.esp
+Easier_hacking_5_8.esp
+? Choose only one of Easier_hacking_5_8.esp or Lucky_hacking_5.esp, not both
+Lucky_hacking_5.esp
+? Choose only one of Easier_hacking_5_8.esp or Lucky_hacking_5.esp, not both
 Action_Boy_hacking.esp
 StripClub.esp
 Keep Anchorage Equipment.esp
@@ -2734,6 +2739,8 @@ lessviewdistance.esp
 lessviewdistanceThePitt.esp
 LessViewDistance Fellout Compatability Patch.esp
 OAlessviewdistance.esp
+dD - Enhanced Blood Main.esp
+? Older version included in FOOK2
 dD-Larger Blood.esp
 dD-Less Blood Time.esp
 dD-Less Blood Time, Larger Blood.esp
@@ -3137,6 +3144,12 @@ Dog lover's mod NO ANCHORAGE.esp
 MMM dog lover's mod.esp
 % {{BASH: Deflst,Delev}}
 Vault101 Exit Cancel.esp
+More Ammo.esp 
+% {{BASH: NoMerge}}
+? Must be active in load order
+More Ammo (Explosive).esp 
+% {{BASH: NoMerge}}
+? Must be active in load order
 \EndGroup\\
 
 \BeginGroup\: Pose mods
