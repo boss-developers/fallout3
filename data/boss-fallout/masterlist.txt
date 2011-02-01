@@ -1847,6 +1847,7 @@ Menu Based Hacking & Picking.esp
 ? DO not use with latest FWE, it is already integrated.
 PowerOfTheAtom_FOOKandFWE.esp
 AutomatScriptRemoved.esp
+Wasteland Travel Caravans.esp
 UpgradedCaravanMerchants.esp
 CaravanUpgrades.esp
 PP - Less Paranoid NPCs.esp
