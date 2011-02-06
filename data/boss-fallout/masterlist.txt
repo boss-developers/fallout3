@@ -1649,6 +1649,7 @@ StealthArmorHelmLess.esp
 Stealthboy Recon Armor - CRAFT.esp
 Tactical Vest CIRAS.esp
 Tesla Metal Armor (Extended).esp
+TeslaForGirls.esp
 Testweapon Arms x Arms.esp
 Test-Weapon_additional armor.esp
 % {{BASH: Invent}}
