@@ -172,6 +172,7 @@ PB mika.esm
 * Old. Download the latest Project Beauty files.
 Animy_prostitution.esm
 : CrossModData.esm
+sc_lovers_resource.esm
 ParadiseHome.esm
 DCInteriors_ComboEdition.ESM
 " DCInteriors components.
@@ -298,6 +299,8 @@ Project Cleaned Patch V1.0.esp
 Project Clean FOOK 2 Patch V1.0.esp
 : CALIBR.esm
 : FOOK2 - Main.ESM
+SniperAimCorrected - nodemo.esp
+SniperAimCorrected.esp
 LessRocks.esp
 Reduced Dust Particles.esp
 BetterGamePerformance.esp
@@ -508,6 +511,10 @@ RH_Ironsights_Basic_DLC.esp
 RH_IronSights_Pitt_NewRifleSights.esp
 RH_IronSights_PL_HatAndShotgun.esp
 RH_IronSights_RemoveReticule.esp
+RH_IronSights_PL_NewItems.esp
+sc_slaves_stick_around.esp
+sc_slaves_stick_around_original_mezz.esp
+sc_slaves_stick_around_original_mezz_chance.esp
 1alexscorpionFPSanimations.esp
 OneKeyArmor.esp
 Automated FOV.esp
@@ -772,6 +779,8 @@ The Librarian.esp
 firelance-quest.esp
 TriggerFirelance.esp
 lamplight secrets.esp
+Little Lamplight Front Gate.esp
+Lamplight Backdoor Exit.esp
 AQFH_C_103.esp
 MX_Vault74_eng.esp
 MX_Vault74fix.esp
@@ -799,10 +808,12 @@ FOW - The Last Child of Gallifrey.esp
 Megaton Tweaks - Snipers Edition.esp
 BetterHitSquads.esp
 MegatonScavengers.esp
+FastTravelFromParadiseFalls.esp
 Not alone in the Wasteland anymore.esp
 FemaleEnclaveSoldiers - Broken Steel.esp
 BoSPatrols.esp
 SteelWPatrolV_1.esp
+Ghoulish Ingots.esp
 MarkB50K_Wasteland_Patrols.esp
 : Anchorage.ESM
 : ThePitt.ESM
@@ -989,6 +1000,7 @@ bzJocks.esp
 R18BodyPack.esp
 APReanimated.esp
 Mannequin.esp
+Playthings.esp
 Slof's Boners!.esp
 ARTNightVision.esp
 ARTNightVision-No AP drain.esp
@@ -1511,6 +1523,7 @@ MissingUniqueWeapons-Enhanced.esp
 MissingUniqueWeapons-Enhanced-BS.esp
 MissingUniqueWeapons-Enhanced-PL.esp
 MissingUniqueWeapons-Enhanced-BS+PL.esp
+YX33A WMK MUW E WMK U Patch.esp
 Uniqueweapons.esp
 cryolator.esp
 WinchesterModel1894Yellowboy.esp
@@ -1537,6 +1550,9 @@ Wieldable Torches (Optional).esp
 \BeginGroup\: Armor\Clothes
 \-----------
 1SB_VenomousArmor.esp
+APMPA.esp
+APMPA Stimpack restores All HP.esp
+APMPA Stimpack restores All HP Costs Stimpacks.esp
 Arcade'sNightwear.esp
 Jessica Outfit.esp
 Gantz stuff.esp
