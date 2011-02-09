@@ -956,6 +956,18 @@ WastelandMastery.esp
 SkillCheck.esp
 BA_InventorySorterVanilla.esp
 % {{BASH: Names}
+BA_InventorySorterAnchorage.esp
+% {{BASH: Names}}
+BA_InventorySorterBrokenSteel.esp
+% {{BASH: Names}}
+BA_InventorySorterGOTY.esp
+% {{BASH: Names}}
+BA_InventorySorterPointLookout.esp
+% {{BASH: Names}}
+BA_InventorySorterThePitt.esp
+% {{BASH: Names}}
+BA_InventorySorterZeta.esp
+% {{BASH: Names}}
 AmmoSorter - Start.esp
 % {{BASH: Names}}
 AmmoSorter - End.esp
@@ -1523,7 +1535,6 @@ MissingUniqueWeapons-Enhanced.esp
 MissingUniqueWeapons-Enhanced-BS.esp
 MissingUniqueWeapons-Enhanced-PL.esp
 MissingUniqueWeapons-Enhanced-BS+PL.esp
-YX33A WMK MUW E WMK U Patch.esp
 Uniqueweapons.esp
 cryolator.esp
 WinchesterModel1894Yellowboy.esp
@@ -1943,6 +1954,7 @@ UWWUT_WT - WMK Addon.esp
 WeaponModKits-Unique.esp
 : WeaponModKits.esp
 % {{BASH: Graphics}}
+YX33A WMK MUW E WMK U Patch.esp
 unique_uniques.esp
 " unique_uniquesDLC.esp
 % {{BASH: Graphics}}
@@ -2452,6 +2464,10 @@ FatmanExp.esp
 FreePumpkin-perk.esp
 FreePumpkin.esp
 Megaton Closes.esp
+MiscWeightFix.esp
+% {{BASH: Stats}}
+LightweightFoodSanitizer.esp
+% {{BASH: Stats}}
 PHIG_IncreasedLocationalDamage.esp
 PHIG_IncreasedDamageLITE.esp
 PHIG_IncreasedDamageLOWERLEVELHP.esp
@@ -3084,6 +3100,7 @@ FWE Realistic Ammo Weight in Names inc. 20th Cent.esp
 % {{BASH: Names}}
 CarvanTrader.esp
 CaravanEssential.esp
+Essential Caravan Merchants.esp
 Achievement Remover [FO3+OA+BS].esp
 ? Choose only one 'Achievement Remover' ESP.
 Achievement Remover [FO3+OA+MZ].esp
