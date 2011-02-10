@@ -393,6 +393,7 @@ Internet Mod.esp
 TakingOutTheTrash.esp
 TOTTPointLookoutEdition.esp
 YearlingsGlasses.esp
+AutoGates.esp
 MaxLevelWorkaround-BS.esp
 Max Level 99 V2.esp
 MaxLevel100.esp
@@ -809,6 +810,7 @@ FOW - The Last Child of Gallifrey.esp
 \BeginGroup\: Early Misc B
 \-----------
 WorkiingToilets.esp
+WorkingToilets.esp
 Scavenger World.esp
 RZW_SimpleGrab.esp
 0rb_BookSet1.esp
@@ -922,6 +924,7 @@ Directional PipLight HDR.esp
 solarchargerzeta.esp
 solarcharger.esp
 MegatonHouseExtraStorage.esp
+MegatonHouseExtraStorageSG.esp
 Down Under.esp 
 Expanded Megaton House V3.esp
 Expanded Megaton House V3-No Stove.esp
@@ -1031,6 +1034,8 @@ ARTNightVision-Energy Cell.esp
 BM08RandomBobbleheadsFixed.esp
 RandomizedSkillbooks.esp
 DriveableMotorCycle.esp
+SneakModeEffect.esp
+RadiationEffects.esp
 CMRS - Vanilla.esp
 CMRS - Anchorage.esp
 CMRS - The Pitt.esp
@@ -1400,6 +1405,17 @@ RH_FWE_Patch.esp
 Alt Start Weapons - FWE.esp
 MZC-FWE_FOIP.esp
 FO3 Quest Patch - FWE + BS.esp
+DLM_FWE Medic PA FWE only required.esp
+:FO3 Wanderers Edition - Main File.esm
+DLM_FWE Medic PA FWE+Zeta required.esp
+: Zeta.ESM
+:FO3 Wanderers Edition - Main File.esm
+MZC-FWE_CP.esp
+: Zeta.ESM
+:CRAFT.ESM
+:CALIBR.ESM
+:Mothership Crew.ESM
+:FO3 Wanderers Edition - Main File.esm
 \EndGroup\\
 
 \BeginGroup\: Other
@@ -2251,6 +2267,7 @@ LingsPrettyThings-BrokenSteel.esp
 LingsPrettyThings-SeducingWomen.esp
 LingsPrettyThings-FOOK2-MMM.esp
 SeducedDLC03.esp
+SeducingWomen_patch_156.esp
 FEMed TYPE3 Cloths.esp
 BriannaCompanion.esp
 LucyWestCompanion.esp
@@ -2356,6 +2373,10 @@ mmMoleRatMount.esp
 \BeginGroup\: Realism Mods
 \-----------
 Headshot Realist.esp
+WRWC - Classic Fallout.esp
+? Use one one type of Weapon Restriction while Crippled
+WRWC - Right Handed.esp
+? Use one one type of Weapon Restriction while Crippled
 RI_Base3.esp
 RI_DoctorCost.esp
 RI_CrippledEffects.esp
@@ -2578,6 +2599,7 @@ Keep Anchorage Equipment.esp
 Vault-Tec Experimental Dimensional Safe.esp
 Portable Camp.esp
 oroLookoutFix.esp
+FleshBurningPlasma.esp
 Misc Mod.esp
 Owned!.esp
 % {{BASH: Factions}}
