@@ -447,6 +447,8 @@ CRAFT - Workbench and Crafting Expansion combined.esp
 : CRAFT.esm
 TinCanCRAFTing.esp
 CRAFT - EnergyAmmo.esp
+CRAFT - Clutter Conversions.esp
+: CRAFT.esm
 CALIBRxMerchant.esp
 : CALIBR.ESM
 DelayAnchorage.esp
@@ -552,6 +554,9 @@ Pause.esp
 
 \BeginGroup\: Sounds
 \-----------
+Agatha Radio Enhanced.esp
+Enclave Radio Enhanced.esp
+GNR Enhanced.esp
 GeneratorSound.esp
 Moshman's Wasteland Ambiance.esp
 GalaxyNewsRadioFix[N].esp
@@ -803,6 +808,9 @@ FOW - The Last Child of Gallifrey.esp
 
 \BeginGroup\: Early Misc B
 \-----------
+WorkiingToilets.esp
+Scavenger World.esp
+RZW_SimpleGrab.esp
 0rb_BookSet1.esp
 0rb_ComicPack1.esp
 Megaton Tweaks - Snipers Edition.esp
@@ -885,6 +893,9 @@ RZW_PortableBearTraps.esp
 mazas_campfire.esp
 FF_PortableLabInfirmary.esp
 FF_WonderMeatMaker.esp
+Followers Allowed - The Pitt.esp
+Followers Allowed - Mothership Zeta.esp
+Followers Allowed - Point Lookout.esp
 Sack of Holding.esp
 BlackWolf Backpack.esp
 BlackWolf Backpack - Vendor Script Replenish.esp
