@@ -98,6 +98,7 @@ All Your Bananas.esm
 Mothership Crew.esm
 NecronomiconExMortis 5.6.esm
 Bridge Town.esm
+BridgeTown.esm
 Malos_Arena_EV.esm
 RoadWardens.esm
 % {{BASH: Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.Stats,Factions,Invent,Scripts,ScriptContents}}
@@ -617,6 +618,7 @@ Consistent Books.esp
 RemoteControlCompanionsPlus.esp
 TCOS.esp
 FollowersRelax.esp
+Relax.esp
 CONELRAD 640-1240.esp
 Existence2.0.esp
 UPP - Pack 1.esp
