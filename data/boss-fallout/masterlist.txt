@@ -367,6 +367,7 @@ IbIui.esp
 PIDL-lite.esp
 PIDL-lite(metric).esp
 Crosshair Toggle.esp
+DynamicCrosshair.esp
 FaceMe.esp
 % {{BASH: NpcFaces,NoMerge,Deactivate}}
 FaceMe-Broken Steel.esp
@@ -3214,11 +3215,9 @@ MMM dog lover's mod.esp
 % {{BASH: Deflst,Delev}}
 Vault101 Exit Cancel.esp
 More Ammo.esp 
-% {{BASH: NoMerge}}
-? Must be active in load order
+% {{BASH: Relev}}
 More Ammo (Explosive).esp 
-% {{BASH: NoMerge}}
-? Must be active in load order
+% {{BASH: Relev}}
 \EndGroup\\
 
 \BeginGroup\: Pose mods
