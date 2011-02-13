@@ -1,4 +1,4 @@
-﻿\ Leading symbol code:
+\ Leading symbol code:
 \
 \ \ A silent comment - will be ignored by the program.
 \ % A Bashed Patch suggestion for the mod above.
@@ -1409,16 +1409,22 @@ Alt Start Weapons - FWE.esp
 MZC-FWE_FOIP.esp
 FO3 Quest Patch - FWE + BS.esp
 DLM_FWE Medic PA FWE only required.esp
-:FO3 Wanderers Edition - Main File.esm
+: FO3 Wanderers Edition - Main File.esm
 DLM_FWE Medic PA FWE+Zeta required.esp
 : Zeta.ESM
-:FO3 Wanderers Edition - Main File.esm
+: FO3 Wanderers Edition - Main File.esm
 MZC-FWE_CP.esp
 : Zeta.ESM
-:CRAFT.ESM
-:CALIBR.ESM
-:Mothership Crew.ESM
-:FO3 Wanderers Edition - Main File.esm
+: CRAFT.ESM
+: CALIBR.ESM
+: Mothership Crew.ESM
+: FO3 Wanderers Edition - Main File.esm
+FWE_Overhaul Kit - Main.esp
+: FO3 Wanderers Edition - Main File.esm
+: RH_IronSights resources
+" Weapon Mod Kits
+" EVE
+" RH IronSights Basic VanillaPlugin.esp
 \EndGroup\\
 
 \BeginGroup\: Other
@@ -1586,6 +1592,7 @@ WieldableTorches (Main).esp
 " Wieldable Torches (Optional).esp
 Wieldable Torches (Optional).esp
 " WieldableTorches (Main).esp
+
 \EndGroup\\
 
 \BeginGroup\: Armor\Clothes
@@ -3011,6 +3018,8 @@ Xepha's Dynamic Weather - Climate OverRider (OA + Rain) - No Fog.esp
 Xepha's Dynamic Weather - Sandstorm.esp
 Xepha's Dynamic Weather - Darker Water.esp
 Xepha's Dynamic Weather - NightTime SneakBoost.esp
+Xepha's Dynamic Weather - Dynamic Sneak Bonus.esp
+Xepha's Dynamic Weather - Green Tint Remover.esp
 Xepha's Dynamic Weather - Sandstorms Damage Armor.esp
 Night Time Sneak Boost.esp
 Dynamic Weather Sneak Bonus.esp 
