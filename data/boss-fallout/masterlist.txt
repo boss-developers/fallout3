@@ -2382,6 +2382,7 @@ mmMoleRatMount.esp
 
 \BeginGroup\: Realism Mods
 \-----------
+GunFollowCrosshair.esp
 Headshot Realist.esp
 WRWC - Classic Fallout.esp
 ? Use one one type of Weapon Restriction while Crippled
@@ -3226,6 +3227,10 @@ Vault101 Exit Cancel.esp
 More Ammo.esp 
 % {{BASH: Relev}}
 More Ammo (Explosive).esp 
+% {{BASH: Relev}}
+Slightly More Ammo.esp 
+% {{BASH: Relev}}
+Slightly More Ammo (Explosive).esp 
 % {{BASH: Relev}}
 \EndGroup\\
 
