@@ -22,7 +22,6 @@
 \------------
 Fallout3.esm
 ? Masterlist Information: $Revision$, $Date$, $LastChangedBy$
-Lings.esm
 Anchorage.esm
 ThePitt.esm
 StreetLights.esm
@@ -31,6 +30,7 @@ BrokenSteel.esm
 % {{BASH: Actors.AIPackages}}
 PointLookout.esm
 Zeta.esm
+Lings.esm
 Unofficial Fallout 3 Patch.esm
 % {{BASH: Deflst,Delev,Relev,Factions,Invent,Names,Relations,Stats}}
 LingsDLC.esm
@@ -2972,7 +2972,8 @@ Xepha's Dynamic Weather - Night Eye Edition.esp
 Xepha's Dynamic Weather - Night Eye Edition (Anchorage).esp
 " Xepha's Dynamic Weather - Night Eye Edition (Anchorage).esp
 : Anchorage.esm
-Xepha's Dynamic Weather - Experimental Green Tint Remover.esp
+Xepha's Dynamic Weather - Anchorage (NEE).esp
+: Anchorage.esm
 Xepha's Dynamic Weather - Rain (NEE).esp
 : Enhanced Weather - Rain and Snow.esm
 : Xepha's Dynamic Weather - Night Eye Edition.esp
@@ -3020,6 +3021,7 @@ Xepha's Dynamic Weather - Sandstorm.esp
 Xepha's Dynamic Weather - Darker Water.esp
 Xepha's Dynamic Weather - NightTime SneakBoost.esp
 Xepha's Dynamic Weather - Dynamic Sneak Bonus.esp
+Xepha's Dynamic Weather - Experimental Green Tint Remover.esp
 Xepha's Dynamic Weather - Green Tint Remover.esp
 Xepha's Dynamic Weather - Sandstorms Damage Armor.esp
 Night Time Sneak Boost.esp
