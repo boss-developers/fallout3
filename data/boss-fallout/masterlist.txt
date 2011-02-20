@@ -739,6 +739,8 @@ GTS - Navarro.esp
 
 \BeginGroup\: Quests
 \-----------
+Alternating Timescale.esp
+% {{BASH: Scripts}}
 FreePlayAfterMQ_V05.esp
 FreePlay addon - clean Potomac.esp
 NotSoFast.esp
@@ -1592,7 +1594,9 @@ WieldableTorches (Main).esp
 " Wieldable Torches (Optional).esp
 Wieldable Torches (Optional).esp
 " WieldableTorches (Main).esp
-
+Ammo Press Calibrified.esp
+: ThePitt.esm
+: CALIBR.esm
 \EndGroup\\
 
 \BeginGroup\: Armor\Clothes
@@ -2598,6 +2602,12 @@ KillableKidsNormalHealthOptional.esp
 ? Choose only one 'KillableKids' ESP.
 KillableKidsNoExtras.esp
 ? Choose only one 'KillableKids' ESP.
+AttackableBrats.esp
+? Choose only one 'Brats' ESP.
+KillableBrats.esp
+? Choose only one 'Brats' ESP.
+BadAssBrats.esp
+? Choose only one 'Brats' ESP.
 UsableCigarettes.esp
 ipipextended.esp
 Easier_hacking_5_8.esp
