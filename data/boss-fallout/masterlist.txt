@@ -74,6 +74,7 @@ CFWRv4.esm
 20th Century Weapons.esm
 CMRS.esm
 Ammo Bench.esm
+Apocalypse Armory.esm
 Refurbishes [ALL].esm
 ? Do not use with latest FOOK2, it is already integrated.
 Megaton Expansion Project V03.esm
@@ -497,6 +498,7 @@ Auto Aim Fix v1.1.esp
 KHWeaponscanner.esp
 ? DO not use with latest FWE, it is already integrated.
 DBAS.esp
+AlternateStart.esp
 Alternate Start - Roleplayers.esp
 ? DO not use with latest FWE, it is already integrated.
 Selected Containers Respawn.esp
@@ -1500,6 +1502,7 @@ WMK-RH IronSights.esp
 
 \BeginGroup\: Weapons
 \-----------
+Apocalypse Armory.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionTHEPOINT.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionANCHORAGE.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionTHEPITT.esp
