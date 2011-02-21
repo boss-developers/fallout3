@@ -74,7 +74,6 @@ CFWRv4.esm
 20th Century Weapons.esm
 CMRS.esm
 Ammo Bench.esm
-Apocalypse Armory.esm
 Refurbishes [ALL].esm
 ? Do not use with latest FOOK2, it is already integrated.
 Megaton Expansion Project V03.esm
@@ -105,6 +104,7 @@ RoadWardens.esm
 % {{BASH: Actors.ACBS,Actors.AIData,Actors.AIPackages,Actors.CombatStyle,Actors.Stats,Factions,Invent,Scripts,ScriptContents}}
 EVE.esm
 % {{BASH: Graphics,Sound,Scripts}}
+Apocalypse Armory.esm
 FOOK2 - Main.esm
 % {{BASH: Invent,Stats,Relations,Factions}}
 : CALIBR.esm
@@ -1340,6 +1340,20 @@ FPS Grenade Hotkey - FOOK2 DIK.esp
 * Remove if using FOOK2 1.1 and above
 FOOK2 - DUI Grenade Fix for 11 Open Beta.esp
 Sally Fix 2.esp
+Apocalypse Armory.esp
+Apocalypse Armory - CALIBR.esp
+: CALIBR.ESM
+Apocalypse Armory - xCALIBR.esp
+: xCALIBR.ESM
+Apocalypse Armory - DLC Enhancements.esp
+: Anchorage.ESM
+Apocalypse Armory - Optional Historical Names.esp
+Apocalypse Armory - Grenade Hotkeys.esp
+" Apocalypse Armory - Grenade Hotkeys for DLC.esp
+: FPS Grenade Hotkey.esp
+Apocalypse Armory - Grenade Hotkeys for DLC.esp
+" Apocalypse Armory - Grenade Hotkeys.esp
+: FPS Grenade Hotkey.esp
 GSoS - FOOK2 Open Beta - Combat and Sneaking Overhaul.esp
 * Old, please update to the latest version
 GSoS - FOOK2 Open Beta - CaSO.esp
@@ -1498,11 +1512,11 @@ WeaponModKits - Zeta.esp
 WeaponModKits - DIK.esp
 WeaponModKits - Scope Increases VATS Accuracy.esp
 WMK-RH IronSights.esp
+Apocalypse Armory + WMK.esp
 \EndGroup\\
 
 \BeginGroup\: Weapons
 \-----------
-Apocalypse Armory.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionTHEPOINT.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionANCHORAGE.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionTHEPITT.esp
@@ -2132,6 +2146,8 @@ EVE Anchorage - FWE DLC Anchorage.esp
 EVE - FWE with WeaponModKits.esp
 % {{BASH: Graphics,Sound}}
 CFWRloadlastEVE.esp
+Apocalypse Armory + EVE.esp
+: EVE
 \EndGroup\\
 
 \BeginGroup\: Mart's Mutant Mod
