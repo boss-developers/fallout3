@@ -84,6 +84,7 @@ tubrrCompound.esm
 Big Town Overhaul.esm
 COMM.esm
 Cotozic's Vault Home.esm
+TheInstitute.esm
 vault64.esm
 Bunker72 v3.esm
 The Bunker.esm
@@ -244,6 +245,8 @@ Unofficial Fallout 3 Patch - Point Lookout.esp
 Unofficial Fallout 3 Patch - Mothership Zeta.esp
 % {{BASH: Deflst,Names}}
 : Zeta.esm
+BrokenSteel_StarPaladinCross_Fix.esp
+: BrokenSteel.esm
 UF3P Crane Fix.esp
 Citadel Crane Fix.esp
 Error Correction.esp
@@ -318,6 +321,8 @@ SGsUA - No Borders v.1.0-DE.esp
 \-----------
 DarNifiedUIF3.esp
 Ambient Temperature HUD.esp
+Ambient Temperature - OA.esp
+: Anchorage.esm
 PIMP.esp
 Project Beauty.esp
 * Old. Download the latest Project Beauty files.
@@ -481,6 +486,7 @@ Centered 3P Cam.esp
 Overhead3PCamera.esp
 ROTS2.esp
 ROTS3.esp
+Pip-Boy Remover.esp
 Zumbs' Equipable Pip Boy.esp
 " That Glove.esp
 " Pip Boy Be Gone Mark II.esp
@@ -654,6 +660,7 @@ PointLookOutGoodies.esp
 Double Perks.esp
 Double Perks Half.esp
 goat_perks.esp
+Slayer Of Grelok.esp
 Bicurious.esp
 gender perks unlocked.esp
 Makes Sense Bounty Hunter 0.91.esp
@@ -668,7 +675,8 @@ Perfectly SPECIAL + No Level.esp
 Perfectly SPECIAL.esp
 : BrokenSteel.esm
 PowerArmorTraining.esp
-PowerArmorTraining_MedicArmor.esp 
+PowerArmorTraining_MedicArmor.esp
+XtraSPECIAL.esp
 \EndGroup\\
 
 \BeginGroup\: Global Traveling System
@@ -930,6 +938,8 @@ Directional PipLight.esp
 Directional PipLight HDR.esp
 solarchargerzeta.esp
 solarcharger.esp
+My_Megaton_House.esp
+MMH_Even_More_Storage.esp
 MegatonHouseExtraStorage.esp
 MegatonHouseExtraStorageSG.esp
 Down Under.esp 
@@ -1121,6 +1131,7 @@ DCInteriors_DLC_Collectables.esp
 WIP_BigTown.esp
 Trophies - Megaton.esp
 Trophies- Tenpenny.esp
+SDs Megaton House Trophies + Water Purifier Compatability Patch.esp
 Rivet City Realignment.esp
 Wadsworth-Prewar.esp
 RedTricycleBoot.esp
@@ -1129,6 +1140,8 @@ After War.esp
 ClutterFreeWorld.esp
 RandomExtraTraps.esp
 B.B.G.esp
+More2Megaton.esp
+: BrokenSteel.esm
 Megaton Tweaks 1.28 (no podium).esp
 Megaton Tweaks 1.28.esp
 Megaton Park.esp
@@ -1772,6 +1785,9 @@ PPA - FWE.esp
 : FO3 Wanderers Edition - Main File.esm
 PPA - Super Human Jump Perk.esp
 : super_jump_perk.esp
+PPA - IMCN.esp
+: IMCN.esm
+: Powered Power Armor.esp
 Tribal & Ashur's Power Helmet.esp
 Tactical Vest CIRAS - Vendor Restock Script.esp
 EMPGrenadeKnockoutPowArmor.esp
@@ -2541,6 +2557,8 @@ PHIG_IncreasedArmor.esp
 PHIG_GunKnockdownsTOUGHERSUPERS.esp
 PHIG_GunKnockdownsSpecialScriptedEdition.esp
 PHIG_SteadyAimPERKONLY.esp
+PPA - Readius.esp
+: 1PipboyPDA.esp
 RTS_Life_Of_Raider_Addon.esp
 RTSpatch_RVW.esp
 RTSBeta0.1c_extension_FarmingBob1.2.1.esp
@@ -2627,6 +2645,9 @@ KillableBrats.esp
 ? Choose only one 'Brats' ESP.
 BadAssBrats.esp
 ? Choose only one 'Brats' ESP.
+KillableChildren.esp
+KillableChildren - MMM.esp
+KillableChildren - CotW.esp
 UsableCigarettes.esp
 ipipextended.esp
 Easier_hacking_5_8.esp
