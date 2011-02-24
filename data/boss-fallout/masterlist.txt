@@ -97,6 +97,8 @@ RatTrapRemastered.esm
 NewCairo.esm
 All Your Bananas.esm
 Mothership Crew.esm
+TSC Air Support.esm
+Advanced Recon Tech.esm
 NecronomiconExMortis 5.6.esm
 Bridge Town.esm
 BridgeTown.esm
@@ -216,6 +218,7 @@ Thermal Vision.esm
 Abbreviated Effects.esm
 % {{BASH: Names}}
 ? Do not use with latest FWE, it is already integrated.
+Detect Traps.esm
 FNNCQ.esm
 FNNCQ_DavidsLab.esm
 WYB.esm
@@ -561,11 +564,13 @@ Achievements for All - Point Lookout.esp
 PCB.esp
 PurgeCellBuffers.esp
 Pause.esp
+WMMP_Master.esp
 \EndGroup\\
 
 \BeginGroup\: Sounds
 \-----------
 Agatha Radio Enhanced.esp
+CivilDefenseBroadcastSystem.esp
 Enclave Radio Enhanced.esp
 GNR Enhanced.esp
 GeneratorSound.esp
@@ -641,6 +646,9 @@ PreWar Book Titles and Perks.esp
 Ex Libris - PreWar Book Titles.esp
 Perk Revamp Mod - Broken Steel - Perks Only.esp
 AccuracyPerks.esp
+Detect Traps - The Traponator 4000.esp
+Detect Traps - Perk.esp
+Detect Traps.esp
 Dree Perks.esp
 Dree Perks Anchorage.esp
 Dree Perks Pitts.esp
@@ -1118,6 +1126,14 @@ Arefu Player House.esp
 MiniHideout.esp
 SShop.esp
 UndergroundHideout.esp
+UndergroundHideout_SY.esp
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+: Zeta.esm
+: FNNsys.esm
+: UndergroundHideout.esp
 Ashur's Palace Player room.esp
 UrgeSpringvaleHome.esp
 Cliff's_Residences Of DC - Player Version.esp
@@ -1129,6 +1145,7 @@ DCInteriors_Mason.esp
 DCInteriors_LEnfntPl.esp
 DCInteriors_DLC_Collectables.esp
 WIP_BigTown.esp
+Bonds Big Town.esp
 Trophies - Megaton.esp
 Trophies- Tenpenny.esp
 SDs Megaton House Trophies + Water Purifier Compatability Patch.esp
@@ -1146,6 +1163,9 @@ Megaton Tweaks 1.28 (no podium).esp
 Megaton Tweaks 1.28.esp
 Megaton Park.esp
 Megaton House and Theme Overhaul.esp
+Megaton House and Theme Overhaul_SY.esp
+: FNNsys.esm
+: Megaton House and Theme Overhaul.esp
 Megaton Walkway.esp
 megaton_lighting.esp
 % {{BASH: C.Light}}
@@ -1530,6 +1550,9 @@ Apocalypse Armory + WMK.esp
 
 \BeginGroup\: Weapons
 \-----------
+20th Century Weapons Non-Changing Weapon Conditions.esp
+: CALIBR.esm
+: 20th Century Weapons.esm
 BRUTE_GunKnockdownsSpecialScriptedEditionTHEPOINT.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionANCHORAGE.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionTHEPITT.esp
@@ -1627,6 +1650,44 @@ Wieldable Torches (Optional).esp
 Ammo Press Calibrified.esp
 : ThePitt.esm
 : CALIBR.esm
+WMMP_Install.esp
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: Zeta.esm
+: PointLookout.esm
+: WMMP_Master.esp
+WMMP_AMA [Swamp Folk].esp
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: Zeta.esm
+: PointLookout.esm
+: WMMP_Master.esp
+WMMP_AMA [Mutants].esp
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: Zeta.esm
+: PointLookout.esm
+: WMMP_Master.esp
+WMMP_AMA [Mutants][FWE5].esp
+: FO3 Wanderers Edition - Main File.esm
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: Zeta.esm
+: PointLookout.esm
+: WMMP_Master.esp
+WMMP_AMA [Mutants][20CWv5].esp
+: Anchorage.esm
+: CALIBR.esm
+: 20th Century Weapons.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: Zeta.esm
+: PointLookout.esm
+: WMMP_Master.esp
 \EndGroup\\
 
 \BeginGroup\: Armor\Clothes
@@ -1645,6 +1706,7 @@ Mantis07Reflex.esp
 3EFwandererGear.esp
 Amy_Armor.esp
 AsharasFormalClothing.esp
+blackrock_shooter.esp
 BodyJewelry.esp
 BodyJewelryEx.esp
 BoS_DX.esp
@@ -1697,6 +1759,7 @@ CSwimsuit_and_Harness_recolor.esp
 ChineseStealthArmorFixed.esp
 DIM TYPE3 conversions.esp
 DIM TYPE3clothesRETAIL.esp
+doctorli_glasses.esp
 Bikini_Armor_TYPE3.esp
 Type3Accessories.esp
 Type3Clothes.esp
@@ -1728,6 +1791,8 @@ Hentai Mania.esp
 JillBSAA.esp
 Ladyoutfit1.esp
 Lookout Outfits.esp
+NaughtyRaiderArmor_EZStd.esp
+SupremeRaiderArmor_Q.esp
 Micro Bikini and more recolors.esp
 MicroBikini.esp
 MicroBikini_recolour.esp
@@ -1748,6 +1813,7 @@ Stealthboy Recon Armor - CRAFT.esp
 Tactical Vest CIRAS.esp
 Tesla Metal Armor (Extended).esp
 TeslaForGirls.esp
+BSFeminizedPowerArmor.esp
 Testweapon Arms x Arms.esp
 Test-Weapon_additional armor.esp
 % {{BASH: Invent}}
@@ -1755,6 +1821,7 @@ Testweapon_SP  MedicKuma-Spirits.esp
 TombRaider.esp
 Tonibiatch.esp
 Trooper_outfits.esp
+tubunarVanilla.esp
 Wasteland and Bog Outfits.esp
 wasteland_mix1F.esp
 Yoko'sOutfits.esp
@@ -2217,11 +2284,14 @@ Mart's Mutant Mod - Increased Spawns.esp
 Mart's Mutant Mod - Reduced Wasteland Spawns.esp
 % {{BASH: Delev,Relev}}
 Mart's Mutant Mod - Zones Respawn.esp
+$ Included in FWE - Not Required
 Mart's Mutant Mod - Tougher Traders.esp
 % {{BASH: Actors.Stats,Factions,Relations}}
+$ Included in FWE - Not Required
 Mart's Mutant Mod - Hunting & Looting.esp
 Mart's Mutant Mod - Natural Selection.esp
 % {{BASH: Relations}}
+$ Included in FWE - Not Required
 Mart's Mutant Mod - Mutant Mod Menu.esp
 ? Obsolete. Update MMM to latest version.
 Mart's Mutant Mod - Master Menu Module.esp
@@ -2321,6 +2391,7 @@ FEMed TYPE3 Cloths.esp
 BriannaCompanion.esp
 LucyWestCompanion.esp
 bittercup_comp.esp
+moirared.esp
 Mystyk's Followers.esp
 Follower Autumn.esp
 DanteCompanion.esp
@@ -2423,6 +2494,7 @@ mmMoleRatMount.esp
 \-----------
 GunFollowCrosshair.esp
 Headshot Realist.esp
+BetterHeadshots.esp
 WRWC - Classic Fallout.esp
 ? Use one one type of Weapon Restriction while Crippled
 WRWC - Right Handed.esp
@@ -2510,6 +2582,8 @@ RiPnO - OPTIONAL - Cola Heals.esp
 Realistic Explosions.esp
 Explosive Explosives v1.3.esp
 RealPhysicsLessCarExplosions.esp
+Sensible Dismemberment Lite.esp
+Sensible Dismemberment.esp
 \EndGroup\\
 
 \BeginGroup\: Later Misc
@@ -2543,6 +2617,10 @@ Arwen_EVE_RH-IS_Patch.esp
 Arwen_RiPnO_Patch.esp
 Arwen_RiPnO_BLTC_Patch.esp
 FatmanExp.esp
+Flashlight-Performance.esp
+Flashlight-LOS.esp
+Flashlight-LOS-nonFOSE.esp
+Flashlight-Performance-nonFOSE.esp
 FreePumpkin-perk.esp
 FreePumpkin.esp
 Megaton Closes.esp
@@ -2550,6 +2628,31 @@ MiscWeightFix.esp
 % {{BASH: Stats}}
 LightweightFoodSanitizer.esp
 % {{BASH: Stats}}
+TSC Air Support.esp
+MZC Addon - Shorter Zeta DLC (turrets).esp
+: Zeta.esm
+MZC Addon - Shorter Zeta DLC.esp
+: Zeta.esm
+MZC Addon - ADV Recon.esp
+: Zeta.esm
+: Mothership Crew.esm
+: Advanced Recon Tech.esm
+MZC Addon - Gear Improve - ADV Recon.esp
+: Zeta.esm
+: Mothership Crew.esm
+: Advanced Recon Tech.esm
+MZC Addon - Tyranid to Xenomorph (old name).esp
+: Zeta.esm
+: Mothership Crew.esm
+MZC Addon - Tyranid to Xenomorph (new name).esp
+: Zeta.esm
+: Mothership Crew.esm
+MZC Addon - MZC-IMCN Patch.esp
+: Zeta.esm
+: Mothership Crew.esm
+: IMCN.esm
+MZC Addon - Gear Improv-All in One.esp
+MZC Addon-Olympus Armory (forecefield).esp
 PHIG_IncreasedLocationalDamage.esp
 PHIG_IncreasedDamageLITE.esp
 PHIG_IncreasedDamageLOWERLEVELHP.esp
@@ -2648,6 +2751,7 @@ BadAssBrats.esp
 KillableChildren.esp
 KillableChildren - MMM.esp
 KillableChildren - CotW.esp
+Knight Finley Companion.esp
 UsableCigarettes.esp
 ipipextended.esp
 Easier_hacking_5_8.esp
