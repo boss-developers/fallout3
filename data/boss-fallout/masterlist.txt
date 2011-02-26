@@ -3013,6 +3013,7 @@ Dogmeat Never Dies.esp
 
 \BeginGroup\: Game-Settings and Overrides
 \-----------
+fasttravelfromindoors.esp
 Aim Toggle.esp
 No[EMPTY]ContainerMessages.esp
 5xlvling.esp
@@ -3303,6 +3304,12 @@ TheOutbreak - Piplight - Hell.esp
 TheOutbreak - Silent Hell Piplight.esp
 muzzle with no lightening.esp
 muzzle with 100 radius lightening.esp
+Level 1 Smallest More Color.esp
+Level 2 Some More Color.esp
+Level 3 Alot More Color.esp
+Wasteland Weather Overhaul .9 Level 1 Color.esp
+Wasteland Weather Overhaul .9 Level 2 Color.esp
+Wasteland Weather Overhaul .9 Level 3.esp
 \EndGroup\\
 
 \BeginGroup\: Lastish
@@ -3469,6 +3476,8 @@ More Ammo (Explosive).esp
 Slightly More Ammo.esp 
 % {{BASH: Relev}}
 Slightly More Ammo (Explosive).esp 
+% {{BASH: Relev}}
+Everso Slightly More Ammo.esp 
 % {{BASH: Relev}}
 \EndGroup\\
 
