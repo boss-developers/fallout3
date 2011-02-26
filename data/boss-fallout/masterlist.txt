@@ -100,6 +100,7 @@ Mothership Crew.esm
 TSC Air Support.esm
 Advanced Recon Tech.esm
 NecronomiconExMortis 5.6.esm
+FortFreeway.esm
 Bridge Town.esm
 BridgeTown.esm
 Malos_Arena_EV.esm
@@ -669,6 +670,7 @@ Double Perks.esp
 Double Perks Half.esp
 goat_perks.esp
 Slayer Of Grelok.esp
+super_jump_perk.esp
 Bicurious.esp
 gender perks unlocked.esp
 Makes Sense Bounty Hunter 0.91.esp
@@ -757,8 +759,6 @@ GTS - Navarro.esp
 
 \BeginGroup\: Quests
 \-----------
-Alternating Timescale.esp
-% {{BASH: Scripts}}
 FreePlayAfterMQ_V05.esp
 FreePlay addon - clean Potomac.esp
 NotSoFast.esp
@@ -1078,6 +1078,17 @@ SS Enhanced Combat Maneuvers.esp
 
 \BeginGroup\: NPC
 \-----------
+BarterWithRaiders.esp
+BarterWithRaiders-NoKarmaDiscount.esp
+BarterWithRaiders-NPC Default.esp
+BarterWithRaiders-NPC Compatible.esp
+BarterWithRaiders-NPC Default-MMM.esp
+: Mart's Mutant Mod.esm
+: BarterWithRaiders-NPC Default.esp
+BarterWithRaiders-NPC Compatible-MMM.esp
+: Mart's Mutant Mod.esm
+: BarterWithRaiders-NPC Compatible.esp
+BarterWithRaiders-FWE Class Patch.esp
 NPC Height Randomizer.esp
 NPC Height Randomizer Less Variance.esp
 CrowdedCities_v2.esp
@@ -1093,6 +1104,8 @@ MTC Wasteland Travellers (Optional)- Crowded Cities.esp
 MTC MoreGuardsInBigTown.esp
 Clover Makeover - Asian Bedraggled.esp
 Ghoulified Cromwell.esp
+Point Lookout Lower Health.esp
+: PointLookout.esm
 Angel.esp
 EZ_MoreVoices.esp
 EZ_TempleOfCant.esp
@@ -1454,6 +1467,8 @@ FO3 Wanderers Edition - Project Beauty (HD Addition).esp
 : Project Beauty HD version.esm
 " Project Beauty.esp
 FO3 Wanderers Edition - Project Beauty (Followers Enhanced).esp
+FO3 Wanderers Edition - Talon Loot Crash Fix.esp
+: CALIBR
 Return to Shady Sands - FWE weapons rebalance.esp
 RH_FWE_Patch.esp
 Alt Start Weapons - FWE.esp
@@ -1476,10 +1491,31 @@ FWE_Overhaul Kit - Main.esp
 " Weapon Mod Kits
 " EVE
 " RH IronSights Basic VanillaPlugin.esp
+FWE weapons pack.esp
+: CRAFT.ESM
+: CALIBR.ESM
+: FO3 Wanderers Edition - Main File.esm
+FWE_xCAL_ammoweight.esp
+: CRAFT.esm
+: CALIBR.esm
+: xCALIBR.esm
+: xCALIBRuniverse.esm
+: FO3 Wanderers Edition - Main File.esm
 \EndGroup\\
 
 \BeginGroup\: Other
 \-----------
+LaptopTerminals.esp
+LaptopTerminalsAnchorage.esp
+: Anchorage.esm
+LaptopTerminalsPointLookout.esp
+: PointLookout.esm
+LaptopTerminalsPitt.esp
+: ThePitt.esm
+LaptopTerminalsBrokenSteel.esp
+: BrokenSteel.esm
+LaptopTerminalsZeta.esp
+: Zeta.esm
 Fallout3Tactics NPCs.esp
 Fallout3Tactics Food.esp
 Fallout3Tactics Wasteland.esp
@@ -1542,6 +1578,7 @@ WeaponModKits - PointLookout.esp
 : PointLookout.ESM
 WeaponModKits - Zeta.esp
 : Zeta.ESM
+WeaponModKits - FWE Talon Loot Crash Fix.esp
 WeaponModKits - DIK.esp
 WeaponModKits - Scope Increases VATS Accuracy.esp
 WMK-RH IronSights.esp
@@ -1552,6 +1589,17 @@ Apocalypse Armory + WMK.esp
 \-----------
 20th Century Weapons Non-Changing Weapon Conditions.esp
 : CALIBR.esm
+: 20th Century Weapons.esm
+7_ISA -ec 10 mm Submachine Gun.esp
+7_ISA -ec Mauser.esp
+7_ISA -ec 44 magnum.esp
+7_ISA -ec Alien Blaster.esp
+7_ISA -ec Sawed Off Shotgun.esp
+7_ISA -ec G3A3.esp
+7_ISA -ec Handgrip_fix_LincolnRifle.esp
+7_ISA -ec Chinese Assault Rifle.esp
+7_ISA -ec 20th Century Weapons v3.1.esp
+: CALIBR
 : 20th Century Weapons.esm
 BRUTE_GunKnockdownsSpecialScriptedEditionTHEPOINT.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionANCHORAGE.esp
@@ -1688,11 +1736,21 @@ WMMP_AMA [Mutants][20CWv5].esp
 : Zeta.esm
 : PointLookout.esm
 : WMMP_Master.esp
+Saiga-12 Combat Shotgun Override.esp
+Saiga-12 Combat Shotgun Override Operation Anchorage.esp
+: Anchorage.esm
+Saiga-12 Combat Shotgun Override Broken Steel.esp
+: BrokenSteel.esm
+Saiga-12 Combat Shotgun Override The Pitt.esp
+: ThePitt.esm
 \EndGroup\\
 
 \BeginGroup\: Armor\Clothes
 \-----------
 1SB_VenomousArmor.esp
+Advanced Recon Gear.esp
+Advanced Recon Tech.esp
+Advanced Recon Armor.esp
 APMPA.esp
 APMPA Stimpack restores All HP.esp
 APMPA Stimpack restores All HP Costs Stimpacks.esp
@@ -1767,6 +1825,7 @@ Persona_and_Secret.esp
 Dark_Temptress.esp
 Dogmeat Leather Armor - CRAFT.esp
 Dogmeat Leather Armor - no crafting.esp
+Shaikujins_Chrome_Dogmeat_Armour.esp
 Dragonskin Tactical Outfit.esp
 DragonskinBonusPack.esp
 FaithOutfit.esp
@@ -1811,8 +1870,13 @@ Scout Outfits.esp
 StealthArmorHelmLess.esp
 Stealthboy Recon Armor - CRAFT.esp
 Tactical Vest CIRAS.esp
+Tattered_suits.esp
 Tesla Metal Armor (Extended).esp
 TeslaForGirls.esp
+Colossus Tesla Armor.esp
+: Anchorage.esm
+colossus T51c.esp
+T51cReconhelm.esp
 BSFeminizedPowerArmor.esp
 Testweapon Arms x Arms.esp
 Test-Weapon_additional armor.esp
@@ -2358,6 +2422,8 @@ MMM_RtSS_Mod.esp
 
 \BeginGroup\: Companions
 \-----------
+mika.esp
+mika_essential.esp
 Original Moira Brown.esp
 MoriaX3Caps.esp
 MoriaX10Caps.esp
@@ -2385,6 +2451,8 @@ LingsPrettyThings.esp
 LingsPrettyThings-BrokenSteel.esp
 LingsPrettyThings-SeducingWomen.esp
 LingsPrettyThings-FOOK2-MMM.esp
+xCALIBRuniverse_LingsBrokenSteel.esp
+xCALIBRuniverse_LingsPrettyThings.esp
 SeducedDLC03.esp
 SeducingWomen_patch_156.esp
 FEMed TYPE3 Cloths.esp
@@ -2665,6 +2733,10 @@ PPA - Readius.esp
 RTS_Life_Of_Raider_Addon.esp
 RTSpatch_RVW.esp
 RTSBeta0.1c_extension_FarmingBob1.2.1.esp
+RaiderGirls_vanilla_adult.esp
+RaiderGirls_vanilla_003.esp
+RaiderGirls_pitt.esp
+: ThePitt.esm
 T3T_OutcastTechSupport.esp
 T3T_AnchorageExtras.esp
 T3T_WeaponTweaks.esp
@@ -2828,6 +2900,14 @@ yaDisguisesMod.esp
 yaDisguisesMod-DLC-Anchorage.esp
 yaDisguisesMod-DLC-BrokenSteel.esp
 yaDisguisesMod-DLC-ThePitt.esp
+yaDisguisesMod-MOD-bzArmour.esp
+yaDisguisesMod-MOD-FWE.esp
+: Anchorage.esm
+: BrokenSteel.esm
+: FO3 Wanaderers Edition - Main File.esm
+: FO3 Wanaderers Edition - DLC Anchorage.esp
+: FO3 Wanaderers Edition - DLC Broken Steel.esp
+: yaDisguisesMod.esp
 TalkToAnybody.esp
 I'll Touch What I Want.esp
 Sleep in any bed.esp
@@ -2946,6 +3026,8 @@ Slower Degradation (-25%).esp
 Slower Degradation (-50%).esp
 Slower Degradation (-80%).esp
 Slower Degradation (-95%).esp
+Alternating Timescale.esp
+% {{BASH: Scripts}}
 ImmersiveTimescale.esp
 TimeScaleTo3.esp
 TimeScaleTo4.esp
