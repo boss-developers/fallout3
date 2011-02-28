@@ -327,6 +327,7 @@ DarNifiedUIF3.esp
 Ambient Temperature HUD.esp
 Ambient Temperature - OA.esp
 : Anchorage.esm
+Selective Fire.esp
 PIMP.esp
 Project Beauty.esp
 * Old. Download the latest Project Beauty files.
@@ -378,6 +379,7 @@ PIDL-lite.esp
 PIDL-lite(metric).esp
 Crosshair Toggle.esp
 DynamicCrosshair.esp
+Stimpak Counter.esp
 FaceMe.esp
 % {{BASH: NpcFaces,NoMerge,Deactivate}}
 FaceMe-Broken Steel.esp
@@ -1380,6 +1382,9 @@ FOOK2 - Main Level Up Fix 1.3.esp
 FOOK2 - DIK Level Up Fix 1.3.esp
 [DIK] DLC Transition Hotfix.esp
 RRSorter100_FOOK2.esp
+WeightAmmo.esp
+: CALIBR.esm
+: FOOK2 - Main.esm
 FPS Grenade Hotkey - FOOK2.esp
 * Remove if using FOOK2 1.1 and above
 FPS Grenade Hotkey - FOOK2 DIK.esp
