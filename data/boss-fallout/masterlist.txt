@@ -1298,6 +1298,8 @@ MegatonWeapons.esp
 TestingRoom.esp
 Sanctum.esp
 Sanctum-Storage.esp
+Shack On The Beach.esp
+Solace.esp
 Rat Trap v1.01.esp
 MCCALL_FriendsAreForever.esp
 DadsRCRoom.esp
@@ -1805,6 +1807,10 @@ Colossus Outcast.esp
 colossus BOS.esp
 Colossus Headgear.esp
 Colossus Armor.esp
+Colossus Tesla Armor.esp
+: Anchorage.esm
+colossus T51c.esp
+T51cReconhelm.esp
 COL Enclave VER2.esp
 % {{BASH: Graphics}}
 COL Enclave Hell.esp
@@ -1878,10 +1884,7 @@ Tactical Vest CIRAS.esp
 Tattered_suits.esp
 Tesla Metal Armor (Extended).esp
 TeslaForGirls.esp
-Colossus Tesla Armor.esp
-: Anchorage.esm
-colossus T51c.esp
-T51cReconhelm.esp
+
 BSFeminizedPowerArmor.esp
 Testweapon Arms x Arms.esp
 Test-Weapon_additional armor.esp
