@@ -2456,6 +2456,7 @@ FEM - UF3 enabler.esp
 : FEM.esm
 LingsFinerThings.esp
 LingsPrettyThings.esp
+% {{BASH: Eyes,Hair,Invent,Names,NpcFaces}}
 LingsPrettyThings-BrokenSteel.esp
 LingsPrettyThings-SeducingWomen.esp
 LingsPrettyThings-FOOK2-MMM.esp
@@ -2468,6 +2469,7 @@ BriannaCompanion.esp
 LucyWestCompanion.esp
 bittercup_comp.esp
 moirared.esp
+% {{BASH: Invent}}
 Mystyk's Followers.esp
 Follower Autumn.esp
 DanteCompanion.esp
@@ -2793,6 +2795,7 @@ Outcast Collection Agent Expanded - DLC Plugin.esp
 Useful Wasteland Clipboards.esp
 CombatEnhanced-Package v02.esp
 Attentater's Wasteland Economy.esp
+% {{BASH: Names}}
 Zumbs' Smaller Condition Effect On Item Value.esp 
 AsharasPresets.esp
 FasterMorePowerfulMines.esp
@@ -3036,7 +3039,6 @@ Slower Degradation (-50%).esp
 Slower Degradation (-80%).esp
 Slower Degradation (-95%).esp
 Alternating Timescale.esp
-% {{BASH: Scripts}}
 ImmersiveTimescale.esp
 TimeScaleTo3.esp
 TimeScaleTo4.esp
