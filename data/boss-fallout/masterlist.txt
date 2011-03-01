@@ -2456,7 +2456,7 @@ FEM - UF3 enabler.esp
 : FEM.esm
 LingsFinerThings.esp
 LingsPrettyThings.esp
-% {{BASH: Eyes,Hair,Invent,Names,NpcFaces}}
+% {{BASH: Actors.Stats,Eyes,Hair,Invent,Names,NpcFaces,R.Attributes-F,R.Attributes-M,R.Description,R.Head,R.Mouth,R.Teeth}}
 LingsPrettyThings-BrokenSteel.esp
 LingsPrettyThings-SeducingWomen.esp
 LingsPrettyThings-FOOK2-MMM.esp
