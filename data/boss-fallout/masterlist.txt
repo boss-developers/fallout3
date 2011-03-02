@@ -606,6 +606,7 @@ GalaxyNewsRadio20[M].esp
 " GalaxyNewsRadioFix[N].esp
 " GalaxyNewsRadioFix[S].esp
 GNR-MWTCF BS.esp
+HamadaRadioStation.esp
 ArefuExpandedByAzar-Radio.esp
 RadioBlues.esp
 WAR_radio.esp
@@ -1296,6 +1297,8 @@ RobotFacility.esp
 Meet the Devs.ESP
 MegatonWeapons.esp
 TestingRoom.esp
+TheSKINNYwearShopDC.esp
+: Anchorage.esm
 Sanctum.esp
 Sanctum-Storage.esp
 Shack On The Beach.esp
@@ -1508,6 +1511,24 @@ FWE_xCAL_ammoweight.esp
 : xCALIBR.esm
 : xCALIBRuniverse.esm
 : FO3 Wanderers Edition - Main File.esm
+FWE-COL-Enclave-compatibilitypatch.esp
+: CRAFT.esm
+: CALIBR.esm
+: FO3 Wanderers Edition - Main File.esm
+: FO3 Wanderers Edition - Main File.esp
+FWE-COL-Enclave-compatibilitypatch-new-tesla-helmet-addon_updated.esp
+: CRAFT.esm
+: CALIBR.esm
+: FO3 Wanderers Edition - Main File.esm
+: FWE-COL-Enclave-compatibilitypatch.esp
+FWE-COL-Enclave-compatibilitypatch-hellfireaddon.esp
+: BrokenSteel.esm
+: CRAFT.esm
+: CALIBR.esm
+: FO3 Wanderers Edition - Main File.esm
+: FO3 Wanderers Edition - Main File.esp
+: FO3 Wanderers Edition - DLC Broken Steel.esp
+: FWE-COL-Enclave-compatibilitypatch.esp
 \EndGroup\\
 
 \BeginGroup\: Other
@@ -1884,7 +1905,6 @@ Tactical Vest CIRAS.esp
 Tattered_suits.esp
 Tesla Metal Armor (Extended).esp
 TeslaForGirls.esp
-
 BSFeminizedPowerArmor.esp
 Testweapon Arms x Arms.esp
 Test-Weapon_additional armor.esp
@@ -2124,6 +2144,24 @@ RobCo Certified Engineer - Storage Enabled Fix.esp
 BuildableBots v0.3a.esp
 RobCo Engineer - Robot Repair.esp
 Buildablebots Robcert. addon.esp
+Core Robots - The Eyebots.esp
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+: Zeta.esm
+Core Robots - The Handy.esp
+: BrokenSteel.esm
+Core Robots - The Protectrons.esp
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+Core Robots - The Robobrains.esp
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+: Zeta.esm
 tubURP.esp
 MarcuzVanishingPiles_EVE_Add.esp
 : EVE.esp
@@ -2189,6 +2227,7 @@ S.T.A.L.K.E.R. MOD.esp
 ARSENAL MOD.esp
 ARSENAL MOD_Test Box.esp
 Responsive Kill Reactions.esp
+I am Robot.esp
 ImmersiveHealth.esp
 ImmersiveHealth-LITE.esp
 Bottle That Water.esp
