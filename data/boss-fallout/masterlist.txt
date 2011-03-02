@@ -690,6 +690,7 @@ Perfectly SPECIAL.esp
 PowerArmorTraining.esp
 PowerArmorTraining_MedicArmor.esp
 XtraSPECIAL.esp
+Bloodless Mess.esp
 \EndGroup\\
 
 \BeginGroup\: Global Traveling System
