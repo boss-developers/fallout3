@@ -1780,6 +1780,7 @@ Saiga-12 Combat Shotgun Override The Pitt.esp
 Advanced Recon Gear.esp
 Advanced Recon Tech.esp
 Advanced Recon Armor.esp
+Advanced Recon Range Finder.esp
 APMPA.esp
 APMPA Stimpack restores All HP.esp
 APMPA Stimpack restores All HP Costs Stimpacks.esp
