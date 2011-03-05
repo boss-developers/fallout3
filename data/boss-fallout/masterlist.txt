@@ -2146,24 +2146,6 @@ RobCo Certified Engineer - Storage Enabled Fix.esp
 BuildableBots v0.3a.esp
 RobCo Engineer - Robot Repair.esp
 Buildablebots Robcert. addon.esp
-Core Robots - The Eyebots.esp
-: Anchorage.esm
-: ThePitt.esm
-: BrokenSteel.esm
-: PointLookout.esm
-: Zeta.esm
-Core Robots - The Handy.esp
-: BrokenSteel.esm
-Core Robots - The Protectrons.esp
-: ThePitt.esm
-: BrokenSteel.esm
-: PointLookout.esm
-Core Robots - The Robobrains.esp
-: Anchorage.esm
-: ThePitt.esm
-: BrokenSteel.esm
-: PointLookout.esm
-: Zeta.esm
 tubURP.esp
 MarcuzVanishingPiles_EVE_Add.esp
 : EVE.esp
@@ -2735,6 +2717,24 @@ Arwen_EVE_Patch.esp
 Arwen_EVE_RH-IS_Patch.esp
 Arwen_RiPnO_Patch.esp
 Arwen_RiPnO_BLTC_Patch.esp
+Core Robots - The Eyebots.esp
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+: Zeta.esm
+Core Robots - The Handy.esp
+: BrokenSteel.esm
+Core Robots - The Protectrons.esp
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+Core Robots - The Robobrains.esp
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+: Zeta.esm
 FatmanExp.esp
 Flashlight-Performance.esp
 Flashlight-LOS.esp
