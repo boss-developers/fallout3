@@ -911,6 +911,7 @@ Stealth Kills Enabled.esp
 Stealth Kills Enabled - Pitt Compatibility.esp
 SCC - Talk to Anyone.esp
 SCC Armor.esp
+VaultTechLocators.esp
 Echo_BatteryCharger.esp
 HouseholdWaterPurifier.esp
 PortableMattress.esp
@@ -2556,6 +2557,8 @@ AmyWong - FOOK2.esp
 AmyWong - FOOK2 1.1.esp
 : AmyWong.esm
 : FOOK2 - Main.ESM
+amywongmodmod.esp
+: AmyWong.esm
 RoadWardens.esp
 ? If using MMM, use 'RoadWardensMMM.esp' instead
 RoadWardensMMM.esp
