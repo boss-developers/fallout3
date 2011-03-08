@@ -300,10 +300,13 @@ QuickFix.esp
 : BrokenSteel.esm
 : PointLookout.esm
 : Zeta.esm
+BlackWidowBurkeFix.esp
+% {{BASH: Scripts}}
 Gnr Cleaned.esp
 Megaton Cleaned.esp
 Rivet City Cleaned.esp
 Underworld Cleaned.esp
+OutcastCasdinArmorFix.esp
 Project Cleaned Patch V1.0.esp
 Project Clean FOOK 2 Patch V1.0.esp
 : CALIBR.esm
@@ -891,6 +894,8 @@ ScrapMetal_Q.esp
 CreateScrapMetal.esp
 % {{BASH: Invent}}
 Explosive Entry.esp
+LittleLamplightDogs.esp
+% {{BASH: Graphics}}
 MrLabTechnician.esp
 MrLabTechnician - FWE.esp
 % {{BASH: Deflst,Delev}}
@@ -902,6 +907,7 @@ RobCo Universal Battery Charger Kit - Zeta.esp
 " RobCo Universal Battery Charger Kit.esp
 Rude Awakening.esp
 Rude Awakening - MMM.esp
+RZW_PortableLamps.esp
 tubRRCompound.esp
 RTS NW - Volume 1st.esp
 RTS NW - Volume 2nd.esp
@@ -937,6 +943,8 @@ BlackWolf Backpack - Blank's Container Patch.esp
 Backpacks - SedPL.esp
 GunnySack.esp
 JSbackpack.esp
+MAXdog.esp
+% {{BASH: Graphics}}
 WeightedCompanionCube.esp
 SS OTS Camera FOSE.esp
 1Animated Nightvision goggles.esp
@@ -1108,6 +1116,11 @@ MTC Wasteland Travellers (Optional)- Crowded Cities.esp
 " MTC Wasteland Travellers (Optional)- Crowded Cities less NPCs.esp
 MTC MoreGuardsInBigTown.esp
 Clover Makeover - Asian Bedraggled.esp
+Clothed American Soldiers.esp
+% {{BASH: Invent}}
+: Anchorage.esm
+Confessor Cromwell has a Break_EV.esp
+% {{BASH: Actors.AIPackages}}
 Ghoulified Cromwell.esp
 Point Lookout Lower Health.esp
 : PointLookout.esm
@@ -1120,6 +1133,9 @@ Clothed Sarah Lyons - Sleepwear.esp
 Named Wasteland.esp
 % {{BASH: Names}}
 NPCs Sleep Tighter.esp
+Outcast Scribes03.esp
+: Anchorage.esm
+" OutcastCasdinArmorFix.esp
 richvendors.esp
 More Merchant Caps.esp
 royphilipsevil.esp
@@ -1130,6 +1146,7 @@ royphilipsveryevilwmask.esp
 % {{BASH: Actors.ACBS,Actors.AIData}}
 royphilipsevilwmask.esp
 % {{BASH: Actors.ACBS,Actors.AIData}}
+ThreeDogs 3 Dogs Alternative.esp
 VaultSuitBetterRearsForFemales.esp
 NPC Response Expansion.esp
 \EndGroup\\
@@ -1164,6 +1181,7 @@ DCInteriors_LEnfntPl.esp
 DCInteriors_DLC_Collectables.esp
 WIP_BigTown.esp
 Bonds Big Town.esp
+FruitTrees.esp
 Trophies - Megaton.esp
 Trophies- Tenpenny.esp
 SDs Megaton House Trophies + Water Purifier Compatability Patch.esp
@@ -1266,6 +1284,8 @@ JL121RCAltDoor.esp
 Canterbury Boomtown.esp
 csxBlastwaveRider.esp
 ranger den.esp
+Riverboat Landing Merchant.esp
+: PointLookout.esm
 Museum Station Bunker - 3.esp
 Riverside Apartments.esp
 YevicsUrbanTownhome.esp
@@ -1656,6 +1676,8 @@ Wattz Laser Pistols Mod.esp
 WMKAA12Shotgun.esp
 % {{BASH: Graphics}}
 HZ_M92SE.esp
+NewKnives.esp
+FLY_weapons.esp
 Kneecapper Linked.esp
 Solar-Scorcher.esp
 SolarScorcher.esp
@@ -1881,6 +1903,7 @@ FO3-Closing-merged.esp
 FrenchMaid.esp
 Ghostbodysuitv3.esp
 Gloria Armor.esp
+Gundam_Armors.esp
 Hentai Mania.esp
 JillBSAA.esp
 Ladyoutfit1.esp
@@ -1902,6 +1925,7 @@ AdvancedReconGear.esp
 AdvReconEasierStealth.esp
 SchoolUniforms.esp
 Scout Outfits.esp
+StarWarsArmorV2.esp
 StealthArmorHelmLess.esp
 Stealthboy Recon Armor - CRAFT.esp
 Tactical Vest CIRAS.esp
@@ -3634,6 +3658,8 @@ Mez's Merged Patch 5-0 - DLC-FWE-WMK-MMM.esp
 FNNIguana - MMMRC6.esp
 FNNsys - FWE.esp
 % {{BASH: Scripts}}
+FNNsys start inventory.esp
+: FNNsys.esm
 Impervious Power Armour- FWE Fixer.esp
 Sydney Follower.esp
 Sydney Follower - Load Order Fix.esp
