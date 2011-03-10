@@ -410,7 +410,6 @@ Internet Mod.esp
 TakingOutTheTrash.esp
 TOTTPointLookoutEdition.esp
 YearlingsGlasses.esp
-AutoGates.esp
 MaxLevelWorkaround-BS.esp
 Max Level 99 V2.esp
 MaxLevel100.esp
@@ -901,6 +900,7 @@ MrLabTechnician - FWE.esp
 % {{BASH: Deflst,Delev}}
 SelfSurgeryKit.esp
 % {{BASH: Relev}}
+ReciveLyonsPA.esp
 RobCo Universal Battery Charger Kit.esp
 " RobCo Universal Battery Charger Kit - Zeta.esp
 RobCo Universal Battery Charger Kit - Zeta.esp
@@ -1555,17 +1555,6 @@ FWE-COL-Enclave-compatibilitypatch-hellfireaddon.esp
 
 \BeginGroup\: Other
 \-----------
-LaptopTerminals.esp
-LaptopTerminalsAnchorage.esp
-: Anchorage.esm
-LaptopTerminalsPointLookout.esp
-: PointLookout.esm
-LaptopTerminalsPitt.esp
-: ThePitt.esm
-LaptopTerminalsBrokenSteel.esp
-: BrokenSteel.esm
-LaptopTerminalsZeta.esp
-: Zeta.esm
 Fallout3Tactics NPCs.esp
 Fallout3Tactics Food.esp
 Fallout3Tactics Wasteland.esp
@@ -2015,6 +2004,8 @@ _R_Tribals.esp
 \BeginGroup\: Middle Misc A
 \-----------
 AS-R CALIBR Patch ONLY.esp
+AutoGates.esp
+% {{BASH: Scripts}}
 CALIBR Ammo Schematics - CRAFT.esp
 Ammo_Schematics.esp
 : CRAFT.esm
@@ -2048,6 +2039,17 @@ KarmaChurchDecrease1010.esp
 KarmaHard1010.esp
 KarmaStealIncrease1010.esp
 KarmaThreshold1010.esp
+LaptopTerminals.esp
+LaptopTerminalsAnchorage.esp
+: Anchorage.esm
+LaptopTerminalsPointLookout.esp
+: PointLookout.esm
+LaptopTerminalsPitt.esp
+: ThePitt.esm
+LaptopTerminalsBrokenSteel.esp
+: BrokenSteel.esm
+LaptopTerminalsZeta.esp
+: Zeta.esm
 ReneerInvisibleKarmaMod.esp
 DeadlyTurrets.esp
 Improved Turrets.esp
