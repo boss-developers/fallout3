@@ -63,7 +63,7 @@ xCALIBRuniverse.esm
 % {{BASH: Names,Graphics,Invent,Sound,Stats}}
 CRAFTHelper.esm
 Project Beauty HD version.esm
-* Old. Download the latest Project Beauty files.
+>* Old. Download the latest Project Beauty files.
 Project Beauty.esm
 % {{BASH: NpcFaces,Hair,Eyes,Voice-M,Voice-F,Body-M,Body-F,R.Teeth,R.Mouth}}
 FACE3.esm
@@ -113,11 +113,11 @@ FOOK2 - Main.esm
 % {{BASH: Invent,Stats,Relations,Factions}}
 : CALIBR.esm
 FOOK.ESM
-* Get FOOK2
+>* Get FOOK2
 FOOK2 - [WANK] World And Neighbourhood Kit.esm
 : CALIBR.esm
 : FOOK2 - Main.ESM
-* Remove if using FOOK2 1.1 and above
+>* Remove if using FOOK2 1.1 and above
 FOOK2 - [DIK] DLC Improvement Kit.esm
 : Anchorage.esm
 : ThePitt.esm
@@ -175,7 +175,7 @@ EnclaveCommander-OA-Pitt-Steel.esm
 CrossModData.esm
 BHR&M.esm
 PB mika.esm
-* Old. Download the latest Project Beauty files.
+>* Old. Download the latest Project Beauty files.
 Animy_prostitution.esm
 : CrossModData.esm
 sc_lovers_resource.esm
@@ -333,7 +333,7 @@ Ambient Temperature - OA.esp
 Selective Fire.esp
 PIMP.esp
 Project Beauty.esp
-* Old. Download the latest Project Beauty files.
+>* Old. Download the latest Project Beauty files.
 Project Beauty- Broken Steel.esp
 % {{BASH: NpcFaces,NoMerge,Deactivate}}
 Project Beauty- Point Lookout.esp
@@ -1347,7 +1347,7 @@ PB FOOK2 - Main.esp
 FOOK2 - Project Beauty.esp
 FOOK2 - [EVE] Energy Visuals Enhanced.esp
 : FOOK2 - Main.ESM
-* Remove if using FOOK2 1.1 and above
+>* Remove if using FOOK2 1.1 and above
 FOOK2 - [DIK] DLC Improvement Kit.esp
 : Anchorage.ESM
 : ThePitt.ESM
@@ -1360,25 +1360,25 @@ FOOK2 - Mothership Zeta.esp
 : FOOK2 - Main.ESM and Zeta.ESM
 FOOK2 - DIK - Project Beauty.esp
 FOOK2 - Main [Hotfix].esp
-* Please update to FOOK2 1.1 Open Beta 2
+>* Please update to FOOK2 1.1 Open Beta 2
 FOOK2 - DIK [Hotfix].esp
-* Please update to FOOK2 1.1 Open Beta 2
+>* Please update to FOOK2 1.1 Open Beta 2
 FOOK2 Main [Hotfix].esp
 FOOK2 DIK [Hotfix].esp
 MyFOOK2 - Color Tranquility Lane.esp
-* Remove if using FOOK2 1.1 and above
+>* Remove if using FOOK2 1.1 and above
 MyFOOK2 - No Nightvision on Power Helmets.esp
 : FOOK2 - Main.ESM
-* Remove if using FOOK2 1.1 and above
+>* Remove if using FOOK2 1.1 and above
 MyFOOK2 - No RAPE Victims.esp
 : FOOK2 - Main.ESM
-* Remove if using FOOK2 1.1 and above
+>* Remove if using FOOK2 1.1 and above
 MyFOOK2 - S.H.A.D.E.esp
 : FOOK2 - Main.ESM
-* Remove if using FOOK2 1.1 and above
+>* Remove if using FOOK2 1.1 and above
 MyFOOK2 - Black & White Tranquility Lane.esp
 : FOOK2 - Main.ESM
-* Remove if using FOOK2 1.1 and above
+>* Remove if using FOOK2 1.1 and above
 FOOK2 - [DESTRUCTION] Main.esp
 % {{BASH: Destructable,Scripts}}
 : FOOK2 - Main.ESM
@@ -1413,9 +1413,9 @@ WeightAmmo.esp
 : CALIBR.esm
 : FOOK2 - Main.esm
 FPS Grenade Hotkey - FOOK2.esp
-* Remove if using FOOK2 1.1 and above
+>* Remove if using FOOK2 1.1 and above
 FPS Grenade Hotkey - FOOK2 DIK.esp
-* Remove if using FOOK2 1.1 and above
+>* Remove if using FOOK2 1.1 and above
 FOOK2 - DUI Grenade Fix for 11 Open Beta.esp
 Sally Fix 2.esp
 Apocalypse Armory.esp
@@ -1433,12 +1433,12 @@ Apocalypse Armory - Grenade Hotkeys for DLC.esp
 " Apocalypse Armory - Grenade Hotkeys.esp
 : FPS Grenade Hotkey.esp
 GSoS - FOOK2 Open Beta - Combat and Sneaking Overhaul.esp
-* Old, please update to the latest version
+>* Old, please update to the latest version
 GSoS - FOOK2 Open Beta - CaSO.esp
 GSoS - CaSO - BS Fix.esp
 CaSO - Project Beauty.esp
 GSoS - FOOK2 Open Beta - XP Tag Perks.esp
-* Old, please update to the latest version
+>* Old, please update to the latest version
 GSoS - FOOK2 Open Beta - XP.esp
 GSoS - FOOK2 Open Beta - Tag.esp
 GSoS - FOOK2 Open Beta - Stimpaks Revamp.esp
@@ -2363,9 +2363,9 @@ Mart's Mutant Mod.esp
 Mart's Mutant Mod - UF3P.esp
 % {{BASH: Invent}}
 PB MMM HD.esp
-* Old. Download the latest Project Beauty files.
+>* Old. Download the latest Project Beauty files.
 PB MMM.esp
-* Old. Download the latest Project Beauty files.
+>* Old. Download the latest Project Beauty files.
 Mart's Mutant Mod - DLC Anchorage.esp
 % {{BASH: Scripts}}
 : Anchorage.ESM
@@ -2424,10 +2424,10 @@ Mart's Mutant Mod - Soft Unleveler Hardcore.esp
 Mart's Mutant Mod - Dynamic Player Scaling.esp
 Mart's Mutant Mod - Zombie Cementery.esp
 Project Beauty- MMM Raiders.esp
-* Old. Download the latest Project Beauty files.
+>* Old. Download the latest Project Beauty files.
 Mart's Mutant Mod - Project Beauty (HD Addition).esp
 % {{BASH: NpcFaces,NoMerge}}
-* Old. Download the latest Project Beauty files.
+>* Old. Download the latest Project Beauty files.
 Mart's Mutant Mod - Project Beauty.esp
 % {{BASH: NpcFaces,NoMerge}}
 Mart's Mutant Mod - Project Beauty + FWE.esp
@@ -2437,7 +2437,7 @@ CP - FACE3 NPCS [MMM].esp
 CP - FACE3 [MMM] Racefix.esp
 % {{BASH: NpcFaces,NoMerge}}
 Mart's Mutant Mod - FOOK.esp
-* Get FOOK2
+>* Get FOOK2
 Mart's Mutant Mod - FOOK2.esp
 : FOOK2 - Main.ESM and Mart's Mutant Mod.esm
 % {{BASH: Relations}}
@@ -2471,7 +2471,7 @@ Mart's Mutant Mod - Project Beauty + FWE.esp
 % {{BASH: NpcFaces,NoMerge}}
 Mart's Mutant Mod - Project Beauty (HD Addition).esp
 % {{BASH: NpcFaces,NoMerge}}
-* Old. Download the latest Project Beauty files.
+>* Old. Download the latest Project Beauty files.
 Mart's Mutant Mod - Linged.esp
 Mart's Mutant Mod - CFW.esp
 Mart's Mutant Mod - XFO.esp
