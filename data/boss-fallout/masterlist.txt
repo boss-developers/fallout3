@@ -17,6 +17,10 @@
 \ Multiple remark/comment/bash/error lines allowed.
 \ Lines beginning with \ and blank lines are treated the same (ignored).
 
+//Masterlist variable setup. For BOSS v1.7+. 
+//Earlier versions of BOSS will ignore this and any other masterlist format v2 stuff.
+IF (FO3 Wanderers Edition - Main File.esm) SET: FWE
+IF (FOOK2 - Main.esm) SET: FOOK2
 
 \BeginGroup\: ESMs
 \------------
@@ -1341,6 +1345,7 @@ Canterbury Commons Interiors Embiggened.esp
 \BeginGroup\: FOOK
 \-----------
 FOOK2 - Main.esp
+IFNOT (FOOK2) ERROR: FOOK2 - Main.esm is missing.
 % {{BASH: Delev, Relev}}
 : CALIBR.ESM and FOOK2 - Main.ESM
 PB FOOK2 - Main.esp
