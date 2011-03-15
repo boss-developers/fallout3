@@ -462,7 +462,7 @@ Fallout Safe Exit v1.1.esp
 ASU.esp
 CRAFT - Activation Perk.esp
 : CRAFT.ESM
-CRAFT -Zeta - Activation Perk.esp
+CRAFT -Zeta -  Activation Perk.esp
 : CRAFT.ESM
 CRAFT - Workbench and Crafting Expansion combined.esp
 : CRAFT.esm
@@ -649,7 +649,7 @@ UPP - Pack 1.esp
 UPP - Pack 2.esp
 UPP - Original Perks.esp
 UPP - Experience Perks.esp
-UPP - Quest Perks.esp
+UPP  - Quest Perks.esp
 UPP - Quest Perks.esp
 UPP - Beverage Perks.esp
 PreWar Book Titles and Perks.esp
@@ -1930,7 +1930,7 @@ BSFeminizedPowerArmor.esp
 Testweapon Arms x Arms.esp
 Test-Weapon_additional armor.esp
 % {{BASH: Invent}}
-Testweapon_SP MedicKuma-Spirits.esp
+Testweapon_SP  MedicKuma-Spirits.esp
 TombRaider.esp
 Tonibiatch.esp
 Trooper_outfits.esp
