@@ -56,6 +56,8 @@ FallsChurchMetroFix.esm
 Phalanx-PointLookout-Navmesh.esm
 PointLookout-FollowersGetToGo.esm
 : PointLookout.ESM
+aHUD.esm
+iHUD.esm
 The Librarian.esm
 TalonExtraArmor.esm
 Impervious Power Armour.esm
@@ -1460,7 +1462,7 @@ GSoS - Car Explosions.esp
 \BeginGroup\: Fallout Wanderer's Edition
 \-----------
 FO3 Wanderers Edition - Main File.esp
-% {{BASH: Deflst, Delev, Relev}}
+% {{BASH: Deflst, Delev, Destructable, Relev}}
 FO3 Wanderers Edition - DLC Anchorage.esp
 % {{BASH: Deflst}}
 FO3 Wanderers Edition - DLC The Pitt.esp
@@ -1476,8 +1478,10 @@ FO3 Wanderers Edition - Lvl 30 Balance.esp
 FO3 Wanderers Edition - Lvl 30 More Skills.esp
 " FO3 Wanderers Edition - Lvl 30 Balance.esp
 FO3 Wanderers Edition - Followers Enhanced.esp
-" FO3 Wanderers Edition - Followers Enhanced (BrokenSteel).esp:
+% {{BASH: Actors.ACBS, Actors.AIData, Actors.Stats}}
+" FO3 Wanderers Edition - Followers Enhanced (BrokenSteel).esp
 FO3 Wanderers Edition - Followers Enhanced (BrokenSteel).esp
+% {{BASH: Actors.ACBS, Actors.AIData, Actors.Stats}}
 " FO3 Wanderers Edition - Followers Enhanced.esp
 FO3 Wanderers Edition - Optional Free Play After MQ.esp
 " BrokenSteel.esm
@@ -3475,6 +3479,7 @@ FWE Realistic Ammo Weight in Names inc. 20th Cent.esp
 " FWE-20thCent Ammo Weight in Names.esp
 % {{BASH: Names}}
 CarvanTrader.esp
+% {{BASH: Actors.ACBS, Actors.Stats, Invent, Names, R. Attributes-F, R. Attributes-M, R.Skills, Scripts}}
 CaravanEssential.esp
 Essential Caravan Merchants.esp
 Achievement Remover [FO3+OA+BS].esp
