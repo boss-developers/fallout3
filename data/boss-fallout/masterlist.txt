@@ -38,6 +38,7 @@ Lings.esm
 Unofficial Fallout 3 Patch.esm
 % {{BASH: Deflst, Delev, Relev, Factions, Invent, Names, Relations, Stats}}
 LingsDLC.esm
+% {{BASH: Hair, Eyes}}
 HairPack.esm
 % {{BASH: Hair, Eyes}}
 Hairday.esm
@@ -786,6 +787,7 @@ PLweightadjust.esp
 : PointLookout.ESM
 PLFewerItems.esp
 : PointLookout.ESM
+Tenpenny Tower true peace.esp
 The Mantis Imperative - Mantis.esp
 % {{BASH: Relev}}
 The Mantis Imperative - Jello.esp
@@ -1038,6 +1040,8 @@ Scenic_Loading_Background_PointofLookoutDLC.esp
 Scenic_Loading_Background_OperationAnchorageDLC.esp
 % {{BASH: Graphics}}
 : Anchorage.esm
+loadingsc.esp
+% {{BASH: Graphics}}
 Treasure Maps_Underground.esp
 Treasure Maps_Secrets of the Wasteland.esp
 Treasure Maps_Bobblehead Edition.esp
