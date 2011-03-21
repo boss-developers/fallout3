@@ -35,6 +35,7 @@ BrokenSteel.esm
 PointLookout.esm
 Zeta.esm
 Lings.esm
+% {{BASH: Hair}}
 Unofficial Fallout 3 Patch.esm
 % {{BASH: Deflst, Delev, Relev, Factions, Invent, Names, Relations, Stats}}
 LingsDLC.esm
@@ -1466,7 +1467,7 @@ GSoS - Car Explosions.esp
 \BeginGroup\: Fallout Wanderer's Edition
 \-----------
 FO3 Wanderers Edition - Main File.esp
-% {{BASH: Deflst, Delev, Destructable, Relev}}
+% {{BASH: Deflst, Delev, Destructable, Names, Relev}}
 FO3 Wanderers Edition - DLC Anchorage.esp
 % {{BASH: Deflst}}
 FO3 Wanderers Edition - DLC The Pitt.esp
