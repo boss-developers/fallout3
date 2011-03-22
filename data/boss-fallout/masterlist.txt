@@ -154,6 +154,7 @@ RobCo Certified v2.esm
 Wasteland Whisperer v2.esm
 : Companion Core.esm
 Summer_2.5.esm
+RHKBrisaAlmodovar.esm 
 Enhanced Weather - Rain and Snow.esm
 Xepha's Dynamic Weather.esm
 % {{BASH: C.Climate, Sound}}
@@ -2534,7 +2535,7 @@ FEM - UF3 enabler.esp
 : FEM.esm
 LingsFinerThings.esp
 LingsPrettyThings.esp
-% {{BASH: Actors.Stats, Eyes, Hair, Invent, Names, NpcFaces, R.Attributes-F, R.Attributes-M, R.Description, R.Head, R.Mouth, R.Teeth}}
+% {{BASH: Eyes, Hair, Invent, Names, NpcFaces, R.Attributes-F, R.Attributes-M, R.Description, R.Head, R.Mouth, R.Teeth}}
 LingsPrettyThings-BrokenSteel.esp
 LingsPrettyThings-SeducingWomen.esp
 LingsPrettyThings-FOOK2-MMM.esp
@@ -2645,6 +2646,10 @@ CBOv1.4_slaveraider.esp
 EnclaveCommander.esp
 EnclaveCommander-OA.esp
 JHBCloverPlus.esp
+RHKBrisaAlmodovar - Custom - Lings.esp 
+: Lings.esm
+RHKBrisaAlmodovar - DLC - Anch.esp 
+: Anchorage.esm
 mmMoleRatMount.esp
 \EndGroup\\
 
