@@ -135,6 +135,7 @@ FOOK2 - [DIK] DLC Improvement Kit.esm
 : FOOK2 - Main.ESM
 FO3 Wanderers Edition - Main File.esm
 % {{BASH: Actors.ACBS, Actors.Stats, Deflst, Delev, Invent, Names, Relations, Relev, Stats}}
+? Suggested to remove the names tag if using MMM
 : CRAFT.esm
 : CALIBR.esm
 Fallout3Tactics.esm
@@ -972,6 +973,7 @@ My_Megaton_House.esp
 MMH_Even_More_Storage.esp
 MegatonHouseExtraStorage.esp
 MegatonHouseExtraStorageSG.esp
+Purified Megaton Player House Sink.esp
 Down Under.esp 
 Expanded Megaton House V3.esp
 Expanded Megaton House V3-No Stove.esp
@@ -1059,6 +1061,7 @@ BusworldV1.05.esp
 ? Possible cause of CTDs, try disabling to test for improvments, or try BusworldV1.05noexpl.esp
 BusworldV1.05noexpl.esp
 BusworldV1.05d.esp
+GNR Shop.esp
 FPS Grenade Hotkey.esp
 ? Do not use with latest FOOK2/FWE, it is already integrated.
 FPS Grenade Hotkey - Zeta addon.esp
@@ -1820,6 +1823,8 @@ Mantis07Reflex.esp
 3EFwandererGear.esp
 Amy_Armor.esp
 AsharasFormalClothing.esp
+BBBackpacks-v1-1.esp 
+% {{BASH: Stats}}
 blackrock_shooter.esp
 BodyJewelry.esp
 BodyJewelryEx.esp
@@ -1945,7 +1950,8 @@ Tonibiatch.esp
 Trooper_outfits.esp
 tubunarVanilla.esp
 Wasteland and Bog Outfits.esp
-wasteland_mix1F.esp
+WasteWearGloves.esp
+% {{BASH: Relev}}
 Yoko'sOutfits.esp
 ignis.esp
 kikaiEquipment.esp
@@ -1974,6 +1980,9 @@ PPA - FWE.esp
 : FO3 Wanderers Edition - Main File.esm
 PPA - Super Human Jump Perk.esp
 : super_jump_perk.esp
+PPA - Ambient Temperature.esp
+: Ambient Temperature.esm
+: Powered Power Armor.esp
 PPA - IMCN.esp
 : IMCN.esm
 : Powered Power Armor.esp
@@ -2341,6 +2350,9 @@ CMF-Zeta.esp
 Anchorage - Extra Holotapes.esp
 : Anchorage
 GaryHoloTape.esp
+% {{BASH: Names}}
+Trucker Holotapes.esp
+% {{BASH: Names}}
 MTCBigTownRobotFix.esp
 \EndGroup\\
 
@@ -2399,6 +2411,8 @@ Project Beauty- Point Lookout MMM.esp
 Mart's Mutant Mod - DLC Zeta.esp
 % {{BASH: Scripts}}
 : Zeta.ESM
+DangerousRadroaches_MMM.esp
+% {{BASH: Actors.CombatStyle}}
 Mart's Mutant Mod - No Corpse Flies.esp
 % {{BASH: Relev}}
 Mart's Mutant Mod - No DLC Increased Spawns.esp
