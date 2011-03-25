@@ -1886,6 +1886,7 @@ DIM TYPE3 conversions.esp
 DIM TYPE3clothesRETAIL.esp
 doctorli_glasses.esp
 Bikini_Armor_TYPE3.esp
+Black Puppet Armor for Fo3.esp
 Type3Accessories.esp
 Type3Clothes.esp
 Persona_and_Secret.esp
@@ -1896,6 +1897,8 @@ Shaikujins_Chrome_Dogmeat_Armour.esp
 Dragonskin Tactical Outfit.esp
 DragonskinBonusPack.esp
 FaithOutfit.esp
+FetishLingerieSet.esp
+FetishFishnet.esp
 Freebooter_Armor.esp
 FO3Ayumi.esp
 FO3Fate.esp
@@ -1916,6 +1919,7 @@ Gloria Armor.esp
 Gundam_Armors.esp
 Hentai Mania.esp
 JillBSAA.esp
+Koukaku_Armor.esp
 Ladyoutfit1.esp
 Lookout Outfits.esp
 NaughtyRaiderArmor_EZStd.esp
