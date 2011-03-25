@@ -2681,6 +2681,7 @@ RI_PN_DLC.esp
 RI_PrimaryNeeds_DUI_Plugin.esp 
 RiPnO CorePatch.esp
 Imp's More Complex Needs.esp
+% {{BASH: Delev, Relev}}
 : IMCN.esm
 IMCN - 5 DLC Merged.esp
 : IMCN.esm
@@ -2731,6 +2732,7 @@ IMCN - RiPnO Compatibility and Ingestibles.esp
 : RiPnO Core Patch.esp
 " IMCN - FWE Compatibility and Ingestibles.esp
 IMCN - MMM Meats, Bloods, and Eyeballs.esp
+% {{BASH: Delev, Relev}}
 : IMCN.esm
 : Mart's Mutant Mod.esm
 IMCN - Forced Initialization.esp
