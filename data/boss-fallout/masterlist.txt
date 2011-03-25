@@ -633,6 +633,7 @@ RadioTenpenny.esp
 We Jazz.esp
 GNR Fix.esp
 ReneersRadioMod.esp
+% {{BASH: Scripts}}
 ? Do not use with latest FOOK2, it is already integrated.
 Radio Stutter fix.esp
 ? Load RadioHotkey after all other radio mods
@@ -1622,7 +1623,7 @@ WeaponModKits.esp
 % {{BASH: Names}}
 WeaponModKits - FOOK.esp
 WeaponModKits - FWE Master Release.esp
-% {{BASH: Deflst, Relev}}
+% {{BASH: Deflst, Relev, Names}}
 WeaponModKits - FWE Optional Worn Weapons.esp
 % {{BASH: Delev}}
 WeaponModKits - OperationAnchorage.esp
@@ -2397,7 +2398,7 @@ Mart's Mutant Mod - DLC Anchorage.esp
 % {{BASH: Scripts}}
 : Anchorage.ESM
 Mart's Mutant Mod - DLC The Pitt.esp
-% {{BASH: Delev, Scripts}}
+% {{BASH: Delev, Relev, Scripts}}
 : ThePitt.ESM
 Mart's Mutant Mod - DLC Broken Steel.esp
 % {{BASH: Delev, Relev, Scripts}}
@@ -3109,6 +3110,7 @@ GTent-FWE-WMK.esp
 \BeginGroup\: Phalanx
 \-----------
 Phalanx-MainFollowerModule.esp
+% {{BASH: Actors.AIPackages, Actors.ACBS}}
 ? Do not use with latest FOOK2, it is already integrated.
 Phalanx-BrokenSteel-Integration.esp
 : BrokenSteel.esm
@@ -3233,7 +3235,8 @@ Magic Pip-Light (40 Brightness).esp
 Magic Pip-Light (45 Brightness).esp 
 Magic Pip-Light (55 Brightness).esp 
 Magic Pip-Light (60 Brightness).esp 
-Magic Pip-Light (90 Brightness).esp 
+Magic Pip-Light (90 Brightness).esp
+ZZ_APP.esp
 \EndGroup\\
 
 \BeginGroup\: Weather\Light\Water
