@@ -1146,6 +1146,7 @@ EZ_TempleOfCant.esp
 EZ_Ammo_Restriction.esp
 EZ_citizens.esp
 Clothed Sarah Lyons - Sleepwear.esp
+% {{BASH: Invent}}
 Named Wasteland.esp
 % {{BASH: Names}}
 NPCs Sleep Tighter.esp
@@ -1519,6 +1520,7 @@ FO3 Wanderers Edition - Project Beauty (HD Addition).esp
 " Project Beauty.esp
 FO3 Wanderers Edition - Project Beauty (Followers Enhanced).esp
 FO3 Wanderers Edition - Talon Loot Crash Fix.esp
+% {{BASH: Delev, Relev}}
 : CALIBR
 Return to Shady Sands - FWE weapons rebalance.esp
 RH_FWE_Patch.esp
@@ -2681,9 +2683,10 @@ RI_PN_DLC.esp
 RI_PrimaryNeeds_DUI_Plugin.esp 
 RiPnO CorePatch.esp
 Imp's More Complex Needs.esp
-% {{BASH: Delev, Relev}}
+% {{BASH: Delev, Relev, Stats}}
 : IMCN.esm
 IMCN - 5 DLC Merged.esp
+% {{BASH: Stats}}
 : IMCN.esm
 : Anchorage.esm
 : ThePitt.esm
@@ -2691,32 +2694,40 @@ IMCN - 5 DLC Merged.esp
 : PointLookout.esm
 : Zeta.esm
 IMCN - Operation Anchorage.esp
+% {{BASH: Stats}}
 : IMCN.esm
 : Anchorage.esm
 " IMCN - 5 DLC Merged.esp
 IMCN - The Pitt.esp
+% {{BASH: Stats}}
 : IMCN.esm
 : ThePitt.esm
 " IMCN - 5 DLC Merged.esp
 IMCN - Broken Steel.esp
+% {{BASH: Stats}}
 : IMCN.esm
 : BrokenSteel.esm
 " IMCN - 5 DLC Merged.esp
 IMCN - Point Lookout.esp
+% {{BASH: Stats}}
 : IMCN.esm
 : PointLookout.esm
 " IMCN - 5 DLC Merged.esp
 IMCN - Mothership Zeta.esp
+% {{BASH: Stats}}
 : IMCN.esm
 : Zeta.esm
 " IMCN - 5 DLC Merged.esp
 IMCN - FWE Compatibility and Ingestibles.esp
+% {{BASH: Stats}}
 : IMCN.esm
 : FO3 Wanderers Edition - Main File.esm
 IMCN - FOOK2 Ingestibles.esp
+% {{BASH: Stats}}
 : IMCN.esm
 : FOOK2 - Main.ESM
 IMCN - BLTC Compatibility and Ingestibles.esp
+% {{BASH: Stats}}
 : IMCN.esm
 : bltc.esp
 " IMCN - FWE Compatibility and Ingestibles.esp
@@ -2727,12 +2738,13 @@ IMCN - BLTC RiPnO Combined Compatibility.esp
 : RiPnO Core Patch.esp
 " IMCN - FWE Compatibility and Ingestibles.esp
 IMCN - RiPnO Compatibility and Ingestibles.esp
+% {{BASH: Stats}}
 : IMCN.esm
 : RI_Core.esm
 : RiPnO Core Patch.esp
 " IMCN - FWE Compatibility and Ingestibles.esp
 IMCN - MMM Meats, Bloods, and Eyeballs.esp
-% {{BASH: Delev, Relev}}
+% {{BASH: Delev, Relev, Stats}}
 : IMCN.esm
 : Mart's Mutant Mod.esm
 IMCN - Forced Initialization.esp
@@ -3776,6 +3788,7 @@ frederyck+FWE+xCALIBR.esp
 : WeaponModKits.esp
 : WeaponModKits - FWE Master Release.esp
 Compatibility_Plugin_TalonExtraArmor_FWE_BrokenSteel.esp
+% {{BASH: Delev, Relev}}
 Compatibility Plugin00 TalonCo & Marts.esp
 Compatibility Plugin01 PunisherGear & TalonCo.esp
 UPP - NaturalBornSniper WMK compatibility.esp
