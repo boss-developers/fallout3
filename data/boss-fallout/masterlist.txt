@@ -2556,6 +2556,8 @@ LucyWestCompanion.esp
 bittercup_comp.esp
 moirared.esp
 % {{BASH: Invent}}
+Reclothing For LPT and FLash.esp
+% {{BASH: Invent}}
 Mystyk's Followers.esp
 Follower Autumn.esp
 DanteCompanion.esp
