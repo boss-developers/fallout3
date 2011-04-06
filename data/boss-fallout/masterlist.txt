@@ -182,6 +182,7 @@ AmyWong.esm
 EnclaveCommander-Steel.esm
 EnclaveCommander-OA-Steel.esm
 EnclaveCommander-OA-Pitt-Steel.esm
+EnclaveCommander-NoFreeRide.esm
 CrossModData.esm
 BHR&M.esm
 PB mika.esm
@@ -263,6 +264,23 @@ BrokenSteel_StarPaladinCross_Fix.esp
 : BrokenSteel.esm
 UF3P Crane Fix.esp
 Citadel Crane Fix.esp
+ObjectPlacementFix.esp
+CinderBlockRockFix.esp
+" CinderblockRockFix2.esp
+" ConcreteSlabFix.esp
+" ConcreteSlabFix2.esp
+CinderblockRockFix2.esp
+" CinderBlockRockFix.esp
+" ConcreteSlabFix.esp
+" ConcreteSlabFix2.esp
+ConcreteSlabFix.esp
+" CinderBlockRockFix.esp
+" CinderblockRockFix2.esp
+" ConcreteSlabFix2.esp
+ConcreteSlabFix2.esp
+" CinderBlockRockFix.esp
+" CinderblockRockFix2.esp
+" ConcreteSlabFix.esp
 Error Correction.esp
 % {{BASH: Scripts}}
 : Requires: Anchorage.esm
@@ -543,6 +561,8 @@ RH_IronSights_Pitt_NewRifleSights.esp
 RH_IronSights_PL_HatAndShotgun.esp
 RH_IronSights_RemoveReticule.esp
 RH_IronSights_PL_NewItems.esp
+RH_IronSights_Vanilla_BetterUniques.esp
+RH_IronSights_Vanilla_NewWeapons.esp
 sc_slaves_stick_around.esp
 sc_slaves_stick_around_original_mezz.esp
 sc_slaves_stick_around_original_mezz_chance.esp
@@ -945,6 +965,8 @@ Followers Allowed - The Pitt.esp
 Followers Allowed - Mothership Zeta.esp
 Followers Allowed - Point Lookout.esp
 Sack of Holding.esp
+Chems and Meds Re-Textures Pack.esp
+% {{BASH: Graphics}}
 BlackWolf Backpack.esp
 BlackWolf Backpack - Vendor Script Replenish.esp
 BlackWolf Backpack - Vanilla Big Guns Fix.esp
@@ -975,6 +997,7 @@ My_Megaton_House.esp
 MMH_Even_More_Storage.esp
 MegatonHouseExtraStorage.esp
 MegatonHouseExtraStorageSG.esp
+MGSBox.esp
 Purified Megaton Player House Sink.esp
 Down Under.esp 
 Expanded Megaton House V3.esp
@@ -1524,6 +1547,11 @@ FO3 Wanderers Edition - Talon Loot Crash Fix.esp
 : CALIBR
 Return to Shady Sands - FWE weapons rebalance.esp
 RH_FWE_Patch.esp
+RH_FWE_Bridge.esp
+: CRAFT.esm
+: CALIBR.esm
+: RH_IRONSIGHTS.esm
+: FO3 Wanderers Edition - Main File.esm
 Alt Start Weapons - FWE.esp
 MZC-FWE_FOIP.esp
 FO3 Quest Patch - FWE + BS.esp
@@ -1572,6 +1600,16 @@ FWE-COL-Enclave-compatibilitypatch-hellfireaddon.esp
 : FO3 Wanderers Edition - Main File.esp
 : FO3 Wanderers Edition - DLC Broken Steel.esp
 : FWE-COL-Enclave-compatibilitypatch.esp
+FWE-COL-Brotherhood-compatibilitypatch.esp
+: CRAFT.esm
+: CALIBR.esm
+: FO3 Wanderers Edition - Main File.esm
+: FO3 Wanderers Edition - Main File.esp
+FWE-COL-Outcast-compatibilitypatch.esp
+: CRAFT.esm
+: CALIBR.esm
+: FO3 Wanderers Edition - Main File.esm
+: FO3 Wanderers Edition - Main File.esp
 \EndGroup\\
 
 \BeginGroup\: Other
@@ -1661,9 +1699,17 @@ Apocalypse Armory + WMK.esp
 7_ISA -ec 20th Century Weapons v3.1.esp
 : CALIBR
 : 20th Century Weapons.esm
+A3-21-Focused.esp
+50CaliberSniperRifle.esp
+50CaliberSniperRifleAmmo.esp
+BackpackFixForShishkebabENG.esp
+BackpackFixForShishkebabPL.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionTHEPOINT.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionANCHORAGE.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionTHEPITT.esp
+Better Looking Combat Shotgun.esp
+Better Looking Combat Shotgun (Full Auto).esp
+Crossbow.esp
 Echo_UseBothGloves.esp
 jmschematics - CRAFT.esp
 Hi-Res Weapons & Ammo Textures - The Pitt.esp
@@ -1677,6 +1723,7 @@ YK42B Pulse Rifle.esp
 Wattz Laser Weapons Mod.esp
 SnakesBandana.esp
 Tactical Weapons-Calibr-V3.esp
+Focused Plasma.esp
 Akira - Simple Silenced SMG.esp
 AsharasBatmanItems.esp
 GaussCompleteBeta.esp
@@ -1689,6 +1736,7 @@ HZ_M92SE.esp
 NewKnives.esp
 FLY_weapons.esp
 Kneecapper Linked.esp
+ShishkebabWithoutGlove.esp 
 Solar-Scorcher.esp
 SolarScorcher.esp
 10mmReplacer.esp
@@ -1706,6 +1754,7 @@ ZL-ACRForFWE.esp
 Star Trek Tri-Beam Phaser.esp
 AER10V2 Laser Rifle.esp
 MPammo.esp
+HZ_M249.esp
 VashDeagleV5.esp
 Wattz Laser Non Replacer Mod.esp
 F3RWPMolotovCocktail-0_1.esp
@@ -1753,6 +1802,7 @@ JQ-40K.esp
 JQ40K2.esp
 Playing With Firepower.esp
 : CRAFT.esm
+rl3-plasmabeam.esp
 WieldableTorches (Main).esp
 " Wieldable Torches (Optional).esp
 Wieldable Torches (Optional).esp
@@ -1941,6 +1991,7 @@ AdvancedReconGear.esp
 AdvReconEasierStealth.esp
 SchoolUniforms.esp
 Scout Outfits.esp
+Spartan Armor.esp
 StarWarsArmorV2.esp
 StealthArmorHelmLess.esp
 Stealthboy Recon Armor - CRAFT.esp
@@ -2048,7 +2099,11 @@ Force Start The Pitt.esp
 Vault 87 [Script Reversion].esp
 jmschematics.esp
 Ballistics-ALL-MoreRealism.esp
+RealFragGrenade.esp
+? upgrade to RealFragGrenade3.esp
+" RealFragGrenade3.esp
 RealFragGrenade3.esp
+" RealFragGrenade.esp
 Ks_DynamicSneak.esp
 PHIG_SteadyAim.esp
 JHB House Robots Can Repair.esp
@@ -2168,6 +2223,7 @@ Menu Based Hacking & Picking.esp
 ? DO not use with latest FWE, it is already integrated.
 PowerOfTheAtom_FOOKandFWE.esp
 AutomatScriptRemoved.esp
+Better Caravans.esp
 Wasteland Travel Caravans.esp
 UpgradedCaravanMerchants.esp
 CaravanUpgrades.esp
@@ -2380,6 +2436,9 @@ EVE - FWE Master Release.esp
 % {{BASH: Graphics, Sound}}
 EVE - FWE Master Release (Follower Enhanced).esp
 % {{BASH: Graphics, Sound}}
+EVE - FWE Master Release (pulse fix).esp
+% {{BASH: Graphics}}
+: CALIBR.esm
 EVE Anchorage - FWE DLC Anchorage.esp
 % {{BASH: Graphics, Sound}}
 EVE - FWE with WeaponModKits.esp
@@ -2387,6 +2446,7 @@ EVE - FWE with WeaponModKits.esp
 CFWRloadlastEVE.esp
 Apocalypse Armory + EVE.esp
 : EVE
+RH_EVE_Bridge.esp
 \EndGroup\\
 
 \BeginGroup\: Mart's Mutant Mod
@@ -2551,12 +2611,15 @@ xCALIBRuniverse_LingsPrettyThings.esp
 SeducedDLC03.esp
 SeducingWomen_patch_156.esp
 FEMed TYPE3 Cloths.esp
+Better Companions Ess.esp
+Better Companions Clover Ess.esp
+Better Companions NonEss.esp
 BriannaCompanion.esp
 LucyWestCompanion.esp
 bittercup_comp.esp
 moirared.esp
 % {{BASH: Invent}}
-Reclothing For LPT and FLash.esp
+Reclothing For LPT and Flash.esp
 % {{BASH: Invent}}
 Mystyk's Followers.esp
 Follower Autumn.esp
@@ -2966,6 +3029,7 @@ Easier_hacking_5_8.esp
 Lucky_hacking_5.esp
 ? Choose only one of Easier_hacking_5_8.esp or Lucky_hacking_5.esp, not both
 Action_Boy_hacking.esp
+Hacking Cheat.esp
 StripClub.esp
 Keep Anchorage Equipment.esp
 Vault-Tec Experimental Dimensional Safe.esp
@@ -3066,6 +3130,8 @@ AMPUTATE!.esp
 Cliff's_Sellable_Body_Parts.esp
 SpeechLite.esp
 SpeechLiteCombatDLC.esp
+100% Speech.esp
+Speech,Hack and Max Level.esp 
 EnduranceBasedHealthRegen.esp
 BoS Diversification.esp
 BoS Diversification - Broken Steel.esp
