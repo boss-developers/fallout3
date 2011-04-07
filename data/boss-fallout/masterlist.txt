@@ -304,6 +304,8 @@ Error Correction - Trees.esp
 " Error Correction - All Transparency & Trees.esp
 OADLCfix.esp
 : Anchorage.esm
+DrySewrOurLadyOfHopeHospitalRequestedFix.esp
+James Invisible wall bugs remove.esp
 zetabugfix.esp
 : Zeta.esm
 BenTweaks-FO3.esp
@@ -2934,6 +2936,7 @@ RaiderGirls_vanilla_adult.esp
 RaiderGirls_vanilla_003.esp
 RaiderGirls_pitt.esp
 : ThePitt.esm
+SuperStimpak_effects.esp
 T3T_OutcastTechSupport.esp
 T3T_AnchorageExtras.esp
 T3T_WeaponTweaks.esp
@@ -2953,6 +2956,7 @@ T3T_AT_CAS.esp
 T3T_BetterMegatonStorage.esp
 T3T_MiscItemIcons.esp
 ? Do not use with latest FWE, it is already integrated.
+SbkTougherEnclave.esp
 Standard Weapon's Spread.esp
 Anchorage Weapon Spread.esp
 Pitt Weapon Spread.esp
