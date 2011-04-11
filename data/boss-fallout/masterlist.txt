@@ -1702,6 +1702,7 @@ Apocalypse Armory + WMK.esp
 : CALIBR
 : 20th Century Weapons.esm
 A3-21-Focused.esp
+AlexScorpion's  and Weijiesen's Smoking Fun.esp
 50CaliberSniperRifle.esp
 50CaliberSniperRifleAmmo.esp
 BackpackFixForShishkebabENG.esp
