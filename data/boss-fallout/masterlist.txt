@@ -17,7 +17,7 @@
 \ Multiple remark/comment/bash/error lines allowed.
 \ Lines beginning with \ and blank lines are treated the same (ignored).
 
-\Masterlist variable setup. For BOSS v1.7+. 
+\Masterlist variable setup. For BOSS v1.7+.
 \Earlier versions of BOSS will ignore this and any other masterlist format v2 stuff.
  IF ("FO3 Wanderers Edition - Main File.esm") SET: FWE
  IF ("FOOK2 - Main.esm") SET: FOOK2
@@ -46,7 +46,7 @@ Hairday.esm
 RI_Core.esm
 FNNsys.esm
 % {{BASH: Scripts}}
-Inventory Access.esm 
+Inventory Access.esm
 IMCN.esm
 FaceMe.esm
 % {{BASH: NpcFaces, Hair, Eyes}}
@@ -154,7 +154,7 @@ RobCo Certified v2.esm
 Wasteland Whisperer v2.esm
 : Companion Core.esm
 Summer_2.5.esm
-RHKBrisaAlmodovar.esm 
+RHKBrisaAlmodovar.esm
 Enhanced Weather - Rain and Snow.esm
 Xepha's Dynamic Weather.esm
 % {{BASH: C.Climate, Sound}}
@@ -239,7 +239,7 @@ CMF-Zeta.esm
 FEM.esm
 SS Master File.esm
 SS Creature Compendium.esm
-Ambient Temperature.esm 
+Ambient Temperature.esm
 \EndGroup\\
 
 \BeginGroup\: Unofficial Patches and Fixes
@@ -744,55 +744,55 @@ GTSCOMM.esp
 GTSFawkesWeapons.esp
 : GlobalTravelSystem.esm
 : GTEssentials.esm
-Fallout 1+2 All in One Locations.esp 
+Fallout 1+2 All in One Locations.esp
 : GlobalTravelSystem.esm
-GTS - Military Base.esp 
+GTS - Military Base.esp
 : GlobalTravelSystem.esm
-GTS - San Francisco.esp 
+GTS - San Francisco.esp
 : GlobalTravelSystem.esm
-GTS - Cathedral.esp 
+GTS - Cathedral.esp
 : GlobalTravelSystem.esm
-GTS - Arroyo.esp 
+GTS - Arroyo.esp
 : GlobalTravelSystem.esm
-GTS - Toxic Caves.esp 
+GTS - Toxic Caves.esp
 : GlobalTravelSystem.esm
-GTS - Klamath.esp 
+GTS - Klamath.esp
 : GlobalTravelSystem.esm
-GTS - The Den.esp 
+GTS - The Den.esp
 : GlobalTravelSystem.esm
-GTS - Ghost Farm.esp 
+GTS - Ghost Farm.esp
 : GlobalTravelSystem.esm
-GTS - Redding.esp 
+GTS - Redding.esp
 : GlobalTravelSystem.esm
-GTS - Modoc.esp 
+GTS - Modoc.esp
 : GlobalTravelSystem.esm
-GTS - Vault City.esp 
+GTS - Vault City.esp
 : GlobalTravelSystem.esm
-GTS - Broken Hills.esp 
+GTS - Broken Hills.esp
 : GlobalTravelSystem.esm
-GTS - New Reno.esp 
+GTS - New Reno.esp
 : GlobalTravelSystem.esm
-GTS - Vault 13.esp 
+GTS - Vault 13.esp
 : GlobalTravelSystem.esm
-GTS - N.C.R..esp 
+GTS - N.C.R..esp
 : GlobalTravelSystem.esm
-GTS - The Glow.esp 
+GTS - The Glow.esp
 : GlobalTravelSystem.esm
-GTS - Vault 15.esp 
+GTS - Vault 15.esp
 : GlobalTravelSystem.esm
-GTS - Junktown.esp 
+GTS - Junktown.esp
 : GlobalTravelSystem.esm
-GTS - Necropolis.esp 
+GTS - Necropolis.esp
 : GlobalTravelSystem.esm
-GTS - Gecko.esp 
+GTS - Gecko.esp
 : GlobalTravelSystem.esm
-GTS - The Hub.esp 
+GTS - The Hub.esp
 : GlobalTravelSystem.esm
-GTS - Boneyard.esp 
+GTS - Boneyard.esp
 : GlobalTravelSystem.esm
-GTS - Brotherhood.esp 
+GTS - Brotherhood.esp
 : GlobalTravelSystem.esm
-GTS - Navarro.esp 
+GTS - Navarro.esp
 : GlobalTravelSystem.esm
 \EndGroup\\
 
@@ -827,7 +827,7 @@ RatTrapEyeCandy.esp
 RatTrapRadio.esp
 RatTrapSound.esp
 Regulators.esp
-RatTrapRadio.esp 
+RatTrapRadio.esp
 " Regulators_Overhaul.esp
 " Regulators _Overhaul_lvl7.esp
 " Regulators _Overhaul_lvl2.esp
@@ -1001,7 +1001,7 @@ MegatonHouseExtraStorage.esp
 MegatonHouseExtraStorageSG.esp
 MGSBox.esp
 Purified Megaton Player House Sink.esp
-Down Under.esp 
+Down Under.esp
 Expanded Megaton House V3.esp
 Expanded Megaton House V3-No Stove.esp
 MegatonBasement.esp
@@ -1247,7 +1247,7 @@ Megaton House and Theme Overhaul_SY.esp
 Megaton Walkway.esp
 megaton_lighting.esp
 % {{BASH: C.Light}}
-MegatonLights.esp 
+MegatonLights.esp
 % {{BASH: C.Light}}
 megalight.esp
 % {{BASH: C.Light}}
@@ -1739,7 +1739,7 @@ HZ_M92SE.esp
 NewKnives.esp
 FLY_weapons.esp
 Kneecapper Linked.esp
-ShishkebabWithoutGlove.esp 
+ShishkebabWithoutGlove.esp
 Solar-Scorcher.esp
 SolarScorcher.esp
 10mmReplacer.esp
@@ -1880,7 +1880,7 @@ Mantis07Reflex.esp
 3EFwandererGear.esp
 Amy_Armor.esp
 AsharasFormalClothing.esp
-BBBackpacks-v1-1.esp 
+BBBackpacks-v1-1.esp
 % {{BASH: Stats}}
 blackrock_shooter.esp
 BodyJewelry.esp
@@ -2034,9 +2034,9 @@ PPA - Operation Anchorage.esp
 : Anchorage.esm
 PPA - Broken Steel.esp
 : BrokenSteel.esm
-PPA - The Pitt.esp 
+PPA - The Pitt.esp
 : ThePitt.esp
-PPA - Mothership Zeta.esp 
+PPA - Mothership Zeta.esp
 : Zeta.esm
 PPA - FWE.esp
 : FO3 Wanderers Edition - Main File.esm
@@ -2710,7 +2710,7 @@ Mysteriouswoman_underwearncoat.esp
 Mysteriouswoman_underwear.esp
 Mysteriouswoman_corsetntrousers.esp
 Mysteriouswoman_alternativetop.esp
-Mysteriouswoman_sexytopless.esp 
+Mysteriouswoman_sexytopless.esp
 CBOv1.4.esp
 CBOv1.4_bittercup_comp.esp
 CBOv1.4_bittercup_comp_restyled.esp
@@ -2721,9 +2721,9 @@ CBOv1.4_slaveraider.esp
 EnclaveCommander.esp
 EnclaveCommander-OA.esp
 JHBCloverPlus.esp
-RHKBrisaAlmodovar - Custom - Lings.esp 
+RHKBrisaAlmodovar - Custom - Lings.esp
 : Lings.esm
-RHKBrisaAlmodovar - DLC - Anch.esp 
+RHKBrisaAlmodovar - DLC - Anch.esp
 : Anchorage.esm
 mmMoleRatMount.esp
 \EndGroup\\
@@ -2748,7 +2748,7 @@ RI_PNAnchorage.esp
 RI_FOSE.esp
 RI_LootTablePN.esp
 RI_PN_DLC.esp
-RI_PrimaryNeeds_DUI_Plugin.esp 
+RI_PrimaryNeeds_DUI_Plugin.esp
 RiPnO CorePatch.esp
 Imp's More Complex Needs.esp
 % {{BASH: Delev, Relev, Stats}}
@@ -2817,10 +2817,10 @@ IMCN - MMM Meats, Bloods, and Eyeballs.esp
 : Mart's Mutant Mod.esm
 IMCN - Forced Initialization.esp
 : IMCN.esm
-IMCN - Ambient Temperature.esp 
-: Ambient Temperature.esm 
-PPA - IMCN.esp 
-: Powered Power Armor.esp 
+IMCN - Ambient Temperature.esp
+: Ambient Temperature.esm
+PPA - IMCN.esp
+: Powered Power Armor.esp
 Fallout Fatigue v2.esp
 bltc.esp
 BLTC Immersion Patch.esp
@@ -2988,7 +2988,7 @@ Useful Wasteland Clipboards.esp
 CombatEnhanced-Package v02.esp
 Attentater's Wasteland Economy.esp
 % {{BASH: Names}}
-Zumbs' Smaller Condition Effect On Item Value.esp 
+Zumbs' Smaller Condition Effect On Item Value.esp
 AsharasPresets.esp
 FasterMorePowerfulMines.esp
 VisionMod-Tom.esp
@@ -3136,7 +3136,7 @@ Cliff's_Sellable_Body_Parts.esp
 SpeechLite.esp
 SpeechLiteCombatDLC.esp
 100% Speech.esp
-Speech,Hack and Max Level.esp 
+Speech,Hack and Max Level.esp
 EnduranceBasedHealthRegen.esp
 BoS Diversification.esp
 BoS Diversification - Broken Steel.esp
@@ -3166,7 +3166,7 @@ AnchoRepair.esp
 PittRepair.esp
 BSteelRepair.esp
 PLookoutRepair.esp
-MZetaRepair.esp 
+MZetaRepair.esp
 NippersWeaponNips.esp
 NippersArmorNips.esp
 AnchoRepair.esp
@@ -3184,7 +3184,7 @@ PortableCampStuff - WMK.esp
 WeaponModKits - PortableCampStuff.esp
 ColeensTent.esp
 GTent.esp
-GTent-MMM.esp 
+GTent-MMM.esp
 : GTent.esp
 : Mart's Mutant Mod.esm
 GTent-FWE.esp
@@ -3318,14 +3318,14 @@ PiPBoy Yellow Light.esp
 PiPBoy Grey Light.esp
 Faster PipBoy Light.esp
 Magic Pip-Light (Night-Vision Edition).esp
-Magic Pip-Light (20 Brightness).esp 
-Magic Pip-Light (25 Brightness).esp 
-Magic Pip-Light (30 Brightness).esp 
-Magic Pip-Light (35 Brightness).esp 
-Magic Pip-Light (40 Brightness).esp 
-Magic Pip-Light (45 Brightness).esp 
-Magic Pip-Light (55 Brightness).esp 
-Magic Pip-Light (60 Brightness).esp 
+Magic Pip-Light (20 Brightness).esp
+Magic Pip-Light (25 Brightness).esp
+Magic Pip-Light (30 Brightness).esp
+Magic Pip-Light (35 Brightness).esp
+Magic Pip-Light (40 Brightness).esp
+Magic Pip-Light (45 Brightness).esp
+Magic Pip-Light (55 Brightness).esp
+Magic Pip-Light (60 Brightness).esp
 Magic Pip-Light (90 Brightness).esp
 ZZ_APP.esp
 \EndGroup\\
@@ -3469,7 +3469,7 @@ Xepha's Dynamic Weather - Experimental Green Tint Remover.esp
 Xepha's Dynamic Weather - Green Tint Remover.esp
 Xepha's Dynamic Weather - Sandstorms Damage Armor.esp
 Night Time Sneak Boost.esp
-Dynamic Weather Sneak Bonus.esp 
+Dynamic Weather Sneak Bonus.esp
 Dynamic Weather Sneak Bonus NoInteriors.esp
 OasisSafeWater.esp
 Their World.esp
@@ -3677,15 +3677,15 @@ Dog lover's mod NO ANCHORAGE.esp
 MMM dog lover's mod.esp
 % {{BASH: Deflst, Delev}}
 Vault101 Exit Cancel.esp
-More Ammo.esp 
+More Ammo.esp
 % {{BASH: Relev}}
-More Ammo (Explosive).esp 
+More Ammo (Explosive).esp
 % {{BASH: Relev}}
-Slightly More Ammo.esp 
+Slightly More Ammo.esp
 % {{BASH: Relev}}
-Slightly More Ammo (Explosive).esp 
+Slightly More Ammo (Explosive).esp
 % {{BASH: Relev}}
-Everso Slightly More Ammo.esp 
+Everso Slightly More Ammo.esp
 % {{BASH: Relev}}
 \EndGroup\\
 
@@ -3796,7 +3796,7 @@ Sydney Follower - Load Order Fix.esp
 JHBSydneyUpdate.esp
 xCALIBRuniverse.esp
 % {{BASH: Names, Graphics, Invent, Sound, Stats}}
-xCALIBR - Alternative Path.esp 
+xCALIBR - Alternative Path.esp
 xCALIBRuniverse_ammoLists.esp
 xCALIBRuniverse_repairLists.esp
 xCALIBRUniverse - WMK.esp
