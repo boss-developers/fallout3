@@ -681,6 +681,7 @@ UPP - Experience Perks.esp
 UPP  - Quest Perks.esp
 UPP - Quest Perks.esp
 UPP - Beverage Perks.esp
+UPP Addon - Quest Perks.esp
 PreWar Book Titles and Perks.esp
 Ex Libris - PreWar Book Titles.esp
 Perk Revamp Mod - Broken Steel - Perks Only.esp
@@ -1867,6 +1868,7 @@ Advanced Recon Gear.esp
 Advanced Recon Tech.esp
 Advanced Recon Armor.esp
 Advanced Recon Range Finder.esp
+IDreamOfElectricSheep.esp
 APMPA.esp
 APMPA Stimpack restores All HP.esp
 APMPA Stimpack restores All HP Costs Stimpacks.esp
@@ -2837,6 +2839,8 @@ bltc.esp
 BLTC Immersion Patch.esp
 BLTC Hypo Fix.esp
 BLTC Less Addictions.esp
+BLTC No Visual Effects.esp
+BLTC No Overdosing.esp
 CP - RiPnO [bltc032].esp
 CP - RiPnO [MMM] Meats.esp
 RiPnO - OPTIONAL - Cola Heals.esp
