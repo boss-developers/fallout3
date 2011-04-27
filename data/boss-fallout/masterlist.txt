@@ -2073,6 +2073,17 @@ SteinerCombatGear.esp
 Assault Combat Gear.esp
 TSoutfitv1.esp
 LoxysCombinedClothingFF.esp
+Jagi.esp
+Pikachoo.esp
+RadioactiveSuit.esp
+SwampfolkOutfit.esp
+PEDress.esp
+Luka.esp
+GentlemansUniform.esp
+WaldosOutfit.esp
+BillieJean.esp
+XmasOutfits.esp
+SomeClothes.esp
 \EndGroup\\
 
 \BeginGroup\: Cosmetics
