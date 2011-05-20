@@ -1663,7 +1663,7 @@ Tailor Maid Black Retex.esp
 \BeginGroup\: WeaponModKits
 \-----------
 WeaponModKits.esp
-% {{BASH: Names}}
+% {{BASH: Delev, Relev,Names, Actors.AIData}}
 WeaponModKits - FOOK.esp
 WeaponModKits - FWE Master Release.esp
 % {{BASH: Deflst, Relev, Names}}
@@ -3189,6 +3189,8 @@ PittRepair.esp
 BSteelRepair.esp
 PLookoutRepair.esp
 MZetaRepair.esp
+Weapon Repair Kits.esp
+% {{BASH: Relev}}
 vaps.esp
 vaps-automated-ammo-toolkit.esp
 vaps-broken-steel.esp
