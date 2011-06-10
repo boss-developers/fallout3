@@ -2148,7 +2148,7 @@ TL_Color.esp
 Kick Dogmeat.esp
 Slof's Alsatian Dogmeat.esp
 SimpleSmokeo.esp
-% {{BASH: Invent, Names, Actors.AIPackages, Actors.Animations}}
+% {{BASH: Actors.AIPackages, Actors.Animations, Delev, Invent, Names, Relev}}
 DogmeatEssentialModv1.2.esp
 Move-Dogmeat.esp
 DogmeatStealth.esp
