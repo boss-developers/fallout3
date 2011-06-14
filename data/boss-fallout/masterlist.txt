@@ -265,6 +265,7 @@ BrokenSteel_StarPaladinCross_Fix.esp
 UF3P Crane Fix.esp
 Citadel Crane Fix.esp
 ObjectPlacementFix.esp
+sialivi v1.1.esp
 CinderBlockRockFix.esp
 " CinderblockRockFix2.esp
 " ConcreteSlabFix.esp
@@ -306,6 +307,8 @@ OADLCfix.esp
 : Anchorage.esm
 DrySewrOurLadyOfHopeHospitalRequestedFix.esp
 James Invisible wall bugs remove.esp
+James Invisible wall bugs remove V2.esp
+NavMesh Generation Filter.esp
 zetabugfix.esp
 : Zeta.esm
 BenTweaks-FO3.esp
@@ -332,8 +335,11 @@ QuickFix.esp
 : Zeta.esm
 BlackWidowBurkeFix.esp
 % {{BASH: Scripts}}
+MS11fix.esp
+% {{BASH: Actors.AIPackages, C.Light, Invent, Scripts}}
 Gnr Cleaned.esp
 Megaton Cleaned.esp
+RCmarketNoFire.esp
 Rivet City Cleaned.esp
 Underworld Cleaned.esp
 OutcastCasdinArmorFix.esp
@@ -525,6 +531,7 @@ Overhead3PCamera.esp
 ROTS2.esp
 ROTS3.esp
 Pip-Boy Remover.esp
+Remove That Glove.esp
 Zumbs' Equipable Pip Boy.esp
 " That Glove.esp
 " Pip Boy Be Gone Mark II.esp
@@ -640,6 +647,7 @@ GalaxyNewsRadio20[M].esp
 " GalaxyNewsRadioFix[N].esp
 " GalaxyNewsRadioFix[S].esp
 GNR-MWTCF BS.esp
+S.I.K.esp
 HamadaRadioStation.esp
 ArefuExpandedByAzar-Radio.esp
 RadioBlues.esp
@@ -1007,9 +1015,12 @@ Expanded Megaton House V3.esp
 Expanded Megaton House V3-No Stove.esp
 MegatonBasement.esp
 JB-MegatonHouse_v1.0.esp
+Bonds Tenpenny Tower Complete.esp
 Princess Tenpenny Home Extension.esp
 Princess Megaton Home Extension.esp
 Tenpenny_Expansion.esp
+Enhanced Tenpenny Suite.esp
+PersonalTerminal.esp
 JHBNewHouse.esp
 Transporter.esp
 Forge.esp
@@ -1171,6 +1182,8 @@ EZ_MoreVoices.esp
 EZ_TempleOfCant.esp
 EZ_Ammo_Restriction.esp
 EZ_citizens.esp
+Clothed Sarah Lyons.esp
+% {{BASH: Invent}}
 Clothed Sarah Lyons - Sleepwear.esp
 % {{BASH: Invent}}
 Named Wasteland.esp
@@ -1245,6 +1258,7 @@ Megaton House and Theme Overhaul.esp
 Megaton House and Theme Overhaul_SY.esp
 : FNNsys.esm
 : Megaton House and Theme Overhaul.esp
+Nuka Cola Theme 3000 v1.esp
 Megaton Walkway.esp
 megaton_lighting.esp
 % {{BASH: C.Light}}
@@ -1700,6 +1714,8 @@ CRAFTable_WMKs_skill_req_Amodeus.esp
 ? Only use ONE CRAFTable_WMKs esp file
 WMK-RH IronSights.esp
 Apocalypse Armory + WMK.esp
+T3T_WMK1.esp
+% {{BASH: Deflst, Stats}}
 \EndGroup\\
 
 \BeginGroup\: Weapons
@@ -2147,11 +2163,10 @@ TL [Color].esp
 TL_Color.esp
 Kick Dogmeat.esp
 Slof's Alsatian Dogmeat.esp
-SimpleSmokeo.esp
-% {{BASH: Actors.AIPackages, Actors.Animations, Delev, Invent, Names, Relev}}
 DogmeatEssentialModv1.2.esp
 Move-Dogmeat.esp
 DogmeatStealth.esp
+Unique Dogmeat.esp
 IgDRDeathclawGauntletFix.esp
 KarmaRevamp1010.esp
 KarmaRevampExtreme1010.esp
@@ -2209,6 +2224,11 @@ Improved Turret Reprogramming - ALL.esp
 " Improved Turret Reprogramming - Pitt.esp
 " Improved Turret Reprogramming - PL.esp
 Friendly Portable Turrets.esp
+safe_regulator_hq.esp
+SimpleSmokeo.esp
+% {{BASH: Actors.AIPackages, Actors.Animations, Delev, Invent, Names, Relev}}
+Start_Energy_Weapon.esp
+% {{BASH: Invent}}
 ZORTS - Content Destruction - Normal.esp
 : Zumbs' Overhauled Real Time Security.esm
 " ZORTS - Content Destruction - Extreme.esp
@@ -2258,10 +2278,16 @@ Menu Based Hacking & Picking.esp
 ? DO not use with latest FWE, it is already integrated.
 PowerOfTheAtom_FOOKandFWE.esp
 AutomatScriptRemoved.esp
-Better Caravans.esp
-Wasteland Travel Caravans.esp
-UpgradedCaravanMerchants.esp
-CaravanUpgrades.esp
+More Ammo.esp
+% {{BASH: Relev}}
+More Ammo (Explosive).esp
+% {{BASH: Relev}}
+Slightly More Ammo.esp
+% {{BASH: Relev}}
+Slightly More Ammo (Explosive).esp
+% {{BASH: Relev}}
+Everso Slightly More Ammo.esp
+% {{BASH: Relev}}
 PP - Less Paranoid NPCs.esp
 \EndGroup\\
 
@@ -2351,6 +2377,7 @@ unique_uniquesDLC.esp
 unique_uniquesCutDLC.esp
 " unique_uniquesCut.esp
 % {{BASH: Graphics}}
+T3T_MissingUniquesCompanion.esp
 Less Useless Karma Gifts.esp
 % {{BASH: Relev, Delev}}
 Less Useless Karma Gifts 2.0.esp
@@ -2365,12 +2392,18 @@ ImmersiveHealth.esp
 ImmersiveHealth-LITE.esp
 Bottle That Water.esp
 {{BASH: Scripts}}
+Bottle That Water Alternative.esp
+% {{BASH: Scripts, Stats}}
+Bottle That Water Alternative - Broken Steel.esp
+% {{BASH: Scripts, Stats}}
+: BrokenSteel.esm
 AddBottle.esp
 ? DO not use with latest FWE or RI - Primary Needs, it is already integrated.
 Persistent Skill Books.esp
 ? DO not use with latest FWE, it is already integrated.
 FalloutFood.esp
 FalloutFoods - FWE Master Release.esp
+NoRadsVanilla10.esp
 VDSC.esp
 PlasmaWeaponsRedesignRebalance.esp
 % {{BASH: Graphics, Sound}}
@@ -2758,6 +2791,9 @@ RHKBrisaAlmodovar - Custom - Lings.esp
 RHKBrisaAlmodovar - DLC - Anch.esp
 : Anchorage.esm
 mmMoleRatMount.esp
+CharonImproved.esp
+llama's Vanilla Followers for Charon Improved.esp
+MegatonCompanions.esp
 \EndGroup\\
 
 \BeginGroup\: Realism Mods
@@ -3168,7 +3204,13 @@ AMPUTATE!.esp
 % {{BASH: Scripts}}
 Cliff's_Sellable_Body_Parts.esp
 SpeechLite.esp
+SpeechLiteDLC.esp
+SpeechLiteCombat.esp
 SpeechLiteCombatDLC.esp
+SpeechLiteCrime.esp
+SpeechLiteCrimeDLC.esp
+SpeechLiteCombatCrime.esp
+SpeechLiteCombatCrimeDLC.esp
 100% Speech.esp
 Speech,Hack and Max Level.esp
 EnduranceBasedHealthRegen.esp
@@ -3259,6 +3301,8 @@ Dogmeat Never Dies.esp
 fasttravelfromindoors.esp
 Aim Toggle.esp
 No[EMPTY]ContainerMessages.esp
+Faster Dialog Zoom.esp
+SurplusReassign.esp
 5xlvling.esp
 Slower Levelling - slow.esp
 Slower Levelling - slower.esp
@@ -3632,6 +3676,10 @@ FWE Realistic Ammo Weight inc 20th Cent.esp
 FWE Realistic Ammo Weight in Names inc. 20th Cent.esp
 " FWE-20thCent Ammo Weight in Names.esp
 % {{BASH: Names}}
+Better Caravans.esp
+Wasteland Travel Caravans.esp
+UpgradedCaravanMerchants.esp
+CaravanUpgrades.esp
 CarvanTrader.esp
 % {{BASH: Actors.ACBS, Actors.Stats, Invent, Names, R. Attributes-F, R. Attributes-M, R.Skills, Scripts}}
 CaravanEssential.esp
@@ -3713,16 +3761,6 @@ Dog lover's mod NO ANCHORAGE.esp
 MMM dog lover's mod.esp
 % {{BASH: Deflst, Delev}}
 Vault101 Exit Cancel.esp
-More Ammo.esp
-% {{BASH: Relev}}
-More Ammo (Explosive).esp
-% {{BASH: Relev}}
-Slightly More Ammo.esp
-% {{BASH: Relev}}
-Slightly More Ammo (Explosive).esp
-% {{BASH: Relev}}
-Everso Slightly More Ammo.esp
-% {{BASH: Relev}}
 \EndGroup\\
 
 \BeginGroup\: Pose mods
@@ -3761,8 +3799,10 @@ VB_Hair_Shojo+CotW_15.esp
 % {{BASH: Hair}}
 : EnhancedChildren.esm
 : Shojo Race.esm
-\Race additions (+ hair + eyes etc)
-\''''''''''''''''''''''''''''''''''
+\EndGroup\\
+
+\BeginGroup\: Race additions (+ hair + eyes etc)
+\-----------
 Shojo Race.esp
 % {{BASH: Hair, Eyes}}
 ? Old. Upgrade to latest version.
@@ -3771,6 +3811,8 @@ XENH.esp
 [Nukomimi-San] Starter.esp
 % {{BASH: Hair, Eyes}}
 EZCompanion_Type-N.esp
+% {{BASH: Hair, Eyes}}
+AAAAlbino_LingsBOG.esp
 % {{BASH: Hair, Eyes}}
 \EndGroup\\
 
@@ -3905,6 +3947,7 @@ Choose your own hairstyle (load this last on FOMM).esp
 % {{BASH: NpcFaces, Hair, Eyes}}
 tubunarFWE.esp
 tubunarCombatFWE.esp
+AAAlbino Player Race - MQ to BS Fix.esp
 CRBSOR.esp
 ? Do not use with latest FWE, it is already integrated.
 CRBSOR [Achievements Removed].esp
