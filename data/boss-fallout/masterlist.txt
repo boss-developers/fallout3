@@ -55,6 +55,7 @@ Destruction.esm
 S.T.A.L.K.E.R. Call of D.C..esm
 ARSENAL MOD.esm
 FallsChurchMetroFix.esm
+ObjectPlacementFix.esm
 Phalanx-PointLookout-Navmesh.esm
 PointLookout-FollowersGetToGo.esm
 : PointLookout.ESM
