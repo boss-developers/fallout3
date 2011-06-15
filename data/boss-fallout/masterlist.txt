@@ -1914,29 +1914,36 @@ Saiga-12 Combat Shotgun Override The Pitt.esp
 \BeginGroup\: Armor\Clothes
 \-----------
 1SB_VenomousArmor.esp
-Advanced Recon Gear.esp
-Advanced Recon Tech.esp
-Advanced Recon Armor.esp
-Advanced Recon Range Finder.esp
-IDreamOfElectricSheep.esp
-APMPA.esp
-APMPA Stimpack restores All HP.esp
-APMPA Stimpack restores All HP Costs Stimpacks.esp
-Arcade'sNightwear.esp
-Jessica Outfit.esp
-Gantz stuff.esp
-Mantis07Reflex.esp
 3EFdrg.esp
 3EFdrgplate.esp
 3EFhelmlessstealthsuit.esp
 3EFwandererGear.esp
+ACU Battle Armor.esp
+Advanced Recon Gear.esp
+Advanced Recon Tech.esp
+Advanced Recon Armor.esp
+Advanced Recon Range Finder.esp
+AdvancedReconGear.esp
+AdvReconEasierStealth.esp
+IDreamOfElectricSheep.esp
+All Anchorage Armors Usable.esp
 Amy_Armor.esp
+APMPA.esp
+APMPA Stimpack restores All HP.esp
+APMPA Stimpack restores All HP Costs Stimpacks.esp
+Arcade'sNightwear.esp
+Armor Your Vault Suits.esp
 AsharasFormalClothing.esp
+Assault Combat Gear.esp
+BABEreconarmor.esp
 BBBackpacks-v1-1.esp
 % {{BASH: Stats}}
+Bikini_Armor_TYPE3.esp
+Black Puppet Armor for Fo3.esp
 blackrock_shooter.esp
 BodyJewelry.esp
 BodyJewelryEx.esp
+BillieJean.esp
 BoS_DX.esp
 % {{BASH: Graphics}}
 ? Do not use with latest FOOK2, it is already integrated.
@@ -1959,6 +1966,7 @@ Tribal_DX.esp
 BoS_FOOKedition_Armor.esp
 % {{BASH: Graphics}}
 ? Do not use with latest FOOK2, it is already integrated.
+BSFeminizedPowerArmor.esp
 BunnySuit.esp
 Cat Outfit Fanged.esp
 % {{BASH: Eyes}}
@@ -1987,25 +1995,28 @@ ClassicEnclaveAPA-Better-APA-german.esp
 ClassicEnclaveAPA-Better-APA-english.esp
 ClassicEnclaveAPA-Replacement-German.esp
 ClassicEnclaveAPA-Replacement-english.esp
+Crysis Marine Armor.esp
 CSwimsuit_and_Harness_recolor.esp
 ChineseStealthArmorFixed.esp
+Cybernetic Implants Xangi.esp
 DIM TYPE3 conversions.esp
 DIM TYPE3clothesRETAIL.esp
 doctorli_glasses.esp
-Bikini_Armor_TYPE3.esp
-Black Puppet Armor for Fo3.esp
-Type3Accessories.esp
-Type3Clothes.esp
-Persona_and_Secret.esp
+EMPGrenadeKnockoutPowArmor.esp
+EnclavePACollars.esp
 Dark_Temptress.esp
 Dogmeat Leather Armor - CRAFT.esp
 Dogmeat Leather Armor - no crafting.esp
 Shaikujins_Chrome_Dogmeat_Armour.esp
 Dragonskin Tactical Outfit.esp
 DragonskinBonusPack.esp
+FalsSexyT3Conversions.esp
+FatherandNun.esp
 FaithOutfit.esp
 FetishLingerieSet.esp
 FetishFishnet.esp
+FieldJackets.esp
+FixedEyeglasses.esp
 Freebooter_Armor.esp
 FO3Ayumi.esp
 FO3Fate.esp
@@ -2020,17 +2031,29 @@ FO3-Closing-merged.esp
 " FO3Fate.esp
 " FO3Moon.esp
 " FO3Nami.esp
+FO3NeckChains.esp
 FrenchMaid.esp
+Gantz stuff.esp
+GentlemansUniform.esp
 Ghostbodysuitv3.esp
+GhostArmor HGEC - Conversion.esp
 Gloria Armor.esp
 Gundam_Armors.esp
 Hentai Mania.esp
+ignis.esp
+Jagi.esp
+Jessica Outfit.esp
 JillBSAA.esp
+K2Clothes_BrownLeather03.esp
+kikaiEquipment.esp
 Koukaku_Armor.esp
 Ladyoutfit1.esp
 Lookout Outfits.esp
-NaughtyRaiderArmor_EZStd.esp
-SupremeRaiderArmor_Q.esp
+LoxysCombinedClothingFF.esp
+Luka.esp
+Mantis07Reflex.esp
+ME2_Inferno Armor.esp
+Metro 2033.esp
 Micro Bikini and more recolors.esp
 MicroBikini.esp
 MicroBikini_recolour.esp
@@ -2040,47 +2063,17 @@ MissingUniqueArmorClothing-Enhanced.esp
 MissingUniqueArmorClothing-RenamerOnly.esp
 My Cloth Collection.esp
 Mysteriouswoman_clothesaddon.esp
-OutFits.esp
-Prototype Medic Armor Upgrade.esp
-AdvancedReconGear.esp
-AdvReconEasierStealth.esp
-SchoolUniforms.esp
-Scout Outfits.esp
-Spartan Armor.esp
-StarWarsArmorV2.esp
-StealthArmorHelmLess.esp
-Stealthboy Recon Armor - CRAFT.esp
-Tactical Vest CIRAS.esp
-Tattered_suits.esp
-Tesla Metal Armor (Extended).esp
-TeslaForGirls.esp
-BSFeminizedPowerArmor.esp
-Testweapon Arms x Arms.esp
-Test-Weapon_additional armor.esp
-% {{BASH: Invent}}
-Testweapon_SP  MedicKuma-Spirits.esp
-TombRaider.esp
-Tonibiatch.esp
-Trooper_outfits.esp
-tubunarVanilla.esp
-Wasteland and Bog Outfits.esp
-WasteWearGloves.esp
-% {{BASH: Relev}}
-Yoko'sOutfits.esp
-ignis.esp
-kikaiEquipment.esp
-sunglassescollection.esp
-thongpack.esp
-FixedEyeglasses.esp
-ME2_Inferno Armor.esp
-FatherandNun.esp
+MZ-Weak-EbonTek.esp
+NaughtyRaiderArmor_EZStd.esp
+NAPA.esp
 NoInvisArcadeIndustries_SweetSneak.esp
 InvisArcadeIndustries_SweetSneak.esp
-ACU Battle Armor.esp
-T3T_CombatArmorSleeves.esp
-TalonExtraArmor.esp
-K2Clothes_BrownLeather03.esp
-BABEreconarmor.esp
+SupremeRaiderArmor_Q.esp
+outcast_recon_armor_zeta.esp
+OutFits.esp
+PEDress.esp
+Persona_and_Secret.esp
+Pikachoo.esp
 Powered Power Armor.esp
 PPA - Operation Anchorage.esp
 : Anchorage.esm
@@ -2100,42 +2093,51 @@ PPA - Ambient Temperature.esp
 PPA - IMCN.esp
 : IMCN.esm
 : Powered Power Armor.esp
-Tribal & Ashur's Power Helmet.esp
-Tactical Vest CIRAS - Vendor Restock Script.esp
-EMPGrenadeKnockoutPowArmor.esp
-EnclavePACollars.esp
-All Anchorage Armors Usable.esp
-Armor Your Vault Suits.esp
+Prototype Medic Armor Upgrade.esp
+RadioactiveSuit.esp
+RaiderPowerArmor_lvl.esp
+SchoolUniforms.esp
+Scout Outfits.esp
+Spartan Armor.esp
+StarWarsArmorV2.esp
+StealthArmorHelmLess.esp
+Stealthboy Recon Armor - CRAFT.esp
 StealthCamouflage.esp
+SteinerCombatGear.esp
+SomeClothes.esp
+sunglassescollection.esp
+SwampfolkOutfit.esp
+T3T_CombatArmorSleeves.esp
+Tactical Vest CIRAS.esp
+Tactical Vest CIRAS - Vendor Restock Script.esp
+TalonExtraArmor.esp
+Tattered_suits.esp
+Tesla Metal Armor (Extended).esp
+TeslaForGirls.esp
 Thermoptic PowerArmor Helmets.esp
 : Thermal Vision.esm
 Thermoptic Glasses.esp
 : Thermal Vision.esm
-NAPA.esp
-MZ-Weak-EbonTek.esp
-Cybernetic Implants Xangi.esp
-RaiderPowerArmor_lvl.esp
-WHSpaceMarineArmor.esp
-outcast_recon_armor_zeta.esp
-FieldJackets.esp
-GhostArmor HGEC - Conversion.esp
-Crysis Marine Armor.esp
-Metro 2033.esp
-SteinerCombatGear.esp
-Assault Combat Gear.esp
+thongpack.esp
+Tribal & Ashur's Power Helmet.esp
+Testweapon Arms x Arms.esp
+Test-Weapon_additional armor.esp
+% {{BASH: Invent}}
+Testweapon_SP  MedicKuma-Spirits.esp
+TombRaider.esp
+Tonibiatch.esp
+Trooper_outfits.esp
+tubunarVanilla.esp
 TSoutfitv1.esp
-LoxysCombinedClothingFF.esp
-Jagi.esp
-Pikachoo.esp
-RadioactiveSuit.esp
-SwampfolkOutfit.esp
-PEDress.esp
-Luka.esp
-GentlemansUniform.esp
+Type3Accessories.esp
+Type3Clothes.esp
 WaldosOutfit.esp
-BillieJean.esp
+Wasteland and Bog Outfits.esp
+WasteWearGloves.esp
+% {{BASH: Relev}}
+WHSpaceMarineArmor.esp
 XmasOutfits.esp
-SomeClothes.esp
+Yoko'sOutfits.esp
 \EndGroup\\
 
 \BeginGroup\: Cosmetics
@@ -3084,6 +3086,7 @@ EnhVision.esp
 EnhVisionHK.esp
 " EnhVision.esp
 Arwen_VisionFX.esp
+LiteChemWearoffFX.esp
 NightvisionGoggles(Powered).esp
 NVFAAPANoTex.esp
 Gore_No_More.esp
