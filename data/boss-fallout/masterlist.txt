@@ -20,19 +20,19 @@
 \ Bash Tag suggestion               %           A Bash Tag suggestion for the mod above.
 \ Requirement                       :           An installation requirement for the mod above.
 \ Incompatibility                   "           A specific incompatibility for the mod above.
-\ OOO-specific comment              $           A comment that is only displayed if OOO is installed.
-\ Better Cities-specific comment    ^           A comment that is only displayed if Better Cities is installed.
-\ Critical FCOM install error       >*          Prints an error message if FCOM is installed.
+\ FWE-specific comment              $           A comment that is only displayed if FWE is installed.
+\ --                                ^           --
+\ Critical FOOK2 install error      >*          Prints an error message if FOOK2 is installed.
 \
 \ The symbol is followed by a space then the message string.
 \
 \ Conditional Type			Symbol		Description
 \ ===================================================================================
-\ FCOM-installed line			>		Only parses the line if FCOM is installed.
-\ FCOM-not-installed line		<		Only parses the line if FCOM is not installed.
+\ FOOK2-installed line			>		Only parses the line if FOOK2 is installed.
+\ FOOK2-not-installed line		<		Only parses the line if FOOK2 is not installed.
 \
 \ Conditionals can be put before any mod or message line, and the line will only be processed if the conditional is true. 
-\ The critical FCOM install error message type already includes the FCOM-specific conditional, so you don't need to add another.
+\ The critical FOOK2 install error message type already includes the FCOM-specific conditional, so you don't need to add another.
 
 \ Masterlist variable setup for BOSS v1.7+.
  IF ("FO3 Wanderers Edition - Main File.esm") SET: FWE
