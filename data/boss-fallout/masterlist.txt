@@ -172,6 +172,7 @@ Wasteland Whisperer v2.esm
 : Companion Core.esm
 Summer_2.5.esm
 RHKBrisaAlmodovar.esm
+COCOA.esm
 Enhanced Weather - Rain and Snow.esm
 Xepha's Dynamic Weather.esm
 % {{BASH: C.Climate, Sound}}
@@ -691,6 +692,7 @@ IPip.esp
 
 \BeginGroup\: Early Misc A (Perks)
 \-----------
+ZZ_TP.esp
 ReloadAmmo.esp
 Consistent Books.esp
 RemoteControlCompanionsPlus.esp
