@@ -356,6 +356,7 @@ BlackWidowBurkeFix.esp
 MS11fix.esp
 % {{BASH: Actors.AIPackages, C.Light, Invent, Scripts}}
 Gnr Cleaned.esp
+GNRKarmaFix.esp
 Megaton Cleaned.esp
 RCmarketNoFire.esp
 Rivet City Cleaned.esp
