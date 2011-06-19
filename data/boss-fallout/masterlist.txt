@@ -3327,6 +3327,12 @@ fasttravelfromindoors.esp
 Aim Toggle.esp
 No[EMPTY]ContainerMessages.esp
 Faster Dialog Zoom.esp
+GH-HealingRebalanceMod_HPamount.esp
+GH-HealingRebalanceMod_stimpackduration.esp
+: Zeta.esm
+GH-HealingRebalanceMod_Infirmary+Lab.esp
+% {{BASH: Scripts}}
+GH-HealingRebalanceMod_sleepscript.esp
 SurplusReassign.esp
 5xlvling.esp
 Slower Levelling - slow.esp
