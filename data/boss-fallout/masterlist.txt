@@ -2162,6 +2162,8 @@ AutoGates.esp
 CALIBR Ammo Schematics - CRAFT.esp
 Ammo_Schematics.esp
 : CRAFT.esm
+Bobbleheads Begone.esp
+% {{BASH: Scripts}}
 CRAFT Improvised Weaponry.esp
 CRAFT Improvised Weaponry - Unmodeled.esp
 CRAFT Improvised Weaponry - FOOK+FWE.esp
