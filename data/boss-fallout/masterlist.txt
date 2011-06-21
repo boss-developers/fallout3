@@ -2189,6 +2189,8 @@ Kick Dogmeat.esp
 Slof's Alsatian Dogmeat.esp
 DogmeatEssentialModv1.2.esp
 Move-Dogmeat.esp
+Dogmeat_WaitMegaton.esp
+Dogmeat_WaitMegaton v1.1.esp
 DogmeatStealth.esp
 Unique Dogmeat.esp
 IgDRDeathclawGauntletFix.esp
@@ -2800,6 +2802,13 @@ Mysteriouswoman_underwear.esp
 Mysteriouswoman_corsetntrousers.esp
 Mysteriouswoman_alternativetop.esp
 Mysteriouswoman_sexytopless.esp
+Follower Amata ULTIMATE.esp
+Kat_Companion_V1.0a.esp
+Kat_Companion_V1.0b.esp
+outcast_comp.esp
+Sydney Follower.esp
+Sarah Lyons Companion.esp
+slaveraider.esp
 CBOv1.4.esp
 CBOv1.4_bittercup_comp.esp
 CBOv1.4_bittercup_comp_restyled.esp
@@ -2818,6 +2827,45 @@ mmMoleRatMount.esp
 CharonImproved.esp
 llama's Vanilla Followers for Charon Improved.esp
 MegatonCompanions.esp
+COCOA - bittercup_comp.esp
+: bittercup_comp.esp
+COCOA - BriannaCompanion.esp
+: BriannaCompanion.esp
+COCOA - BrokenSteel.esp
+: BrokenSteel.esm
+COCOA - Dogmeat Leather Armor - CRAFT.esp
+: Dogmeat Leather Armor - CRAFT.esp
+COCOA - Dogmeat Leather Armor - no crafting.esp
+: Dogmeat Leather Armor - no crafting.esp
+COCOA - Follower Amata ULTIMATE.esp
+: Follower Amata ULTIMATE.esp
+COCOA - FWE Followers Enhanced (Broken Steel).esp
+: BrokenSteel.esm
+: CRAFT.esm
+: CALIBR.esm
+: FO3 Wanderers Edition - Main File.esm
+COCOA - FWE Followers Enhanced.esp
+: FO3 Wanderers Edition - Main File.esm
+COCOA - JessiCompanion.esp
+: JessiCompanion.esp
+COCOA - Kat_Companion_V1.0a.esp
+: Kat_Companion_V1.0a.esp
+COCOA - Kat_Companion_V1.0b.esp
+: Kat_Companion_V1.0b.esp
+COCOA - KelseyCompanion.esp
+: KelseyCompanion.esp
+COCOA - LucyWestCompanion.esp
+: LucyWestCompanion.esp
+COCOA - outcast_comp.esp
+: outcast_comp.esp
+COCOA - RHKBrisaAlmodovar.esp
+: RHKBrisaAlmodovar.esm
+COCOA - Sarah Lyons Companion.esp
+: Sarah Lyons Companion.esp
+COCOA - slaveraider.esp
+: slaveraider.esp
+COCOA - Sydney Follower.esp
+: Sydney Follower.esp
 \EndGroup\\
 
 \BeginGroup\: Realism Mods
@@ -2985,6 +3033,7 @@ Flashlight-LOS-nonFOSE.esp
 Flashlight-Performance-nonFOSE.esp
 FreePumpkin-perk.esp
 FreePumpkin.esp
+HoloPipboyWristband.esp
 Megaton Closes.esp
 MiscWeightFix.esp
 % {{BASH: Stats}}
@@ -3900,7 +3949,6 @@ FNNsys - FWE.esp
 FNNsys start inventory.esp
 : FNNsys.esm
 Impervious Power Armour- FWE Fixer.esp
-Sydney Follower.esp
 Sydney Follower - Load Order Fix.esp
 JHBSydneyUpdate.esp
 xCALIBRuniverse.esp
