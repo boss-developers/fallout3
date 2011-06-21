@@ -163,6 +163,7 @@ FNNIguana.esm
 LingsFinerThings.esm
 LingsMMMpatch3-3.esm
 vaps.esm
+COCOA.esm
 Companion Core.esm
 Companion Share & Recruit.esm
 : Companion Core.esm
@@ -172,7 +173,6 @@ Wasteland Whisperer v2.esm
 : Companion Core.esm
 Summer_2.5.esm
 RHKBrisaAlmodovar.esm
-COCOA.esm
 Enhanced Weather - Rain and Snow.esm
 Xepha's Dynamic Weather.esm
 % {{BASH: C.Climate, Sound}}
@@ -694,6 +694,7 @@ IPip.esp
 \BeginGroup\: Early Misc A (Perks)
 \-----------
 ZZ_TP.esp
+XSPerkMod.esp
 ReloadAmmo.esp
 Consistent Books.esp
 RemoteControlCompanionsPlus.esp
@@ -901,6 +902,11 @@ FOW - The Last Child of Gallifrey.esp
 
 \BeginGroup\: Early Misc B
 \-----------
+XSSkillCheck.esp
+XSZeta.esp
+: Zeta.esm
+XSIngestPointLookout.esp
+: PointLookout.esm
 WorkiingToilets.esp
 WorkingToilets.esp
 Scavenger World.esp
@@ -916,6 +922,7 @@ FemaleEnclaveSoldiers - Broken Steel.esp
 BoSPatrols.esp
 SteelWPatrolV_1.esp
 Ghoulish Ingots.esp
+Glow Sticks.esp
 MarkB50K_Wasteland_Patrols.esp
 : Anchorage.ESM
 : ThePitt.ESM
@@ -956,11 +963,16 @@ ScrapMetal_Q.esp
 CreateScrapMetal.esp
 % {{BASH: Invent}}
 Explosive Entry.esp
+Laurens_Bathroom_poetry_V1.esp
 LittleLamplightDogs.esp
-% {{BASH: Graphics}}
 MrLabTechnician.esp
 MrLabTechnician - FWE.esp
 % {{BASH: Deflst, Delev}}
+Placeable Lights Basic Edition v2.1.esp
+% {{BASH: Actors.AIData, Relev}}
+Placable Lights v2.1.esp
+% {{BASH: Actors.AIData, Relev}}
+: Zeta.esm
 SelfSurgeryKit.esp
 % {{BASH: Relev}}
 ReciveLyonsPA.esp
@@ -2164,6 +2176,11 @@ Ammo_Schematics.esp
 : CRAFT.esm
 Bobbleheads Begone.esp
 % {{BASH: Scripts}}
+Childhood Beginning.esp
+: EnhancedChildren.esm
+CB Add-on.esp
+Childhood Beginning v3 Tweaks.esp
+: EnhancedChildren.esm
 CRAFT Improvised Weaponry.esp
 CRAFT Improvised Weaponry - Unmodeled.esp
 CRAFT Improvised Weaponry - FOOK+FWE.esp
@@ -2172,11 +2189,6 @@ Force Start The Pitt.esp
 Vault 87 [Script Reversion].esp
 jmschematics.esp
 Ballistics-ALL-MoreRealism.esp
-RealFragGrenade.esp
-? upgrade to RealFragGrenade3.esp
-" RealFragGrenade3.esp
-RealFragGrenade3.esp
-" RealFragGrenade.esp
 Ks_DynamicSneak.esp
 PHIG_SteadyAim.esp
 JHB House Robots Can Repair.esp
@@ -2250,11 +2262,17 @@ Improved Turret Reprogramming - ALL.esp
 " Improved Turret Reprogramming - Pitt.esp
 " Improved Turret Reprogramming - PL.esp
 Friendly Portable Turrets.esp
+RealFragGrenade.esp
+? upgrade to RealFragGrenade3.esp
+" RealFragGrenade3.esp
+RealFragGrenade3.esp
+" RealFragGrenade.esp
 safe_regulator_hq.esp
 SimpleSmokeo.esp
 % {{BASH: Actors.AIPackages, Actors.Animations, Delev, Invent, Names, Relev}}
 Start_Energy_Weapon.esp
 % {{BASH: Invent}}
+XSIngestibles.esp
 ZORTS - Content Destruction - Normal.esp
 : Zumbs' Overhauled Real Time Security.esm
 " ZORTS - Content Destruction - Extreme.esp
@@ -2294,11 +2312,6 @@ Zumbs'_Overhauled_Real_Time_Security_lockbash_only.esp
 ? Please update to latest version.
 Zumbs'_Overhauled_Real_Time_Security_minigames_enabled.esp
 ? Please update to latest version.
-Childhood Beginning.esp
-: EnhancedChildren.esm
-CB Add-on.esp
-Childhood Beginning v3 Tweaks.esp
-: EnhancedChildren.esm
 Nova Interaction Revised.esp
 Menu Based Hacking & Picking.esp
 ? DO not use with latest FWE, it is already integrated.
@@ -3376,6 +3389,8 @@ fasttravelfromindoors.esp
 Aim Toggle.esp
 No[EMPTY]ContainerMessages.esp
 Faster Dialog Zoom.esp
+XSBalanceTweaks.esp
+XSGameplayTweaks.esp
 GH-HealingRebalanceMod_HPamount.esp
 GH-HealingRebalanceMod_stimpackduration.esp
 : Zeta.esm
