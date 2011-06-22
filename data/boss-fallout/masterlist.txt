@@ -2724,6 +2724,7 @@ Better Companions NonEss.esp
 BriannaCompanion.esp
 LucyWestCompanion.esp
 bittercup_comp.esp
+JHBCloverPlus.esm
 moirared.esp
 % {{BASH: Invent}}
 Reclothing For LPT and Flash.esp
@@ -3964,6 +3965,7 @@ FNNsys - FWE.esp
 FNNsys start inventory.esp
 : FNNsys.esm
 Impervious Power Armour- FWE Fixer.esp
+JHBCloverPlusOverride.esp
 Sydney Follower - Load Order Fix.esp
 JHBSydneyUpdate.esp
 xCALIBRuniverse.esp
