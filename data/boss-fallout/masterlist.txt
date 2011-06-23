@@ -2588,6 +2588,8 @@ Mart's Mutant Mod - DLC Zeta.esp
 : Zeta.ESM
 DangerousRadroaches_MMM.esp
 % {{BASH: Actors.CombatStyle}}
+Mart's Mutant Mod - No Abominable Mutants.esp
+% {{BASH: Relev}}
 Mart's Mutant Mod - No Corpse Flies.esp
 % {{BASH: Relev}}
 Mart's Mutant Mod - No DLC Increased Spawns.esp
@@ -2596,8 +2598,12 @@ Mart's Mutant Mod - No Floaters.esp
 Mart's Mutant Mod - No Geckos.esp
 % {{BASH: Relev}}
 Mart's Mutant Mod - No Ghoul Raise.esp
+Mart's Mutant Mod - No Iguanas.esp
+% {{BASH: Relev}}
 Mart's Mutant Mod - No Size Scaling.esp
 Mart's Mutant Mod - No Skeleton Decay.esp
+No Stalker Creatures.esp
+% {{BASH: Relev}}
 Mart's Mutant Mod - No Wanamingos.esp
 % {{BASH: Relev}}
 Mart's Mutant Mod - Feral Ghoul Rampage.esp
