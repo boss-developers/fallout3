@@ -2602,7 +2602,7 @@ Mart's Mutant Mod - No Iguanas.esp
 % {{BASH: Relev}}
 Mart's Mutant Mod - No Size Scaling.esp
 Mart's Mutant Mod - No Skeleton Decay.esp
-No Stalker Creatures.esp
+Mart's Mutant Mod - No Stalker Creatures.esp
 % {{BASH: Relev}}
 Mart's Mutant Mod - No Wanamingos.esp
 % {{BASH: Relev}}
