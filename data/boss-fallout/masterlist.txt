@@ -2436,6 +2436,8 @@ Bottle That Water Alternative.esp
 Bottle That Water Alternative - Broken Steel.esp
 % {{BASH: Scripts, Stats}}
 : BrokenSteel.esm
+Bottle That Water Alternative - Option B - BS.esp
+FWE-PN_BTWA_fix.esp
 AddBottle.esp
 ? DO not use with latest FWE or RI - Primary Needs, it is already integrated.
 Persistent Skill Books.esp
