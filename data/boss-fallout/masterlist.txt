@@ -569,6 +569,7 @@ KHWeaponscanner.esp
 ? DO not use with latest FWE, it is already integrated.
 DBAS.esp
 AlternateStart.esp
+Alternate Start.esp
 Alternate Start - Roleplayers.esp
 ? DO not use with latest FWE, it is already integrated.
 Selected Containers Respawn.esp
@@ -1663,6 +1664,57 @@ FWE-COL-Outcast-compatibilitypatch.esp
 
 \BeginGroup\: Other
 \-----------
+WIS-MMM Compatibility.esp
+Warhammer-Integrated-BS-Base.esp
+Warhammer-Integrated-PL.esp
+Warhammer-Integrated-TP.esp
+Warhammer-Integrated-ZT.esp
+WI-Legacy.esp
+WI-Legacy-Chaos.esp
+WI-Legacy-Dark Eldar.esp
+WI-Legacy-Eldar.esp
+WI-Legacy-Imperial.esp
+WI-Legacy-Necron.esp
+WI-Legacy-Tau.esp
+WI-Legacy-SoB.esp
+WI-Legacy-Space Marines.esp
+WI-Legacy-Black Templars, World Eaters, Tau, Biel-Tan, Vendoland, Martyred Lady, Flayed Skulls.esp
+WI-Legacy-Dark Angels, Thousand Sons, Sa'cea, Altansar, Death Korps, Argent Shroud, Iron Thorn.esp
+WI-Legacy-Ultramarines, Black Legion, Ulthwe, Sa'riad, Armageddon Steel Legion, Ebon Chalice, Dying Sun.esp
+WI-BOS-Biel-Tan.esp
+WI-BOS-Black Templars.esp
+WI-BOS-Tau.esp
+WI-BOS-Vendoland.esp
+WI-Outcast-D'yanoi.esp
+WI-Outcast-Saim-Hann.esp
+WI-Outcast-Space Wolves.esp
+WI-Enclave-Inquisition.esp
+WI-Enclave-Sa'cea.esp
+WI-Enclave-Sa'cea (No Crisis Battlesuits).esp
+WI-Enclave-Thousand Sons.esp
+WI-Enclave-Ulthwe.esp
+WI-Enclave-Ultramarines.esp
+WI-Remnant-Argent Shroud.esp
+WI-Remnant-Altansar.esp
+WI-Remnant-Dark Angels.esp
+WI-Remnant-Fal'shia.esp
+WIS-Centaurs and Dogs-Beastmen.esp
+WIS-Centaurs and Dogs-Squigs.esp
+WIS-Deathclaws-Bloodletters.esp
+WIS-Ghouls-Necrons.esp
+WIS-Ghouls-Plague Zombies.esp
+WIS-Mirelurks-Daemonettes.esp
+WIS-Non-explosive Bolts.esp
+WIS-Raiders-Dark Eldar.esp
+WIS-Regulators-SoB.esp
+WIS-Robots.esp
+WIS-Talon Company-Dark Eldar.esp
+WIS-Talon Company-Sa'riad.esp
+WIS-Talon Company-World Eaters.esp
+WIS-Tyranids.esp
+WIS-Super Mutants-Orks.esp
+WIS-Yao Gaui-Furies.esp
+WIS-Load Screens.esp
 Fallout3Tactics NPCs.esp
 Fallout3Tactics Food.esp
 Fallout3Tactics Wasteland.esp
@@ -3579,6 +3631,8 @@ URWL.esp
 URWL-Normal Color Saturation.esp
 % {{BASH: C.Light}}
 " URWL.esp
+URWLRain.esp
+% {{BASH: C.Climate, C.Light}}
 NColorDCInteriors.esp
 % {{BASH: C.Light}}
 Xepha's Dynamic Weather - Main.esp
