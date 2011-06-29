@@ -47,7 +47,7 @@ ThePitt.esm
 StreetLights.esm
 ? Do not use with latest FOOK2, it is already integrated.
 BrokenSteel.esm
-% {{BASH: Actors.AIPackages}}
+% {{BASH: Actors.ACBS, Actors.AIPackages, Relev}}
 PointLookout.esm
 Zeta.esm
 Lings.esm
@@ -1510,6 +1510,7 @@ FPS Grenade Hotkey - FOOK2 DIK.esp
 FOOK2 - DUI Grenade Fix for 11 Open Beta.esp
 Sally Fix 2.esp
 Apocalypse Armory.esp
+% {{BASH: Delev, Relev}}
 Apocalypse Armory - CALIBR.esp
 : CALIBR.ESM
 Apocalypse Armory - xCALIBR.esp
@@ -2587,7 +2588,7 @@ EVE Test Options.esp
 EVE Beta_0.9.4.esp
 ? Upgrade needed, there is a new version of EVE available.
 EVE.esp
-% {{BASH: Graphics, Sound, Scripts}}
+% {{BASH: Delev, Graphics, Relev, Sound, Scripts}}
 EVE Operation Anchorage.esp
 % {{BASH: Graphics, Sound}}
 : Anchorage.ESM
@@ -2613,7 +2614,7 @@ RH_EVE_Bridge.esp
 \BeginGroup\: Mart's Mutant Mod
 \-----------
 Mart's Mutant Mod.esp
-% {{BASH: Delev}}
+% {{BASH: Delev, Relev}}
 : Mart's Mutant Mod.esm
 Mart's Mutant Mod - UF3P.esp
 % {{BASH: Invent}}
