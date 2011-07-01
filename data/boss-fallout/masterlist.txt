@@ -2081,6 +2081,8 @@ DragonskinBonusPack.esp
 FalsSexyT3Conversions.esp
 FatherandNun.esp
 FaithOutfit.esp
+FemalePowerArmor - Vanilla.esp
+FemalePowerArmor - FWE.esp
 FetishLingerieSet.esp
 FetishFishnet.esp
 FieldJackets.esp
