@@ -2118,6 +2118,8 @@ K2Clothes_BrownLeather03.esp
 kikaiEquipment.esp
 Koukaku_Armor.esp
 Ladyoutfit1.esp
+LNC StealthSuit.esp
+: Anchorage.esm
 Lookout Outfits.esp
 LoxysCombinedClothingFF.esp
 Luka.esp
