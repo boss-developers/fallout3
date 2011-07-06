@@ -1547,7 +1547,7 @@ GSoS - Car Explosions.esp
 \BeginGroup\: Fallout Wanderer's Edition
 \-----------
 FO3 Wanderers Edition - Main File.esp
-% {{BASH: Deflst, Delev, Destructable, Names, Relev}}
+% {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.Stats, Deflst, Delev, Destructable, Graphics, Invent, Names, Relev, Scripts, Stats}}
 FO3 Wanderers Edition - DLC Anchorage.esp
 % {{BASH: Deflst}}
 FO3 Wanderers Edition - DLC The Pitt.esp
@@ -2592,7 +2592,7 @@ EVE Test Options.esp
 EVE Beta_0.9.4.esp
 ? Upgrade needed, there is a new version of EVE available.
 EVE.esp
-% {{BASH: Delev, Graphics, Relev, Sound, Scripts}}
+% {{BASH: Delev, Graphics, Relev, Stats, Sound, Scripts}}
 EVE Operation Anchorage.esp
 % {{BASH: Graphics, Sound}}
 : Anchorage.ESM
@@ -3405,6 +3405,16 @@ PLookoutRepair.esp
 MZetaRepair.esp
 Weapon Repair Kits.esp
 % {{BASH: Relev}}
+RRRU +4 UFP.esp
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+RRRU +4.esp
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
 vaps.esp
 vaps-automated-ammo-toolkit.esp
 vaps-broken-steel.esp
