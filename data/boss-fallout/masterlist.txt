@@ -1029,6 +1029,9 @@ MAXdog.esp
 WeightedCompanionCube.esp
 SS OTS Camera FOSE.esp
 1Animated Nightvision goggles.esp
+NightvisionGoggles(Powered).esp
+MrSlackPants-NightVisionGogglesShades.esp
+MrSlackPants-NightVisionGogglesNoModel.esp
 Binoculars.esp
 Binoculars and Scopes.esp
 SniperZooming.esp
@@ -3223,7 +3226,6 @@ EnhVisionHK.esp
 " EnhVision.esp
 Arwen_VisionFX.esp
 LiteChemWearoffFX.esp
-NightvisionGoggles(Powered).esp
 NVFAAPANoTex.esp
 Gore_No_More.esp
 Less_Blood.esp
