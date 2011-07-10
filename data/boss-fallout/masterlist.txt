@@ -3963,6 +3963,9 @@ The Groovatron_DLC_PL_Addon.esp
 \-----------
 EwwGhoulyBody.esp
 % {{BASH: Body-F}}
+GamefeverleveledListRaiders3.esp
+DWCRedux.esp
+Raider Diversity.esp
 \EndGroup\\
 
 \BeginGroup\: Hair
