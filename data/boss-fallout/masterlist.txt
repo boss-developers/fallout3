@@ -3965,7 +3965,7 @@ The Groovatron_DLC_PL_Addon.esp
 \-----------
 EwwGhoulyBody.esp
 % {{BASH: Body-F}}
-Raider Diversity.esp
+RaiderDiversity.esp
 \EndGroup\\
 
 \BeginGroup\: Hair
