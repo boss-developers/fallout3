@@ -2269,6 +2269,7 @@ Dogmeat_WaitMegaton v1.1.esp
 DogmeatStealth.esp
 Unique Dogmeat.esp
 IgDRDeathclawGauntletFix.esp
+GamefeverleveledListRaiders3.esp
 KarmaRevamp1010.esp
 KarmaRevampExtreme1010.esp
 KarmaCannibalIncrease1010.esp
@@ -3111,6 +3112,7 @@ Core Robots - The Robobrains.esp
 : BrokenSteel.esm
 : PointLookout.esm
 : Zeta.esm
+DWCRedux.esp
 FatmanExp.esp
 Flashlight-Performance.esp
 Flashlight-LOS.esp
@@ -3963,8 +3965,6 @@ The Groovatron_DLC_PL_Addon.esp
 \-----------
 EwwGhoulyBody.esp
 % {{BASH: Body-F}}
-GamefeverleveledListRaiders3.esp
-DWCRedux.esp
 Raider Diversity.esp
 \EndGroup\\
 
