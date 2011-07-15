@@ -2805,6 +2805,7 @@ Mystyk's Followers.esp
 Follower Autumn.esp
 DanteCompanion.esp
 JessiCompanion.esp
+jasmine.esp
 KelseyCompanion.esp
 KingCompanion.esp
 AmyWong - FOSE.esp
