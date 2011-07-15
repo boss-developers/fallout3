@@ -1768,7 +1768,7 @@ Tailor Maid Black Retex.esp
 \BeginGroup\: WeaponModKits
 \-----------
 WeaponModKits.esp
-% {{BASH: Delev, Relev, Names, Actors.AIData}}
+% {{BASH: Actors.AIData, Delev, Invent, Names, Relev}}
 WeaponModKits - FOOK.esp
 WeaponModKits - FWE Master Release.esp
 % {{BASH: Deflst, Relev, Names}}
@@ -2436,6 +2436,7 @@ XPReward20Percent.esp
 ThePitt-NoFireFollowers.esp
 KickDogs.esp
 Replenishment.esp
+% {{BASH: Scripts}}
 UWWUT.esp
 % {{BASH: Graphics}}
 " UWWUT_WT.esp
