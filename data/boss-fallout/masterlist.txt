@@ -1788,20 +1788,28 @@ WeaponModKits - FWE Talon Loot Crash Fix.esp
 WeaponModKits - DIK.esp
 WeaponModKits - Scope Increases VATS Accuracy.esp
 CRAFTable_WMKs_skill_requirements_lead_pipe_no_assault_rifle_and_laser_pistol_.esp
+% {{BASH: Invent}}
 ? Only use ONE CRAFTable_WMKs esp file
 CRAFTable_WMKs_skill_requirements_no_assault_rifle_and_laser_pistol.esp
+% {{BASH: Invent}}
 ? Only use ONE CRAFTable_WMKs esp file
 CRAFTable_WMKs_skill_requirements_lead_pipe.esp
+% {{BASH: Invent}}
 ? Only use ONE CRAFTable_WMKs esp file
 CRAFTable_WMKs.esp
+% {{BASH: Invent}}
 ? Only use ONE CRAFTable_WMKs esp file
 CRAFTable_WMKs_no_assault_rifle_and_laser_pistol.esp
+% {{BASH: Invent}}
 ? Only use ONE CRAFTable_WMKs esp file
 CRAFTable_WMKs_lead_pipe_no_assault_rifle_and laser_pistol.esp
+% {{BASH: Invent}}
 ? Only use ONE CRAFTable_WMKs esp file
 CRAFTable_WMKs_lead_pipe.esp
+% {{BASH: Invent}}
 ? Only use ONE CRAFTable_WMKs esp file
 CRAFTable_WMKs_skill_req_Amodeus.esp
+% {{BASH: Invent}}
 ? Only use ONE CRAFTable_WMKs esp file
 WMK-RH IronSights.esp
 Apocalypse Armory + WMK.esp
@@ -1828,6 +1836,9 @@ T3T_WMK1.esp
 A3-21-Focused.esp
 AddWanda_v2_blk_eot.esp
 AlexScorpion's  and Weijiesen's Smoking Fun.esp
+% {{BASH: Invent}}
+AlexScorpion's and Weijiesen's Smoking Fun.esp
+% {{BASH: Invent}}
 50CaliberSniperRifle.esp
 50CaliberSniperRifleAmmo.esp
 BackpackFixForShishkebabENG.esp
@@ -1843,7 +1854,6 @@ jmschematics - CRAFT.esp
 Hi-Res Weapons & Ammo Textures - The Pitt.esp
 Hi-Res Weapons & Ammo Textures.esp
 Reykjavik.esp
-AlexScorpion's and Weijiesen's Smoking Fun.esp
 Remote Bottlecap Mines ADVANCED.esp
 Glock 86 Plasma Pistol (scoped).esp
 P94 Plasma Rifle.esp
