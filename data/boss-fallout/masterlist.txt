@@ -879,6 +879,9 @@ Regulators _Overhaul_lvl2.esp
 " Regulators.esp
 A Trail of Crumbs.esp
 The Librarian.esp
+The Librarian - Market Comes Alive.esp
+Northern Enclave Base.esp
+Orion's Gate - Interiors.esp
 firelance-quest.esp
 TriggerFirelance.esp
 lamplight secrets.esp
@@ -1152,6 +1155,7 @@ bzArmour-nude.esp
 bzArmour-non-nude.esp
 bzBodySuits.esp
 bzFatiques.esp
+bzFatigues.esp
 bzJocks.esp
 R18BodyPack.esp
 APReanimated.esp
@@ -1516,7 +1520,7 @@ FPS Grenade Hotkey - FOOK2 DIK.esp
 FOOK2 - DUI Grenade Fix for 11 Open Beta.esp
 Sally Fix 2.esp
 Apocalypse Armory.esp
-% {{BASH: Delev, Relev}}
+% {{BASH: Delev, Invent, Relev}}
 Apocalypse Armory - CALIBR.esp
 : CALIBR.ESM
 Apocalypse Armory - xCALIBR.esp
@@ -1835,6 +1839,7 @@ T3T_WMK1.esp
 : 20th Century Weapons.esm
 A3-21-Focused.esp
 AddWanda_v2_blk_eot.esp
+% {{BASH: Invent}}
 AlexScorpion's  and Weijiesen's Smoking Fun.esp
 % {{BASH: Invent}}
 AlexScorpion's and Weijiesen's Smoking Fun.esp
@@ -1881,6 +1886,7 @@ SolarScorcher.esp
 Wealisitc Wifles.esp
 joefoxx Gun Mod v1.0 Normal Tracers.esp
 Tactical Weapons by gRs Frederyck.esp
+% {{BASH: Invent}}
 SR25Rifle.esp
 DanWessonPPC357(CALIBR).esp
 18inchCSLatinMachete.esp
@@ -3079,6 +3085,7 @@ Sensible Dismemberment.esp
 \BeginGroup\: Later Misc
 \-----------
 1PipboyPDA.esp
+20thCWItemPlacement2.esp
 Accurate Sniper Rifles.esp
 Arwen_Realism_Core.esp
 Arwen_Hard-Core.esp
@@ -3162,6 +3169,7 @@ MZC Addon - MZC-IMCN Patch.esp
 : Mothership Crew.esm
 : IMCN.esm
 MZC Addon - Gear Improv-All in One.esp
+MZC Addon-Olympus Armory.esp
 MZC Addon-Olympus Armory (forecefield).esp
 PHIG_IncreasedLocationalDamage.esp
 PHIG_IncreasedDamageLITE.esp
