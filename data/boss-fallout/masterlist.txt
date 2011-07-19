@@ -905,6 +905,14 @@ NecronomiconExMortis 5.5.esp
 TheProjectV1.1.esp
 Vault88_TmFox.esp
 FOW - The Last Child of Gallifrey.esp
+AQFH.esp
+: BrokenSteel.esm
+AQFH2.esp
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+: Zeta.esm
 \EndGroup\\
 
 \BeginGroup\: Early Misc B
