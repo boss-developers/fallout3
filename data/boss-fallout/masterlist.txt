@@ -135,7 +135,7 @@ Malos_Arena_EV.esm
 RoadWardens.esm
 % {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.Stats, Factions, Invent, Scripts, ScriptContents}}
 EVE.esm
-% {{BASH: Graphics, Sound, Scripts}}
+% {{BASH: Graphics, Invent, Sound, Scripts}}
 Apocalypse Armory.esm
 FOOK2 - Main.esm
 % {{BASH: Invent, Stats, Relations, Factions}}
