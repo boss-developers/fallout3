@@ -832,6 +832,7 @@ GTS - Navarro.esp
 
 \BeginGroup\: Quests
 \-----------
+ace.esp
 FreePlayAfterMQ_V05.esp
 FreePlay addon - clean Potomac.esp
 NotSoFast.esp
@@ -1082,6 +1083,7 @@ MaintenanceShed.esp
 HomesteadMotelSuite.esp
 UrgeWashingtonBoS.esp
 merc.esp
+merc_2.esp
 D.C. Confidential.esp
 ? Choose only one 'D.C. Confidential' ESP.
 D.C. Confidential with Glow.esp
@@ -2066,6 +2068,7 @@ BoS_FOOKedition_Armor.esp
 ? Do not use with latest FOOK2, it is already integrated.
 BSFeminizedPowerArmor.esp
 BunnySuit.esp
+Casdin - Technology In Volumes.esp
 Cat Outfit Fanged.esp
 % {{BASH: Eyes}}
 ? Use either 'Cat Outfit Fanged.esp' or 'Cat Outfit Only.esp', not both.
