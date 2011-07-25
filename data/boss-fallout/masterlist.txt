@@ -160,6 +160,7 @@ FO3 Wanderers Edition - Main File.esm
 : CALIBR.esm
 Fallout3Tactics.esm
 Fallout3Tactics Creatures.esm
+Arwen_Core.esm
 Mart's Mutant Mod.esm
 % {{BASH: Delev, Invent, Names, Relations, Scripts}}
 FNNIguana.esm
@@ -682,7 +683,9 @@ VTAP25.esp
 GhostRadio.esp
 mutantradio.esp
 LookoutRadio.esp
+PointRadio.esp
 RadioTenpenny.esp
+Ol Hick Radio.esp
 We Jazz.esp
 GNR Fix.esp
 ReneersRadioMod.esp
@@ -958,6 +961,7 @@ Ammo Bench - Car Mechanic.esp
 Ammo Bench - Old Ammo-Benches.esp
 Ammo Bench - Toolkit Retex.esp
 Ammo Bench - Scattered Schematics.esp
+DisplayedAmmoWeight.esp
 Angry Scientists.esp
 % {{BASH: Invent}}
 DN_RecyclingMachine.esp
@@ -1868,6 +1872,7 @@ Echo_UseBothGloves.esp
 jmschematics - CRAFT.esp
 Hi-Res Weapons & Ammo Textures - The Pitt.esp
 Hi-Res Weapons & Ammo Textures.esp
+HZ_XM586UR.esp
 Reykjavik.esp
 Remote Bottlecap Mines ADVANCED.esp
 Glock 86 Plasma Pistol (scoped).esp
@@ -1945,6 +1950,10 @@ WinchesterModel1894Yellowboy.esp
 YK40 Pulse Pistol.esp
 H&KUSPWithWorkingFlashlight.esp
 HZ_USP.esp
+RimfireRevolver.esp
+"RimfireRevolverCommon.esp
+RimfireRevolverCommon.esp
+"RimfireRevolver.esp
 SilencedSniperRiflesStd.esp
 SilencedSniperRiflesUnq.esp
 More308Ammo.esp
@@ -2111,6 +2120,7 @@ Dogmeat Leather Armor - no crafting.esp
 Shaikujins_Chrome_Dogmeat_Armour.esp
 Dragonskin Tactical Outfit.esp
 DragonskinBonusPack.esp
+exnemprewarfix.esp
 FalsSexyT3Conversions.esp
 FatherandNun.esp
 FaithOutfit.esp
@@ -2151,6 +2161,7 @@ K2Clothes_BrownLeather03.esp
 kikaiEquipment.esp
 Koukaku_Armor.esp
 Ladyoutfit1.esp
+LeatherBackpack - eng.esp
 LNC StealthSuit.esp
 : Anchorage.esm
 Lookout Outfits.esp
@@ -2266,6 +2277,7 @@ Ammo_Schematics.esp
 : CRAFT.esm
 Bobbleheads Begone.esp
 % {{BASH: Scripts}}
+Brahmin Dairy Products.esp
 Childhood Beginning.esp
 : EnhancedChildren.esm
 CB Add-on.esp
@@ -3119,6 +3131,8 @@ Arwen_Tweaks_Main.esp
 Arwen_Weapons.esp
 " Arwen_FULL_Tweaks.esp
 Arwen_Encumbrance.esp
+Arwen_Med-Tec.esp
+Arwen_MMM_Med-Tec_Patch.esp
 Arwen_MMM_Patch.esp
 Arwen_EVE_Patch.esp
 Arwen_EVE_RH-IS_Patch.esp
