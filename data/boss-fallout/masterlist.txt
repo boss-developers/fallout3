@@ -160,11 +160,11 @@ FO3 Wanderers Edition - Main File.esm
 : CALIBR.esm
 Fallout3Tactics.esm
 Fallout3Tactics Creatures.esm
-Arwen_Core.esm
-% {{BASH: Actors.Animations}}
 Mart's Mutant Mod.esm
 % {{BASH: Delev, Invent, Names, Relations, Scripts}}
 FNNIguana.esm
+Arwen_Core.esm
+% {{BASH: Actors.Animations}}
 LingsFinerThings.esm
 LingsMMMpatch3-3.esm
 vaps.esm
