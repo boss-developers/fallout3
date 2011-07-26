@@ -161,6 +161,7 @@ FO3 Wanderers Edition - Main File.esm
 Fallout3Tactics.esm
 Fallout3Tactics Creatures.esm
 Arwen_Core.esm
+% {{BASH: Actors.Animations}}
 Mart's Mutant Mod.esm
 % {{BASH: Delev, Invent, Names, Relations, Scripts}}
 FNNIguana.esm
@@ -1571,7 +1572,7 @@ GSoS - Car Explosions.esp
 \BeginGroup\: Fallout Wanderer's Edition
 \-----------
 FO3 Wanderers Edition - Main File.esp
-% {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.Stats, Deflst, Delev, Destructable, Graphics, Invent, Names, Relev, Scripts, Stats}}
+% {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.Stats, Deflst, Delev, Destructable, Graphics, Invent, Names, Relev, Scripts, Stats}}
 FO3 Wanderers Edition - DLC Anchorage.esp
 % {{BASH: Deflst}}
 FO3 Wanderers Edition - DLC The Pitt.esp
@@ -3111,7 +3112,11 @@ Sensible Dismemberment.esp
 20thCWItemPlacement2.esp
 Accurate Sniper Rifles.esp
 Arwen_Realism_Core.esp
+% {{BASH: Actors.CombatStyle, Actors.Stats, Destructable, Names, Relev, Sounds, Stats}}
+Arwen_GOTY_Realism_Core.esp
 Arwen_Hard-Core.esp
+% {{BASH: Actors.CombatStyle, Actors.Stats, Destructable, Names, Relev, Stats}}
+Arwen_GOTY_Hard-Core.esp
 Arwen_FULL_Tweaks.esp
 Arwen_Skills.esp
 Arwen_Armor.esp
@@ -3131,10 +3136,17 @@ Arwen_Tweaks_Main.esp
 Arwen_Weapons.esp
 " Arwen_FULL_Tweaks.esp
 Arwen_Encumbrance.esp
+% {{BASH: Stats}}
 Arwen_Med-Tec.esp
+% {{BASH: Actors.ACBS, Actors.AIData, Invent, Relev, Scripts, Stats}}
+Arwen_GOTY_Med-Tec.esp
+% {{BASH: Relev}}
 Arwen_MMM_Med-Tec_Patch.esp
+% {{BASH: Relev, Scripts}}
 Arwen_MMM_Patch.esp
+% {{BASH: Scripts}}
 Arwen_EVE_Patch.esp
+% {{BASH: Graphics, Sounds, Stats}}
 Arwen_EVE_RH-IS_Patch.esp
 Arwen_RiPnO_Patch.esp
 Arwen_RiPnO_BLTC_Patch.esp
