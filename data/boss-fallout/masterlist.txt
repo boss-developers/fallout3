@@ -1538,10 +1538,11 @@ FPS Grenade Hotkey - FOOK2 DIK.esp
 FOOK2 - DUI Grenade Fix for 11 Open Beta.esp
 Sally Fix 2.esp
 Apocalypse Armory.esp
-% {{BASH: Delev, Invent, Relev}}
+% {{BASH: Delev, Graphics, Invent, Names, Stats, Relev}}
 Apocalypse Armory - CALIBR.esp
 : CALIBR.ESM
 Apocalypse Armory - xCALIBR.esp
+% {{BASH: Names, Stats}}
 : xCALIBR.ESM
 Apocalypse Armory - DLC Enhancements.esp
 : Anchorage.ESM
