@@ -701,6 +701,7 @@ IPip.esp
 
 \BeginGroup\: Early Misc A (Perks)
 \-----------
+Attack of the 50 Foot Woman4.0.esp
 ZZ_TP.esp
 XSPerkMod.esp
 ReloadAmmo.esp
@@ -922,6 +923,7 @@ AQFH2.esp
 
 \BeginGroup\: Early Misc B
 \-----------
+Arnold.esp
 XSSkillCheck.esp
 XSZeta.esp
 : Zeta.esm
@@ -1974,6 +1976,7 @@ Wieldable Torches (Optional).esp
 Ammo Press Calibrified.esp
 : ThePitt.esm
 : CALIBR.esm
+WeaponsOfTheShogunate.esp
 WMMP_Install.esp
 : Anchorage.esm
 : ThePitt.esm
