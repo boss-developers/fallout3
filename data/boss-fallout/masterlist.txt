@@ -168,6 +168,7 @@ Arwen_Core.esm
 LingsFinerThings.esm
 LingsMMMpatch3-3.esm
 vaps.esm
+K2_RaiderDolls.esm
 COCOA.esm
 Companion Core.esm
 Companion Share & Recruit.esm
@@ -2116,14 +2117,14 @@ Cybernetic Implants Xangi.esp
 DIM TYPE3 conversions.esp
 DIM TYPE3clothesRETAIL.esp
 doctorli_glasses.esp
-EMPGrenadeKnockoutPowArmor.esp
-EnclavePACollars.esp
 Dark_Temptress.esp
 Dogmeat Leather Armor - CRAFT.esp
 Dogmeat Leather Armor - no crafting.esp
 Shaikujins_Chrome_Dogmeat_Armour.esp
 Dragonskin Tactical Outfit.esp
 DragonskinBonusPack.esp
+EMPGrenadeKnockoutPowArmor.esp
+EnclavePACollars.esp
 exnemprewarfix.esp
 FalsSexyT3Conversions.esp
 FatherandNun.esp
@@ -2162,6 +2163,7 @@ Jagi.esp
 Jessica Outfit.esp
 JillBSAA.esp
 K2Clothes_BrownLeather03.esp
+K2_GirlieGirlVaultBabe.esp
 kikaiEquipment.esp
 Koukaku_Armor.esp
 Ladyoutfit1.esp
