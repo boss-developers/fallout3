@@ -854,6 +854,7 @@ PLweightadjust.esp
 : PointLookout.ESM
 PLFewerItems.esp
 : PointLookout.ESM
+Citadel Armory.esp
 Tenpenny Tower true peace.esp
 The Mantis Imperative - Mantis.esp
 % {{BASH: Relev}}
@@ -1023,6 +1024,15 @@ PortableMattress.esp
 Portable Distilling Lab.esp
 PortableCampStuff.esp
 PortableCampStuff - CRAFT.esp
+EpFspitBomb.esp
+: CRAFT.esm
+EpFspitBombMMM.esp
+: CRAFT.esm
+: Mart's Mutant Mod.esm
+Cryo Weapons - No Lists.esp
+: CRAFT
+Cryo Weapons - Vanilla.esp
+: CRAFT
 RZW_PortableFans.esp
 RZW_PortableBearTraps.esp
 mazas_campfire.esp
@@ -1074,6 +1084,17 @@ Expanded Megaton House V3.esp
 Expanded Megaton House V3-No Stove.esp
 MegatonBasement.esp
 JB-MegatonHouse_v1.0.esp
+DTOMRC3.esp
+HouseholdTeleporter.esp
+PINK VAULT Princess Hole in the Wall.esp
+Megaton Sorter.esp
+: BrokenSteel.esm
+? Requires FOSE
+A Place to Stay in The Pitt.esp
+A Place to Stay on Mothership Zeta.esp
+A Place to Stay in Anchorage.esp
+A Place to Stay for Broken Steel.esp
+A Place to Stay in Point Lookout.esp
 Bonds Tenpenny Tower Complete.esp
 Princess Tenpenny Home Extension.esp
 Princess Megaton Home Extension.esp
@@ -1298,6 +1319,7 @@ DCInteriors_LEnfntPl.esp
 DCInteriors_DLC_Collectables.esp
 WIP_BigTown.esp
 Bonds Big Town.esp
+FinchleyHeightsV1.0.esp
 FruitTrees.esp
 Trophies - Megaton.esp
 Trophies- Tenpenny.esp
@@ -2048,17 +2070,19 @@ APMPA Stimpack restores All HP.esp
 APMPA Stimpack restores All HP Costs Stimpacks.esp
 Arcade'sNightwear.esp
 Armor Your Vault Suits.esp
+Armored Duster.esp
 AsharasFormalClothing.esp
 Assault Combat Gear.esp
 BABEreconarmor.esp
 BBBackpacks-v1-1.esp
 % {{BASH: Stats}}
 Bikini_Armor_TYPE3.esp
+BillieJean.esp
 Black Puppet Armor for Fo3.esp
 blackrock_shooter.esp
 BodyJewelry.esp
 BodyJewelryEx.esp
-BillieJean.esp
+BornAgain Outcast v3.esp
 BoS_DX.esp
 % {{BASH: Graphics}}
 ? Do not use with latest FOOK2, it is already integrated.
@@ -2105,6 +2129,7 @@ COL Enclave Hell.esp
 COW-CustamArmor.esp
 : EnhancedChildren.esm
 : AliciasCuteShop.esm
+CombatDuster.esp
 ClassicEnclaveAPA-german.esp
 ClassicEnclaveAPA-english.esp
 ClassicEnclaveAPA-Better-APA-german.esp
@@ -2119,6 +2144,7 @@ DIM TYPE3 conversions.esp
 DIM TYPE3clothesRETAIL.esp
 doctorli_glasses.esp
 Dark_Temptress.esp
+Dark Justice Duster.esp
 Dogmeat Leather Armor - CRAFT.esp
 Dogmeat Leather Armor - no crafting.esp
 Shaikujins_Chrome_Dogmeat_Armour.esp
@@ -2231,6 +2257,7 @@ SomeClothes.esp
 sunglassescollection.esp
 SwampfolkOutfit.esp
 T3T_CombatArmorSleeves.esp
+T3_leather armors.esp
 Tactical Vest CIRAS.esp
 Tactical Vest CIRAS - Vendor Restock Script.esp
 TalonExtraArmor.esp
@@ -2241,6 +2268,7 @@ Thermoptic PowerArmor Helmets.esp
 : Thermal Vision.esm
 Thermoptic Glasses.esp
 : Thermal Vision.esm
+TheWanderingRanger(Reilly's Rangers).esp
 thongpack.esp
 Tribal & Ashur's Power Helmet.esp
 Testweapon Arms x Arms.esp
@@ -2832,6 +2860,7 @@ LingsPrettyThings.esp
 LingsPrettyThings-BrokenSteel.esp
 LingsPrettyThings-SeducingWomen.esp
 LingsPrettyThings-FOOK2-MMM.esp
+Lt Williams Companion.esp
 xCALIBRuniverse_LingsBrokenSteel.esp
 xCALIBRuniverse_LingsPrettyThings.esp
 SeducedDLC03.esp
@@ -2844,13 +2873,10 @@ BriannaCompanion.esp
 LucyWestCompanion.esp
 bittercup_comp.esp
 JHBCloverPlus.esm
-moirared.esp
-% {{BASH: Invent}}
-Reclothing For LPT and Flash.esp
-% {{BASH: Invent}}
 Mystyk's Followers.esp
 Follower Autumn.esp
 DanteCompanion.esp
+GaryCompanion.esp
 JessiCompanion.esp
 jasmine.esp
 KelseyCompanion.esp
@@ -3000,6 +3026,10 @@ COCOA - slaveraider.esp
 : slaveraider.esp
 COCOA - Sydney Follower.esp
 : Sydney Follower.esp
+moirared.esp
+% {{BASH: Invent}}
+Reclothing For LPT and Flash.esp
+% {{BASH: Invent}}
 \EndGroup\\
 
 \BeginGroup\: Realism Mods
@@ -3250,6 +3280,8 @@ T3T_AT_CAS.esp
 T3T_BetterMegatonStorage.esp
 T3T_MiscItemIcons.esp
 ? Do not use with latest FWE, it is already integrated.
+The Mantis Imperative - Nasty Zeta.esp
+The Mantis Imperative - Nasty Zeta No Scaling.esp
 SbkTougherEnclave.esp
 Standard Weapon's Spread.esp
 Anchorage Weapon Spread.esp
