@@ -854,7 +854,7 @@ PLweightadjust.esp
 : PointLookout.ESM
 PLFewerItems.esp
 : PointLookout.ESM
-Citadel Armory.esp
+CitadelArmory.esp
 Tenpenny Tower true peace.esp
 The Mantis Imperative - Mantis.esp
 % {{BASH: Relev}}
