@@ -728,6 +728,7 @@ AccuracyPerks.esp
 Detect Traps - The Traponator 4000.esp
 Detect Traps - Perk.esp
 Detect Traps.esp
+Detect Traps - DLC.esp
 Dree Perks.esp
 Dree Perks Anchorage.esp
 Dree Perks Pitts.esp
@@ -885,6 +886,8 @@ Regulators _Overhaul_lvl2.esp
 " Regulators_Overhaul.esp
 " Regulators _Overhaul_lvl7.esp
 " Regulators.esp
+Lawbringer Boutnies Ver1.1.esp
+% {{BASH: Invent}}
 A Trail of Crumbs.esp
 The Librarian.esp
 The Librarian - Market Comes Alive.esp
@@ -909,6 +912,8 @@ The Car Fort With Quests.esp
 Project-Valhalla.esp
 SOL.esp
 NightmareRealm.esp
+JetPack.esp
+TecVault.esp
 NecronomiconExMortis 5.5.esp
 TheProjectV1.1.esp
 Vault88_TmFox.esp
@@ -1018,6 +1023,7 @@ Stealth Kills Enabled - Pitt Compatibility.esp
 SCC - Talk to Anyone.esp
 SCC Armor.esp
 VaultTechLocators.esp
+GNREyebot.esp
 Echo_BatteryCharger.esp
 HouseholdWaterPurifier.esp
 PortableMattress.esp
@@ -1086,7 +1092,7 @@ MegatonBasement.esp
 JB-MegatonHouse_v1.0.esp
 DTOMRC3.esp
 HouseholdTeleporter.esp
-PINK VAULT Princess Hole in the Wall.esp
+PINK VAULT Princess Hole in the Wall .esp
 Megaton Sorter.esp
 : BrokenSteel.esm
 ? Requires FOSE
@@ -1127,6 +1133,8 @@ RR_Refurbished.esp
 RZW_SlotMachine.esp
 ShadySands.esp
 % {{BASH: Factions, Relations}}
+SuperSledgeBeatdown.esp
+% {{BASH: Scripts}}
 BM22CelestialSphere.esp
 QuantumPipeV2.esp
 Mark and recall.esp
@@ -1461,6 +1469,8 @@ MegatonWeapons.esp
 TestingRoom.esp
 TheSKINNYwearShopDC.esp
 : Anchorage.esm
+TunnelOutpost.esp
+: PointLookout.esm
 Sanctum.esp
 Sanctum-Storage.esp
 Shack On The Beach.esp
@@ -1562,9 +1572,10 @@ Sally Fix 2.esp
 Apocalypse Armory.esp
 % {{BASH: Delev, Graphics, Invent, Names, Stats, Relev}}
 Apocalypse Armory - CALIBR.esp
+% {{BASH: Delev}}
 : CALIBR.ESM
 Apocalypse Armory - xCALIBR.esp
-% {{BASH: Names, Stats}}
+% {{BASH: Deflst, Names, Stats}}
 : xCALIBR.ESM
 Apocalypse Armory - DLC Enhancements.esp
 : Anchorage.ESM
@@ -1934,6 +1945,7 @@ DanWessonPPC357(CALIBR).esp
 18inchCSLatinMachete.esp
 P94-95.esp
 xCALIBRmunitions.esp
+% {{BASH: Delev, Relev}}
 xCALIBRmunitions_FOSEnhancements.esp
 ZL-ACR.esp
 ZL-ACRForFWE.esp
@@ -2056,9 +2068,12 @@ Saiga-12 Combat Shotgun Override The Pitt.esp
 3EFhelmlessstealthsuit.esp
 3EFwandererGear.esp
 ACU Battle Armor.esp
+Advanced Recon Armor.esp
 Advanced Recon Gear.esp
 Advanced Recon Tech.esp
-Advanced Recon Armor.esp
+Advanced Recon Tech - Detect Traps.esp
+: Detect Traps.esm
+: Advanced Recon Tech.esm
 Advanced Recon Range Finder.esp
 AdvancedReconGear.esp
 AdvReconEasierStealth.esp
@@ -2202,6 +2217,7 @@ LoxysCombinedClothingFF.esp
 Luka.esp
 Mantis07Reflex.esp
 ME2_Inferno Armor.esp
+Merc Adventurer Armor - eng.esp
 Metro 2033.esp
 Micro Bikini and more recolors.esp
 MicroBikini.esp
@@ -2244,7 +2260,12 @@ PPA - IMCN.esp
 : Powered Power Armor.esp
 Prototype Medic Armor Upgrade.esp
 RadioactiveSuit.esp
+Raider Combat Armor.esp
+Raider Combat Armor Pitt.esp
+: ThePitt.esm
+Raider HeadGear.esp 
 RaiderPowerArmor_lvl.esp
+RaiderPowerArmor_no_lvl.esp
 SchoolUniforms.esp
 Scout Outfits.esp
 Spartan Armor.esp
@@ -2342,6 +2363,8 @@ Dogmeat_WaitMegaton.esp
 Dogmeat_WaitMegaton v1.1.esp
 DogmeatStealth.esp
 Unique Dogmeat.esp
+cyber_meat.esp
+% {{BASH: Graphics}}
 IgDRDeathclawGauntletFix.esp
 GamefeverleveledListRaiders3.esp
 KarmaRevamp1010.esp
@@ -2693,6 +2716,7 @@ EVE - FWE with WeaponModKits.esp
 % {{BASH: Graphics, Sound}}
 CFWRloadlastEVE.esp
 Apocalypse Armory + EVE.esp
+% {{BASH: Delev, Relev}}
 : EVE
 RH_EVE_Bridge.esp
 \EndGroup\\
@@ -2949,6 +2973,8 @@ Lil_Critters.esp
 Lil_Critters_NG.esp
 ChildrenEmpire Soldiers.esp
 ChildrenEmpire Enemies.esp
+Sgt. Rock.esp
+Frazzled.esp
 Fallout 3 Sexus Enemies.esp
 Fallout 3 Sexus - DLC The Pitt.esp
 Fallout 3 Sexus with Children Empire.esp
@@ -2967,6 +2993,8 @@ Kat_Companion_V1.0a.esp
 Kat_Companion_V1.0b.esp
 outcast_comp.esp
 Sydney Follower.esp
+Sydney Follower - Recruitment Fix.esp
+Sydney Follower - FWE Dialog Fix.esp
 Sarah Lyons Companion.esp
 slaveraider.esp
 CBOv1.4.esp
