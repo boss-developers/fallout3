@@ -1572,7 +1572,7 @@ Sally Fix 2.esp
 Apocalypse Armory.esp
 % {{BASH: Delev, Graphics, Invent, Names, Stats, Relev}}
 Apocalypse Armory - CALIBR.esp
-% {{BASH: Delev}}
+% {{BASH: Delev, Relev}}
 : CALIBR.ESM
 Apocalypse Armory - xCALIBR.esp
 % {{BASH: Deflst, Names, Stats}}
@@ -2173,6 +2173,7 @@ FatherandNun.esp
 FaithOutfit.esp
 FemalePowerArmor - Vanilla.esp
 FemalePowerArmor - FWE.esp
+Female Winterized T51-B.esp
 FetishLingerieSet.esp
 FetishFishnet.esp
 FieldJackets.esp
@@ -2997,6 +2998,8 @@ Sydney Follower - Recruitment Fix.esp
 Sydney Follower - FWE Dialog Fix.esp
 Sarah Lyons Companion.esp
 slaveraider.esp
+slaveraider_newlook.esp
+% {{BASH: Graphics}}
 CBOv1.4.esp
 CBOv1.4_bittercup_comp.esp
 CBOv1.4_bittercup_comp_restyled.esp
