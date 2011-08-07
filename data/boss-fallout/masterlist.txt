@@ -1570,7 +1570,7 @@ FPS Grenade Hotkey - FOOK2 DIK.esp
 FOOK2 - DUI Grenade Fix for 11 Open Beta.esp
 Sally Fix 2.esp
 Apocalypse Armory.esp
-% {{BASH: Delev, Graphics, Invent, Names, Stats, Relev}}
+% {{BASH: Delev, Graphics, Invent, Names, Sounds, Stats, Relev}}
 Apocalypse Armory - CALIBR.esp
 % {{BASH: Delev, Relev}}
 : CALIBR.ESM
@@ -4180,7 +4180,7 @@ JHBCloverPlusOverride.esp
 Sydney Follower - Load Order Fix.esp
 JHBSydneyUpdate.esp
 xCALIBRuniverse.esp
-% {{BASH: Names, Graphics, Invent, Sound, Stats}}
+% {{BASH: Actors.DeathItems, Delev, Names, Graphics, Invent, Relev, Sound, Stats}}
 xCALIBR - Alternative Path.esp
 xCALIBRuniverse_ammoLists.esp
 xCALIBRuniverse_repairLists.esp
