@@ -4258,7 +4258,10 @@ CRBSOR [Achievements Removed].esp
 MMM-Zeta crash fix.esp
 MMM-FWE fix.esp
 Merged.esp
+% {{BASH: NoMerge}}
 Merged Patch.esp
+% {{BASH: NoMerge}}
+xCALIBRammo_override.esp
 \EndGroup\\
 
 \BeginGroup\: Bashed Patch
