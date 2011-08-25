@@ -73,6 +73,7 @@ Destruction.esm
 % {{BASH: Destructable, Scripts}}
 S.T.A.L.K.E.R. Call of D.C..esm
 ARSENAL MOD.esm
+SShop.esm
 FallsChurchMetroFix.esm
 ObjectPlacementFix.esm
 Phalanx-PointLookout-Navmesh.esm
@@ -284,6 +285,8 @@ Unofficial Fallout 3 Patch - Point Lookout.esp
 Unofficial Fallout 3 Patch - Mothership Zeta.esp
 % {{BASH: Deflst, Names}}
 : Zeta.esm
+Broken Steel Early Enclave Fix.esp
+: BrokenSteel.esm
 BrokenSteel_StarPaladinCross_Fix.esp
 : BrokenSteel.esm
 UF3P Crane Fix.esp
@@ -357,6 +360,7 @@ QuickFix.esp
 : BrokenSteel.esm
 : PointLookout.esm
 : Zeta.esm
+BringBackBael.esp
 BlackWidowBurkeFix.esp
 % {{BASH: Scripts}}
 MS11fix.esp
@@ -383,6 +387,8 @@ BSMovieSkip.esp
 Dialogue Tweaks.esp
 SGsUA - No Borders v.1.0-EN.esp
 SGsUA - No Borders v.1.0-DE.esp
+Stop Insulting Me Outcasts.esp
+% {{BASH: Factions}}
 \EndGroup\\
 
 \BeginGroup\: Early Loading Mods
@@ -517,6 +523,7 @@ V.A.T.S. Depth of Field v1.0.esp
 CASM.esp
 Fallout Safe Exit v1.1.esp
 ASU.esp
+BTBearTrap-EN.esp
 CRAFT - Activation Perk.esp
 : CRAFT.ESM
 CRAFT -Zeta -  Activation Perk.esp
@@ -931,6 +938,10 @@ AQFH2.esp
 \BeginGroup\: Early Misc B
 \-----------
 Arnold.esp
+BoSTeslaEarly.esp
+" BoSTesla.esp
+BoSTesla.esp
+" BoSTeslaEarly.esp
 XSSkillCheck.esp
 XSZeta.esp
 : Zeta.esm
@@ -1419,9 +1430,11 @@ Underworld Underground.esp
 UnderWorld House.esp
 LevelersChamber.esp
 Submarine Wreck.esp
+SShopItems.esp
 GameForWilks.esp
 rivet city 2.esp
 Rivet City Apartment.esp
+RangerT HQ.esp
 The town of girdershade.esp
 shopping-spree.esp
 CanterburyCommonsEmbiggened.esp
@@ -1577,6 +1590,9 @@ Apocalypse Armory - CALIBR.esp
 Apocalypse Armory - xCALIBR.esp
 % {{BASH: Deflst, Names, Stats}}
 : xCALIBR.ESM
+Apocalypse Armory Preview - Grenades.esp
+" Apocalypse Armory.esp
+? Included in Apocalypse Armory
 Apocalypse Armory - DLC Enhancements.esp
 : Anchorage.ESM
 Apocalypse Armory - Optional Historical Names.esp
@@ -1898,6 +1914,7 @@ AlexScorpion's and Weijiesen's Smoking Fun.esp
 % {{BASH: Invent}}
 50CaliberSniperRifle.esp
 50CaliberSniperRifleAmmo.esp
+backpackfix.esp
 BackpackFixForShishkebabENG.esp
 BackpackFixForShishkebabPL.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionTHEPOINT.esp
@@ -1961,6 +1978,14 @@ Weapon - Some Katanas.esp
 CS_ LightsaberQuest.esp
 CS_LightsaberQuest - Objectives Patch.esp
 ColtM4Carbines_RHIronSights.esp
+% {{BASH: Graphics}}
+laserPistolRetextured-IronSightsPatch.esp
+% {{BASH: Graphics}}
+laserRifleRetextured-IronSightsPatch.esp
+% {{BASH: Graphics}}
+laserScatterGunRetextured.esp
+% {{BASH: Graphics}}
+: BrokenSteel.esm
 AsharasLightningItems.esp
 AMR-B04.esp
 ZL-SVD.esp
@@ -2167,6 +2192,7 @@ Dragonskin Tactical Outfit.esp
 DragonskinBonusPack.esp
 EMPGrenadeKnockoutPowArmor.esp
 EnclavePACollars.esp
+EnclaveReconArmor.esp
 exnemprewarfix.esp
 FalsSexyT3Conversions.esp
 FatherandNun.esp
@@ -2284,13 +2310,22 @@ Tactical Vest CIRAS.esp
 Tactical Vest CIRAS - Vendor Restock Script.esp
 TalonExtraArmor.esp
 Tattered_suits.esp
+Tesla Metal Armor.esp
+" Tesla Metal Armor (Extended).esp
+" Tesla Light Armor Redone.esp
 Tesla Metal Armor (Extended).esp
+" Tesla Metal Armor.esp
+" Tesla Light Armor Redone.esp
+Tesla Light Armor Redone.esp
+" Tesla Metal Armor (Extended).esp
+" Tesla Metal Armor.esp
 TeslaForGirls.esp
 Thermoptic PowerArmor Helmets.esp
 : Thermal Vision.esm
 Thermoptic Glasses.esp
 : Thermal Vision.esm
 TheWanderingRanger(Reilly's Rangers).esp
+TheWanderingRanger(The Locker).esp
 thongpack.esp
 Tribal & Ashur's Power Helmet.esp
 Testweapon Arms x Arms.esp
@@ -2592,6 +2627,8 @@ Responsive Kill Reactions.esp
 I am Robot.esp
 ImmersiveHealth.esp
 ImmersiveHealth-LITE.esp
+AfrosNukaCola.esp
+% {{BASH: Graphics, Stats}}
 Bottle That Water.esp
 {{BASH: Scripts}}
 Bottle That Water Alternative.esp
@@ -3012,8 +3049,12 @@ EnclaveCommander-OA.esp
 JHBCloverPlus.esp
 RHKBrisaAlmodovar - Custom - Lings.esp
 : Lings.esm
+RHKBrisaAlmodovar - Custom - PB HD.esp
+: Project Beauty.esm
 RHKBrisaAlmodovar - DLC - Anch.esp
 : Anchorage.esm
+Brisa and FWE - Primary Needs Patch.esp
+: FO3 Wanderers Edition - Main File.esm
 mmMoleRatMount.esp
 CharonImproved.esp
 llama's Vanilla Followers for Charon Improved.esp
@@ -3683,6 +3724,10 @@ dD-Smaller Wounds.esp
 dD-Smaller Spatters.esp
 Realistic Death Physics.esp
 ? Do not use with latest FWE, it is already integrated.
+REAL-ThirdViewMod.esp
+"LOWER-real-thirdpersonview.esp
+LOWER-real-thirdpersonview.esp
+"REAL-ThirdViewMod.esp
 Magic Pip-Light (50 Brightness).esp
 MrSlackPants-DecentPipBoyLight.esp
 Fellout-pipboylight.esp
@@ -4264,6 +4309,7 @@ Merged.esp
 % {{BASH: NoMerge}}
 Merged Patch.esp
 % {{BASH: NoMerge}}
+Override.esp
 xCALIBRammo_override.esp
 \EndGroup\\
 
