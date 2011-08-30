@@ -335,6 +335,7 @@ OADLCfix.esp
 DrySewrOurLadyOfHopeHospitalRequestedFix.esp
 James Invisible wall bugs remove.esp
 James Invisible wall bugs remove V2.esp
+James Invisible wall bugs remove V3.esp
 NavMesh Generation Filter.esp
 zetabugfix.esp
 : Zeta.esm
@@ -378,6 +379,8 @@ Project Clean FOOK 2 Patch V1.0.esp
 : FOOK2 - Main.ESM
 SniperAimCorrected - nodemo.esp
 SniperAimCorrected.esp
+Sniper's Bliss.esp
+enhancedsnipersandsilent.esp
 LessRocks.esp
 Reduced Dust Particles.esp
 BetterGamePerformance.esp
@@ -510,6 +513,7 @@ DoF-PureStronger.esp
 =Medium=MotionBlur1.1.esp
 =Strong=MotionBlur1.1.esp
 =Subtle=MotionBlur1.1.esp
+SN_Depth_Of_Field.esp
 krzymar-MoonSize_040%.esp
 krzymar-MoonSize_060%.esp
 krzymar-MoonSize_120%.esp
@@ -589,6 +593,7 @@ Selected Containers Respawn.esp
 ? DO not use with latest FWE, it is already integrated.
 Containers Respawn.esp
 Precision_AutoAim_6000.esp
+Precise Aim.esp
 AlternateEnding.esp
 Zombie Sounds V2.esp
 choose_XP_FOSE.esp
@@ -847,6 +852,7 @@ GTS - Navarro.esp
 \BeginGroup\: Quests
 \-----------
 ace.esp
+agcTARDISf3.esp
 FreePlayAfterMQ_V05.esp
 FreePlay addon - clean Potomac.esp
 NotSoFast.esp
@@ -1439,6 +1445,9 @@ The town of girdershade.esp
 shopping-spree.esp
 CanterburyCommonsEmbiggened.esp
 Canterbury Estates 0.8 beta.esp
+CanterburyCommonsInteriors.esp
+CantaburyCommonsGuards.esp
+CantaburyCommonsGuards - DTO.esp
 Talon Outpost Expansion - Canterbury Commons.esp
 CanterburyCommonsInteriors.esp
 JL121RCAltDoor.esp
@@ -1922,9 +1931,11 @@ BRUTE_GunKnockdownsSpecialScriptedEditionANCHORAGE.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionTHEPITT.esp
 Better Looking Combat Shotgun.esp
 Better Looking Combat Shotgun (Full Auto).esp
+BlasterEquipmentPackagev1_2.esp
 Crossbow.esp
 Echo_UseBothGloves.esp
 jmschematics - CRAFT.esp
+JQ-DuncanSword.esp
 Hi-Res Weapons & Ammo Textures - The Pitt.esp
 Hi-Res Weapons & Ammo Textures.esp
 HZ_XM586UR.esp
@@ -1968,6 +1979,7 @@ ZL-ACR.esp
 ZL-ACRForFWE.esp
 Star Trek Tri-Beam Phaser.esp
 AER10V2 Laser Rifle.esp
+M14_EBR.esp
 MPammo.esp
 HZ_M249.esp
 VashDeagleV5.esp
@@ -2094,6 +2106,7 @@ Saiga-12 Combat Shotgun Override The Pitt.esp
 3EFwandererGear.esp
 ACU Battle Armor.esp
 Advanced Recon Armor.esp
+Advanced Recon Armor-Predator Mode.esp
 Advanced Recon Gear.esp
 Advanced Recon Tech.esp
 Advanced Recon Tech - Detect Traps.esp
@@ -2394,6 +2407,7 @@ TL_Color.esp
 Kick Dogmeat.esp
 Slof's Alsatian Dogmeat.esp
 DogmeatEssentialModv1.2.esp
+DogmeatEssentialToken.esp
 Move-Dogmeat.esp
 Dogmeat_WaitMegaton.esp
 Dogmeat_WaitMegaton v1.1.esp
@@ -3258,6 +3272,7 @@ Arwen_EVE_Patch.esp
 Arwen_EVE_RH-IS_Patch.esp
 Arwen_RiPnO_Patch.esp
 Arwen_RiPnO_BLTC_Patch.esp
+BAN - Dupe This.esp
 Core Robots - The Eyebots.esp
 : Anchorage.esm
 : ThePitt.esm
@@ -3325,6 +3340,8 @@ PHIG_GunKnockdownsSpecialScriptedEdition.esp
 PHIG_SteadyAimPERKONLY.esp
 PPA - Readius.esp
 : 1PipboyPDA.esp
+QuantumForAll!.esp
+Quantum Fridge Maker.esp
 RTS_Life_Of_Raider_Addon.esp
 RTSpatch_RVW.esp
 RTSBeta0.1c_extension_FarmingBob1.2.1.esp
@@ -3501,6 +3518,12 @@ yaDisguisesMod.esp
 yaDisguisesMod-DLC-Anchorage.esp
 yaDisguisesMod-DLC-BrokenSteel.esp
 yaDisguisesMod-DLC-ThePitt.esp
+yaDisguisesMod-Merged.esp yaDisguisesMod-MOD-bzArmor.esp
+" yaDisguisesMod.esp
+" yaDisguisesMod-DLC-Anchorage.esp
+" yaDisguisesMod-DLC-ThePitt.esp
+" yaDisguisesMod-DLC-BrokenSteel.esp
+? Merged Version of yaDisguisesMod.esp, yaDisguisesMod-DLC-Anchorage.esp, yaDisguisesMod-DLC-ThePitt.esp, yaDisguisesMod-DLC-BrokenSteel.esp
 yaDisguisesMod-MOD-bzArmour.esp
 yaDisguisesMod-MOD-FWE.esp
 : Anchorage.esm
@@ -3611,6 +3634,14 @@ GTent-FWE-MMM.esp
 GTent-FWE-WMK.esp
 : GTent-FWE.esp
 : WeaponModKits.esp
+Better Caravans.esp
+Wasteland Travel Caravans.esp
+UpgradedCaravanMerchants.esp
+CaravanUpgrades.esp
+CarvanTrader.esp
+% {{BASH: Actors.ACBS, Actors.Stats, Invent, Names, R. Attributes-F, R. Attributes-M, R.Skills, Scripts}}
+CaravanEssential.esp
+Essential Caravan Merchants.esp
 \EndGroup\\
 
 \BeginGroup\: Phalanx
@@ -4027,14 +4058,6 @@ FWE Realistic Ammo Weight inc 20th Cent.esp
 FWE Realistic Ammo Weight in Names inc. 20th Cent.esp
 " FWE-20thCent Ammo Weight in Names.esp
 % {{BASH: Names}}
-Better Caravans.esp
-Wasteland Travel Caravans.esp
-UpgradedCaravanMerchants.esp
-CaravanUpgrades.esp
-CarvanTrader.esp
-% {{BASH: Actors.ACBS, Actors.Stats, Invent, Names, R. Attributes-F, R. Attributes-M, R.Skills, Scripts}}
-CaravanEssential.esp
-Essential Caravan Merchants.esp
 Achievement Remover [FO3+OA+BS].esp
 ? Choose only one 'Achievement Remover' ESP.
 Achievement Remover [FO3+OA+MZ].esp
@@ -4134,6 +4157,7 @@ The Groovatron_DLC_PL_Addon.esp
 
 \BeginGroup\:\ Body and head changes
 \-----------
+AAAlbino_LingsBOG+eXcalibr.esp
 EwwGhoulyBody.esp
 % {{BASH: Body-F}}
 RaiderDiversity.esp
@@ -4311,6 +4335,7 @@ Merged Patch.esp
 % {{BASH: NoMerge}}
 Override.esp
 xCALIBRammo_override.esp
+% {{BASH: Names, Graphics}}
 \EndGroup\\
 
 \BeginGroup\: Bashed Patch
@@ -4333,4 +4358,6 @@ Bashed Patch.esp
 \Mods rumoured to be needed after Bashed Patch.
 \Utility addons.
 \Ultimate final absolute end last mods, ever.
+Fallout 3 Master Fix - Higher FPS.esp
+? Do NOT use Master Updater on this mod
 \EndGroup\\
