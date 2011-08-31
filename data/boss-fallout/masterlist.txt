@@ -2244,8 +2244,13 @@ ignis.esp
 Jagi.esp
 Jessica Outfit.esp
 JillBSAA.esp
+K2_ArmorsRedone_Raiders.esp
+% {{BASH: Graphics}}
 K2Clothes_BrownLeather03.esp
+K2_Bubblegum.esp
 K2_GirlieGirlVaultBabe.esp
+% {{BASH: Invent}}
+K2_GirlieGirlLeather.esp
 kikaiEquipment.esp
 Koukaku_Armor.esp
 Ladyoutfit1.esp
