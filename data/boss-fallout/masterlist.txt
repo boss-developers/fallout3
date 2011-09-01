@@ -2032,6 +2032,7 @@ RimfireRevolverCommon.esp
 "RimfireRevolver.esp
 SilencedSniperRiflesStd.esp
 SilencedSniperRiflesUnq.esp
+TheProudAmerican.esp
 More308Ammo.esp
 InverseCombatKnife.esp
 g36mod.esp
@@ -2240,6 +2241,7 @@ GhostArmor HGEC - Conversion.esp
 Gloria Armor.esp
 Gundam_Armors.esp
 Hentai Mania.esp
+HY_direwolf_type3.esp
 ignis.esp
 Jagi.esp
 Jessica Outfit.esp
@@ -2401,6 +2403,8 @@ Force Start The Pitt.esp
 Vault 87 [Script Reversion].esp
 jmschematics.esp
 Ballistics-ALL-MoreRealism.esp
+bittercup_6.esp
+% {{BASH: Delev, Relev, ScriptContents}}
 Ks_DynamicSneak.esp
 PHIG_SteadyAim.esp
 JHB House Robots Can Repair.esp
