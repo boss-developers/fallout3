@@ -1375,6 +1375,7 @@ MegatonLights.esp
 megalight.esp
 % {{BASH: C.Light}}
 ? Do not use with latest FOOK2, it is already integrated.
+Moriarty's Saloon Fen chui Mod.esp
 Sandstorm.esp
 TpWasteThemeMod.esp
 Carter_Fallout_Shelter.esp
@@ -1446,8 +1447,6 @@ shopping-spree.esp
 CanterburyCommonsEmbiggened.esp
 Canterbury Estates 0.8 beta.esp
 CanterburyCommonsInteriors.esp
-CantaburyCommonsGuards.esp
-CantaburyCommonsGuards - DTO.esp
 Talon Outpost Expansion - Canterbury Commons.esp
 CanterburyCommonsInteriors.esp
 JL121RCAltDoor.esp
@@ -2390,6 +2389,11 @@ Ammo_Schematics.esp
 Bobbleheads Begone.esp
 % {{BASH: Scripts}}
 Brahmin Dairy Products.esp
+CantaburyCommonsGuards.esp
+% {{BASH: Actors.ACBS}}
+CantaburyCommonsGuards - DTO.esp
+% {{BASH: Actors.ACBS, Invent}}
+: Dragonskin Tactical Armor.esp
 Childhood Beginning.esp
 : EnhancedChildren.esm
 CB Add-on.esp
@@ -2403,8 +2407,6 @@ Force Start The Pitt.esp
 Vault 87 [Script Reversion].esp
 jmschematics.esp
 Ballistics-ALL-MoreRealism.esp
-bittercup_6.esp
-% {{BASH: Delev, Relev, ScriptContents}}
 Ks_DynamicSneak.esp
 PHIG_SteadyAim.esp
 JHB House Robots Can Repair.esp
@@ -3267,9 +3269,7 @@ Arwen_Tweaks_Main.esp
 Arwen_Weapons.esp
 " Arwen_FULL_Tweaks.esp
 Arwen_Encumbrance.esp
-% {{BASH: Stats}}
 Arwen_Med-Tec.esp
-% {{BASH: Actors.ACBS, Actors.AIData, Invent, Relev, Scripts, Stats}}
 Arwen_GOTY_Med-Tec.esp
 % {{BASH: Relev}}
 Arwen_MMM_Med-Tec_Patch.esp
@@ -3282,6 +3282,8 @@ Arwen_EVE_RH-IS_Patch.esp
 Arwen_RiPnO_Patch.esp
 Arwen_RiPnO_BLTC_Patch.esp
 BAN - Dupe This.esp
+bittercup_6.esp
+% {{BASH: Delev, Relev, ScriptContents}}
 Core Robots - The Eyebots.esp
 : Anchorage.esm
 : ThePitt.esm
