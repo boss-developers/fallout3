@@ -68,7 +68,7 @@ FNNsys.esm
 Inventory Access.esm
 IMCN.esm
 FaceMe.esm
-% {{BASH: NpcFaces, Hair, Eyes}}
+% {{BASH: NPC.Race, NpcFaces, Hair, Eyes}}
 Destruction.esm
 % {{BASH: Destructable, Scripts}}
 S.T.A.L.K.E.R. Call of D.C..esm
@@ -94,9 +94,9 @@ CRAFTHelper.esm
 Project Beauty HD version.esm
 >* Old. Download the latest Project Beauty files.
 Project Beauty.esm
-% {{BASH: NpcFaces, Hair, Eyes, Voice-M, Voice-F, Body-M, Body-F, R.Teeth, R.Mouth}}
+% {{BASH: NPC.Race, NpcFaces, Hair, Eyes, Voice-M, Voice-F, Body-M, Body-F, R.Teeth, R.Mouth}}
 FACE3.esm
-% {{BASH: NpcFaces, Hair, Eyes, Voice-M, Voice-F, Body-M, Body-F, R.Teeth, R.Mouth}}
+% {{BASH: NPC.Race, NpcFaces, Hair, Eyes, Voice-M, Voice-F, Body-M, Body-F, R.Teeth, R.Mouth}}
 CFWRv4.esm
 % {{BASH: Deflst, Delev, Invent, Names, Graphics, Scripts, Stats}}
 20thCenturyWeapons.esm
@@ -405,19 +405,19 @@ PIMP.esp
 Project Beauty.esp
 >* Old. Download the latest Project Beauty files.
 Project Beauty- Broken Steel.esp
-% {{BASH: NpcFaces, NoMerge, Deactivate}}
+% {{BASH: NPC.Race, NpcFaces, NoMerge, Deactivate}}
 Project Beauty- Point Lookout.esp
-% {{BASH: NpcFaces, NoMerge, Deactivate}}
+% {{BASH: NPC.Race, NpcFaces, NoMerge, Deactivate}}
 Raider preset beta.esp
-% {{BASH: NpcFaces, NoMerge, Deactivate}}
+% {{BASH: NPC.Race, NpcFaces, NoMerge, Deactivate}}
 Project Beauty HD version [Hair Fix].esp
-% {{BASH: NpcFaces, NoMerge, Deactivate}}
+% {{BASH: NPC.Race, NpcFaces, NoMerge, Deactivate}}
 FACE3 - NPCS.esp
-% {{BASH: NpcFaces, NoMerge, Deactivate}}
+% {{BASH: NPC.Race, NpcFaces, NoMerge, Deactivate}}
 FACE3 - DLC04 Point Lookout.esp
-% {{BASH: NpcFaces, NoMerge, Deactivate}}
+% {{BASH: NPC.Race, NpcFaces, NoMerge, Deactivate}}
 FACE3 NPCS - DLC03 Broken Steel.esp
-% {{BASH: NpcFaces, NoMerge, Deactivate}}
+% {{BASH: NPC.Race, NpcFaces, NoMerge, Deactivate}}
 Fast VATS 1.esp
 " Fast VATS 2.esp
 Fast VATS 2.esp
@@ -454,16 +454,16 @@ Crosshair Toggle.esp
 DynamicCrosshair.esp
 Stimpak Counter.esp
 FaceMe.esp
-% {{BASH: NpcFaces, NoMerge, Deactivate}}
+% {{BASH: NPC.Race, NpcFaces, NoMerge, Deactivate}}
 FaceMe-Broken Steel.esp
-% {{BASH: NpcFaces, NoMerge, Deactivate}}
+% {{BASH: NPC.Race, NpcFaces, NoMerge, Deactivate}}
 eyes_hairpack_en.esp
 hair_add_npc.esp
 Dalls_Sex_in_City.esp
 Shojo NPC.esp
-% {{BASH: Invent, NpcFaces}}
+% {{BASH: Invent, NPC.Race, NpcFaces}}
 Moira-EXSP.esp
-% {{BASH: NpcFaces, NoMerge, Deactivate}}
+% {{BASH: NPC.Race, NpcFaces, NoMerge, Deactivate}}
 norepairneededv2.esp
 BatteriesPlusV1_2.esp
 % {{BASH: Graphics}}
@@ -1704,6 +1704,7 @@ MZC-FWE_CP.esp
 : Mothership Crew.ESM
 : FO3 Wanderers Edition - Main File.esm
 FWE_Overhaul Kit - Main.esp
+% {{BASH: Deflst, Delev, Relev, Graphics, Actors.ACBS, Invent, Names, Sounds, Stats}}
 : FO3 Wanderers Edition - Main File.esm
 : RH_IronSights resources
 " Weapon Mod Kits
@@ -2810,7 +2811,7 @@ Mart's Mutant Mod - DLC Point Lookout.esp
 % {{BASH: Delev, Relev, Scripts}}
 : PointLookout.ESM
 Project Beauty- Point Lookout MMM.esp
-% {{BASH: NpcFaces, NoMerge, Deactivate}}
+% {{BASH: NPC.Race, NpcFaces, NoMerge, Deactivate}}
 Mart's Mutant Mod - DLC Zeta.esp
 % {{BASH: Scripts}}
 : Zeta.ESM
@@ -2863,16 +2864,17 @@ Mart's Mutant Mod - Zombie Cementery.esp
 Project Beauty- MMM Raiders.esp
 >* Old. Download the latest Project Beauty files.
 Mart's Mutant Mod - Project Beauty (HD Addition).esp
-% {{BASH: NpcFaces, NoMerge}}
+% {{BASH: NPC.Race, NpcFaces, NoMerge}}
 >* Old. Download the latest Project Beauty files.
 Mart's Mutant Mod - Project Beauty.esp
-% {{BASH: NpcFaces, NoMerge}}
+% {{BASH: NPC.Race, NpcFaces, NoMerge}}
+MMM - FWE & Overhaul Kit_Master Release.esp
 Mart's Mutant Mod - Project Beauty + FWE.esp
-% {{BASH: NpcFaces, NoMerge}}
+% {{BASH: NPC.Race, NpcFaces, NoMerge}}
 CP - FACE3 NPCS [MMM].esp
-% {{BASH: NpcFaces, NoMerge}}
+% {{BASH: NPC.Race, NpcFaces, NoMerge}}
 CP - FACE3 [MMM] Racefix.esp
-% {{BASH: NpcFaces, NoMerge}}
+% {{BASH: NPC.Race, NpcFaces, NoMerge}}
 Mart's Mutant Mod - FOOK.esp
 >* Get FOOK2
 Mart's Mutant Mod - FOOK2.esp
@@ -2899,15 +2901,15 @@ Mart's Mutant Mod - FWE Master Release + DLCs.esp
 : BrokenSteel.esm
 : FO3 Wanderers Edition - Main File.esm
 Mart's Mutant Mod - FWE Master Release + Project Beauty.esp
-% {{BASH: NpcFaces, NoMerge}}
+% {{BASH: NPC.Race, NpcFaces, NoMerge}}
 Mart's Mutant Mod - FWE with EVE.esp
 % {{BASH: Invent, Relations}}
 : FO3 Wanderers Edition - Main File.esm
 : EVE.esp
 Mart's Mutant Mod - Project Beauty + FWE.esp
-% {{BASH: NpcFaces, NoMerge}}
+% {{BASH: NPC.Race, NpcFaces, NoMerge}}
 Mart's Mutant Mod - Project Beauty (HD Addition).esp
-% {{BASH: NpcFaces, NoMerge}}
+% {{BASH: NPC.Race, NpcFaces, NoMerge}}
 >* Old. Download the latest Project Beauty files.
 Mart's Mutant Mod - Linged.esp
 Mart's Mutant Mod - CFW.esp
@@ -2943,7 +2945,7 @@ FEM - UF3 enabler.esp
 : FEM.esm
 LingsFinerThings.esp
 LingsPrettyThings.esp
-% {{BASH: Eyes, Hair, Invent, Names, NpcFaces, R.Attributes-F, R.Attributes-M, R.Description, R.Head, R.Mouth, R.Teeth}}
+% {{BASH: Eyes, Hair, Invent, Names, NPC.Race, NpcFaces, R.Attributes-F, R.Attributes-M, R.Description, R.Head, R.Mouth, R.Teeth}}
 LingsPrettyThings-BrokenSteel.esp
 LingsPrettyThings-SeducingWomen.esp
 LingsPrettyThings-FOOK2-MMM.esp
@@ -4331,7 +4333,7 @@ Compatibility Plugin00 TalonCo & Marts.esp
 Compatibility Plugin01 PunisherGear & TalonCo.esp
 UPP - NaturalBornSniper WMK compatibility.esp
 Choose your own hairstyle (load this last on FOMM).esp
-% {{BASH: NpcFaces, Hair, Eyes}}
+% {{BASH: NPC.Race, NpcFaces, Hair, Eyes}}
 tubunarFWE.esp
 tubunarCombatFWE.esp
 AAAlbino Player Race - MQ to BS Fix.esp
