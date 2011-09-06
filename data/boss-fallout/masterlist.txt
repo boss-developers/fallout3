@@ -70,7 +70,7 @@ IMCN.esm
 FaceMe.esm
 % {{BASH: NPC.Race, NpcFaces, Hair, Eyes}}
 Destruction.esm
-% {{BASH: Destructable, Scripts}}
+% {{BASH: Destructible, Scripts}}
 S.T.A.L.K.E.R. Call of D.C..esm
 ARSENAL MOD.esm
 SShop.esm
@@ -978,7 +978,7 @@ MarkB50K_Dynamic_Missions.esp
 : Anchorage.ESM
 : BrokenSteel.ESM
 FF_DestructibleRadios.esp
-% {{BASH: Destructable}}
+% {{BASH: Destructible}}
 MiniVaultNoScav.esp
 Ammo Bench - Alien Power Cell.esp
 Ammo Bench - Artisan.esp
@@ -1195,10 +1195,10 @@ Treasure Maps_Secrets of the Wasteland.esp
 Treasure Maps_Bobblehead Edition.esp
 Treasure Maps_A Fist Full of Caps.esp
 Destruction - Main.esp
-% {{BASH: Destructable, Scripts, Graphics}}
+% {{BASH: Destructible, Scripts, Graphics}}
 Destruction - Main - Statics.esp
 Destruction - DLC.esp
-% {{BASH: Destructable, Scripts}}
+% {{BASH: Destructible, Scripts}}
 Destruction - DLC - Statics.esp
 DESTRUCt61SP.ESP
 Classic Fallout Weapons BETA.esp
@@ -1552,12 +1552,12 @@ MyFOOK2 - Black & White Tranquility Lane.esp
 : FOOK2 - Main.ESM
 >* Remove if using FOOK2 1.1 and above
 FOOK2 - [DESTRUCTION] Main.esp
-% {{BASH: Destructable, Scripts}}
+% {{BASH: Destructible, Scripts}}
 : FOOK2 - Main.ESM
 FOOK2 - [DESTRUCTION] Main - Statics.esp
 : FOOK2 - Main.ESM
 FOOK2 - [DESTRUCTION] DIK.esp
-% {{BASH: Destructable, Scripts}}
+% {{BASH: Destructible, Scripts}}
 : Anchorage.ESM
 : ThePitt.ESM
 : BrokenSteel.ESM
@@ -1572,7 +1572,7 @@ FOOK2 - [DESTRUCTION] DIK - Statics.esp
 : CALIBR.ESM
 : and FOOK2 - Main.ESM
 FOOK2 - [DESTRUCTION] Mothership Zeta.esp
-% {{BASH: Destructable, Scripts}}
+% {{BASH: Destructible, Scripts}}
 : FOOK2 - Main.ESM and Zeta.ESM
 FOOK2 - [DESTRUCTION] Mothership Zeta - Statics.esp
 : FOOK2 - Main.ESM and Zeta.ESM
@@ -1633,7 +1633,7 @@ GSoS - Car Explosions.esp
 \BeginGroup\: Fallout Wanderer's Edition
 \-----------
 FO3 Wanderers Edition - Main File.esp
-% {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.Stats, Deflst, Delev, Destructable, Graphics, Invent, Names, Relev, Scripts, Stats}}
+% {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.Stats, Deflst, Delev, Destructible, Graphics, Invent, Names, Relev, Scripts, Stats}}
 FO3 Wanderers Edition - DLC Anchorage.esp
 % {{BASH: Deflst}}
 FO3 Wanderers Edition - DLC The Pitt.esp
@@ -3247,10 +3247,10 @@ Sensible Dismemberment.esp
 20thCWItemPlacement2.esp
 Accurate Sniper Rifles.esp
 Arwen_Realism_Core.esp
-% {{BASH: Actors.CombatStyle, Actors.Stats, Destructable, Names, Relev, Sounds, Stats}}
+% {{BASH: Actors.CombatStyle, Actors.Stats, Destructible, Names, Relev, Sounds, Stats}}
 Arwen_GOTY_Realism_Core.esp
 Arwen_Hard-Core.esp
-% {{BASH: Actors.CombatStyle, Actors.Stats, Destructable, Names, Relev, Stats}}
+% {{BASH: Actors.CombatStyle, Actors.Stats, Destructible, Names, Relev, Stats}}
 Arwen_GOTY_Hard-Core.esp
 Arwen_FULL_Tweaks.esp
 Arwen_Skills.esp
@@ -4371,6 +4371,44 @@ Bashed Patch.esp
 \Mods rumoured to be needed after Bashed Patch.
 \Utility addons.
 \Ultimate final absolute end last mods, ever.
+
+\BeginGroup\: Fallout 3 Master Fix
+Fallout 3 Master Fix.esp
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+: Zeta.esm
+" Fallout 3 Master Fix - Higher FPS.esp
+" Fallout 3 Master Fix - No DLC.esp
+" Fallout 3 Master Fix - No DLC - Higher FPS
 Fallout 3 Master Fix - Higher FPS.esp
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+: Zeta.esm
+" Fallout 3 Master Fix.esp
+" Fallout 3 Master Fix - No DLC.esp
+" Fallout 3 Master Fix - No DLC - Higher FPS
+Fallout 3 Master Fix - No DLC.esp
+" Fallout 3 Master Fix.esp
+" Fallout 3 Master Fix - Higher FPS.esp
+" Fallout 3 Master Fix - No DLC - Higher FPS
+Fallout 3 Master Fix - No DLC - Higher FPS
+" Fallout 3 Master Fix.esp
+" Fallout 3 Master Fix - Higher FPS.esp
+" Fallout 3 Master Fix - No DLC.esp
+Fallout 3 Master Fix - Enhanced Dynamic Weather.esp
+Fallout 3 Master Fix - FastTravelIndoors.esp
+Fallout 3 Master Fix - Fellout.esp
+Fallout 3 Master Fix - FOOK2.esp
+Fallout 3 Master Fix - Fallout3 Wanderers Edition.es
+Fallout 3 Master Fix - Anthony Ling's Coiffure.esp
+Fallout 3 Master Fix - Mothership Crew.esp
+Fallout 3 Master Fix - Realistic Interior Lighting.esp
+Fallout 3 Master Fix - Unofficial Fallout 3 Patch.esp
+\EndGroup\\
+
 ? Do NOT use Master Updater on this mod
 \EndGroup\\
