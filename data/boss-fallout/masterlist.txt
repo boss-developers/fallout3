@@ -56,7 +56,7 @@ Zeta.esm
 Lings.esm
 % {{BASH: Hair}}
 Unofficial Fallout 3 Patch.esm
-% {{BASH: Deflst, Delev, Relev, Factions, Invent, Names, Relations, Stats}}
+% {{BASH: C.Music, Deflst, Delev, Relev, Factions, Invent, Names, Relations, Stats}}
 LingsDLC.esm
 % {{BASH: Hair, Eyes}}
 HairPack.esm
@@ -4401,15 +4401,15 @@ Fallout 3 Master Fix - No DLC - Higher FPS
 " Fallout 3 Master Fix.esp
 " Fallout 3 Master Fix - Higher FPS.esp
 " Fallout 3 Master Fix - No DLC.esp
-Fallout 3 Master Fix - Enhanced Dynamic Weather.esp
-Fallout 3 Master Fix - FastTravelIndoors.esp
-Fallout 3 Master Fix - Fellout.esp
+Fallout 3 Master Fix - Unofficial Fallout 3 Patch.esp
 Fallout 3 Master Fix - FOOK2.esp
 Fallout 3 Master Fix - Fallout3 Wanderers Edition.es
+Fallout 3 Master Fix - FastTravelIndoors.esp
 Fallout 3 Master Fix - Anthony Ling's Coiffure.esp
 Fallout 3 Master Fix - Mothership Crew.esp
+Fallout 3 Master Fix - Fellout.esp
 Fallout 3 Master Fix - Realistic Interior Lighting.esp
-Fallout 3 Master Fix - Unofficial Fallout 3 Patch.esp
+Fallout 3 Master Fix - Enhanced Dynamic Weather.esp
 \EndGroup\\
 
 ? Do NOT use Master Updater on this mod
