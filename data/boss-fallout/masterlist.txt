@@ -4403,7 +4403,7 @@ Fallout 3 Master Fix - No DLC - Higher FPS
 " Fallout 3 Master Fix - No DLC.esp
 Fallout 3 Master Fix - Unofficial Fallout 3 Patch.esp
 Fallout 3 Master Fix - FOOK2.esp
-Fallout 3 Master Fix - Fallout3 Wanderers Edition.es
+Fallout 3 Master Fix - Fallout3 Wanderers Edition.esp
 Fallout 3 Master Fix - FastTravelIndoors.esp
 Fallout 3 Master Fix - Anthony Ling's Coiffure.esp
 Fallout 3 Master Fix - Mothership Crew.esp
