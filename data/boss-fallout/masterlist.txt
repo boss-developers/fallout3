@@ -3943,6 +3943,8 @@ Xepha's Dynamic Weather - Dynamic Sneak Bonus.esp
 Xepha's Dynamic Weather - Experimental Green Tint Remover.esp
 Xepha's Dynamic Weather - Green Tint Remover.esp
 Xepha's Dynamic Weather - Sandstorms Damage Armor.esp
+Xepha's Dynamic Weather - Weather Machine.esp
+Xepha's Dynamic Weather - Weather Machine (+Rain).esp
 Night Time Sneak Boost.esp
 Dynamic Weather Sneak Bonus.esp
 Dynamic Weather Sneak Bonus NoInteriors.esp
