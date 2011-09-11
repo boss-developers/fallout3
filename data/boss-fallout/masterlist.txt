@@ -1279,6 +1279,10 @@ Clover Makeover - Asian Bedraggled.esp
 Clothed American Soldiers.esp
 % {{BASH: Invent}}
 : Anchorage.esm
+Clothed Sarah Lyons.esp
+% {{BASH: Invent}}
+Clothed Sarah Lyons - Sleepwear.esp
+% {{BASH: Invent}}
 Confessor Cromwell has a Break_EV.esp
 % {{BASH: Actors.AIPackages}}
 Ghoulified Cromwell.esp
@@ -1289,10 +1293,8 @@ EZ_MoreVoices.esp
 EZ_TempleOfCant.esp
 EZ_Ammo_Restriction.esp
 EZ_citizens.esp
-Clothed Sarah Lyons.esp
-% {{BASH: Invent}}
-Clothed Sarah Lyons - Sleepwear.esp
-% {{BASH: Invent}}
+Named Wastelanders.esp
+% {{BASH: Names}}
 Named Wasteland.esp
 % {{BASH: Names}}
 NPCs Sleep Tighter.esp
@@ -1373,7 +1375,6 @@ megaton_lighting.esp
 MegatonLights.esp
 % {{BASH: C.Light}}
 megalight.esp
-% {{BASH: C.Light}}
 ? Do not use with latest FOOK2, it is already integrated.
 Moriarty's Saloon Fen chui Mod.esp
 Sandstorm.esp
@@ -1503,6 +1504,9 @@ Zumbs' Improved Sniper Shack Home.esp
 Big Town Overhaul.esp
 Big Town Overhaul [GangStore].esp
 Canterbury Commons Interiors Embiggened.esp
+BA_WastelandRestoration.esp
+BA_WastelandRestoration_DLCs.esp
+: BA_WastelandRestoration.esp
 \EndGroup\\
 
 \BeginGroup\: Overhauls
@@ -3943,6 +3947,8 @@ Xepha's Dynamic Weather - Dynamic Sneak Bonus.esp
 Xepha's Dynamic Weather - Experimental Green Tint Remover.esp
 Xepha's Dynamic Weather - Green Tint Remover.esp
 Xepha's Dynamic Weather - Sandstorms Damage Armor.esp
+Xepha's Dynamic Weather - Weather Machine.esp
+Xepha's Dynamic Weather - Weather Machine (+Rain).esp
 Xepha's Dynamic Weather - Weather Machine.esp
 Xepha's Dynamic Weather - Weather Machine (+Rain).esp
 Night Time Sneak Boost.esp
