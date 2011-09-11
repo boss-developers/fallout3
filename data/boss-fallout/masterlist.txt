@@ -2250,6 +2250,10 @@ ignis.esp
 Jagi.esp
 Jessica Outfit.esp
 JillBSAA.esp
+jonasclothesnonrplcr.esp
+? Choose only one of jonasclothesnonrplcr.esp or jonasclothesreplacer.esp, not both.
+jonasclothesreplacer.esp
+? Choose only one of jonasclothesnonrplcr.esp or jonasclothesreplacer.esp, not both.
 K2_ArmorsRedone_Raiders.esp
 % {{BASH: Graphics}}
 K2Clothes_BrownLeather03.esp
@@ -2282,6 +2286,7 @@ Mysteriouswoman_clothesaddon.esp
 MZ-Weak-EbonTek.esp
 NaughtyRaiderArmor_EZStd.esp
 NAPA.esp
+NEVECv1.esp
 NoInvisArcadeIndustries_SweetSneak.esp
 InvisArcadeIndustries_SweetSneak.esp
 SupremeRaiderArmor_Q.esp
@@ -2310,6 +2315,9 @@ PPA - IMCN.esp
 : IMCN.esm
 : Powered Power Armor.esp
 Prototype Medic Armor Upgrade.esp
+QNeverclockVaultsuits.esp
+QToughChickArmor.esp
+QToadletVaultsuit.esp
 RadioactiveSuit.esp
 Raider Combat Armor.esp
 Raider Combat Armor Pitt.esp
