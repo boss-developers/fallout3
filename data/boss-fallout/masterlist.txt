@@ -1433,6 +1433,9 @@ VulturesRest.esp
 potomac home.esp
 Talon Outpost Expansion - Rivet City.esp
 Rivet City Underworks 1.1.esp
+Rivet City Merchants.esp
+Rivet City Merchants With Point Lookout.esp
+: PointLookout.esm
 Princess Rivet City House FIXED.esp
 Rivetcityhotelupgrade.esp
 Better Museum of History EN.esp
@@ -2379,6 +2382,7 @@ Type3Accessories.esp
 Type3Clothes.esp
 WaldosOutfit.esp
 Wasteland and Bog Outfits.esp
+Wasteland_Seductress.esp
 WasteWearGloves.esp
 % {{BASH: Relev}}
 WHSpaceMarineArmor.esp
