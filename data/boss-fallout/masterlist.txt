@@ -289,6 +289,7 @@ Broken Steel Early Enclave Fix.esp
 : BrokenSteel.esm
 BrokenSteel_StarPaladinCross_Fix.esp
 : BrokenSteel.esm
+BrokenSteelFix-GNRAnnouncements.esp
 UF3P Crane Fix.esp
 Citadel Crane Fix.esp
 ObjectPlacementFix.esp
@@ -1376,6 +1377,7 @@ MegatonLights.esp
 % {{BASH: C.Light}}
 megalight.esp
 ? Do not use with latest FOOK2, it is already integrated.
+? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
 Moriarty's Saloon Fen chui Mod.esp
 Sandstorm.esp
 TpWasteThemeMod.esp
@@ -2200,6 +2202,7 @@ ChineseStealthArmorFixed.esp
 Cybernetic Implants Xangi.esp
 DIM TYPE3 conversions.esp
 DIM TYPE3clothesRETAIL.esp
+DLC03_FemaleHellfire.esp
 doctorli_glasses.esp
 Dark_Temptress.esp
 Dark Justice Duster.esp
@@ -2246,6 +2249,7 @@ Gloria Armor.esp
 Gundam_Armors.esp
 Hentai Mania.esp
 HY_direwolf_type3.esp
+HY_wastewar.esp
 ignis.esp
 Jagi.esp
 Jessica Outfit.esp
@@ -2257,6 +2261,7 @@ jonasclothesreplacer.esp
 K2_ArmorsRedone_Raiders.esp
 % {{BASH: Graphics}}
 K2Clothes_BrownLeather03.esp
+K2Clothes_SheerWhite01.esp
 K2_Bubblegum.esp
 K2_GirlieGirlVaultBabe.esp
 % {{BASH: Invent}}
@@ -2326,6 +2331,7 @@ Raider HeadGear.esp
 RaiderPowerArmor_lvl.esp
 RaiderPowerArmor_no_lvl.esp
 SchoolUniforms.esp
+Scorpion_Queen_Type3.esp
 Scout Outfits.esp
 Spartan Armor.esp
 StarWarsArmorV2.esp
@@ -3033,6 +3039,11 @@ AmyWong - CALIBR 1.2.esp
 AmyWong - FWE 5.esp
 : AmyWong.esm
 : FO3 Wanderers Edition - Main File.esm
+FWE6-AmyWong fix.esp
+: CRAFT.esm
+: AmyWong.esm
+: FO3 Wanderers Edition - Main File.esm
+: AmyWong - FWE 5.esp
 AmyWong - FOOK2.esp
 : AmyWong.esm
 : FOOK2 - Main.ESM
@@ -3065,6 +3076,7 @@ Mysteriouswoman_underwear.esp
 Mysteriouswoman_corsetntrousers.esp
 Mysteriouswoman_alternativetop.esp
 Mysteriouswoman_sexytopless.esp
+MysteriousHottieA.esp
 Follower Amata ULTIMATE.esp
 Kat_Companion_V1.0a.esp
 Kat_Companion_V1.0b.esp
@@ -3955,8 +3967,6 @@ Xepha's Dynamic Weather - Dynamic Sneak Bonus.esp
 Xepha's Dynamic Weather - Experimental Green Tint Remover.esp
 Xepha's Dynamic Weather - Green Tint Remover.esp
 Xepha's Dynamic Weather - Sandstorms Damage Armor.esp
-Xepha's Dynamic Weather - Weather Machine.esp
-Xepha's Dynamic Weather - Weather Machine (+Rain).esp
 Xepha's Dynamic Weather - Weather Machine.esp
 Xepha's Dynamic Weather - Weather Machine (+Rain).esp
 Night Time Sneak Boost.esp
