@@ -2967,13 +2967,15 @@ FEM - UF3 enabler.esp
 : FEM.esm
 LingsFinerThings.esp
 LingsPrettyThings.esp
-% {{BASH: Eyes, Hair, Invent, Names, NPC.Race, NpcFaces, R.Attributes-F, R.Attributes-M, R.Description, R.Head, R.Mouth, R.Teeth}}
+% {{BASH: Eyes, Hair, Invent, Names, NPC.Class, NPC.Race, NpcFaces, R.Attributes-F, R.Attributes-M, R.Description, R.Head, R.Mouth, R.Teeth, Voice-F}}
 LingsPrettyThings-BrokenSteel.esp
 LingsPrettyThings-SeducingWomen.esp
 LingsPrettyThings-FOOK2-MMM.esp
 Lt Williams Companion.esp
 xCALIBRuniverse_LingsBrokenSteel.esp
+% {{BASH: Actors.ACBS, Hair, NpcFaces}}
 xCALIBRuniverse_LingsPrettyThings.esp
+% {{BASH: Actors.ACBS, Invent, NPC.Class, Voice-F}}
 SeducedDLC03.esp
 SeducingWomen_patch_156.esp
 FEMed TYPE3 Cloths.esp
@@ -3110,9 +3112,13 @@ RHKBrisaAlmodovar - DLC - Anch.esp
 : Anchorage.esm
 Brisa and FWE - Primary Needs Patch.esp
 : FO3 Wanderers Edition - Main File.esm
+Brisa - FWE Skill Books Compatibility.esp
+: FO3 Wanderers Edition - Main File.esm
 mmMoleRatMount.esp
 CharonImproved.esp
+% {{BASH: Actors.AIPackages}}
 llama's Vanilla Followers for Charon Improved.esp
+% {{BASH: Actors.AIPackages}}
 MegatonCompanions.esp
 COCOA - bittercup_comp.esp
 : bittercup_comp.esp
