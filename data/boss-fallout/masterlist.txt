@@ -695,6 +695,15 @@ People_Radio.esp
 InvasionRadio.esp
 KBATRadio.esp
 VTAP25.esp
+VTAP50.esp
+VTAP75.esp
+VTAP100.esp
+VTAP125.esp
+VTAP150.esp
+VTAP175.esp
+VTAP200.esp
+VTAP225.esp
+VTAP250.esp
 GhostRadio.esp
 mutantradio.esp
 LookoutRadio.esp
@@ -852,6 +861,7 @@ GTS - Navarro.esp
 
 \BeginGroup\: Quests
 \-----------
+A Little Mutant Problem.esp
 ace.esp
 agcTARDISf3.esp
 FreePlayAfterMQ_V05.esp
@@ -1242,6 +1252,7 @@ CMRS - Broken Steel.esp
 CMRS - Point Lookout.esp
 CMRS - Mothership Zeta.esp
 CMRS - 20th Century Weapons.esp
+CMRS - MMM.esp
 CMRS - Rebalanced Junk.esp
 BA_WRM.esp
 BA_WRM_ALT.esp
@@ -1302,8 +1313,24 @@ NPCs Sleep Tighter.esp
 Outcast Scribes03.esp
 : Anchorage.esm
 " OutcastCasdinArmorFix.esp
+
 richvendors.esp
 More Merchant Caps.esp
+VendorCapsIncreased15X.esp
+VendorCapsIncreased1000X.esp
+VendorCapsIncreased100X.esp
+VendorCapsIncreased50X.esp
+VendorCapsIncreased20X.esp
+VendorCapsIncreased10X.esp
+VendorCapsIncreased9X.esp
+VendorCapsIncreased8X.esp
+VendorCapsIncreased7X.esp
+VendorCapsIncreased6X.esp
+VendorCapsIncreased5X.esp
+VendorCapsIncreased3X.esp
+VendorCapsIncreased2X.esp
+VendorCapsIncreased4X.esp
+
 royphilipsevil.esp
 % {{BASH: Actors.ACBS, Actors.AIData}}
 royphilipsveryevil.esp
@@ -2114,6 +2141,7 @@ Saiga-12 Combat Shotgun Override The Pitt.esp
 3EFdrgplate.esp
 3EFhelmlessstealthsuit.esp
 3EFwandererGear.esp
+
 ACU Battle Armor.esp
 Advanced Recon Armor.esp
 Advanced Recon Armor-Predator Mode.esp
@@ -2136,6 +2164,7 @@ Armor Your Vault Suits.esp
 Armored Duster.esp
 AsharasFormalClothing.esp
 Assault Combat Gear.esp
+
 BABEreconarmor.esp
 BBBackpacks-v1-1.esp
 % {{BASH: Stats}}
@@ -2170,6 +2199,7 @@ BoS_FOOKedition_Armor.esp
 ? Do not use with latest FOOK2, it is already integrated.
 BSFeminizedPowerArmor.esp
 BunnySuit.esp
+
 Casdin - Technology In Volumes.esp
 Cat Outfit Fanged.esp
 % {{BASH: Eyes}}
@@ -2203,6 +2233,7 @@ Crysis Marine Armor.esp
 CSwimsuit_and_Harness_recolor.esp
 ChineseStealthArmorFixed.esp
 Cybernetic Implants Xangi.esp
+
 DIM TYPE3 conversions.esp
 DIM TYPE3clothesRETAIL.esp
 DLC03_FemaleHellfire.esp
@@ -2214,10 +2245,12 @@ Dogmeat Leather Armor - no crafting.esp
 Shaikujins_Chrome_Dogmeat_Armour.esp
 Dragonskin Tactical Outfit.esp
 DragonskinBonusPack.esp
+
 EMPGrenadeKnockoutPowArmor.esp
 EnclavePACollars.esp
 EnclaveReconArmor.esp
 exnemprewarfix.esp
+
 FalsSexyT3Conversions.esp
 FatherandNun.esp
 FaithOutfit.esp
@@ -2244,16 +2277,20 @@ FO3-Closing-merged.esp
 " FO3Nami.esp
 FO3NeckChains.esp
 FrenchMaid.esp
+
 Gantz stuff.esp
 GentlemansUniform.esp
 Ghostbodysuitv3.esp
 GhostArmor HGEC - Conversion.esp
 Gloria Armor.esp
 Gundam_Armors.esp
+
 Hentai Mania.esp
 HY_direwolf_type3.esp
 HY_wastewar.esp
+
 ignis.esp
+
 Jagi.esp
 Jessica Outfit.esp
 JillBSAA.esp
@@ -2261,6 +2298,7 @@ jonasclothesnonrplcr.esp
 ? Choose only one of jonasclothesnonrplcr.esp or jonasclothesreplacer.esp, not both.
 jonasclothesreplacer.esp
 ? Choose only one of jonasclothesnonrplcr.esp or jonasclothesreplacer.esp, not both.
+
 K2_ArmorsRedone_Raiders.esp
 % {{BASH: Graphics}}
 K2Clothes_BrownLeather03.esp
@@ -2271,6 +2309,7 @@ K2_GirlieGirlVaultBabe.esp
 K2_GirlieGirlLeather.esp
 kikaiEquipment.esp
 Koukaku_Armor.esp
+
 Ladyoutfit1.esp
 LeatherBackpack - eng.esp
 LNC StealthSuit.esp
@@ -2278,6 +2317,7 @@ LNC StealthSuit.esp
 Lookout Outfits.esp
 LoxysCombinedClothingFF.esp
 Luka.esp
+
 Mantis07Reflex.esp
 ME2_Inferno Armor.esp
 Merc Adventurer Armor - eng.esp
@@ -2292,14 +2332,17 @@ MissingUniqueArmorClothing-RenamerOnly.esp
 My Cloth Collection.esp
 Mysteriouswoman_clothesaddon.esp
 MZ-Weak-EbonTek.esp
+
 NaughtyRaiderArmor_EZStd.esp
 NAPA.esp
 NEVECv1.esp
 NoInvisArcadeIndustries_SweetSneak.esp
 InvisArcadeIndustries_SweetSneak.esp
 SupremeRaiderArmor_Q.esp
+
 outcast_recon_armor_zeta.esp
 OutFits.esp
+
 PEDress.esp
 Persona_and_Secret.esp
 Pikachoo.esp
@@ -2323,9 +2366,11 @@ PPA - IMCN.esp
 : IMCN.esm
 : Powered Power Armor.esp
 Prototype Medic Armor Upgrade.esp
+
 QNeverclockVaultsuits.esp
 QToughChickArmor.esp
 QToadletVaultsuit.esp
+
 RadioactiveSuit.esp
 Raider Combat Armor.esp
 Raider Combat Armor Pitt.esp
@@ -2333,6 +2378,7 @@ Raider Combat Armor Pitt.esp
 Raider HeadGear.esp
 RaiderPowerArmor_lvl.esp
 RaiderPowerArmor_no_lvl.esp
+
 SchoolUniforms.esp
 Scorpion_Queen_Type3.esp
 Scout Outfits.esp
@@ -2345,7 +2391,8 @@ SteinerCombatGear.esp
 SomeClothes.esp
 sunglassescollection.esp
 SwampfolkOutfit.esp
-T3T_CombatArmorSleeves.esp
+
+
 T3_leather armors.esp
 Tactical Vest CIRAS.esp
 Tactical Vest CIRAS - Vendor Restock Script.esp
@@ -2380,13 +2427,16 @@ tubunarVanilla.esp
 TSoutfitv1.esp
 Type3Accessories.esp
 Type3Clothes.esp
+
 WaldosOutfit.esp
 Wasteland and Bog Outfits.esp
 Wasteland_Seductress.esp
 WasteWearGloves.esp
 % {{BASH: Relev}}
 WHSpaceMarineArmor.esp
+
 XmasOutfits.esp
+
 Yoko'sOutfits.esp
 \EndGroup\\
 
@@ -2439,6 +2489,8 @@ TL Freeze.esp
 TL [Color].esp
 TL_Color.esp
 Kick Dogmeat.esp
+Dread Dogmeat.esp
+% {{BASH: Scripts}}
 Slof's Alsatian Dogmeat.esp
 DogmeatEssentialModv1.2.esp
 DogmeatEssentialToken.esp
@@ -2790,11 +2842,11 @@ EVE Operation Anchorage.esp
 EVE Main - FWE Master Release.esp
 ? May cause crashes at start. If so disable this and find updated version.
 EVE - FWE Master Release.esp
-% {{BASH: Graphics, Sound}}
+% {{BASH: Actors.ACBS, Graphics, Invent, Stats, Sound}}
 EVE - FWE Master Release (Follower Enhanced).esp
 % {{BASH: Graphics, Sound}}
 EVE - FWE Master Release (pulse fix).esp
-% {{BASH: Graphics}}
+% {{BASH: Actors.ACBS, Graphics, Invent, Stats, Stats}}
 : CALIBR.esm
 EVE Anchorage - FWE DLC Anchorage.esp
 % {{BASH: Graphics, Sound}}
@@ -3396,7 +3448,16 @@ RaiderGirls_vanilla_adult.esp
 RaiderGirls_vanilla_003.esp
 RaiderGirls_pitt.esp
 : ThePitt.esm
+RebalancedFire-Vanilla.esp
+" RebalancedFire-BrokenSteel.esp
+RebalancedFire-BrokenSteel.esp
+: BrokenSteel.esm
+" RebalancedFire-Vanilla.esp
 SuperStimpak_effects.esp
+SuperStim.esp
+% {{BASH: Scripts}}
+SpiderAnts.esp
+% {{BASH: Relev}}
 T3T_OutcastTechSupport.esp
 T3T_AnchorageExtras.esp
 T3T_WeaponTweaks.esp
@@ -3647,14 +3708,34 @@ PittRepair.esp
 BSteelRepair.esp
 PLookoutRepair.esp
 MZetaRepair.esp
+
+BA_RepairVanilla.esp
+% {{BASH: Deflst}}
+BA_RepairVanillaXtras.esp
+BA_RepairAnchorage.esp
+BA_RepairAnchorageXtras.esp
+BA_RepairThePitt.esp
+% {{BASH: Deflst}}
+BA_RepairThePittXtras.esp
+BA_RepairBrokenSteel.esp
+BA_RepairBrokenSteelXtras.esp
+BA_RepairPointLookout.esp
+BA_RepairZeta.esp
+BA_RepairZetaXtras.esp
+BA_RepairGOTY.esp
+% {{BASH: Deflst}}
+BA_RepairGOTYXtras.esp
+
 Weapon Repair Kits.esp
 % {{BASH: Relev}}
 RRRU +4 UFP.esp
+% {{BASH: Deflst}}
 : Anchorage.esm
 : ThePitt.esm
 : BrokenSteel.esm
 : PointLookout.esm
 RRRU +4.esp
+% {{BASH: Deflst}}
 : Anchorage.esm
 : ThePitt.esm
 : BrokenSteel.esm
@@ -3758,6 +3839,17 @@ SuperJumpWater3x.esp
 SuperJumpWater4x.esp
 SuperJumpWater5x.esp
 SuperJumpWater10x.esp
+1day interior resets.esp
+2day interior resets.esp
+3day interior resets.esp
+7day interior resets.esp
+15day interior resets.esp
+30day interior resets.esp
+60day interior resets.esp
+90day interior resets.esp
+180day interior resets.esp
+1yearlol interior resets.esp
+10yearlol interior resets.esp
 lessviewdistance.esp
 lessviewdistanceThePitt.esp
 LessViewDistance Fellout Compatability Patch.esp
