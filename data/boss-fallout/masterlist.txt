@@ -2392,7 +2392,7 @@ SomeClothes.esp
 sunglassescollection.esp
 SwampfolkOutfit.esp
 
-
+T3T_CombatArmorSleeves.esp
 T3_leather armors.esp
 Tactical Vest CIRAS.esp
 Tactical Vest CIRAS - Vendor Restock Script.esp
