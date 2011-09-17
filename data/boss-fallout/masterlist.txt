@@ -101,6 +101,7 @@ CFWRv4.esm
 % {{BASH: Deflst, Delev, Invent, Names, Graphics, Scripts, Stats}}
 20thCenturyWeapons.esm
 20th Century Weapons.esm
+WeaponRepairKits-Main.esm
 CMRS.esm
 Ammo Bench.esm
 Refurbishes [ALL].esm
@@ -2362,6 +2363,7 @@ PPA - Super Human Jump Perk.esp
 PPA - Ambient Temperature.esp
 : Ambient Temperature.esm
 : Powered Power Armor.esp
+PPA - FWE 2.esp
 PPA - IMCN.esp
 : IMCN.esm
 : Powered Power Armor.esp
@@ -2457,11 +2459,18 @@ AS-R CALIBR Patch ONLY.esp
 AutoGates.esp
 % {{BASH: Scripts}}
 CALIBR Ammo Schematics - CRAFT.esp
+" xCALIBR_Universe.esp
 Ammo_Schematics.esp
 : CRAFT.esm
+AutomatScriptRemoved.esp
+
+Ballistics-ALL-MoreRealism.esp
 Bobbleheads Begone.esp
 % {{BASH: Scripts}}
 Brahmin Dairy Products.esp
+Burnification.esp
+FleshBurninPlasma.esp
+
 CantaburyCommonsGuards.esp
 % {{BASH: Actors.ACBS}}
 CantaburyCommonsGuards - DTO.esp
@@ -2476,22 +2485,7 @@ CRAFT Improvised Weaponry.esp
 CRAFT Improvised Weaponry - Unmodeled.esp
 CRAFT Improvised Weaponry - FOOK+FWE.esp
 : FOOK+FWE Merger
-Force Start The Pitt.esp
-Vault 87 [Script Reversion].esp
-jmschematics.esp
-Ballistics-ALL-MoreRealism.esp
-Ks_DynamicSneak.esp
-PHIG_SteadyAim.esp
-JHB House Robots Can Repair.esp
-Burnification.esp
-FleshBurninPlasma.esp
-TL Freeze.esp
-TL [Color].esp
-TL_Color.esp
-Kick Dogmeat.esp
-Dread Dogmeat.esp
-% {{BASH: Scripts}}
-Slof's Alsatian Dogmeat.esp
+
 DogmeatEssentialModv1.2.esp
 DogmeatEssentialToken.esp
 Move-Dogmeat.esp
@@ -2501,8 +2495,22 @@ DogmeatStealth.esp
 Unique Dogmeat.esp
 cyber_meat.esp
 % {{BASH: Graphics}}
-IgDRDeathclawGauntletFix.esp
+Dread Dogmeat.esp
+% {{BASH: Scripts}}
+Kick Dogmeat.esp
+Slof's Alsatian Dogmeat.esp
+DeadlyTurrets.esp
+
+
+Force Start The Pitt.esp
+
 GamefeverleveledListRaiders3.esp
+
+IgDRDeathclawGauntletFix.esp
+
+JHB House Robots Can Repair.esp
+jmschematics.esp
+
 KarmaRevamp1010.esp
 KarmaRevampExtreme1010.esp
 KarmaCannibalIncrease1010.esp
@@ -2510,6 +2518,8 @@ KarmaChurchDecrease1010.esp
 KarmaHard1010.esp
 KarmaStealIncrease1010.esp
 KarmaThreshold1010.esp
+Ks_DynamicSneak.esp
+
 LaptopTerminals.esp
 LaptopTerminalsAnchorage.esp
 : Anchorage.esm
@@ -2521,8 +2531,7 @@ LaptopTerminalsBrokenSteel.esp
 : BrokenSteel.esm
 LaptopTerminalsZeta.esp
 : Zeta.esm
-ReneerInvisibleKarmaMod.esp
-DeadlyTurrets.esp
+
 Improved Turrets.esp
 Improved Turret Hacking.esp
 ? Old. Upgrade to latest version.
@@ -2559,17 +2568,57 @@ Improved Turret Reprogramming - ALL.esp
 " Improved Turret Reprogramming - Pitt.esp
 " Improved Turret Reprogramming - PL.esp
 Friendly Portable Turrets.esp
+
+Menu Based Hacking & Picking.esp
+? DO not use with latest FWE, it is already integrated.
+More Ammo.esp
+% {{BASH: Relev}}
+More Ammo (Explosive).esp
+% {{BASH: Relev}}
+Slightly More Ammo.esp
+% {{BASH: Relev}}
+Slightly More Ammo (Explosive).esp
+% {{BASH: Relev}}
+Everso Slightly More Ammo.esp
+% {{BASH: Relev}}
+
+Nova Interaction Revised.esp
+
+PHIG_SteadyAim.esp
+PowerOfTheAtom_FOOKandFWE.esp
+PP - Less Paranoid NPCs.esp
+
 RealFragGrenade.esp
 ? upgrade to RealFragGrenade3.esp
 " RealFragGrenade3.esp
 RealFragGrenade3.esp
 " RealFragGrenade.esp
+ReneerInvisibleKarmaMod.esp
+
 safe_regulator_hq.esp
+Scavenger World - Updated v0.07.esp
+% {{BASH: Relev}}
+: PointLookout.esm
+Scavenger World - FWE Edition v0.07.esp
+% {{BASH: Relev}}
+: PointLookout.esm
+: FO3 Wanderers Edition - Main File.esm
 SimpleSmokeo.esp
 % {{BASH: Actors.AIPackages, Actors.Animations, Delev, Invent, Names, Relev}}
 Start_Energy_Weapon.esp
 % {{BASH: Invent}}
+
+TL Freeze.esp
+TL [Color].esp
+TL_Color.esp
+
+Vault 87 [Script Reversion].esp
+
+WRK - Plugin.esp
+% {{BASH: Invent, Relev}}
+
 XSIngestibles.esp
+
 ZORTS - Content Destruction - Normal.esp
 : Zumbs' Overhauled Real Time Security.esm
 " ZORTS - Content Destruction - Extreme.esp
@@ -2609,22 +2658,6 @@ Zumbs'_Overhauled_Real_Time_Security_lockbash_only.esp
 ? Please update to latest version.
 Zumbs'_Overhauled_Real_Time_Security_minigames_enabled.esp
 ? Please update to latest version.
-Nova Interaction Revised.esp
-Menu Based Hacking & Picking.esp
-? DO not use with latest FWE, it is already integrated.
-PowerOfTheAtom_FOOKandFWE.esp
-AutomatScriptRemoved.esp
-More Ammo.esp
-% {{BASH: Relev}}
-More Ammo (Explosive).esp
-% {{BASH: Relev}}
-Slightly More Ammo.esp
-% {{BASH: Relev}}
-Slightly More Ammo (Explosive).esp
-% {{BASH: Relev}}
-Everso Slightly More Ammo.esp
-% {{BASH: Relev}}
-PP - Less Paranoid NPCs.esp
 \EndGroup\\
 
 \BeginGroup\: Middle Misc B
@@ -3215,6 +3248,8 @@ moirared.esp
 % {{BASH: Invent}}
 Reclothing For LPT and Flash.esp
 % {{BASH: Invent}}
+? Outdated, use latest Wrye Flash version
+resetfollowers_v3.3.esp
 \EndGroup\\
 
 \BeginGroup\: Realism Mods
@@ -3331,7 +3366,20 @@ Sensible Dismemberment.esp
 \-----------
 1PipboyPDA.esp
 20thCWItemPlacement2.esp
+
 Accurate Sniper Rifles.esp
+allspeak.esp
+allspeak0a.esp
+allspeaktp.esp
+allspeakbs.esp
+allspeakpl.esp
+allspeakmz.esp
+allspeakdlc.esp
+allspeakcreatures.esp
+AsharasPresets.esp
+Attentater's Wasteland Economy.esp
+% {{BASH: Names}}
+
 Arwen_Realism_Core.esp
 % {{BASH: Actors.CombatStyle, Actors.Stats, Destructible, Names, Relev, Sounds, Stats}}
 Arwen_GOTY_Realism_Core.esp
@@ -3369,9 +3417,12 @@ Arwen_EVE_Patch.esp
 Arwen_EVE_RH-IS_Patch.esp
 Arwen_RiPnO_Patch.esp
 Arwen_RiPnO_BLTC_Patch.esp
+
 BAN - Dupe This.esp
 bittercup_6.esp
 % {{BASH: Delev, Relev, ScriptContents}}
+
+CombatEnhanced-Package v02.esp
 Core Robots - The Eyebots.esp
 : Anchorage.esm
 : ThePitt.esm
@@ -3390,21 +3441,51 @@ Core Robots - The Robobrains.esp
 : BrokenSteel.esm
 : PointLookout.esm
 : Zeta.esm
+
+DLM_FFOutcastsQuest(FWEEd).esp
+DLM_FFOutcastsQuest_Override.esp
+: FO3 Wanderers Edition - Main File.esm
+: DLM_FFOutcastsQuest(FWEEd).esp
+DLM_FFOutcastsQuest_Override-BS.esp
+: BrokenSteel.esm
+: FO3 Wanderers Edition - Main File.esm
+: DLM_FFOutcastsQuest(FWEEd).esp
+DLM_FFOutcastsQuest_Override-DLC.esp
+: Anchorage.esm
+: BrokenSteel.esm
+: Zeta.esm
+: FO3 Wanderers Edition - Main File.esm
+: DLM_FFOutcastsQuest(FWEEd).esp
 DWCRedux.esp
-FatmanExp.esp
+
 Flashlight-Performance.esp
 Flashlight-LOS.esp
 Flashlight-LOS-nonFOSE.esp
 Flashlight-Performance-nonFOSE.esp
+FasterMorePowerfulMines.esp
+FatmanExp.esp
 FreePumpkin-perk.esp
 FreePumpkin.esp
+
 HoloPipboyWristband.esp
-Megaton Closes.esp
+
+K9Breeds.esp
+K9BreedsMoreDogs.esp
+K9BreedsPatchDLCPitt.esp
+: ThePitt.esm
+K9BreedsPatchMMM.esp
+: Mart's Mutant Mod.esm
+: Mart's Mutant Mod.esp
+: K9Breeds.esp
+
 MiscWeightFix.esp
 % {{BASH: Stats}}
+
 LightweightFoodSanitizer.esp
 % {{BASH: Stats}}
-TSC Air Support.esp
+LiteChemWearoffFX.esp
+
+Megaton Closes.esp
 MZC Addon - Shorter Zeta DLC (turrets).esp
 : Zeta.esm
 MZC Addon - Shorter Zeta DLC.esp
@@ -3430,6 +3511,10 @@ MZC Addon - MZC-IMCN Patch.esp
 MZC Addon - Gear Improv-All in One.esp
 MZC Addon-Olympus Armory.esp
 MZC Addon-Olympus Armory (forecefield).esp
+
+Outcast Collection Agent Expanded.esp
+Outcast Collection Agent Expanded - DLC Plugin.esp
+
 PHIG_IncreasedLocationalDamage.esp
 PHIG_IncreasedDamageLITE.esp
 PHIG_IncreasedDamageLOWERLEVELHP.esp
@@ -3439,8 +3524,10 @@ PHIG_GunKnockdownsSpecialScriptedEdition.esp
 PHIG_SteadyAimPERKONLY.esp
 PPA - Readius.esp
 : 1PipboyPDA.esp
+
 QuantumForAll!.esp
 Quantum Fridge Maker.esp
+
 RTS_Life_Of_Raider_Addon.esp
 RTSpatch_RVW.esp
 RTSBeta0.1c_extension_FarmingBob1.2.1.esp
@@ -3453,11 +3540,24 @@ RebalancedFire-Vanilla.esp
 RebalancedFire-BrokenSteel.esp
 : BrokenSteel.esm
 " RebalancedFire-Vanilla.esp
+
+SbkTougherEnclave.esp
+Standard Weapon's Spread.esp
+Anchorage Weapon Spread.esp
+Pitt Weapon Spread.esp
+BOS Weapon Spread.esp
+Pt Lookout Weapon Spread.esp
+M. Zeta Weapon Spread.esp
+ACRForFWE.esp
+SVDForFWE.esp
+MP5ForFWE.esp
+DTOForFWE.esp
 SuperStimpak_effects.esp
 SuperStim.esp
 % {{BASH: Scripts}}
 SpiderAnts.esp
 % {{BASH: Relev}}
+
 T3T_OutcastTechSupport.esp
 T3T_AnchorageExtras.esp
 T3T_WeaponTweaks.esp
@@ -3479,47 +3579,23 @@ T3T_MiscItemIcons.esp
 ? Do not use with latest FWE, it is already integrated.
 The Mantis Imperative - Nasty Zeta.esp
 The Mantis Imperative - Nasty Zeta No Scaling.esp
-SbkTougherEnclave.esp
-Standard Weapon's Spread.esp
-Anchorage Weapon Spread.esp
-Pitt Weapon Spread.esp
-BOS Weapon Spread.esp
-Pt Lookout Weapon Spread.esp
-M. Zeta Weapon Spread.esp
-ACRForFWE.esp
-SVDForFWE.esp
-MP5ForFWE.esp
-DTOForFWE.esp
-DLM_FFOutcastsQuest(FWEEd).esp
-DLM_FFOutcastsQuest_Override.esp
-: FO3 Wanderers Edition - Main File.esm
-: DLM_FFOutcastsQuest(FWEEd).esp
-DLM_FFOutcastsQuest_Override-BS.esp
-: BrokenSteel.esm
-: FO3 Wanderers Edition - Main File.esm
-: DLM_FFOutcastsQuest(FWEEd).esp
-DLM_FFOutcastsQuest_Override-DLC.esp
-: Anchorage.esm
-: BrokenSteel.esm
-: Zeta.esm
-: FO3 Wanderers Edition - Main File.esm
-: DLM_FFOutcastsQuest(FWEEd).esp
-Outcast Collection Agent Expanded.esp
-Outcast Collection Agent Expanded - DLC Plugin.esp
+TSC Air Support.esp
+
 Useful Wasteland Clipboards.esp
-CombatEnhanced-Package v02.esp
-Attentater's Wasteland Economy.esp
-% {{BASH: Names}}
-Zumbs' Smaller Condition Effect On Item Value.esp
-AsharasPresets.esp
-FasterMorePowerfulMines.esp
+
 VisionMod-Tom.esp
+A20 VisionFX.esp
 EnhVision.esp
 " EnhVisionHK.esp
 EnhVisionHK.esp
 " EnhVision.esp
 Arwen_VisionFX.esp
-LiteChemWearoffFX.esp
+
+Zumbs' Smaller Condition Effect On Item Value.esp
+
+
+
+
 NVFAAPANoTex.esp
 Gore_No_More.esp
 Less_Blood.esp
@@ -3806,6 +3882,7 @@ GH-HealingRebalanceMod_stimpackduration.esp
 GH-HealingRebalanceMod_Infirmary+Lab.esp
 % {{BASH: Scripts}}
 GH-HealingRebalanceMod_sleepscript.esp
+HT Don't Pickup Weapons.esp
 SurplusReassign.esp
 5xlvling.esp
 Slower Levelling - slow.esp
