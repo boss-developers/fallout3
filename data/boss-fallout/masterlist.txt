@@ -181,6 +181,7 @@ Wasteland Whisperer v2.esm
 : Companion Core.esm
 Summer_2.5.esm
 RHKBrisaAlmodovar.esm
+JHBCloverPlus.esm
 Enhanced Weather - Rain and Snow.esm
 Xepha's Dynamic Weather.esm
 % {{BASH: C.Climate, Sound}}
@@ -1264,6 +1265,8 @@ SS Enhanced Combat Maneuvers.esp
 
 \BeginGroup\: NPC
 \-----------
+Angel.esp
+
 BarterWithRaiders.esp
 BarterWithRaiders-NoKarmaDiscount.esp
 BarterWithRaiders-NPC Default.esp
@@ -1275,19 +1278,7 @@ BarterWithRaiders-NPC Compatible-MMM.esp
 : Mart's Mutant Mod.esm
 : BarterWithRaiders-NPC Compatible.esp
 BarterWithRaiders-FWE Class Patch.esp
-NPC Height Randomizer.esp
-NPC Height Randomizer Less Variance.esp
-CrowdedCities_v2.esp
-" CrowdedCities_v2_lessNPCs.esp
-CrowdedCities_v2_lessNPCs.esp
-" CrowdedCities_v2.esp
-A Crowded Wasteland.esp
-MTC Wasteland Travellers.esp
-MTC Wasteland Travellers (Optional)- Crowded Cities less NPCs.esp
-" MTC Wasteland Travellers (Optional)- Crowded Cities.esp
-MTC Wasteland Travellers (Optional)- Crowded Cities.esp
-" MTC Wasteland Travellers (Optional)- Crowded Cities less NPCs.esp
-MTC MoreGuardsInBigTown.esp
+
 Clover Makeover - Asian Bedraggled.esp
 Clothed American Soldiers.esp
 % {{BASH: Invent}}
@@ -1298,22 +1289,41 @@ Clothed Sarah Lyons - Sleepwear.esp
 % {{BASH: Invent}}
 Confessor Cromwell has a Break_EV.esp
 % {{BASH: Actors.AIPackages}}
-Ghoulified Cromwell.esp
-Point Lookout Lower Health.esp
-: PointLookout.esm
-Angel.esp
+CrowdedCities_v2.esp
+" CrowdedCities_v2_lessNPCs.esp
+CrowdedCities_v2_lessNPCs.esp
+" CrowdedCities_v2.esp
+A Crowded Wasteland.esp
+
 EZ_MoreVoices.esp
 EZ_TempleOfCant.esp
 EZ_Ammo_Restriction.esp
 EZ_citizens.esp
+
+Ghoulified Cromwell.esp
+
 Named Wastelanders.esp
 % {{BASH: Names}}
 Named Wasteland.esp
 % {{BASH: Names}}
 NPCs Sleep Tighter.esp
+
+MTC Wasteland Travellers.esp
+MTC Wasteland Travellers (Optional)- Crowded Cities less NPCs.esp
+" MTC Wasteland Travellers (Optional)- Crowded Cities.esp
+MTC Wasteland Travellers (Optional)- Crowded Cities.esp
+" MTC Wasteland Travellers (Optional)- Crowded Cities less NPCs.esp
+MTC MoreGuardsInBigTown.esp
+
+NPC Height Randomizer.esp
+NPC Height Randomizer Less Variance.esp
+
 Outcast Scribes03.esp
 : Anchorage.esm
 " OutcastCasdinArmorFix.esp
+
+Point Lookout Lower Health.esp
+: PointLookout.esm
 
 richvendors.esp
 More Merchant Caps.esp
@@ -1331,6 +1341,8 @@ VendorCapsIncreased5X.esp
 VendorCapsIncreased3X.esp
 VendorCapsIncreased2X.esp
 VendorCapsIncreased4X.esp
+MoriaX3Caps.esp
+MoriaX10Caps.esp
 
 royphilipsevil.esp
 % {{BASH: Actors.ACBS, Actors.AIData}}
@@ -2430,6 +2442,10 @@ TSoutfitv1.esp
 Type3Accessories.esp
 Type3Clothes.esp
 
+vaultgirlnp.esp
+vaultgirlrp.esp
+% {{BASH: Invent}}
+
 WaldosOutfit.esp
 Wasteland and Bog Outfits.esp
 Wasteland_Seductress.esp
@@ -2451,6 +2467,27 @@ SparklingEyes for Eyelashes and HairPack Fix for MMM.esp
 : Sparkling Eyes.esp
 F3Eyelashes.esp
 _R_Tribals.esp
+
+LingsFinerThings.esp
+LingsPrettyThings.esp
+% {{BASH: Eyes, Hair, Invent, Names, NPC.Class, NPC.Race, NpcFaces, R.Attributes-F, R.Attributes-M, R.Description, R.Head, R.Mouth, R.Teeth, Voice-F}}
+LingsPrettyThings-BrokenSteel.esp
+LingsPrettyThings-SeducingWomen.esp
+LingsPrettyThings-FOOK2-MMM.esp
+Lt Williams Companion.esp
+xCALIBRuniverse_LingsBrokenSteel.esp
+% {{BASH: Actors.ACBS, Hair, NpcFaces}}
+xCALIBRuniverse_LingsPrettyThings.esp
+% {{BASH: Actors.ACBS, Invent, NPC.Class, Voice-F}}
+
+Goth Girls Multipack.esp
+% {{BASH: Eyes, Hair, Invent, NPC.Race, NpcFaces}}
+
+moirared.esp
+% {{BASH: Invent}}
+Reclothing For LPT and Flash.esp
+% {{BASH: Invent}}
+? Outdated, use latest Wrye Flash version
 \EndGroup\\
 
 \BeginGroup\: Middle Misc A
@@ -3026,59 +3063,7 @@ MMM_RtSS_Mod.esp
 
 \BeginGroup\: Companions
 \-----------
-mika.esp
-mika_essential.esp
-Original Moira Brown.esp
-MoriaX3Caps.esp
-MoriaX10Caps.esp
-SeducingWomen_-_override.esp
-FEM - BABE enabler.esp
-: FEM.esm
-FEM - DIMON enabler.esp
-: FEM.esm
-FEM - EXNEM enabler.esp
-: FEM.esm
-FEM - FANTASY enabler.esp
-: FEM.esm
-FEM - GROWLF enabler.esp
-: FEM.esm
-FEM - MALOS enabler.esp
-: FEM.esm
-FEM - NAOUAK enabler.esp
-: FEM.esm
-FEM - NILE enabler.esp
-: FEM.esm
-FEM - UF3 enabler.esp
-: FEM.esm
-LingsFinerThings.esp
-LingsPrettyThings.esp
-% {{BASH: Eyes, Hair, Invent, Names, NPC.Class, NPC.Race, NpcFaces, R.Attributes-F, R.Attributes-M, R.Description, R.Head, R.Mouth, R.Teeth, Voice-F}}
-LingsPrettyThings-BrokenSteel.esp
-LingsPrettyThings-SeducingWomen.esp
-LingsPrettyThings-FOOK2-MMM.esp
-Lt Williams Companion.esp
-xCALIBRuniverse_LingsBrokenSteel.esp
-% {{BASH: Actors.ACBS, Hair, NpcFaces}}
-xCALIBRuniverse_LingsPrettyThings.esp
-% {{BASH: Actors.ACBS, Invent, NPC.Class, Voice-F}}
-SeducedDLC03.esp
-SeducingWomen_patch_156.esp
-FEMed TYPE3 Cloths.esp
-Better Companions Ess.esp
-Better Companions Clover Ess.esp
-Better Companions NonEss.esp
-BriannaCompanion.esp
-LucyWestCompanion.esp
-bittercup_comp.esp
-JHBCloverPlus.esm
-Mystyk's Followers.esp
-Follower Autumn.esp
-DanteCompanion.esp
-GaryCompanion.esp
-JessiCompanion.esp
-jasmine.esp
-KelseyCompanion.esp
-KingCompanion.esp
+\New Companions\
 AmyWong - FOSE.esp
 : AmyWong.esm
 AmyWong - DLCs.esp
@@ -3143,20 +3128,100 @@ AmyWong - FOOK2 1.1.esp
 : FOOK2 - Main.ESM
 amywongmodmod.esp
 : AmyWong.esm
-RoadWardens.esp
-? If using MMM, use 'RoadWardensMMM.esp' instead
-RoadWardensMMM.esp
-MTC RealWildnessLife.esp
-% {{BASH: Relations}}
-Lil_Critters.esp
-Lil_Critters_NG.esp
+
+RHKBrisaAlmodovar - Custom - Lings.esp
+: Lings.esm
+RHKBrisaAlmodovar - Custom - PB HD.esp
+: Project Beauty.esm
+RHKBrisaAlmodovar - DLC - Anch.esp
+: Anchorage.esm
+Brisa and FWE - Primary Needs Patch.esp
+: FO3 Wanderers Edition - Main File.esm
+Brisa - FWE Skill Books Compatibility.esp
+: FO3 Wanderers Edition - Main File.esm
+
 ChildrenEmpire Soldiers.esp
 ChildrenEmpire Enemies.esp
+
+DanteCompanion.esp
+
+EnclaveCommander.esp
+EnclaveCommander-OA.esp
+
+GaryCompanion.esp
+
+JessiCompanion.esp
+jasmine.esp
+
+Kat_Companion_V1.0a.esp
+Kat_Companion_V1.0b.esp
+KelseyCompanion.esp
+KingCompanion.esp
+
+
+mika.esp
+mika_essential.esp
+
+outcast_comp.esp
+
 Sgt. Rock.esp
+slaveraider.esp
+slaveraider_newlook.esp
+% {{BASH: Graphics}}
+
+
+\EndGroup\\
+
+\Vanilla NPCs into Campanions
+
+Better Companions Ess.esp
+Better Companions Clover Ess.esp
+Better Companions NonEss.esp
+bittercup_comp.esp
+BriannaCompanion.esp
+
+CharonImproved.esp
+% {{BASH: Actors.AIPackages}}
+llama's Vanilla Followers for Charon Improved.esp
+% {{BASH: Actors.AIPackages}}
+
+FEM - BABE enabler.esp
+: FEM.esm
+FEM - DIMON enabler.esp
+: FEM.esm
+FEM - EXNEM enabler.esp
+: FEM.esm
+FEM - FANTASY enabler.esp
+: FEM.esm
+FEM - GROWLF enabler.esp
+: FEM.esm
+FEM - MALOS enabler.esp
+: FEM.esm
+FEM - NAOUAK enabler.esp
+: FEM.esm
+FEM - NILE enabler.esp
+: FEM.esm
+FEM - UF3 enabler.esp
+: FEM.esm
+FEMed TYPE3 Cloths.esp
 Frazzled.esp
 Fallout 3 Sexus Enemies.esp
 Fallout 3 Sexus - DLC The Pitt.esp
 Fallout 3 Sexus with Children Empire.esp
+Follower Amata ULTIMATE.esp
+Follower Autumn.esp
+
+JHBCloverPlus.esp
+
+Lil_Critters.esp
+Lil_Critters_NG.esp
+LucyWestCompanion.esp
+
+MegatonCompanions.esp
+mmMoleRatMount.esp
+MTC RealWildnessLife.esp
+% {{BASH: Relations}}
+Mystyk's Followers.esp
 Mysteriouswoman_outfitonly.esp
 Mysteriouswoman_scout.esp
 Mysteriouswoman_dress.esp
@@ -3168,17 +3233,24 @@ Mysteriouswoman_corsetntrousers.esp
 Mysteriouswoman_alternativetop.esp
 Mysteriouswoman_sexytopless.esp
 MysteriousHottieA.esp
-Follower Amata ULTIMATE.esp
-Kat_Companion_V1.0a.esp
-Kat_Companion_V1.0b.esp
-outcast_comp.esp
+
+Original Moira Brown.esp
+
+RoadWardens.esp
+? If using MMM, use 'RoadWardensMMM.esp' instead
+RoadWardensMMM.esp
+
+Sarah Lyons Companion.esp
+SeducingWomen_-_override.esp
+SeducedDLC03.esp
+SeducingWomen_patch_156.esp
 Sydney Follower.esp
 Sydney Follower - Recruitment Fix.esp
 Sydney Follower - FWE Dialog Fix.esp
-Sarah Lyons Companion.esp
-slaveraider.esp
-slaveraider_newlook.esp
-% {{BASH: Graphics}}
+
+\EndGroup\
+
+\\CompanionCompatability / fixes
 CBOv1.4.esp
 CBOv1.4_bittercup_comp.esp
 CBOv1.4_bittercup_comp_restyled.esp
@@ -3186,25 +3258,6 @@ CBOv1.4_bittercup_comp_waitrelax_restyled.esp
 CBOv1.4_the_other_bittercup_comp_waitrelax.esp
 CBOv1.4_spcross_dimonized_brazilian_b.esp
 CBOv1.4_slaveraider.esp
-EnclaveCommander.esp
-EnclaveCommander-OA.esp
-JHBCloverPlus.esp
-RHKBrisaAlmodovar - Custom - Lings.esp
-: Lings.esm
-RHKBrisaAlmodovar - Custom - PB HD.esp
-: Project Beauty.esm
-RHKBrisaAlmodovar - DLC - Anch.esp
-: Anchorage.esm
-Brisa and FWE - Primary Needs Patch.esp
-: FO3 Wanderers Edition - Main File.esm
-Brisa - FWE Skill Books Compatibility.esp
-: FO3 Wanderers Edition - Main File.esm
-mmMoleRatMount.esp
-CharonImproved.esp
-% {{BASH: Actors.AIPackages}}
-llama's Vanilla Followers for Charon Improved.esp
-% {{BASH: Actors.AIPackages}}
-MegatonCompanions.esp
 COCOA - bittercup_comp.esp
 : bittercup_comp.esp
 COCOA - BriannaCompanion.esp
@@ -3244,11 +3297,7 @@ COCOA - slaveraider.esp
 : slaveraider.esp
 COCOA - Sydney Follower.esp
 : Sydney Follower.esp
-moirared.esp
-% {{BASH: Invent}}
-Reclothing For LPT and Flash.esp
-% {{BASH: Invent}}
-? Outdated, use latest Wrye Flash version
+
 resetfollowers_v3.3.esp
 \EndGroup\\
 
