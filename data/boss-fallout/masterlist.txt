@@ -1945,6 +1945,23 @@ WMK-RH IronSights.esp
 Apocalypse Armory + WMK.esp
 T3T_WMK1.esp
 % {{BASH: Deflst, Stats}}
+
+UH-FWE-WMK-DLC.esp
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+: Zeta.esm
+: FO3 Wanderers Edition - Main File.esm
+: FO3 Wanderers Edition - DLC Broken Steel.esp
+: UndergroundHideout.esp
+: WeaponModKits.esp
+: WeaponModKits - FWE Master Release.esp
+: WeaponModKits - OperationAnchorage.esp
+: WeaponModKits - ThePitt.esp
+: WeaponModKits - BrokenSteel.esp
+: WeaponModKits - PointLookout.esp
+: WeaponModKits - Zeta.esp
 \EndGroup\\
 
 \BeginGroup\: Weapons
@@ -2017,6 +2034,9 @@ Wealisitc Wifles.esp
 joefoxx Gun Mod v1.0 Normal Tracers.esp
 Tactical Weapons by gRs Frederyck.esp
 % {{BASH: Invent}}
+frederyck calibr fix-excalibrified.esp
+% {{BASH: Invent}}
+frederyck tactical weapons + excalibr.esp
 SR25Rifle.esp
 DanWessonPPC357(CALIBR).esp
 18inchCSLatinMachete.esp
@@ -3139,6 +3159,12 @@ Brisa and FWE - Primary Needs Patch.esp
 : FO3 Wanderers Edition - Main File.esm
 Brisa - FWE Skill Books Compatibility.esp
 : FO3 Wanderers Edition - Main File.esm
+Brisa - Cooking with FWE & MMM 6.esp
+: CRAFT.esm
+: CALIBR.esm
+: FO3 Wanderers Edition - Main File.esm
+: Mart's Mutant Mod.esm
+RHKBrisaAlmodovar.esm
 
 ChildrenEmpire Soldiers.esp
 ChildrenEmpire Enemies.esp
