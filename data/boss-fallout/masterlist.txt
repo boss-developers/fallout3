@@ -2368,6 +2368,8 @@ MZ-Weak-EbonTek.esp
 
 NaughtyRaiderArmor_EZStd.esp
 NAPA.esp
+Neo's DOA Tina.esp
+Neo's DOA Christie.esp
 NEVECv1.esp
 NoInvisArcadeIndustries_SweetSneak.esp
 InvisArcadeIndustries_SweetSneak.esp
@@ -3164,7 +3166,8 @@ Brisa - Cooking with FWE & MMM 6.esp
 : CALIBR.esm
 : FO3 Wanderers Edition - Main File.esm
 : Mart's Mutant Mod.esm
-RHKBrisaAlmodovar.esm
+: RHKBrisaAlmodovar.esm
+" Brisa and FWE - Primary Needs Patch.esp
 
 ChildrenEmpire Soldiers.esp
 ChildrenEmpire Enemies.esp
