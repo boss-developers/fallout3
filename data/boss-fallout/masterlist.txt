@@ -961,6 +961,8 @@ AQFH2.esp
 
 \BeginGroup\: Early Misc B
 \-----------
+Action for men v3.0.esp
+% {{BASH: Invent}}
 Arnold.esp
 BoSTeslaEarly.esp
 " BoSTesla.esp
