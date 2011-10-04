@@ -1966,9 +1966,15 @@ UH-FWE-WMK-DLC.esp
 
 \BeginGroup\: Weapons
 \-----------
+\*
+10mmReplacer.esp
+18inchCSLatinMachete.esp
+2Bore.esp
 20th Century Weapons Non-Changing Weapon Conditions.esp
 : CALIBR.esm
 : 20th Century Weapons.esm
+50CaliberSniperRifle.esp
+50CaliberSniperRifleAmmo.esp
 7_ISA -ec 10 mm Submachine Gun.esp
 7_ISA -ec Mauser.esp
 7_ISA -ec 44 magnum.esp
@@ -1980,15 +1986,33 @@ UH-FWE-WMK-DLC.esp
 7_ISA -ec 20th Century Weapons v3.1.esp
 : CALIBR
 : 20th Century Weapons.esm
+7_HolsterForHandGunsV1_1.esp
+
+\A
 A3-21-Focused.esp
 AddWanda_v2_blk_eot.esp
 % {{BASH: Invent}}
+AER10V2 Laser Rifle.esp
 AlexScorpion's  and Weijiesen's Smoking Fun.esp
 % {{BASH: Invent}}
 AlexScorpion's and Weijiesen's Smoking Fun.esp
 % {{BASH: Invent}}
-50CaliberSniperRifle.esp
-50CaliberSniperRifleAmmo.esp
+Akira - Simple Silenced SMG.esp
+Ammo Press Calibrified.esp
+: ThePitt.esm
+: CALIBR.esm
+AMR-B04.esp
+
+Arms_dealer_V1.esp
+" RH_IRONSIGHTS.esm
+: CALIBR.esm
+A_D_Calibr_ammo.esp
+: Arms_dealer_V1.esp
+AsharasBatmanItems.esp
+AsharasLightningItems.esp
+
+
+\B
 backpackfix.esp
 BackpackFixForShishkebabENG.esp
 BackpackFixForShishkebabPL.esp
@@ -1998,68 +2022,65 @@ BRUTE_GunKnockdownsSpecialScriptedEditionTHEPITT.esp
 Better Looking Combat Shotgun.esp
 Better Looking Combat Shotgun (Full Auto).esp
 BlasterEquipmentPackagev1_2.esp
-Crossbow.esp
-Echo_UseBothGloves.esp
-jmschematics - CRAFT.esp
-JQ-DuncanSword.esp
-Hi-Res Weapons & Ammo Textures - The Pitt.esp
-Hi-Res Weapons & Ammo Textures.esp
-HZ_XM586UR.esp
-Reykjavik.esp
-Remote Bottlecap Mines ADVANCED.esp
-Glock 86 Plasma Pistol (scoped).esp
-P94 Plasma Rifle.esp
-YK42B Pulse Rifle.esp
-Wattz Laser Weapons Mod.esp
-SnakesBandana.esp
-Tactical Weapons-Calibr-V3.esp
-Focused Plasma.esp
-Akira - Simple Silenced SMG.esp
-AsharasBatmanItems.esp
-GaussCompleteBeta.esp
+
+\C
 ColtM4Carbines.esp
-7_HolsterForHandGunsV1_1.esp
-Wattz Laser Pistols Mod.esp
-WMKAA12Shotgun.esp
-% {{BASH: Graphics}}
-HZ_M92SE.esp
-NewKnives.esp
-FLY_weapons.esp
-Kneecapper Linked.esp
-ShishkebabWithoutGlove.esp
-Solar-Scorcher.esp
-SolarScorcher.esp
-10mmReplacer.esp
-Wealisitc Wifles.esp
-joefoxx Gun Mod v1.0 Normal Tracers.esp
-Tactical Weapons by gRs Frederyck.esp
-% {{BASH: Invent}}
-frederyck calibr fix-excalibrified.esp
-% {{BASH: Invent}}
-frederyck tactical weapons + excalibr.esp
-SR25Rifle.esp
-DanWessonPPC357(CALIBR).esp
-18inchCSLatinMachete.esp
-P94-95.esp
-xCALIBRmunitions.esp
-% {{BASH: Delev, Relev}}
-xCALIBRmunitions_FOSEnhancements.esp
-ZL-ACR.esp
-ZL-ACRForFWE.esp
-Star Trek Tri-Beam Phaser.esp
-AER10V2 Laser Rifle.esp
-M14_EBR.esp
-MPammo.esp
-HZ_M249.esp
-VashDeagleV5.esp
-Wattz Laser Non Replacer Mod.esp
-F3RWPMolotovCocktail-0_1.esp
-Flashbangs.esp
-Weapon - Some Katanas.esp
-CS_ LightsaberQuest.esp
-CS_LightsaberQuest - Objectives Patch.esp
 ColtM4Carbines_RHIronSights.esp
 % {{BASH: Graphics}}
+Crossbow.esp
+cryolator.esp
+CS_ LightsaberQuest.esp
+CS_LightsaberQuest - Objectives Patch.esp
+
+\D
+DanWessonPPC357(CALIBR).esp
+
+\E
+ERFatman50.esp
+ERFatman50only.esp
+ERFatman75.esp
+ERFatman75only.esp
+
+\F
+F3RWPMolotovCocktail-0_1.esp
+Fallout3ProtoGun.esp
+Flashbangs.esp
+FLY_weapons.esp
+Focused Plasma.esp
+
+\G
+g36mod.esp
+Gatling Plasma.esp
+Glock 86 Plasma Pistol (scoped).esp
+GaussCompleteBeta.esp
+
+\H
+H&KUSPWithWorkingFlashlight.esp
+
+Hi-Res Weapons & Ammo Textures - The Pitt.esp
+Hi-Res Weapons & Ammo Textures.esp
+HZ_M14.esp
+HZ_M249.esp
+HZ_M92SE.esp
+HZ_XM586UR.esp
+HZ_USP.esp
+
+
+\I
+ImmaFirinMahLazor.esp
+InverseCombatKnife.esp
+
+\J
+jmschematics - CRAFT.esp
+joefoxx Gun Mod v1.0 Normal Tracers.esp
+JQ-40K.esp
+JQ40K2.esp
+JQ-DuncanSword.esp
+
+\K
+Kneecapper Linked.esp
+
+\L
 laserPistolRetextured-IronSightsPatch.esp
 % {{BASH: Graphics}}
 laserRifleRetextured-IronSightsPatch.esp
@@ -2067,20 +2088,9 @@ laserRifleRetextured-IronSightsPatch.esp
 laserScatterGunRetextured.esp
 % {{BASH: Graphics}}
 : BrokenSteel.esm
-AsharasLightningItems.esp
-AMR-B04.esp
-ZL-SVD.esp
-ZL-SVD-CALIBR.esp
-ZL-MP5 Pack.esp
-Arms_dealer_V1.esp
-" RH_IRONSIGHTS.esm
-: CALIBR.esm
-A_D_Calibr_ammo.esp
-: Arms_dealer_V1.esp
-PlastekPrototypeRiflev1.esp
-Fallout3ProtoGun.esp
-ImmaFirinMahLazor.esp
-HZ_M14.esp
+
+\M
+M14_EBR.esp
 MissingUniqueWeapons-Standard.esp
 MissingUniqueWeapons-Standard-BS.esp
 MissingUniqueWeapons-Standard-PL.esp
@@ -2089,37 +2099,80 @@ MissingUniqueWeapons-Enhanced.esp
 MissingUniqueWeapons-Enhanced-BS.esp
 MissingUniqueWeapons-Enhanced-PL.esp
 MissingUniqueWeapons-Enhanced-BS+PL.esp
-Uniqueweapons.esp
-cryolator.esp
-WinchesterModel1894Yellowboy.esp
-YK40 Pulse Pistol.esp
-H&KUSPWithWorkingFlashlight.esp
-HZ_USP.esp
+More308Ammo.esp
+% {{BASH: Relev}}
+MPammo.esp
+
+\N
+NewKnives.esp
+
+\O
+
+\P
+P94-95.esp
+P94 Plasma Rifle.esp
+PlastekPrototypeRiflev1.esp
+Playing With Firepower.esp
+: CRAFT.esm
+
+\Q
+
+\R
+rl3-plasmabeam.esp
+Remote Bottlecap Mines ADVANCED.esp
+Reykjavik.esp
 RimfireRevolver.esp
 "RimfireRevolverCommon.esp
 RimfireRevolverCommon.esp
 "RimfireRevolver.esp
+
+\S
+Saiga-12 Combat Shotgun Override.esp
+Saiga-12 Combat Shotgun Override Operation Anchorage.esp
+: Anchorage.esm
+Saiga-12 Combat Shotgun Override Broken Steel.esp
+: BrokenSteel.esm
+Saiga-12 Combat Shotgun Override The Pitt.esp
+: ThePitt.esm
+ShishkebabWithoutGlove.esp
 SilencedSniperRiflesStd.esp
 SilencedSniperRiflesUnq.esp
+SnakesBandana.esp
+Solar-Scorcher.esp
+SolarScorcher.esp
+SR25Rifle.esp
+Star Trek Tri-Beam Phaser.esp
+
+
+\T
+Tactical Weapons by gRs Frederyck.esp
+% {{BASH: Invent}}
+Tactical Weapons-Calibr-V3.esp
+frederyck calibr fix-excalibrified.esp
+% {{BASH: Invent}}
+frederyck tactical weapons + excalibr.esp
 TheProudAmerican.esp
-More308Ammo.esp
-InverseCombatKnife.esp
-g36mod.esp
-2Bore.esp
-Gatling Plasma.esp
-JQ-40K.esp
-JQ40K2.esp
-Playing With Firepower.esp
-: CRAFT.esm
-rl3-plasmabeam.esp
+
+\U
+Uniqueweapons.esp
+
+\V
+VashDeagleV5.esp
+
+\W
+Wattz Laser Weapons Mod.esp
+Wattz Laser Pistols Mod.esp
+Wattz Laser Non Replacer Mod.esp
+Wealisitc Wifles.esp
+Weapon - Some Katanas.esp
+WeaponsOfTheShogunate.esp
 WieldableTorches (Main).esp
 " Wieldable Torches (Optional).esp
 Wieldable Torches (Optional).esp
 " WieldableTorches (Main).esp
-Ammo Press Calibrified.esp
-: ThePitt.esm
-: CALIBR.esm
-WeaponsOfTheShogunate.esp
+WinchesterModel1894Yellowboy.esp
+WMKAA12Shotgun.esp
+% {{BASH: Graphics}}
 WMMP_Install.esp
 : Anchorage.esm
 : ThePitt.esm
@@ -2158,13 +2211,23 @@ WMMP_AMA [Mutants][20CWv5].esp
 : Zeta.esm
 : PointLookout.esm
 : WMMP_Master.esp
-Saiga-12 Combat Shotgun Override.esp
-Saiga-12 Combat Shotgun Override Operation Anchorage.esp
-: Anchorage.esm
-Saiga-12 Combat Shotgun Override Broken Steel.esp
-: BrokenSteel.esm
-Saiga-12 Combat Shotgun Override The Pitt.esp
-: ThePitt.esm
+
+\X
+xCALIBRmunitions.esp
+% {{BASH: Delev, Relev}}
+xCALIBRmunitions_FOSEnhancements.esp
+
+\Y
+YK40 Pulse Pistol.esp
+YK42B Pulse Rifle.esp
+
+\Z
+ZL-ACR.esp
+ZL-ACRForFWE.esp
+ZL-SVD.esp
+ZL-SVD-CALIBR.esp
+ZL-MP5 Pack.esp
+
 \EndGroup\\
 
 \BeginGroup\: Armor\Clothes
@@ -2279,6 +2342,7 @@ Shaikujins_Chrome_Dogmeat_Armour.esp
 Dragonskin Tactical Outfit.esp
 DragonskinBonusPack.esp
 
+Echo_UseBothGloves.esp
 EMPGrenadeKnockoutPowArmor.esp
 EnclavePACollars.esp
 EnclaveReconArmor.esp
@@ -3201,8 +3265,8 @@ slaveraider_newlook.esp
 
 \EndGroup\\
 
-\Vanilla NPCs into Campanions
-
+\BeginGroup\: Vanilla NPCs into Campanions
+\-----------
 Better Companions Ess.esp
 Better Companions Clover Ess.esp
 Better Companions NonEss.esp
@@ -3279,7 +3343,8 @@ Sydney Follower - FWE Dialog Fix.esp
 
 \EndGroup\
 
-\\CompanionCompatability / fixes
+\BeginGroup\: Companion Compatability / Fixes
+\-----------
 CBOv1.4.esp
 CBOv1.4_bittercup_comp.esp
 CBOv1.4_bittercup_comp_restyled.esp
@@ -3564,6 +3629,7 @@ LightweightFoodSanitizer.esp
 LiteChemWearoffFX.esp
 
 Megaton Closes.esp
+MrSlackPants-Explosions.esp
 MZC Addon - Shorter Zeta DLC (turrets).esp
 : Zeta.esm
 MZC Addon - Shorter Zeta DLC.esp
