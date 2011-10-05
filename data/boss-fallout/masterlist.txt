@@ -660,11 +660,14 @@ WMMP_Master.esp
 \-----------
 Agatha Radio Enhanced.esp
 Agatha_Radio_Station_Airship.esp
+ArefuExpandedByAzar-Radio.esp
+
 CivilDefenseBroadcastSystem.esp
+
 Enclave Radio Enhanced.esp
+
 GNR Enhanced.esp
 GeneratorSound.esp
-Moshman's Wasteland Ambiance.esp
 GalaxyNewsRadioFix[N].esp
 " GalaxyNewsRadioXXX[M].esp
 " GalaxyNewsRadioFix[S].esp
@@ -692,15 +695,33 @@ GalaxyNewsRadio20[M].esp
 " GalaxyNewsRadioXXX[M].esp
 " GalaxyNewsRadioFix[N].esp
 " GalaxyNewsRadioFix[S].esp
+GhostRadio.esp
+GNR Fix.esp
 GNR-MWTCF BS.esp
-S.I.K.esp
+
 HamadaRadioStation.esp
-ArefuExpandedByAzar-Radio.esp
-RadioBlues.esp
-WAR_radio.esp
-People_Radio.esp
+
 InvasionRadio.esp
+
 KBATRadio.esp
+
+Moshman's Wasteland Ambiance.esp
+mutantradio.esp
+
+Ol Hick Radio.esp
+
+People_Radio.esp
+
+RadioBlues.esp
+RadioTenpenny.esp
+ReneersRadioMod.esp
+% {{BASH: Scripts}}
+? Do not use with latest FOOK2, it is already integrated.
+PointRadio.esp
+LookoutRadio.esp
+
+S.I.K.esp
+
 VTAP25.esp
 VTAP50.esp
 VTAP75.esp
@@ -711,21 +732,17 @@ VTAP175.esp
 VTAP200.esp
 VTAP225.esp
 VTAP250.esp
-GhostRadio.esp
-mutantradio.esp
-LookoutRadio.esp
-PointRadio.esp
-RadioTenpenny.esp
-Ol Hick Radio.esp
+
+WAR_radio.esp
 We Jazz.esp
-GNR Fix.esp
-ReneersRadioMod.esp
-% {{BASH: Scripts}}
-? Do not use with latest FOOK2, it is already integrated.
+
 Radio Stutter fix.esp
-? Load RadioHotkey after all other radio mods
+
 RadioHotkey.esp
+? Load RadioHotkey after all other radio mods
 RadioHotkey_RadioBluesAddon.esp
+? Load RadioHotkey after all other radio mods
+
 IPip.esp
 \EndGroup\\
 
@@ -869,34 +886,70 @@ GTS - Navarro.esp
 \BeginGroup\: Quests
 \-----------
 A Little Mutant Problem.esp
+A Trail of Crumbs.esp
 ace.esp
 agcTARDISf3.esp
+AQFH.esp
+: BrokenSteel.esm
+AQFH2.esp
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+: Zeta.esm
+AQFH_C_103.esp
+AReasonedArgument.esp
+
+CitadelArmory.esp
+
+Devoured in Darkness.esp
+Darkness.esp
+
+EIP.esp
+: BrokenSteel.esm
+
+FOW - The Last Child of Gallifrey.esp
 FreePlayAfterMQ_V05.esp
 FreePlay addon - clean Potomac.esp
-NotSoFast.esp
-% {{BASH: Scripts}}
-NotSoFastFOOK.esp
+firelance-quest.esp
+TriggerFirelance.esp
+
 HeirApparent.esp
 % {{BASH: Scripts}}
 HeirApparentFOOK.esp
+
 IntoTheDeepWoods.esp
 % {{BASH: Scripts}}
+
+JetPack.esp
+Jury Street.esp
+
+lamplight secrets.esp
+Little Lamplight Front Gate.esp
+Lamplight Backdoor Exit.esp
+Lawbringer Boutnies Ver1.1.esp
+% {{BASH: Invent}}
+
+MegatonContracts.esp
+MX_Vault74_eng.esp
+MX_Vault74fix.esp
+
+NecronomiconExMortis 5.5.esp
+NightmareRealm.esp
+Northern Enclave Base.esp
+NotSoFast.esp
+% {{BASH: Scripts}}
+NotSoFastFOOK.esp
+
+Orion's Gate - Interiors.esp
+
 PLweightadjust.esp
 % {{BASH: Scripts, Stats}}
 : PointLookout.ESM
 PLFewerItems.esp
 : PointLookout.ESM
-CitadelArmory.esp
-Tenpenny Tower true peace.esp
-The Mantis Imperative - Mantis.esp
-% {{BASH: Relev}}
-The Mantis Imperative - Jello.esp
-The Mantis Imperative - XP.esp
-The Mantis Imperative - SkillBooks.esp
-The Mantis Imperative - Medical.esp
-The Mantis Imperative - Combat.esp
-AReasonedArgument.esp
-MegatonContracts.esp
+Project-Valhalla.esp
+
 RatTrapEyeCandy.esp
 RatTrapRadio.esp
 RatTrapSound.esp
@@ -917,46 +970,27 @@ Regulators _Overhaul_lvl2.esp
 " Regulators_Overhaul.esp
 " Regulators _Overhaul_lvl7.esp
 " Regulators.esp
-Lawbringer Boutnies Ver1.1.esp
-% {{BASH: Invent}}
-A Trail of Crumbs.esp
+
+SOL.esp
+
+Tenpenny Tower true peace.esp
+The Mantis Imperative - Mantis.esp
+% {{BASH: Relev}}
+The Mantis Imperative - Jello.esp
+The Mantis Imperative - XP.esp
+The Mantis Imperative - SkillBooks.esp
+The Mantis Imperative - Medical.esp
+The Mantis Imperative - Combat.esp
 The Librarian.esp
 The Librarian - Market Comes Alive.esp
-Northern Enclave Base.esp
-Orion's Gate - Interiors.esp
-firelance-quest.esp
-TriggerFirelance.esp
-lamplight secrets.esp
-Little Lamplight Front Gate.esp
-Lamplight Backdoor Exit.esp
-AQFH_C_103.esp
-MX_Vault74_eng.esp
-MX_Vault74fix.esp
-Jury Street.esp
-The Bunker.esp
-Devoured in Darkness.esp
-Darkness.esp
-EIP.esp
-: BrokenSteel.esm
 TheMissingScientist1_V1.21.esp
 The Car Fort With Quests.esp
-Project-Valhalla.esp
-SOL.esp
-NightmareRealm.esp
-JetPack.esp
+The Bunker.esp
 TecVault.esp
-NecronomiconExMortis 5.5.esp
 TheProjectV1.1.esp
+
 Vault88_TmFox.esp
-FOW - The Last Child of Gallifrey.esp
-AQFH.esp
-: BrokenSteel.esm
-AQFH2.esp
-: Anchorage.esm
-: ThePitt.esm
-: BrokenSteel.esm
-: PointLookout.esm
-: Zeta.esm
+
 \EndGroup\\
 
 \BeginGroup\: Early Misc B
