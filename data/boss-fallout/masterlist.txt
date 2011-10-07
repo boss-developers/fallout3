@@ -1320,7 +1320,12 @@ BarterWithRaiders-NPC Compatible-MMM.esp
 : Mart's Mutant Mod.esm
 : BarterWithRaiders-NPC Compatible.esp
 BarterWithRaiders-FWE Class Patch.esp
+Better Caravans.esp
 
+CaravanUpgrades.esp
+CarvanTrader.esp
+% {{BASH: Actors.ACBS, Actors.Stats, Invent, Names, R. Attributes-F, R. Attributes-M, R.Skills, Scripts}}
+CaravanEssential.esp
 Clover Makeover - Asian Bedraggled.esp
 Clothed American Soldiers.esp
 % {{BASH: Invent}}
@@ -1337,6 +1342,7 @@ CrowdedCities_v2_lessNPCs.esp
 " CrowdedCities_v2.esp
 A Crowded Wasteland.esp
 
+Essential Caravan Merchants.esp
 EZ_MoreVoices.esp
 EZ_TempleOfCant.esp
 EZ_Ammo_Restriction.esp
@@ -1359,6 +1365,7 @@ MTC MoreGuardsInBigTown.esp
 
 NPC Height Randomizer.esp
 NPC Height Randomizer Less Variance.esp
+NPC Response Expansion.esp
 
 Outcast Scribes03.esp
 : Anchorage.esm
@@ -1394,9 +1401,15 @@ royphilipsveryevilwmask.esp
 % {{BASH: Actors.ACBS, Actors.AIData}}
 royphilipsevilwmask.esp
 % {{BASH: Actors.ACBS, Actors.AIData}}
+
 ThreeDogs 3 Dogs Alternative.esp
+
+UpgradedCaravanMerchants.esp
+
 VaultSuitBetterRearsForFemales.esp
-NPC Response Expansion.esp
+
+Wasteland Travel Caravans.esp
+
 \EndGroup\\
 
 \BeginGroup\: Places
@@ -2088,6 +2101,7 @@ F3RWPMolotovCocktail-0_1.esp
 Fallout3ProtoGun.esp
 Flashbangs.esp
 FLY_weapons.esp
+FNNCQ_Mesmetron.esp
 Focused Plasma.esp
 
 \G
@@ -2274,12 +2288,14 @@ ZL-MP5 Pack.esp
 
 \BeginGroup\: Armor\Clothes
 \-----------
+\*
 1SB_VenomousArmor.esp
 3EFdrg.esp
 3EFdrgplate.esp
 3EFhelmlessstealthsuit.esp
 3EFwandererGear.esp
 
+\A
 ACU Battle Armor.esp
 Advanced Recon Armor.esp
 Advanced Recon Armor-Predator Mode.esp
@@ -2303,6 +2319,7 @@ Armored Duster.esp
 AsharasFormalClothing.esp
 Assault Combat Gear.esp
 
+\B
 BABEreconarmor.esp
 BBBackpacks-v1-1.esp
 % {{BASH: Stats}}
@@ -2338,6 +2355,7 @@ BoS_FOOKedition_Armor.esp
 BSFeminizedPowerArmor.esp
 BunnySuit.esp
 
+\C
 Casdin - Technology In Volumes.esp
 Cat Outfit Fanged.esp
 % {{BASH: Eyes}}
@@ -2372,6 +2390,7 @@ CSwimsuit_and_Harness_recolor.esp
 ChineseStealthArmorFixed.esp
 Cybernetic Implants Xangi.esp
 
+\D
 DIM TYPE3 conversions.esp
 DIM TYPE3clothesRETAIL.esp
 DLC03_FemaleHellfire.esp
@@ -2384,18 +2403,25 @@ Shaikujins_Chrome_Dogmeat_Armour.esp
 Dragonskin Tactical Outfit.esp
 DragonskinBonusPack.esp
 
+\E
 Echo_UseBothGloves.esp
 EMPGrenadeKnockoutPowArmor.esp
 EnclavePACollars.esp
 EnclaveReconArmor.esp
 exnemprewarfix.esp
 
+\F
 FalsSexyT3Conversions.esp
 FatherandNun.esp
 FaithOutfit.esp
 FemalePowerArmor - Vanilla.esp
 FemalePowerArmor - FWE.esp
 Female Winterized T51-B.esp
+FeminizedPowerArmor.esp
+OAFeminizedPowerArmor.esp
+: Anchorage.esm
+TPFeminizedPowerArmor.esp
+: ThePitt.esm
 FetishLingerieSet.esp
 FetishFishnet.esp
 FieldJackets.esp
@@ -2417,6 +2443,7 @@ FO3-Closing-merged.esp
 FO3NeckChains.esp
 FrenchMaid.esp
 
+\G
 Gantz stuff.esp
 GentlemansUniform.esp
 Ghostbodysuitv3.esp
@@ -2424,12 +2451,15 @@ GhostArmor HGEC - Conversion.esp
 Gloria Armor.esp
 Gundam_Armors.esp
 
+\H
 Hentai Mania.esp
 HY_direwolf_type3.esp
 HY_wastewar.esp
 
+\I
 ignis.esp
 
+\J
 Jagi.esp
 Jessica Outfit.esp
 JillBSAA.esp
@@ -2438,6 +2468,7 @@ jonasclothesnonrplcr.esp
 jonasclothesreplacer.esp
 ? Choose only one of jonasclothesnonrplcr.esp or jonasclothesreplacer.esp, not both.
 
+\K
 K2_ArmorsRedone_Raiders.esp
 % {{BASH: Graphics}}
 K2Clothes_BrownLeather03.esp
@@ -2449,6 +2480,7 @@ K2_GirlieGirlLeather.esp
 kikaiEquipment.esp
 Koukaku_Armor.esp
 
+\L
 Ladyoutfit1.esp
 LeatherBackpack - eng.esp
 LNC StealthSuit.esp
@@ -2457,6 +2489,7 @@ Lookout Outfits.esp
 LoxysCombinedClothingFF.esp
 Luka.esp
 
+\M
 Mantis07Reflex.esp
 ME2_Inferno Armor.esp
 Merc Adventurer Armor - eng.esp
@@ -2472,6 +2505,7 @@ My Cloth Collection.esp
 Mysteriouswoman_clothesaddon.esp
 MZ-Weak-EbonTek.esp
 
+\N
 NaughtyRaiderArmor_EZStd.esp
 NAPA.esp
 Neo's DOA Tina.esp
@@ -2481,9 +2515,11 @@ NoInvisArcadeIndustries_SweetSneak.esp
 InvisArcadeIndustries_SweetSneak.esp
 SupremeRaiderArmor_Q.esp
 
+\O
 outcast_recon_armor_zeta.esp
 OutFits.esp
 
+\P
 PEDress.esp
 Persona_and_Secret.esp
 Pikachoo.esp
@@ -2509,10 +2545,12 @@ PPA - IMCN.esp
 : Powered Power Armor.esp
 Prototype Medic Armor Upgrade.esp
 
+\Q
 QNeverclockVaultsuits.esp
 QToughChickArmor.esp
 QToadletVaultsuit.esp
 
+\R
 RadioactiveSuit.esp
 Raider Combat Armor.esp
 Raider Combat Armor Pitt.esp
@@ -2521,6 +2559,7 @@ Raider HeadGear.esp
 RaiderPowerArmor_lvl.esp
 RaiderPowerArmor_no_lvl.esp
 
+\S
 SchoolUniforms.esp
 Scorpion_Queen_Type3.esp
 Scout Outfits.esp
@@ -2534,6 +2573,7 @@ SomeClothes.esp
 sunglassescollection.esp
 SwampfolkOutfit.esp
 
+\T
 T3T_CombatArmorSleeves.esp
 T3_leather armors.esp
 Tactical Vest CIRAS.esp
@@ -2570,10 +2610,14 @@ TSoutfitv1.esp
 Type3Accessories.esp
 Type3Clothes.esp
 
+\U
+
+\V
 vaultgirlnp.esp
 vaultgirlrp.esp
 % {{BASH: Invent}}
 
+\W
 WaldosOutfit.esp
 Wasteland and Bog Outfits.esp
 Wasteland_Seductress.esp
@@ -2581,9 +2625,14 @@ WasteWearGloves.esp
 % {{BASH: Relev}}
 WHSpaceMarineArmor.esp
 
+\X
 XmasOutfits.esp
 
+\Y
 Yoko'sOutfits.esp
+
+\Z
+
 \EndGroup\\
 
 \BeginGroup\: Cosmetics
@@ -2620,6 +2669,9 @@ Reclothing For LPT and Flash.esp
 
 \BeginGroup\: Middle Misc A
 \-----------
+\8
+
+\A
 AS-R CALIBR Patch ONLY.esp
 AutoGates.esp
 % {{BASH: Scripts}}
@@ -2629,6 +2681,7 @@ Ammo_Schematics.esp
 : CRAFT.esm
 AutomatScriptRemoved.esp
 
+\B
 Ballistics-ALL-MoreRealism.esp
 Bobbleheads Begone.esp
 % {{BASH: Scripts}}
@@ -2636,6 +2689,7 @@ Brahmin Dairy Products.esp
 Burnification.esp
 FleshBurninPlasma.esp
 
+\C
 CantaburyCommonsGuards.esp
 % {{BASH: Actors.ACBS}}
 CantaburyCommonsGuards - DTO.esp
@@ -2651,6 +2705,7 @@ CRAFT Improvised Weaponry - Unmodeled.esp
 CRAFT Improvised Weaponry - FOOK+FWE.esp
 : FOOK+FWE Merger
 
+\D
 DogmeatEssentialModv1.2.esp
 DogmeatEssentialToken.esp
 Move-Dogmeat.esp
@@ -2666,37 +2721,19 @@ Kick Dogmeat.esp
 Slof's Alsatian Dogmeat.esp
 DeadlyTurrets.esp
 
+\E
 
+\F
 Force Start The Pitt.esp
+Friendly Portable Turrets.esp
 
+\G
 GamefeverleveledListRaiders3.esp
 
+\H
+
+\I
 IgDRDeathclawGauntletFix.esp
-
-JHB House Robots Can Repair.esp
-jmschematics.esp
-
-KarmaRevamp1010.esp
-KarmaRevampExtreme1010.esp
-KarmaCannibalIncrease1010.esp
-KarmaChurchDecrease1010.esp
-KarmaHard1010.esp
-KarmaStealIncrease1010.esp
-KarmaThreshold1010.esp
-Ks_DynamicSneak.esp
-
-LaptopTerminals.esp
-LaptopTerminalsAnchorage.esp
-: Anchorage.esm
-LaptopTerminalsPointLookout.esp
-: PointLookout.esm
-LaptopTerminalsPitt.esp
-: ThePitt.esm
-LaptopTerminalsBrokenSteel.esp
-: BrokenSteel.esm
-LaptopTerminalsZeta.esp
-: Zeta.esm
-
 Improved Turrets.esp
 Improved Turret Hacking.esp
 ? Old. Upgrade to latest version.
@@ -2732,8 +2769,35 @@ Improved Turret Reprogramming - ALL.esp
 " Improved Turret Reprogramming - BS.esp
 " Improved Turret Reprogramming - Pitt.esp
 " Improved Turret Reprogramming - PL.esp
-Friendly Portable Turrets.esp
 
+\J
+JHB House Robots Can Repair.esp
+jmschematics.esp
+
+\K
+KarmaRevamp1010.esp
+KarmaRevampExtreme1010.esp
+KarmaCannibalIncrease1010.esp
+KarmaChurchDecrease1010.esp
+KarmaHard1010.esp
+KarmaStealIncrease1010.esp
+KarmaThreshold1010.esp
+Ks_DynamicSneak.esp
+
+\L
+LaptopTerminals.esp
+LaptopTerminalsAnchorage.esp
+: Anchorage.esm
+LaptopTerminalsPointLookout.esp
+: PointLookout.esm
+LaptopTerminalsPitt.esp
+: ThePitt.esm
+LaptopTerminalsBrokenSteel.esp
+: BrokenSteel.esm
+LaptopTerminalsZeta.esp
+: Zeta.esm
+
+\M
 Menu Based Hacking & Picking.esp
 ? DO not use with latest FWE, it is already integrated.
 More Ammo.esp
@@ -2747,12 +2811,19 @@ Slightly More Ammo (Explosive).esp
 Everso Slightly More Ammo.esp
 % {{BASH: Relev}}
 
+\N
 Nova Interaction Revised.esp
 
+\O
+
+\P
 PHIG_SteadyAim.esp
 PowerOfTheAtom_FOOKandFWE.esp
 PP - Less Paranoid NPCs.esp
 
+\Q
+
+\R
 RealFragGrenade.esp
 ? upgrade to RealFragGrenade3.esp
 " RealFragGrenade3.esp
@@ -2760,6 +2831,7 @@ RealFragGrenade3.esp
 " RealFragGrenade.esp
 ReneerInvisibleKarmaMod.esp
 
+\S
 safe_regulator_hq.esp
 Scavenger World - Updated v0.07.esp
 % {{BASH: Relev}}
@@ -2773,17 +2845,26 @@ SimpleSmokeo.esp
 Start_Energy_Weapon.esp
 % {{BASH: Invent}}
 
+\T
 TL Freeze.esp
 TL [Color].esp
 TL_Color.esp
 
+\U
+
+\V
 Vault 87 [Script Reversion].esp
 
+\W
 WRK - Plugin.esp
 % {{BASH: Invent, Relev}}
 
+\X
 XSIngestibles.esp
 
+\Y
+
+\Z
 ZORTS - Content Destruction - Normal.esp
 : Zumbs' Overhauled Real Time Security.esm
 " ZORTS - Content Destruction - Extreme.esp
@@ -3303,11 +3384,13 @@ Sgt. Rock.esp
 slaveraider.esp
 slaveraider_newlook.esp
 % {{BASH: Graphics}}
-
+SCC 187GURLZ.esp
+: Sharing and Caring Companions.esm
+Shojo Companions.esp
 
 \EndGroup\\
 
-\BeginGroup\: Vanilla NPCs into Campanions
+\BeginGroup\: Vanilla NPCs Become Campanions
 \-----------
 Better Companions Ess.esp
 Better Companions Clover Ess.esp
@@ -3349,6 +3432,10 @@ Fallout 3 Sexus - DLC The Pitt.esp
 Fallout 3 Sexus with Children Empire.esp
 Follower Amata ULTIMATE.esp
 Follower Autumn.esp
+FollowersHireContinued-KarmaCheck-NoCharismaCheck-NoCountCheck.esp
+FollowersHireContinued-CharismaCheck-KarmaCheck.esp
+FollowersHireContinued-CharismaCheck-NoKarmaCheck.esp
+FollowersHireContinued-NoChecks.esp
 
 JHBCloverPlus.esp
 NoKarmaCheckToBuyClover.esp
@@ -3554,10 +3641,18 @@ Sensible Dismemberment.esp
 
 \BeginGroup\: Later Misc
 \-----------
+\*
 1PipboyPDA.esp
+1stPersonKnockDowns VATS Working!.esp
 20thCWItemPlacement2.esp
 
+\A
+ACE2-0.esp
+ACE2-1b.esp
 Accurate Sniper Rifles.esp
+Action_Boy_hacking.esp
+All Companions Essential.esp
+% {{BASH: Actors.ACBS}}
 allspeak.esp
 allspeak0a.esp
 allspeaktp.esp
@@ -3566,10 +3661,14 @@ allspeakpl.esp
 allspeakmz.esp
 allspeakdlc.esp
 allspeakcreatures.esp
+Ammo Press Fix.esp
+AMPUTATE!.esp
+% {{BASH: Scripts}}
 AsharasPresets.esp
 Attentater's Wasteland Economy.esp
 % {{BASH: Names}}
 
+\Arwen's
 Arwen_Realism_Core.esp
 % {{BASH: Actors.CombatStyle, Actors.Stats, Destructible, Names, Relev, Sounds, Stats}}
 Arwen_GOTY_Realism_Core.esp
@@ -3607,11 +3706,37 @@ Arwen_EVE_Patch.esp
 Arwen_EVE_RH-IS_Patch.esp
 Arwen_RiPnO_Patch.esp
 Arwen_RiPnO_BLTC_Patch.esp
+Arwen_XPR_Extreme.esp
 
+\B
+BA_RepairVanilla.esp
+% {{BASH: Deflst}}
+BA_RepairVanillaXtras.esp
+BA_RepairAnchorage.esp
+BA_RepairAnchorageXtras.esp
+BA_RepairThePitt.esp
+% {{BASH: Deflst}}
+BA_RepairThePittXtras.esp
+BA_RepairBrokenSteel.esp
+BA_RepairBrokenSteelXtras.esp
+BA_RepairPointLookout.esp
+BA_RepairZeta.esp
+BA_RepairZetaXtras.esp
+BA_RepairGOTY.esp
+% {{BASH: Deflst}}
+BA_RepairGOTYXtras.esp
 BAN - Dupe This.esp
 bittercup_6.esp
 % {{BASH: Delev, Relev, ScriptContents}}
+BoS Diversification.esp
+BoS Diversification - Broken Steel.esp
+BOC Diversification.esp
+BOC Diversification - Operation Anchorage.esp
+Brahmin Cattles ENG v1 - FWE patch.esp
 
+\C
+Cliff's_Sellable_Body_Parts.esp
+ColeensTent.esp
 CombatEnhanced-Package v02.esp
 Core Robots - The Eyebots.esp
 : Anchorage.esm
@@ -3631,7 +3756,11 @@ Core Robots - The Robobrains.esp
 : BrokenSteel.esm
 : PointLookout.esm
 : Zeta.esm
+CrossRepairWeapons.esp
+CrossRepairArmor.esp
 
+\D
+Devour Gore.esp
 DLM_FFOutcastsQuest(FWEEd).esp
 DLM_FFOutcastsQuest_Override.esp
 : FO3 Wanderers Edition - Main File.esm
@@ -3648,17 +3777,68 @@ DLM_FFOutcastsQuest_Override-DLC.esp
 : DLM_FFOutcastsQuest(FWEEd).esp
 DWCRedux.esp
 
+\E
+Easier_hacking_5_8.esp
+? Choose only one of Easier_hacking_5_8.esp or Lucky_hacking_5.esp, not both
+Lucky_hacking_5.esp
+? Choose only one of Easier_hacking_5_8.esp or Lucky_hacking_5.esp, not both
+ek.BrokenSteel.esp
+EnduranceBasedHealthRegen.esp
+
+\F
+FaceMe-MMM.esp
+FaceMe-MMM Tougher Traders.esp
 Flashlight-Performance.esp
 Flashlight-LOS.esp
 Flashlight-LOS-nonFOSE.esp
 Flashlight-Performance-nonFOSE.esp
+FleshBurningPlasma.esp
 FasterMorePowerfulMines.esp
 FatmanExp.esp
+FourEyes.esp
 FreePumpkin-perk.esp
 FreePumpkin.esp
 
+\G
+Gifts4Kids.esp
+Gore_No_More.esp
+Ghouls Cohabitate.esp
+% {{BASH: ScriptContents}}
+GTent.esp
+GTent-MMM.esp
+: GTent.esp
+: Mart's Mutant Mod.esm
+GTent-FWE.esp
+: FO3 Wanderers Edition - Main File.esm
+: CRAFT.esm
+GTent-FWE-MMM.esp
+: GTent-FWE.esp
+: Mart's Mutant Mod.esm
+GTent-FWE-WMK.esp
+: GTent-FWE.esp
+: WeaponModKits.esp
+
+\H
+Hacking Cheat.esp
 HoloPipboyWristband.esp
 
+\I
+I'll Touch What I Want.esp
+infiltrations.esp
+% {{BASH: Scripts}}
+improved_glasses.esp
+improved_shades.esp
+improved_shades_zumbs.esp
+Inebriation.esp
+" Inebriation.esp
+Inebriation-FOSE.esp
+" Inebriation-FOSE.esp
+ipipextended.esp
+
+\J
+
+
+\K
 K9Breeds.esp
 K9BreedsMoreDogs.esp
 K9BreedsPatchDLCPitt.esp
@@ -3667,16 +3847,58 @@ K9BreedsPatchMMM.esp
 : Mart's Mutant Mod.esm
 : Mart's Mutant Mod.esp
 : K9Breeds.esp
+Keep Anchorage Equipment.esp
+KillableKids.esp
+? Choose only one 'KillableKids' ESP.
+KillableKidsOptional.esp
+? Choose only one 'KillableKids' ESP.
+KillableKidsNormalHealth.esp
+? Choose only one 'KillableKids' ESP.
+KillableKidsNormalHealthOptional.esp
+? Choose only one 'KillableKids' ESP.
+KillableKidsNoExtras.esp
+? Choose only one 'KillableKids' ESP.
+AttackableBrats.esp
+? Choose only one 'Brats' ESP.
+KillableBrats.esp
+? Choose only one 'Brats' ESP.
+BadAssBrats.esp
+? Choose only one 'Brats' ESP.
+KillableChildren.esp
+KillableChildren - MMM.esp
+KillableChildren - CotW.esp
+Kill and Loot Unconscious Essential NPCs.esp
+" Kill and Loot Unconscious Essential NPCs_NoGore.esp
+" Kill and Loot Unconscious Essential NPCs_FOSE.esp
+Kill and Loot Unconscious Essential NPCs_FOSE.esp
+" Kill and Loot Unconscious Essential NPCs.esp
+" Kill and Loot Unconscious Essential NPCs_NoGore.esp
+Kill and Loot Unconscious Essential NPCs_NoGore.esp
+" Kill and Loot Unconscious Essential NPCs.esp
+" Kill and Loot Unconscious Essential NPCs_FOSE.esp
+Knight Finley Companion.esp
+knockdowns.esp
 
-MiscWeightFix.esp
-% {{BASH: Stats}}
-
+\L
+Less_Blood.esp
 LightweightFoodSanitizer.esp
 % {{BASH: Stats}}
 LiteChemWearoffFX.esp
 
+\M
 Megaton Closes.esp
+MercenaryExpanded.esp
+MercenaryExpanded[MMM].esp
+MercenaryExpanded[WMK].esp
+MercenaryExpanded[M&W].esp
+Mighty Mouse Alternative 4.esp
+Misc Mod.esp
+MiscWeightFix.esp
+% {{BASH: Stats}}
 MrSlackPants-Explosions.esp
+MZAllAccessPass.esp
+: Zeta.esm
+MZ No Karma Loss.esp
 MZC Addon - Shorter Zeta DLC (turrets).esp
 : Zeta.esm
 MZC Addon - Shorter Zeta DLC.esp
@@ -3703,9 +3925,22 @@ MZC Addon - Gear Improv-All in One.esp
 MZC Addon-Olympus Armory.esp
 MZC Addon-Olympus Armory (forecefield).esp
 
+\N
+NippersWeaponNips.esp
+NippersArmorNips.esp
+NoQuestItems.esp
+NoTheftComments.esp
+NTFS.esp
+NVFAAPANoTex.esp
+
+\O
 Outcast Collection Agent Expanded.esp
 Outcast Collection Agent Expanded - DLC Plugin.esp
+oroLookoutFix.esp
+Owned!.esp
+% {{BASH: Factions}}
 
+\P
 PHIG_IncreasedLocationalDamage.esp
 PHIG_IncreasedDamageLITE.esp
 PHIG_IncreasedDamageLOWERLEVELHP.esp
@@ -3713,25 +3948,64 @@ PHIG_IncreasedArmor.esp
 PHIG_GunKnockdownsTOUGHERSUPERS.esp
 PHIG_GunKnockdownsSpecialScriptedEdition.esp
 PHIG_SteadyAimPERKONLY.esp
+Point Lookout Travel Fix.esp
+Portable Camp.esp
+PortableCampStuff - WMK.esp
+WeaponModKits - PortableCampStuff.esp
 PPA - Readius.esp
 : 1PipboyPDA.esp
 
+\Q
 QuantumForAll!.esp
 Quantum Fridge Maker.esp
 
-RTS_Life_Of_Raider_Addon.esp
-RTSpatch_RVW.esp
-RTSBeta0.1c_extension_FarmingBob1.2.1.esp
+\R
+RaiderExpanced.esp
+RaiderMercenaryExpanded.esp
+RaiderExpanded[MMM].esp
+RaiderMercenaryExpanded[MMM].esp
+RaiderExpanded[WMK].esp
+RaiderMercenaryExpanded[WMK].esp
+RaiderExpanded[M&W].esp
+RaiderMercenaryExpanded[M&W].esp
 RaiderGirls_vanilla_adult.esp
 RaiderGirls_vanilla_003.esp
 RaiderGirls_pitt.esp
 : ThePitt.esm
+Recoil.esp
 RebalancedFire-Vanilla.esp
 " RebalancedFire-BrokenSteel.esp
 RebalancedFire-BrokenSteel.esp
 : BrokenSteel.esm
 " RebalancedFire-Vanilla.esp
+repairfix.esp
+Updated XRepair.esp
+AnchoRepair.esp
+PittRepair.esp
+BSteelRepair.esp
+PLookoutRepair.esp
+MZetaRepair.esp
+RRRU +4 UFP.esp
+% {{BASH: Deflst}}
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+RRRU +4.esp
+% {{BASH: Deflst}}
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+RRV1 Bedroom Redecorated.esp
+RRQuests.esp
+RR Companion Vault Raider Attacks.esp
+RTS_Life_Of_Raider_Addon.esp
+RTSpatch_RVW.esp
+RTSBeta0.1c_extension_FarmingBob1.2.1.esp
 
+\S
+Savage Wasteland - Fewer Gun Wielding Maniacs.esp
 SbkTougherEnclave.esp
 Standard Weapon's Spread.esp
 Anchorage Weapon Spread.esp
@@ -3743,12 +4017,28 @@ ACRForFWE.esp
 SVDForFWE.esp
 MP5ForFWE.esp
 DTOForFWE.esp
+Sleep in any bed.esp
+ShellRain.esp
 SuperStimpak_effects.esp
 SuperStim.esp
 % {{BASH: Scripts}}
+SpeechLite.esp
+SpeechLiteDLC.esp
+SpeechLiteCombat.esp
+SpeechLiteCombatDLC.esp
+SpeechLiteCrime.esp
+SpeechLiteCrimeDLC.esp
+SpeechLiteCombatCrime.esp
+SpeechLiteCombatCrimeDLC.esp
+100% Speech.esp
+Speech,Hack and Max Level.esp
 SpiderAnts.esp
 % {{BASH: Relev}}
+StripClub.esp
+SunGlassesFX.esp
 
+\T
+T_R_A_S_C_H.esp
 T3T_OutcastTechSupport.esp
 T3T_AnchorageExtras.esp
 T3T_WeaponTweaks.esp
@@ -3768,12 +4058,29 @@ T3T_AT_CAS.esp
 T3T_BetterMegatonStorage.esp
 T3T_MiscItemIcons.esp
 ? Do not use with latest FWE, it is already integrated.
+TalkToAnybody.esp
+tacticalAmmo.esp
+teddybear_brothers.esp
+TenpennyGhoulsAtPeace.esp
+% {{BASH: ScriptContents}}
 The Mantis Imperative - Nasty Zeta.esp
 The Mantis Imperative - Nasty Zeta No Scaling.esp
 TSC Air Support.esp
 
+\U
+UsableCigarettes.esp
 Useful Wasteland Clipboards.esp
 
+\V
+vaps.esp
+vaps-automated-ammo-toolkit.esp
+vaps-broken-steel.esp
+vaps-point-lookout.esp
+vaps-fwe.esp
+vaps-marts-mutant-mod.esp
+VATS - MCE.esp
+VatsLongerDistance.esp
+Vault-Tec Experimental Dimensional Safe.esp
 VisionMod-Tom.esp
 A20 VisionFX.esp
 EnhVision.esp
@@ -3782,113 +4089,18 @@ EnhVisionHK.esp
 " EnhVision.esp
 Arwen_VisionFX.esp
 
-Zumbs' Smaller Condition Effect On Item Value.esp
-
-
-
-
-NVFAAPANoTex.esp
-Gore_No_More.esp
-Less_Blood.esp
-FeminizedPowerArmor.esp
-OAFeminizedPowerArmor.esp
-: Anchorage.esm
-TPFeminizedPowerArmor.esp
-: ThePitt.esm
-Arwen_XPR_Extreme.esp
-KillableKids.esp
-? Choose only one 'KillableKids' ESP.
-KillableKidsOptional.esp
-? Choose only one 'KillableKids' ESP.
-KillableKidsNormalHealth.esp
-? Choose only one 'KillableKids' ESP.
-KillableKidsNormalHealthOptional.esp
-? Choose only one 'KillableKids' ESP.
-KillableKidsNoExtras.esp
-? Choose only one 'KillableKids' ESP.
-AttackableBrats.esp
-? Choose only one 'Brats' ESP.
-KillableBrats.esp
-? Choose only one 'Brats' ESP.
-BadAssBrats.esp
-? Choose only one 'Brats' ESP.
-KillableChildren.esp
-KillableChildren - MMM.esp
-KillableChildren - CotW.esp
-Knight Finley Companion.esp
-UsableCigarettes.esp
-ipipextended.esp
-Easier_hacking_5_8.esp
-? Choose only one of Easier_hacking_5_8.esp or Lucky_hacking_5.esp, not both
-Lucky_hacking_5.esp
-? Choose only one of Easier_hacking_5_8.esp or Lucky_hacking_5.esp, not both
-Action_Boy_hacking.esp
-Hacking Cheat.esp
-StripClub.esp
-Keep Anchorage Equipment.esp
-Vault-Tec Experimental Dimensional Safe.esp
-Portable Camp.esp
-oroLookoutFix.esp
-FleshBurningPlasma.esp
-Misc Mod.esp
-Owned!.esp
-% {{BASH: Factions}}
-infiltrations.esp
-% {{BASH: Scripts}}
-FaceMe-MMM.esp
-FaceMe-MMM Tougher Traders.esp
-Gifts4Kids.esp
-NoTheftComments.esp
-RRV1 Bedroom Redecorated.esp
-RRQuests.esp
-RR Companion Vault Raider Attacks.esp
-All Companions Essential.esp
-FollowersHireContinued-KarmaCheck-NoCharismaCheck-NoCountCheck.esp
-FollowersHireContinued-CharismaCheck-KarmaCheck.esp
-FollowersHireContinued-CharismaCheck-NoKarmaCheck.esp
-FollowersHireContinued-NoChecks.esp
-T_R_A_S_C_H.esp
-SCC 187GURLZ.esp
-: Sharing and Caring Companions.esm
-Shojo Companions.esp
-Brahmin Cattles ENG v1 - FWE patch.esp
-teddybear_brothers.esp
-knockdowns.esp
-ek.BrokenSteel.esp
-1stPersonKnockDowns VATS Working!.esp
-Recoil.esp
-ShellRain.esp
-Kill and Loot Unconscious Essential NPCs.esp
-" Kill and Loot Unconscious Essential NPCs_NoGore.esp
-" Kill and Loot Unconscious Essential NPCs_FOSE.esp
-Kill and Loot Unconscious Essential NPCs_FOSE.esp
-" Kill and Loot Unconscious Essential NPCs.esp
-" Kill and Loot Unconscious Essential NPCs_NoGore.esp
-Kill and Loot Unconscious Essential NPCs_NoGore.esp
-" Kill and Loot Unconscious Essential NPCs.esp
-" Kill and Loot Unconscious Essential NPCs_FOSE.esp
-Zumbs' Console Mod.esp
-improved_glasses.esp
-improved_shades.esp
-improved_shades_zumbs.esp
-SunGlassesFX.esp
-ZumbsDarkerSunglasses.esp
-ZumbsDarkerSunglasses_no_replace.esp
-? Zumbs has asked you to rename this to ZumbsDarkerSunglasses.esp
-ZumbsDarkerSunglasses_screen_effect.esp
-? Zumbs has asked you to rename this to ZumbsDarkerSunglasses.esp
-FourEyes.esp
-MZAllAccessPass.esp
-ACE2-0.esp
-ACE2-1b.esp
-Mighty Mouse Alternative 4.esp
-Ammo Press Fix.esp
-tacticalAmmo.esp
+\W
+Weapon Repair Kits.esp
+% {{BASH: Relev}}
 Weighted Bottlecaps [Insane].esp
 Weighted Bottlecaps [Harsher].esp
 Weighted Bottlecaps [Normal].esp
 Weighted Bottlecaps [Yushatak Version].esp
-Point Lookout Travel Fix.esp
+Whose been sleeping in my Bed.esp
+
+\X
+
+\Y
 yaDisguisesMod.esp
 yaDisguisesMod-DLC-Anchorage.esp
 yaDisguisesMod-DLC-BrokenSteel.esp
@@ -3907,136 +4119,18 @@ yaDisguisesMod-MOD-FWE.esp
 : FO3 Wanaderers Edition - DLC Anchorage.esp
 : FO3 Wanaderers Edition - DLC Broken Steel.esp
 : yaDisguisesMod.esp
-TalkToAnybody.esp
-I'll Touch What I Want.esp
-Sleep in any bed.esp
-Whose been sleeping in my Bed.esp
-Ghouls Cohabitate.esp
-% {{BASH: ScriptContents}}
-TenpennyGhoulsAtPeace.esp
-% {{BASH: ScriptContents}}
-VATS - MCE.esp
-VatsLongerDistance.esp
-MZ No Karma Loss.esp
-NoQuestItems.esp
-FNNCQ_Mesmetron.esp
-Inebriation.esp
-" Inebriation.esp
-Inebriation-FOSE.esp
-" Inebriation-FOSE.esp
-Devour Gore.esp
-AMPUTATE!.esp
-% {{BASH: Scripts}}
-Cliff's_Sellable_Body_Parts.esp
-SpeechLite.esp
-SpeechLiteDLC.esp
-SpeechLiteCombat.esp
-SpeechLiteCombatDLC.esp
-SpeechLiteCrime.esp
-SpeechLiteCrimeDLC.esp
-SpeechLiteCombatCrime.esp
-SpeechLiteCombatCrimeDLC.esp
-100% Speech.esp
-Speech,Hack and Max Level.esp
-EnduranceBasedHealthRegen.esp
-BoS Diversification.esp
-BoS Diversification - Broken Steel.esp
-BOC Diversification.esp
-BOC Diversification - Operation Anchorage.esp
-RaiderExpanced.esp
-MercenaryExpanded.esp
-RaiderMercenaryExpanded.esp
-RaiderExpanded[MMM].esp
-MercenaryExpanded[MMM].esp
-RaiderMercenaryExpanded[MMM].esp
-RaiderExpanded[WMK].esp
-MercenaryExpanded[WMK].esp
-RaiderMercenaryExpanded[WMK].esp
-RaiderExpanded[M&W].esp
-MercenaryExpanded[M&W].esp
-RaiderMercenaryExpanded[M&W].esp
-Savage Wasteland - Fewer Gun Wielding Maniacs.esp
+
+\Z
 Zombie Apocalypse.esp
 Zombie Apocalypse - Point Lookout.esp
-NTFS.esp
-CrossRepairWeapons.esp
-CrossRepairArmor.esp
-repairfix.esp
-Updated XRepair.esp
-AnchoRepair.esp
-PittRepair.esp
-BSteelRepair.esp
-PLookoutRepair.esp
-MZetaRepair.esp
-NippersWeaponNips.esp
-NippersArmorNips.esp
-AnchoRepair.esp
-PittRepair.esp
-BSteelRepair.esp
-PLookoutRepair.esp
-MZetaRepair.esp
+Zumbs' Smaller Condition Effect On Item Value.esp
+Zumbs' Console Mod.esp
+ZumbsDarkerSunglasses.esp
+ZumbsDarkerSunglasses_no_replace.esp
+? Zumbs has asked you to rename this to ZumbsDarkerSunglasses.esp
+ZumbsDarkerSunglasses_screen_effect.esp
+? Zumbs has asked you to rename this to ZumbsDarkerSunglasses.esp
 
-BA_RepairVanilla.esp
-% {{BASH: Deflst}}
-BA_RepairVanillaXtras.esp
-BA_RepairAnchorage.esp
-BA_RepairAnchorageXtras.esp
-BA_RepairThePitt.esp
-% {{BASH: Deflst}}
-BA_RepairThePittXtras.esp
-BA_RepairBrokenSteel.esp
-BA_RepairBrokenSteelXtras.esp
-BA_RepairPointLookout.esp
-BA_RepairZeta.esp
-BA_RepairZetaXtras.esp
-BA_RepairGOTY.esp
-% {{BASH: Deflst}}
-BA_RepairGOTYXtras.esp
-
-Weapon Repair Kits.esp
-% {{BASH: Relev}}
-RRRU +4 UFP.esp
-% {{BASH: Deflst}}
-: Anchorage.esm
-: ThePitt.esm
-: BrokenSteel.esm
-: PointLookout.esm
-RRRU +4.esp
-% {{BASH: Deflst}}
-: Anchorage.esm
-: ThePitt.esm
-: BrokenSteel.esm
-: PointLookout.esm
-vaps.esp
-vaps-automated-ammo-toolkit.esp
-vaps-broken-steel.esp
-vaps-point-lookout.esp
-vaps-fwe.esp
-vaps-marts-mutant-mod.esp
-PortableCampStuff - WMK.esp
-WeaponModKits - PortableCampStuff.esp
-ColeensTent.esp
-GTent.esp
-GTent-MMM.esp
-: GTent.esp
-: Mart's Mutant Mod.esm
-GTent-FWE.esp
-: FO3 Wanderers Edition - Main File.esm
-: CRAFT.esm
-GTent-FWE-MMM.esp
-: GTent-FWE.esp
-: Mart's Mutant Mod.esm
-GTent-FWE-WMK.esp
-: GTent-FWE.esp
-: WeaponModKits.esp
-Better Caravans.esp
-Wasteland Travel Caravans.esp
-UpgradedCaravanMerchants.esp
-CaravanUpgrades.esp
-CarvanTrader.esp
-% {{BASH: Actors.ACBS, Actors.Stats, Invent, Names, R. Attributes-F, R. Attributes-M, R.Skills, Scripts}}
-CaravanEssential.esp
-Essential Caravan Merchants.esp
 \EndGroup\\
 
 \BeginGroup\: Phalanx
