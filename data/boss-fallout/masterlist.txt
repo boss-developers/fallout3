@@ -4324,6 +4324,8 @@ Fellout-Zeta.esp
 ? Do not use with latest FOOK2, it is already integrated.
 FelloutWithLightingOverhual-1.0.esp
 % {{BASH: C.Light}}
+FelloutNightsRestored.esp
+FelloutNightsRestored-PointLookout
 FOOK2 Nightvision for Fellout.esp
 Realistic Interior Lighting.esp
 % {{BASH: C.Light}}
