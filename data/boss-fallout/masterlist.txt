@@ -216,6 +216,7 @@ CrossModData.esm
 BHR&M.esm
 PB mika.esm
 >* Old. Download the latest Project Beauty files.
+K2_CompLance.esm
 Animy_prostitution.esm
 : CrossModData.esm
 sc_lovers_resource.esm
@@ -1416,9 +1417,12 @@ Wasteland Travel Caravans.esp
 \-----------
 HiVE.esp
 UNDCity.esp
+AbandonedOutpostv1.2.esp
 Arefu Player House.esp
 " ArefuExpandedByAzar.esm
 01AtM - Firefly Ranch.esp
+Barge.esp
+Home for the Weary.esp
 MiniHideout.esp
 SShop.esp
 UndergroundHideout.esp
@@ -1430,6 +1434,9 @@ UndergroundHideout_SY.esp
 : Zeta.esm
 : FNNsys.esm
 : UndergroundHideout.esp
+Vault 89 (player home) V1-35.esp
+% {{BASH: Scripts}}
+" FNNSys.esm
 Ashur's Palace Player room.esp
 UrgeSpringvaleHome.esp
 Cliff's_Residences Of DC - Player Version.esp
@@ -1473,9 +1480,13 @@ MegatonLights.esp
 megalight.esp
 ? Do not use with latest FOOK2, it is already integrated.
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+Location 1 (Megaton-V101).esp
+Location 2 (Fort Constantine).esp
 Moriarty's Saloon Fen chui Mod.esp
 Sandstorm.esp
 TpWasteThemeMod.esp
+Towers Hill.esp
+% {{BASH: Invent}}
 Carter_Fallout_Shelter.esp
 ParadiseHomePlugin.esp
 Vault64.esp
@@ -2028,6 +2039,10 @@ UH-FWE-WMK-DLC.esp
 20th Century Weapons Non-Changing Weapon Conditions.esp
 : CALIBR.esm
 : 20th Century Weapons.esm
+3EFskewer.esp
+% {{BASH: Stats}}
+44Magnum.esp
+% {{BASH: Deflst, Stats}}
 50CaliberSniperRifle.esp
 50CaliberSniperRifleAmmo.esp
 7_ISA -ec 10 mm Submachine Gun.esp
@@ -2045,6 +2060,8 @@ UH-FWE-WMK-DLC.esp
 
 \A
 A3-21-Focused.esp
+Accurate Assault Rifles 1.2.esp
+% {{BASH: Stats}}
 AddWanda_v2_blk_eot.esp
 % {{BASH: Invent}}
 AER10V2 Laser Rifle.esp
@@ -2052,6 +2069,8 @@ AlexScorpion's  and Weijiesen's Smoking Fun.esp
 % {{BASH: Invent}}
 AlexScorpion's and Weijiesen's Smoking Fun.esp
 % {{BASH: Invent}}
+alienblasterammo.esp
+% {{BASH: Stats}}
 Akira - Simple Silenced SMG.esp
 Ammo Press Calibrified.esp
 : ThePitt.esm
@@ -2290,6 +2309,7 @@ ZL-MP5 Pack.esp
 \-----------
 \*
 1SB_VenomousArmor.esp
+12BoltDivingHelmet.esp
 3EFdrg.esp
 3EFdrgplate.esp
 3EFhelmlessstealthsuit.esp
@@ -2516,6 +2536,7 @@ InvisArcadeIndustries_SweetSneak.esp
 SupremeRaiderArmor_Q.esp
 
 \O
+outcast_recon_armor.esp
 outcast_recon_armor_zeta.esp
 OutFits.esp
 
@@ -2524,6 +2545,11 @@ PEDress.esp
 Persona_and_Secret.esp
 Pikachoo.esp
 Powered Power Armor.esp
+Power Armor Revival.esp
+Power Armor Revival - Operation Anchorage.esp
+Power Armor Revival - The Pitt.esp
+Power Armor Revival - Broken Steel.esp
+Power Armor Revival - Advanced Power Armor.esp
 PPA - Operation Anchorage.esp
 : Anchorage.esm
 PPA - Broken Steel.esp
