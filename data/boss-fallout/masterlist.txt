@@ -371,6 +371,31 @@ QuickFix.esp
 BringBackBael.esp
 BlackWidowBurkeFix.esp
 % {{BASH: Scripts}}
+
+PyromaniacFix-Burnmaster.esp
+% {{BASH: Deflst}}
+? Do not use with Unofficial Fallout 3 Patch - Already Included
+PyromaniacFix-Burnmaster-BS.esp
+% {{BASH: Deflst}}
+: BrokenSteel.esm
+? Do not use with Unofficial Fallout 3 Patch - Already Included
+PyromaniacFix-Both.esp
+% {{BASH: Deflst}}
+? Do not use with Unofficial Fallout 3 Patch - Already Included
+PyromaniacFix-Both-BS.esp
+% {{BASH: Deflst}}
+: BrokenSteel.esm
+? Do not use with Unofficial Fallout 3 Patch - Already Included
+PyromaniacFix-Both+Nuka.esp
+% {{BASH: Deflst}}
+? Do not use with Unofficial Fallout 3 Patch - Already Included
+PyromaniacFix-Both+Nuka-BS.esp
+: BrokenSteel.esm
+% {{BASH: Deflst}}
+? Do not use with Unofficial Fallout 3 Patch - Already Included
+
+PlunkettsValidPointsRepairFix.esp
+
 MS11fix.esp
 % {{BASH: Actors.AIPackages, C.Light, Invent, Scripts}}
 Gnr Cleaned.esp
@@ -800,6 +825,8 @@ super_jump_perk.esp
 Bicurious.esp
 gender perks unlocked.esp
 Makes Sense Bounty Hunter 0.91.esp
+ImprovedCovertOpsPerk.esp
+: Anchorage.esm
 Ice Cold Nuka, Converted.esp
 : BrokenSteel.esm
 Almost Perfect Anytime Bobbleheads + No Level.esp
@@ -1415,53 +1442,100 @@ Wasteland Travel Caravans.esp
 
 \BeginGroup\: Places
 \-----------
-HiVE.esp
-UNDCity.esp
+01AtM - Firefly Ranch.esp
+99+2.esp
+
+A Ranger Shack.esp
+A Lore Friendly Megaton Home.esp
 AbandonedOutpostv1.2.esp
+AbandonedShack.esp
+AbramsOverpassTent.esp
+After War.esp
+Aghatas house v0.3.esp
+AliciasCuteShopDoorOverride.esp
+AndaleHouse.esp
 Arefu Player House.esp
 " ArefuExpandedByAzar.esm
-01AtM - Firefly Ranch.esp
-Barge.esp
-Home for the Weary.esp
-MiniHideout.esp
-SShop.esp
-UndergroundHideout.esp
-UndergroundHideout_SY.esp
-: Anchorage.esm
-: ThePitt.esm
-: BrokenSteel.esm
-: PointLookout.esm
-: Zeta.esm
-: FNNsys.esm
-: UndergroundHideout.esp
-Vault 89 (player home) V1-35.esp
-% {{BASH: Scripts}}
-" FNNSys.esm
 Ashur's Palace Player room.esp
-UrgeSpringvaleHome.esp
+
+B72v3-03.esp
+: Bunker72 v3.esm
+B72v3 Clutterfree.esp
+: Bunker72 v3.esm
+B72v3 Mainelevator timerswitch.esp
+: Bunker72 v3.esm
+Barge.esp
+B.B.G.esp
+Better Museum of History EN.esp
+BigTown - Outskirts.esp
+Big Town Overhaul.esp
+Big Town Overhaul [GangStore].esp
+Bonds Big Town.esp
+BusInWilderness.esp
+Built For The Future.esp
+
+CanterburyCommonsEmbiggened.esp
+Canterbury Estates 0.8 beta.esp
+CanterburyCommonsInteriors.esp
+Canterbury Commons Interiors Embiggened.esp
+Canterbury Boomtown.esp
+CEI - CaesarrulezExcessiveInteriorsEN.esp
+CEH_DLC02_03_Opt.esp
+CEH_DLC04_05_Opt.esp
+CEH_S_241J_Opt.esp
+CEH_Shojo_07_Opt.esp
+Cotozic'sVaultHomeGlobalPatch.esp
+csxBlastwaveRider.esp
+Carter_Fallout_Shelter.esp
 Cliff's_Residences Of DC - Player Version.esp
-K2_PlayWearClub.esp
+ClutterFreeWorld.esp
+
+DadsRCRoom.esp
 DCInteriors_ComboEdition.esp
 DCInteriors_Georgtown.esp
 DCInteriors_SewardSq.esp
 DCInteriors_Mason.esp
 DCInteriors_LEnfntPl.esp
 DCInteriors_DLC_Collectables.esp
-WIP_BigTown.esp
-Bonds Big Town.esp
+Death Canyon v3.esp
+
+FLAK.esp
+Farpost Hollow_v1.esp
+FIN-NWSeneca.esp
+Fallin3 South East Wasteland.esp
 FinchleyHeightsV1.0.esp
 FruitTrees.esp
-Trophies - Megaton.esp
-Trophies- Tenpenny.esp
-SDs Megaton House Trophies + Water Purifier Compatability Patch.esp
-Rivet City Realignment.esp
-Wadsworth-Prewar.esp
-RedTricycleBoot.esp
+
+GameForWilks.esp
+Ghoul Mansion v3.esp
+Ghoul Mansion v3.1.esp
+Greenerworld.esp
+GreenWorld.esp
+
+Home for the Weary.esp
+Hot n Dusty.esp
+HiVE.esp
+Hunters Ridge V3.esp
+Hunters Ridge V4.esp
+
+JL121RCAltDoor.esp
+Jury Street Metro Station Shelter.esp
+
+K2_PlayWearClub.esp
+Kaza's NorthwestSeneca.esp
+
+LevelersChamber.esp
+Location 1 (Megaton-V101).esp
+Location 2 (Fort Constantine).esp
+LookoutPointCamp.esp
+
+Madhswasteland.esp
+MCCALL_FriendsAreForever.esp
+Meresti Metro Station Entrance.esp
+Museum Station Bunker - 3.esp
+MiniHideout.esp
 MiniServants.esp
-After War.esp
-ClutterFreeWorld.esp
-RandomExtraTraps.esp
-B.B.G.esp
+MiniVault+.esp
 More2Megaton.esp
 : BrokenSteel.esm
 Megaton Tweaks 1.28 (no podium).esp
@@ -1480,141 +1554,122 @@ MegatonLights.esp
 megalight.esp
 ? Do not use with latest FOOK2, it is already integrated.
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
-Location 1 (Megaton-V101).esp
-Location 2 (Fort Constantine).esp
 Moriarty's Saloon Fen chui Mod.esp
+motelPL.esp
+Mole Rat Maze.esp
+MovinOnUp3.0.esp
+MyMansion.esp
+megbunker.esp
+Meet the Devs.ESP
+MegatonWeapons.esp
+Megaton jail and 101 safehouse_v2.esp
+
+OakleyRidge1_1.esp
+OutlookPoint.esp
+
+ParadiseHomePlugin.esp
+PeachCreekRuins.esp
+Pylon Home.esp
+potomac home.esp
+Princess Big Blue House.esp
+PersonalVertibird.esp
+Princess Rivet City House FIXED.esp
+RangerT HQ.esp
+ranger den.esp
+Riverboat Landing Merchant.esp
+: PointLookout.esm
+Riverside Apartments.esp
+RandomExtraTraps.esp
+RedTricycleBoot.esp
+Republic of Dave House.esp
+Rivet City Realignment.esp
+Rivet City Underworks 1.1.esp
+Rivet City Merchants.esp
+Rivet City Merchants With Point Lookout.esp
+: PointLookout.esm
+Rivetcityhotelupgrade.esp
+rivet city 2.esp
+Rivet City Apartment.esp
+RuinedOutposts.esp
+RockopolisRebuilt.esp
+Rat Trap v1.01.esp
+RobotFacility.esp
+
 Sandstorm.esp
+SDs Megaton House Trophies + Water Purifier Compatability Patch.esp
+SShop.esp
+SShopItems.esp
+SecuredBarn.esp
+Simple Camp.esp
+Submarine Wreck.esp
+Sanctum.esp
+Sanctum-Storage.esp
+Shack On The Beach.esp
+Solace.esp
+shopping-spree.esp
+scraphideST.esp
+
+Talon Outpost Expansion - Megaton.esp
+Talon Outpost Expansion - Rivet City.esp
+Talon Outpost Expansion - Arlington.esp
+Talon Outpost Expansion - Takoma.esp
+Talon Outpost Expansion - Canterbury Commons.esp
+The town of girdershade.esp
+Takoma Bank.esp
+TheRaiderHut.esp
+Toasty's Rooved Megaton, Holey Light.esp
+Tenpenny Suite.esp
+Trophies - Megaton.esp
+Trophies- Tenpenny.esp
 TpWasteThemeMod.esp
 Towers Hill.esp
 % {{BASH: Invent}}
-Carter_Fallout_Shelter.esp
-ParadiseHomePlugin.esp
+TestingRoom.esp
+TheSKINNYwearShopDC.esp
+: Anchorage.esm
+TunnelOutpost.esp
+: PointLookout.esm
+The Yard V1.3.esp
+The Yard v1.3 - Games Theme.esp
+The Yard V1.6 - The Lab.esp
+The Yard V1.5 - The Lab - No Items.esp
+The Dockside Inn.esp
+The Camp at Farpost.esp
+
+UndergroundHideout.esp
+UndergroundHideout_SY.esp
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+: Zeta.esm
+: FNNsys.esm
+: UndergroundHideout.esp
+Underworld Underground.esp
+UnderWorld House.esp
+Underground Home.esp
+UrgeSpringvaleHome.esp
+UNDCity.esp
+
 Vault64.esp
-Toasty's Rooved Megaton, Holey Light.esp
-Tenpenny Suite.esp
-B72v3-03.esp
-: Bunker72 v3.esm
-B72v3 Clutterfree.esp
-: Bunker72 v3.esm
-B72v3 Mainelevator timerswitch.esp
-: Bunker72 v3.esm
-Hot n Dusty.esp
-Greenerworld.esp
-GreenWorld.esp
+Vault 89 (player home) V1-35.esp
+% {{BASH: Scripts}}
+" FNNSys.esm
+VulturesRest.esp
+
+Wadsworth-Prewar.esp
+WIP_BigTown.esp
 WastelandRecovery0.esp
 WastelandRecovery1.esp
 WastelandRecovery2.esp
 WastelandRecovery3.esp
 WastelandRecovery4.esp
 WastelandRecovery5.esp
-Madhswasteland.esp
-AbandonedShack.esp
-RuinedOutposts.esp
-motelPL.esp
-AbramsOverpassTent.esp
-Death Canyon v3.esp
-FIN-NWSeneca.esp
-Fallin3 South East Wasteland.esp
-Mole Rat Maze.esp
-OutlookPoint.esp
-Pylon Home.esp
-Republic of Dave House.esp
-OakleyRidge1_1.esp
-MovinOnUp3.0.esp
-SecuredBarn.esp
-TheRaiderHut.esp
-Simple Camp.esp
-Ghoul Mansion v3.esp
-Ghoul Mansion v3.1.esp
-Kaza's NorthwestSeneca.esp
-Meresti Metro Station Entrance.esp
-BigTown - Outskirts.esp
-PeachCreekRuins.esp
-scraphideST.esp
-Talon Outpost Expansion - Megaton.esp
-BusInWilderness.esp
-LookoutPointCamp.esp
-AndaleHouse.esp
-VulturesRest.esp
-potomac home.esp
-Talon Outpost Expansion - Rivet City.esp
-Rivet City Underworks 1.1.esp
-Rivet City Merchants.esp
-Rivet City Merchants With Point Lookout.esp
-: PointLookout.esm
-Princess Rivet City House FIXED.esp
-Rivetcityhotelupgrade.esp
-Better Museum of History EN.esp
-Underworld Underground.esp
-UnderWorld House.esp
-LevelersChamber.esp
-Submarine Wreck.esp
-SShopItems.esp
-GameForWilks.esp
-rivet city 2.esp
-Rivet City Apartment.esp
-RangerT HQ.esp
-The town of girdershade.esp
-shopping-spree.esp
-CanterburyCommonsEmbiggened.esp
-Canterbury Estates 0.8 beta.esp
-CanterburyCommonsInteriors.esp
-Talon Outpost Expansion - Canterbury Commons.esp
-CanterburyCommonsInteriors.esp
-JL121RCAltDoor.esp
-Canterbury Boomtown.esp
-csxBlastwaveRider.esp
-ranger den.esp
-Riverboat Landing Merchant.esp
-: PointLookout.esm
-Museum Station Bunker - 3.esp
-Riverside Apartments.esp
+
 YevicsUrbanTownhome.esp
-Princess Big Blue House.esp
-Talon Outpost Expansion - Arlington.esp
-Talon Outpost Expansion - Takoma.esp
-Takoma Bank.esp
-Jury Street Metro Station Shelter.esp
-CEI - CaesarrulezExcessiveInteriorsEN.esp
-Built For The Future.esp
-AliciasCuteShopDoorOverride.esp
-MiniVault+.esp
-99+2.esp
-CEH_DLC02_03_Opt.esp
-CEH_DLC04_05_Opt.esp
-CEH_S_241J_Opt.esp
-CEH_Shojo_07_Opt.esp
-Cotozic'sVaultHomeGlobalPatch.esp
-The Yard V1.3.esp
-The Yard v1.3 - Games Theme.esp
-The Yard V1.6 - The Lab.esp
-The Yard V1.5 - The Lab - No Items.esp
-Underground Home.esp
-PersonalVertibird.esp
-FLAK.esp
-MyMansion.esp
-RockopolisRebuilt.esp
-Aghatas house v0.3.esp
-megbunker.esp
-RobotFacility.esp
-Meet the Devs.ESP
-MegatonWeapons.esp
-TestingRoom.esp
-TheSKINNYwearShopDC.esp
-: Anchorage.esm
-TunnelOutpost.esp
-: PointLookout.esm
-Sanctum.esp
-Sanctum-Storage.esp
-Shack On The Beach.esp
-Solace.esp
-Rat Trap v1.01.esp
-MCCALL_FriendsAreForever.esp
-DadsRCRoom.esp
+
 Zumbs' Improved Sniper Shack Home.esp
-Big Town Overhaul.esp
-Big Town Overhaul [GangStore].esp
-Canterbury Commons Interiors Embiggened.esp
+
 BA_WastelandRestoration.esp
 BA_WastelandRestoration_DLCs.esp
 : BA_WastelandRestoration.esp
