@@ -398,6 +398,9 @@ PyromaniacFix-Both+Nuka-BS.esp
 
 PlunkettsValidPointsRepairFix.esp
 
+DemolitionExpertFix-Nuka.esp
+? Do not use with Unofficial Fallout 3 Patch - Already Included
+
 MS11fix.esp
 % {{BASH: Actors.AIPackages, C.Light, Invent, Scripts}}
 Gnr Cleaned.esp
@@ -678,6 +681,8 @@ Achievements for All - Broken Steel.esp
 : BrokenSteel.esm
 Achievements for All - Point Lookout.esp
 : PointLookout.esm
+Reduced Dust Particles V01.esp
+Reduced Dust Particles V02.esp
 PCB.esp
 PurgeCellBuffers.esp
 Pause.esp
@@ -1040,6 +1045,7 @@ XSIngestPointLookout.esp
 WorkiingToilets.esp
 WorkingToilets.esp
 Scavenger World.esp
+
 RZW_SimpleGrab.esp
 0rb_BookSet1.esp
 0rb_ComicPack1.esp
@@ -1330,6 +1336,8 @@ CMRS - MMM.esp
 CMRS - Rebalanced Junk.esp
 BA_WRM.esp
 BA_WRM_ALT.esp
+
+StreetLightsaddendum.esp
 SS Weapons.esp
 SS Weapon Effects.esp
 SS Enhanced Combat Maneuvers.esp
@@ -1375,6 +1383,9 @@ CrowdedCities_v2_lessNPCs.esp
 A Crowded Wasteland.esp
 
 Essential Caravan Merchants.esp
+% {{BASH: Actors.ACBS}}
+Essential_Zeta_Allies.esp
+% {{BASH: Actors.ACBS}}
 EZ_MoreVoices.esp
 EZ_TempleOfCant.esp
 EZ_Ammo_Restriction.esp
@@ -1450,7 +1461,7 @@ Wasteland Travel Caravans.esp
 99+2.esp
 
 A Ranger Shack.esp
-A Lore Friendly Megaton Home.esp
+A Lore_Friendly Megaton Home.esp
 AbandonedOutpostv1.2.esp
 AbandonedShack.esp
 AbramsOverpassTent.esp
@@ -1460,6 +1471,10 @@ AliciasCuteShopDoorOverride.esp
 AndaleHouse.esp
 Arefu Player House.esp
 " ArefuExpandedByAzar.esm
+ArefuExpandedByAzar-FixMisc.esp
+ArefuExpandedByAzar-FixOptRemOld.esp
+ArefuExpandedByAzar-FixOptAddNew.esp
+ArefuExpandedByAzar-FixEyes.esp
 Ashur's Palace Player room.esp
 
 B72v3-03.esp
@@ -1637,7 +1652,7 @@ The Yard V1.3.esp
 The Yard v1.3 - Games Theme.esp
 The Yard V1.6 - The Lab.esp
 The Yard V1.5 - The Lab - No Items.esp
-The Dockside Inn.esp
+The Dockside Inn and Resort.esp
 The Camp at Farpost.esp
 
 UndergroundHideout.esp
@@ -2372,6 +2387,7 @@ ZL-MP5 Pack.esp
 \-----------
 \*
 [DC RANGER ARSENAL v3] - DLC SKIRMISHER HELM.esp
+[DC RANGER ARSENAL v3] - DLC GEAR.esp
 % {{BASH: Deflst}}
 : Anchorage.esm
 [DC RANGER ARSENAL v3] - ITEM GENERATOR.esp
@@ -2935,7 +2951,16 @@ safe_regulator_hq.esp
 Scavenger World - Updated v0.07.esp
 % {{BASH: Relev}}
 : PointLookout.esm
+? Outdated, update to v0.08
+Scavenger World - Updated v0.08.esp
+% {{BASH: Relev}}
+: PointLookout.esm
 Scavenger World - FWE Edition v0.07.esp
+% {{BASH: Relev}}
+: PointLookout.esm
+: FO3 Wanderers Edition - Main File.esm
+? Outdated, update to v0.08
+Scavenger World - FWE Edition v0.08.esp
 % {{BASH: Relev}}
 : PointLookout.esm
 : FO3 Wanderers Edition - Main File.esm
@@ -3436,6 +3461,8 @@ AmyWong - FOOK2 1.1.esp
 : FOOK2 - Main.ESM
 amywongmodmod.esp
 : AmyWong.esm
+ARC - Assembled Robotic Companions.esp
+% {{BASH: Invent, Stats}}
 
 RHKBrisaAlmodovar - Custom - Lings.esp
 : Lings.esm
@@ -3497,10 +3524,12 @@ Better Companions NonEss.esp
 bittercup_comp.esp
 BriannaCompanion.esp
 
+CompanionPowerup.esp
+
 CharonImproved.esp
 % {{BASH: Actors.AIPackages}}
 llama's Vanilla Followers for Charon Improved.esp
-% {{BASH: Actors.AIPackages}}
+% {{BASH: Actors.ACBS, Actors.AIPackages, Stats}}
 Get Your Cherry Back.esp
 % {{BASH: Actors.ACBS, Actors.AIPackages}}
 CompanionCherry.esp
