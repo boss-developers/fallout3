@@ -102,6 +102,8 @@ CFWRv4.esm
 20thCenturyWeapons.esm
 20th Century Weapons.esm
 WeaponRepairKits-Main.esm
+[DC RANGER ARSENAL v3 MASTER].esm
+% {{BASH: Deflst}
 CMRS.esm
 CFWR.esm
 % {{BASH: Delev, Graphics, Stats, Relev}}
@@ -1331,6 +1333,8 @@ BA_WRM_ALT.esp
 SS Weapons.esp
 SS Weapon Effects.esp
 SS Enhanced Combat Maneuvers.esp
+
+WC4campsites.esp
 \EndGroup\\
 
 \BeginGroup\: NPC
@@ -2163,6 +2167,8 @@ CS_LightsaberQuest - Objectives Patch.esp
 
 \D
 DanWessonPPC357(CALIBR).esp
+Drone Cannon Fix.esp
+% {{BASH: Graphics}}
 
 \E
 ERFatman50.esp
@@ -2290,6 +2296,8 @@ Uniqueweapons.esp
 VashDeagleV5.esp
 
 \W
+WattzLasers.esp
+% {{BASH: Delev, Stats, Relev}}
 Wattz Laser Weapons Mod.esp
 Wattz Laser Pistols Mod.esp
 Wattz Laser Non Replacer Mod.esp
@@ -2363,6 +2371,10 @@ ZL-MP5 Pack.esp
 \BeginGroup\: Armor\Clothes
 \-----------
 \*
+[DC RANGER ARSENAL v3] - DLC SKIRMISHER HELM.esp
+% {{BASH: Deflst}}
+: Anchorage.esm
+[DC RANGER ARSENAL v3] - ITEM GENERATOR.esp
 1SB_VenomousArmor.esp
 12BoltDivingHelmet.esp
 3EFdrg.esp
@@ -2438,6 +2450,8 @@ Cat Outfit Fanged.esp
 Cat Outfit Only.esp
 % {{BASH: Eyes}}
 ? Use either 'Cat Outfit Fanged.esp' or 'Cat Outfit Only.esp', not both.
+clearhelmets4radsuits.esp
+% {{BASH: Graphics}}
 Colossus Outcast.esp
 colossus BOS.esp
 Colossus Headgear.esp
@@ -2542,6 +2556,7 @@ jonasclothesnonrplcr.esp
 ? Choose only one of jonasclothesnonrplcr.esp or jonasclothesreplacer.esp, not both.
 jonasclothesreplacer.esp
 ? Choose only one of jonasclothesnonrplcr.esp or jonasclothesreplacer.esp, not both.
+jotoughgirlFO3.esp
 
 \K
 K2_ArmorsRedone_Raiders.esp
@@ -2583,6 +2598,7 @@ MZ-Weak-EbonTek.esp
 \N
 NaughtyRaiderArmor_EZStd.esp
 NAPA.esp
+Neo's Cowgirl.esp
 Neo's DOA Tina.esp
 Neo's DOA Christie.esp
 NEVECv1.esp
@@ -2644,6 +2660,8 @@ RaiderPowerArmor_no_lvl.esp
 SchoolUniforms.esp
 Scorpion_Queen_Type3.esp
 Scout Outfits.esp
+SimpleEyePatch.esp
+% {{BASH: Eyes, Invent}}
 Spartan Armor.esp
 StarWarsArmorV2.esp
 StealthArmorHelmLess.esp
@@ -4751,9 +4769,21 @@ The Groovatron_DLC_PL_Addon.esp
 
 \BeginGroup\:\ Body and head changes
 \-----------
+Josef Greys Kozaburo Hair Style for Fallout 3.esp
+
 AAAlbino_LingsBOG+eXcalibr.esp
+
+AinzBeautifuleEyes.esp
+% {{BASH: Eyes}}
+
+CUSTOM RACES.esp
+% {{BASH: Eyes, Hair}}
+DIM CUSTOM RACES V2.esp
+% {{BASH: Eyes, Hair}}
+
 EwwGhoulyBody.esp
 % {{BASH: Body-F}}
+
 RaiderDiversity.esp
 \EndGroup\\
 
@@ -4989,6 +5019,7 @@ Fallout 3 Master Fix - Mothership Crew.esp
 Fallout 3 Master Fix - Fellout.esp
 Fallout 3 Master Fix - Realistic Interior Lighting.esp
 Fallout 3 Master Fix - Enhanced Dynamic Weather.esp
+Fallout 3 Master Fix - Xepha's Dynamic Weather.esp
 \EndGroup\\
 
 ? Do NOT use Master Updater on this mod
