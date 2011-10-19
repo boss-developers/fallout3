@@ -142,6 +142,8 @@ RoadWardens.esm
 % {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.Stats, Factions, Invent, Scripts, ScriptContents}}
 EVE.esm
 % {{BASH: Graphics, Invent, Sound, Scripts}}
+EWE Energy Weapons Enhanced.esm
+% {{BASH: Deflst, Graphics, Invent, Relev, Stats, Scripts}}
 Apocalypse Armory.esm
 FOOK2 - Main.esm
 % {{BASH: Invent, Stats, Relations, Factions}}
@@ -2190,6 +2192,8 @@ ERFatman50.esp
 ERFatman50only.esp
 ERFatman75.esp
 ERFatman75only.esp
+EWE Supermutant Energy Weapons.esp
+% {{BASH: Relev}}
 
 \F
 F3RWPMolotovCocktail-0_1.esp
@@ -3912,6 +3916,10 @@ Lucky_hacking_5.esp
 ? Choose only one of Easier_hacking_5_8.esp or Lucky_hacking_5.esp, not both
 ek.BrokenSteel.esp
 EnduranceBasedHealthRegen.esp
+EWE Load Order Fix.esp
+EWE Stormfront Studios Load Order Fix.esp
+EWE DLC Addon.esp
+% {{BASH: Deflst, Graphics, Stats}}
 
 \F
 FaceMe-MMM.esp
