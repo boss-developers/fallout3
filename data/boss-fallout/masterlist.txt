@@ -1545,6 +1545,7 @@ Jury Street Metro Station Shelter.esp
 K2_PlayWearClub.esp
 Kaza's NorthwestSeneca.esp
 
+LadyFrumperton.esp
 LevelersChamber.esp
 Location 1 (Megaton-V101).esp
 Location 2 (Fort Constantine).esp
@@ -2259,6 +2260,7 @@ More308Ammo.esp
 MPammo.esp
 
 \N
+New Blackhawk.esp
 NewKnives.esp
 
 \O
@@ -2313,6 +2315,7 @@ Uniqueweapons.esp
 
 \V
 VashDeagleV5.esp
+Vibroblade.esp
 
 \W
 WattzLasers.esp
