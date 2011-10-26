@@ -129,6 +129,8 @@ CubeExperimental (EN).esm
 Project Genesis.esm
 RatTrapRemastered.esm
 NewCairo.esm
+GNRBuilding_BoS.esm
+% {{BASH: Invent}}
 All Your Bananas.esm
 Mothership Crew.esm
 TSC Air Support.esm
@@ -1530,6 +1532,7 @@ FruitTrees.esp
 GameForWilks.esp
 Ghoul Mansion v3.esp
 Ghoul Mansion v3.1.esp
+GNRBuilding_Studio.esp
 Greenerworld.esp
 GreenWorld.esp
 
@@ -4860,6 +4863,16 @@ AAAAlbino_LingsBOG.esp
 \-----------
 AmyWong - Load Order Fix.esp
 : AmyWong.esm
+
+Ling_FWE_MMM.esp
+: ThePitt.esm
+: BrokenSteel.esm
+: Lings.esm
+: FO3 Wanderers Edition - Main File.esm
+: Mart's Mutant Mods.esm
+: LingsFinerThings.esm
+: LingsPrettyThings.esp
+
 RobCo Certified - FWE EVE Balance.esp
 RobCo Certified - FWE EVE Balance Light.esp
 RobCo Certified v2 EVE.esp
@@ -4877,7 +4890,9 @@ RobCo Certified v2 Impervious FWE.esp
 : RobCo Certified v2.esm
 RobCo Certified v2 Impervious for FWE.esp
 : RobCo Certified v2.esm
+
 Destruction - CP - Fellout.esp
+
 FNNIguana - MMM.esp
 : FNNIguana.esm
 : Mart's Mutant Mod.esm
@@ -4908,10 +4923,13 @@ FNNsys - FWE.esp
 % {{BASH: Scripts}}
 FNNsys start inventory.esp
 : FNNsys.esm
+
 Impervious Power Armour- FWE Fixer.esp
 JHBCloverPlusOverride.esp
+
 Sydney Follower - Load Order Fix.esp
 JHBSydneyUpdate.esp
+
 xCALIBRuniverse.esp
 % {{BASH: Actors.DeathItems, Delev, Names, Graphics, Invent, Relev, Sound, Stats}}
 xCALIBR - Alternative Path.esp
@@ -4961,6 +4979,7 @@ xCALIBR_20CW_v5.12.esp
 : CALIBR.esm
 : xCALIBR.esm
 : 20th Century Weapons.esm
+
 FWE+WMK_weapons_xCALIBRified.esp
 % {{BASH: Names, Graphics, Stats}}
 FWE(v.5.04)+WMK_weapons_xCALIBRified.esp
@@ -4978,19 +4997,24 @@ frederyck+FWE+xCALIBR.esp
 : xCALIBR.esm
 : WeaponModKits.esp
 : WeaponModKits - FWE Master Release.esp
+
 Compatibility_Plugin_TalonExtraArmor_FWE_BrokenSteel.esp
 % {{BASH: Delev, Relev}}
 Compatibility Plugin00 TalonCo & Marts.esp
 Compatibility Plugin01 PunisherGear & TalonCo.esp
+
 UPP - NaturalBornSniper WMK compatibility.esp
+
 Choose your own hairstyle (load this last on FOMM).esp
 % {{BASH: NPC.Race, NpcFaces, Hair, Eyes}}
+
 tubunarFWE.esp
 tubunarCombatFWE.esp
 AAAlbino Player Race - MQ to BS Fix.esp
 CRBSOR.esp
 ? Do not use with latest FWE, it is already integrated.
 CRBSOR [Achievements Removed].esp
+
 MMM-Zeta crash fix.esp
 MMM-FWE fix.esp
 Merged.esp
@@ -4998,6 +5022,7 @@ Merged.esp
 Merged Patch.esp
 % {{BASH: NoMerge}}
 Override.esp
+
 xCALIBRammo_override.esp
 % {{BASH: Names, Graphics}}
 \EndGroup\\
