@@ -102,6 +102,8 @@ CFWRv4.esm
 20thCenturyWeapons.esm
 20th Century Weapons.esm
 WeaponRepairKits-Main.esm
+Weapon Repair Kits - Final.esm
+
 [DC RANGER ARSENAL v3 MASTER].esm
 % {{BASH: Deflst}
 CMRS.esm
@@ -1250,9 +1252,13 @@ BM22CelestialSphere.esp
 QuantumPipeV2.esp
 Mark and recall.esp
 Twinkies.esp
+
 MoreMapMarkers.esp
 GPS Tracking.esp
 rockopolisandabandonedtentmapmarker.esp
+PL More map markers.esp
+: PointLookout.esm
+
 MaxLevelWorkaround-HP-BS.esp
 WastelandMastery.esp
 SkillCheck.esp
@@ -1579,6 +1585,7 @@ MegatonLights.esp
 megalight.esp
 ? Do not use with latest FOOK2, it is already integrated.
 ? Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+MLights.esp
 Moriarty's Saloon Fen chui Mod.esp
 motelPL.esp
 Mole Rat Maze.esp
@@ -1669,6 +1676,9 @@ UndergroundHideout_SY.esp
 : PointLookout.esm
 : Zeta.esm
 : FNNsys.esm
+: UndergroundHideout.esp
+DALCO Fixes for Underground Hideout.esp
+: BrokenSteel.esm
 : UndergroundHideout.esp
 Underworld Underground.esp
 UnderWorld House.esp
@@ -2005,6 +2015,7 @@ Fallout3Tactics Quests.esp
 Fallout3Tactics Weapons.esp
 Fallout3Tactics Weather.esp
 Fallout3Tactics Citys.esp
+
 Refurbishes [ALL].esp
 ? Do not use with latest FOOK2, it is already integrated.
 Refurbish [OA].esp
@@ -2024,6 +2035,8 @@ Refurbish [PL].esp
 Refurbish [MZ].esp
 ? Do not use with latest FOOK2, it is already integrated.
 " Refurbishes [ALL].esp
+
+FO3toFPS.esp
 \EndGroup\\
 \EndGroup\\ Overhauls
 
@@ -2295,6 +2308,8 @@ Saiga-12 Combat Shotgun Override Broken Steel.esp
 Saiga-12 Combat Shotgun Override The Pitt.esp
 : ThePitt.esm
 ShishkebabWithoutGlove.esp
+Silenced DKS-501.esp
+% {{BASH: Deflst, Invent, Names, Relev, Stats}}
 SilencedSniperRiflesStd.esp
 SilencedSniperRiflesUnq.esp
 SnakesBandana.esp
@@ -3142,6 +3157,7 @@ ImmersiveHealth.esp
 ImmersiveHealth-LITE.esp
 AfrosNukaCola.esp
 % {{BASH: Graphics, Stats}}
+
 Bottle That Water.esp
 {{BASH: Scripts}}
 Bottle That Water Alternative.esp
@@ -3153,6 +3169,10 @@ Bottle That Water Alternative - Option B - BS.esp
 FWE-PN_BTWA_fix.esp
 AddBottle.esp
 ? DO not use with latest FWE or RI - Primary Needs, it is already integrated.
+
+Empty Nuka-Cola Quantum Bottles.esp
+% {{BASH: Names}}
+
 Persistent Skill Books.esp
 ? DO not use with latest FWE, it is already integrated.
 FalloutFood.esp
@@ -4235,6 +4255,11 @@ Arwen_VisionFX.esp
 \W
 Weapon Repair Kits.esp
 % {{BASH: Relev}}
+WRK Final - Plugin.esp
+% {{BASH: Invent, Relev}}
+WRK Final - Point Lookout.esp
+% {{BASH: Invent}}
+: PointLookout.esm
 Weighted Bottlecaps [Insane].esp
 Weighted Bottlecaps [Harsher].esp
 Weighted Bottlecaps [Normal].esp
@@ -4397,6 +4422,9 @@ dD-Reduced Ragdoll Force.esp
 dD-Reduced Dismember Force.esp
 dD-Smaller Wounds.esp
 dD-Smaller Spatters.esp
+
+ImaginatorFO3.esp
+
 Realistic Death Physics.esp
 ? Do not use with latest FWE, it is already integrated.
 REAL-ThirdViewMod.esp
@@ -5086,6 +5114,12 @@ Fallout 3 Master Fix - Fellout.esp
 Fallout 3 Master Fix - Realistic Interior Lighting.esp
 Fallout 3 Master Fix - Enhanced Dynamic Weather.esp
 Fallout 3 Master Fix - Xepha's Dynamic Weather.esp
+
+Fallout Remastered.esp
+" Fallout 3 Master Fix.esp
+" James Invisible Walls Remover.esp
+Fallout Remastered - Mart's Mutants Mod.esp
+Fallout Remastered - EVE (PI Merge).esp
 \EndGroup\\
 
 ? Do NOT use Master Updater on this mod
