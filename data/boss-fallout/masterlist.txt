@@ -3845,6 +3845,7 @@ Arwen_EVE_RH-IS_Patch.esp
 Arwen_RiPnO_Patch.esp
 Arwen_RiPnO_BLTC_Patch.esp
 Arwen_XPR_Extreme.esp
+Arwen_Brahamin_Med-Tec_Patch.esp 
 
 \B
 BA_RepairVanilla.esp
