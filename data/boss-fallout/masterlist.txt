@@ -3607,9 +3607,6 @@ FEM - UF3 enabler.esp
 : FEM.esm
 FEMed TYPE3 Cloths.esp
 Frazzled.esp
-Fallout 3 Sexus Enemies.esp
-Fallout 3 Sexus - DLC The Pitt.esp
-Fallout 3 Sexus with Children Empire.esp
 Follower Amata ULTIMATE.esp
 Follower Autumn.esp
 FollowersHireContinued-KarmaCheck-NoCharismaCheck-NoCountCheck.esp
@@ -3983,6 +3980,16 @@ FatmanExp.esp
 FourEyes.esp
 FreePumpkin-perk.esp
 FreePumpkin.esp
+
+\Fallout 3 Sexus
+Fallout 3 Sexus Enemies.esp
+Fallout 3 Sexus - DLC The Pitt.esp
+Fallout 3 Sexus with Children Empire.esp
+? Obsolete. Update to latest version.
+sexus_no_trouble_for3_0_2.esp
+: Fallout 3 Sexus.esm
+zzzSexusParasiteAddon.esp
+: Fallout 3 Sexus.esm
 
 \G
 Gifts4Kids.esp
