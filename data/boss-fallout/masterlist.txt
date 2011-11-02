@@ -1026,6 +1026,7 @@ Regulators _Overhaul_lvl2.esp
 " Regulators _Overhaul_lvl7.esp
 " Regulators.esp
 
+Skip Little Lampshit.esp
 SOL.esp
 
 Tenpenny Tower true peace.esp
@@ -1183,6 +1184,9 @@ BlackWolf Backpack - Vanilla Big Guns Fix.esp
 BlackWolf Backpack - Anchorage Gauss Rifle Fix.esp
 BlackWolf Backpack - Zeta Drone Cannon Fix.esp
 Blank's Container Backpack (BlackWolf Backpack Plugin).esp
+Blank's Container Backpack (Fook Plugin).esp
+: CALIBR.esm
+: FOOK.esm
 BlackWolf Backpack - Blank's Container Patch.esp
 Backpacks - SedPL.esp
 GunnySack.esp
@@ -2507,6 +2511,7 @@ Cat Outfit Only.esp
 ? Use either 'Cat Outfit Fanged.esp' or 'Cat Outfit Only.esp', not both.
 clearhelmets4radsuits.esp
 % {{BASH: Graphics}}
+Cobra.esp
 Colossus Outcast.esp
 colossus BOS.esp
 Colossus Headgear.esp
@@ -2734,6 +2739,7 @@ Tactical Vest CIRAS.esp
 Tactical Vest CIRAS - Vendor Restock Script.esp
 TalonExtraArmor.esp
 Tattered_suits.esp
+TeddyPacks.esp
 Tesla Metal Armor.esp
 " Tesla Metal Armor (Extended).esp
 " Tesla Light Armor Redone.esp
