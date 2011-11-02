@@ -4874,7 +4874,7 @@ The Groovatron_DLC_PL_Addon.esp
 \-----------
 \Hair, eyes, race addons & changes and other cosmetics.
 
-\BeginGroup\:\ Body and head changes
+\BeginGroup\: Body and head changes
 \-----------
 Josef Greys Kozaburo Hair Style for Fallout 3.esp
 
@@ -5149,12 +5149,24 @@ Fallout 3 Master Fix - Fellout.esp
 Fallout 3 Master Fix - Realistic Interior Lighting.esp
 Fallout 3 Master Fix - Enhanced Dynamic Weather.esp
 Fallout 3 Master Fix - Xepha's Dynamic Weather.esp
+\EndGroup\\
 
+\BeginGroup\: Fallout Remastered
 Fallout Remastered.esp
 " Fallout 3 Master Fix.esp
 " James Invisible Walls Remover.esp
-Fallout Remastered - Mart's Mutants Mod.esp
+Fallout Remastered - Mothership Crew.esp
+Fallout Remastered - FWE.esp
 Fallout Remastered - EVE (PI Merge).esp
+Fallout Remastered - Mart's Mutants Mod.esp
+
+Fallout Remastered - DCStreet.esp
+Fallout Remastered - RIL.esp
+Fallout Remastered - Scavenger World + FWE.esp
+Fallout Remastered - Fellout.esp
+
+Fallout Remastered - Xepha's Dynamic Weather.esp
+Fallout Remastered - Xepha's Darkened Interiors.esp
 \EndGroup\\
 
 ? Do NOT use Master Updater on this mod
