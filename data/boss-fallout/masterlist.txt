@@ -751,6 +751,7 @@ Ol Hick Radio.esp
 
 People_Radio.esp
 
+R.A.C.E. Station.esp
 RadioBlues.esp
 RadioTenpenny.esp
 ReneersRadioMod.esp
@@ -1544,6 +1545,11 @@ DCInteriors_SewardSq.esp
 DCInteriors_Mason.esp
 DCInteriors_LEnfntPl.esp
 DCInteriors_DLC_Collectables.esp
+DCStreet.esp
+? Only use DCStreet.esp or DCStreet - BS.esp - NOT Both
+DCStreet - BS.esp
+: BrokenSteel.esm
+? Only use DCStreet.esp or DCStreet - BS.esp - NOT Both
 Death Canyon v3.esp
 
 FLAK.esp
@@ -4568,6 +4574,19 @@ URWLRain.esp
 % {{BASH: C.Climate, C.Light}}
 NColorDCInteriors.esp
 % {{BASH: C.Light}}
+Xepha's Darkened Interiors.esp
+% {{BASH: C.Light}}
+Xepha's Darkened Interiors - OA.esp
+% {{BASH: C.Light}}
+: Anchorage.esm
+Xepha's Darkened Interiors - BS.esp
+% {{BASH: C.Light}}
+: BrokenSteel.esm
+? Manditory if using BrokenSteel.esm
+Xepha's Darkened Interiors - PL.esp
+% {{BASH: C.Light}}
+: PointLookout.esm
+
 Xepha's Dynamic Weather - Main.esp
 % {{BASH: C.Climate}}
 Xepha's Dynamic Weather - Anchorage.esp
