@@ -4473,8 +4473,6 @@ dD-Reduced Dismember Force.esp
 dD-Smaller Wounds.esp
 dD-Smaller Spatters.esp
 
-ImaginatorFO3.esp
-
 Realistic Death Physics.esp
 ? Do not use with latest FWE, it is already integrated.
 REAL-ThirdViewMod.esp
@@ -4724,6 +4722,9 @@ Level 3 Alot More Color.esp
 Wasteland Weather Overhaul .9 Level 1 Color.esp
 Wasteland Weather Overhaul .9 Level 2 Color.esp
 Wasteland Weather Overhaul .9 Level 3.esp
+
+ImaginatorFO3.esp
+
 \EndGroup\\
 
 \BeginGroup\: Lastish
