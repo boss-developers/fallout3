@@ -1540,6 +1540,7 @@ csxBlastwaveRider.esp
 Carter_Fallout_Shelter.esp
 Cliff's_Residences Of DC - Player Version.esp
 ClutterFreeWorld.esp
+Cleaned Rivet City.esp
 
 DadsRCRoom.esp
 DCInteriors_ComboEdition.esp
