@@ -380,6 +380,7 @@ QuickFix.esp
 : PointLookout.esm
 : Zeta.esm
 BringBackBael.esp
+? Obsolete - Now intergrated into Fallout Remastered.esp, upgrade to latest version
 BlackWidowBurkeFix.esp
 % {{BASH: Scripts}}
 
@@ -2185,6 +2186,7 @@ UH-FWE-WMK-DLC.esp
 : CALIBR
 : 20th Century Weapons.esm
 7_HolsterForHandGunsV1_1.esp
+% {{BASH: Invent}}
 
 \A
 A3-21-Focused.esp
@@ -5199,12 +5201,15 @@ Fallout Remastered.esp
 " Fallout 3 Master Fix.esp
 " James Invisible Walls Remover.esp
 Fallout Remastered - Mothership Crew.esp
+Fallout Remastered - Project Beauty.esp
 Fallout Remastered - FWE.esp
 Fallout Remastered - EVE (PI Merge).esp
 Fallout Remastered - Mart's Mutants Mod.esp
 
 Fallout Remastered - DCStreet.esp
 Fallout Remastered - RIL.esp
+Fallout Remastered - Breeze Armor.esp
+
 Fallout Remastered - Scavenger World + FWE.esp
 Fallout Remastered - Fellout.esp
 
