@@ -659,6 +659,7 @@ RH_IronSights_PL_NewItems.esp
 RH_IronSights_Vanilla_BetterUniques.esp
 RH_IronSights_Vanilla_NewWeapons.esp
 EVE - RH Ironsights Patch.esp
+% {{BASH: Graphics}}
 sc_slaves_stick_around.esp
 sc_slaves_stick_around_original_mezz.esp
 sc_slaves_stick_around_original_mezz_chance.esp
@@ -1005,7 +1006,7 @@ NotSoFastFOOK.esp
 Orion's Gate - Interiors.esp
 
 PLweightadjust.esp
-% {{BASH: Scripts, Stats}}
+% {{BASH: Invent, Scripts, Stats}}
 : PointLookout.ESM
 PLFewerItems.esp
 : PointLookout.ESM
@@ -1326,6 +1327,7 @@ Destruction - DLC.esp
 Destruction - DLC - Statics.esp
 DESTRUCt61SP.ESP
 Classic Fallout Weapons BETA.esp
+% {{BASH: Invent, Relev}}
 BusworldV1.05.esp
 ? Possible cause of CTDs, try disabling to test for improvments, or try BusworldV1.05noexpl.esp
 BusworldV1.05noexpl.esp
@@ -2800,7 +2802,7 @@ Type3Clothes.esp
 \V
 vaultgirlnp.esp
 vaultgirlrp.esp
-% {{BASH: Invent}}
+% {{BASH: Graphics, Invent}}
 
 \W
 WaldosOutfit.esp
@@ -3882,9 +3884,11 @@ Attentater's Wasteland Economy.esp
 Arwen_Realism_Core.esp
 % {{BASH: Actors.CombatStyle, Actors.Stats, Destructible, Names, Relev, Sound, Stats}}
 Arwen_GOTY_Realism_Core.esp
+% {{BASH: NoMerge}}
 Arwen_Hard-Core.esp
 % {{BASH: Actors.CombatStyle, Actors.Stats, Destructible, Names, Relev, Stats}}
 Arwen_GOTY_Hard-Core.esp
+% {{BASH: NoMerge}}
 Arwen_FULL_Tweaks.esp
 Arwen_Skills.esp
 Arwen_Armor.esp
@@ -3905,8 +3909,9 @@ Arwen_Weapons.esp
 " Arwen_FULL_Tweaks.esp
 Arwen_Encumbrance.esp
 Arwen_Med-Tec.esp
+% {{BASH: Names}}
 Arwen_GOTY_Med-Tec.esp
-% {{BASH: Relev}}
+% {{BASH: Names, Relev, Stats}}
 Arwen_MMM_Med-Tec_Patch.esp
 % {{BASH: Relev, Scripts}}
 Arwen_MMM_Patch.esp
