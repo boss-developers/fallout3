@@ -3881,49 +3881,6 @@ AsharasPresets.esp
 Attentater's Wasteland Economy.esp
 % {{BASH: Names}}
 
-\Arwen's
-Arwen_Realism_Core.esp
-% {{BASH: Actors.CombatStyle, Actors.Stats, Destructible, Names, Relev, Sound, Stats}}
-Arwen_GOTY_Realism_Core.esp
-% {{BASH: NoMerge}}
-Arwen_Hard-Core.esp
-% {{BASH: Actors.CombatStyle, Actors.Stats, Destructible, Names, Relev, Stats}}
-Arwen_GOTY_Hard-Core.esp
-% {{BASH: NoMerge}}
-Arwen_FULL_Tweaks.esp
-Arwen_Skills.esp
-Arwen_Armor.esp
-" Arwen_FULL_Tweaks.esp
-Arwen_Less_Is_More.esp
-" Arwen_FULL_Tweaks.esp
-Arwen_Less-Is-More.esp
-" Arwen_FULL_Tweaks.esp
-Arwen_Localized_Damage.esp
-" Arwen_FULL_Tweaks.esp
-Arwen_SmarterAI.esp
-" Arwen_FULL_Tweaks.esp
-Arwen_Survival.esp
-" Arwen_FULL_Tweaks.esp
-Arwen_Tweaks_Main.esp
-" Arwen_FULL_Tweaks.esp
-Arwen_Weapons.esp
-" Arwen_FULL_Tweaks.esp
-Arwen_Encumbrance.esp
-Arwen_Med-Tec.esp
-% {{BASH: Names}}
-Arwen_GOTY_Med-Tec.esp
-% {{BASH: Names, Relev, Stats}}
-Arwen_MMM_Med-Tec_Patch.esp
-% {{BASH: Relev, Scripts}}
-Arwen_MMM_Patch.esp
-% {{BASH: Scripts}}
-Arwen_EVE_Patch.esp
-% {{BASH: Graphics, Sound, Stats}}
-Arwen_EVE_RH-IS_Patch.esp
-Arwen_RiPnO_Patch.esp
-Arwen_RiPnO_BLTC_Patch.esp
-Arwen_XPR_Extreme.esp
-Arwen_Brahamin_Med-Tec_Patch.esp
 
 \B
 BA_RepairVanilla.esp
@@ -4366,6 +4323,54 @@ ZumbsDarkerSunglasses_no_replace.esp
 ? Zumbs has asked you to rename this to ZumbsDarkerSunglasses.esp
 ZumbsDarkerSunglasses_screen_effect.esp
 ? Zumbs has asked you to rename this to ZumbsDarkerSunglasses.esp
+
+\EndGroup\\
+
+\BeginGroup\: Arwen's Realism Main
+\-----------
+
+Arwen_Realism_Core.esp
+% {{BASH: Actors.CombatStyle, Actors.Stats, Destructible, Names, Relev, Sound, Stats}}
+Arwen_GOTY_Realism_Core.esp
+% {{BASH: NoMerge}}
+Arwen_Hard-Core.esp
+% {{BASH: Actors.CombatStyle, Actors.Stats, Destructible, Names, Relev, Stats}}
+Arwen_GOTY_Hard-Core.esp
+% {{BASH: NoMerge}}
+Arwen_FULL_Tweaks.esp
+Arwen_Skills.esp
+Arwen_Armor.esp
+" Arwen_FULL_Tweaks.esp
+Arwen_Less_Is_More.esp
+" Arwen_FULL_Tweaks.esp
+Arwen_Less-Is-More.esp
+" Arwen_FULL_Tweaks.esp
+Arwen_Localized_Damage.esp
+" Arwen_FULL_Tweaks.esp
+Arwen_SmarterAI.esp
+" Arwen_FULL_Tweaks.esp
+Arwen_Survival.esp
+" Arwen_FULL_Tweaks.esp
+Arwen_Tweaks_Main.esp
+" Arwen_FULL_Tweaks.esp
+Arwen_Weapons.esp
+" Arwen_FULL_Tweaks.esp
+Arwen_Encumbrance.esp
+Arwen_Med-Tec.esp
+% {{BASH: Names}}
+Arwen_GOTY_Med-Tec.esp
+% {{BASH: Names, Relev, Stats}}
+Arwen_MMM_Med-Tec_Patch.esp
+% {{BASH: Relev, Scripts}}
+Arwen_MMM_Patch.esp
+% {{BASH: Scripts}}
+Arwen_EVE_Patch.esp
+% {{BASH: Graphics, Sound, Stats}}
+Arwen_EVE_RH-IS_Patch.esp
+Arwen_RiPnO_Patch.esp
+Arwen_RiPnO_BLTC_Patch.esp
+Arwen_XPR_Extreme.esp
+Arwen_Brahamin_Med-Tec_Patch.esp
 
 \EndGroup\\
 
