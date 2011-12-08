@@ -181,6 +181,7 @@ Arwen_Core.esm
 % {{BASH: Actors.Animations}}
 LingsFinerThings.esm
 LingsMMMpatch3-3.esm
+BnB special armors.esm
 vaps.esm
 K2_RaiderDolls.esm
 COCOA.esm
@@ -194,6 +195,7 @@ Wasteland Whisperer v2.esm
 Summer_2.5.esm
 RHKBrisaAlmodovar.esm
 JHBCloverPlus.esm
+mesme.esm
 Enhanced Weather - Rain and Snow.esm
 Xepha's Dynamic Weather.esm
 % {{BASH: C.Climate, Sound}}
@@ -781,6 +783,7 @@ VTAP225.esp
 VTAP250.esp
 
 WAR_radio.esp
+Wasteland Music Injector.esp
 We Jazz.esp
 
 Radio Stutter fix.esp
@@ -947,6 +950,7 @@ AQFH2.esp
 : PointLookout.esm
 : Zeta.esm
 AQFH_C_103.esp
+AQFH3.esp
 AReasonedArgument.esp
 
 CitadelArmory.esp
@@ -2499,6 +2503,8 @@ Bikini_Armor_TYPE3.esp
 BillieJean.esp
 Black Puppet Armor for Fo3.esp
 blackrock_shooter.esp
+BnB special armors.esp
+% {{BASH: Invent, Relev}}
 BodyJewelry.esp
 BodyJewelryEx.esp
 BornAgain Outcast v3.esp
@@ -3661,6 +3667,8 @@ MegatonCompanions.esp
 mmMoleRatMount.esp
 MTC RealWildnessLife.esp
 % {{BASH: Relations}}
+mesme.esp
+% {{BASH: Actors.ACBS}}
 Mystyk's Followers.esp
 Mysteriouswoman_outfitonly.esp
 Mysteriouswoman_scout.esp
@@ -4504,6 +4512,10 @@ REAL-ThirdViewMod.esp
 "LOWER-real-thirdpersonview.esp
 LOWER-real-thirdpersonview.esp
 "REAL-ThirdViewMod.esp
+
+Level50NoBrokenSteel.esp
+Level50BrokenSteel.esp
+
 Magic Pip-Light (50 Brightness).esp
 MrSlackPants-DecentPipBoyLight.esp
 Fellout-pipboylight.esp
@@ -5215,17 +5227,55 @@ Fallout Remastered - Mothership Crew.esp
 Fallout Remastered - Project Beauty.esp
 Fallout Remastered - FWE.esp
 Fallout Remastered - EVE (PI Merge).esp
+Fallout Remastered - EVE (Paradox Ignition Merge).esp
+: Paradox Ignition Merged version of Energy Visuals Enhanced
+Fallout Remastered - FOOK2 + EVE (PI Merge).esp
+: Paradox Ignition Merged version of Energy Visuals Enhanced
+: FOOK2 1.2 Open Beta
+Fallout Remastered - FWE + EVE (PI Merge).esp
+: Paradox Ignition Merged version of Energy Visuals Enhanced
+: Fallout Wanderer's Edition 6.03 and all DLC plugins
+Fallout Remastered - MMM + EVE (PI Merge).esp
+: RC6.1 OR RC6.2 version of Mart's Mutant Mod
+: Paradox Ignition Merged version of Energy Visuals Enhanced
 Fallout Remastered - Mart's Mutants Mod.esp
+Fallout Remastered - FOOK2 + MMM.esp
+: all DLC plugins for the RC 6.1 or RC 6.2 version of Mart's Mutants Mod
+: FOOK2 1.2 Open Beta
+? Does not require a FOIP, provides complete compatibility between these two files
+
+Fallout Remastered - FWE + MMM.esp
+: all DLC plugins for the 6.03 version of Fallout Wanderer's Edition
+: all DLC plugins for the RC 6.1 or RC 6.2 version of Mart's Mutants Mod
+? Does not require a FOIP, provides complete compatibility between these two files
+
+Fallout Remastered - MMM + Scavenger.esp
+: RC6.1 OR RC6.2 version of Mart's Mutant Mod
+: Scavenger World 0.04
 
 Fallout Remastered - DCStreet.esp
 Fallout Remastered - RIL.esp
 Fallout Remastered - Breeze Armor.esp
 
+Fallout Remastered - Arwen Realism.esp
+
 Fallout Remastered - Scavenger World + FWE.esp
 Fallout Remastered - Fellout.esp
 
+Fallout Remastered - Wasteland Music Injector.esp
+
 Fallout Remastered - Xepha's Dynamic Weather.esp
 Fallout Remastered - Xepha's Darkened Interiors.esp
+
+Fallout Remastered - WMI + Xepha.esp
+: Xepha's Dynamic Weather.esm
+: Realistic Interior Lighting.esp
+: Wasteland Music Injector.esp
+
+Fallout Remastered - DCStreet + Dynamic Weather.esp
+: Requires Xepha's Dynamic Weather
+: Requires DC Street - BS.esp
+
 \EndGroup\\
 
 ? Do NOT use Master Updater on this mod
