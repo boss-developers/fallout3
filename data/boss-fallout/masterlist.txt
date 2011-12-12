@@ -124,6 +124,7 @@ Cotozic's Vault Home.esm
 TheInstitute.esm
 vault64.esm
 Bunker72 v3.esm
+FOW - The Last Child of Gallifrey v2.esm 
 The Bunker.esm
 MMZombieCemetery.esm
 MMFastZombieCemetery-NotRecommended.esm
@@ -696,8 +697,17 @@ Achievements for All - Broken Steel.esp
 : BrokenSteel.esm
 Achievements for All - Point Lookout.esp
 : PointLookout.esm
+
 Reduced Dust Particles V01.esp
 Reduced Dust Particles V02.esp
+Dust-away.esp
+Dust-away - DLC support.esp
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+: Zeta.esm
+
 PCB.esp
 PurgeCellBuffers.esp
 Pause.esp
@@ -2683,6 +2693,17 @@ MissingUniqueArmorClothing-Base.esp
 MissingUniqueArmorClothing-Enhanced-NSF.esp
 MissingUniqueArmorClothing-Enhanced.esp
 MissingUniqueArmorClothing-RenamerOnly.esp
+ModBetterPArmorVanilla.esp
+% {{BASH: Stats}}
+ModBetterPArmorAnchorage.esp
+% {{BASH: Stats}}
+: Anchorage.esm
+ModBetterPArmorPitt.esp
+% {{BASH: Stats}}
+: ThePitt.esm
+ModBetterPArmorSteel.esp
+% {{BASH: Stats}}
+: BrokenSteel.esm
 My Cloth Collection.esp
 Mysteriouswoman_clothesaddon.esp
 MZ-Weak-EbonTek.esp
@@ -4419,6 +4440,10 @@ GH-HealingRebalanceMod_Infirmary+Lab.esp
 % {{BASH: Scripts}}
 GH-HealingRebalanceMod_sleepscript.esp
 HT Don't Pickup Weapons.esp
+
+maxarmor95.esp
+maxarmor100.esp
+
 SurplusReassign.esp
 5xlvling.esp
 Slower Levelling - slow.esp
