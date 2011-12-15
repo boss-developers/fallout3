@@ -707,6 +707,23 @@ Dust-away - DLC support.esp
 : BrokenSteel.esm
 : PointLookout.esm
 : Zeta.esm
+Paper-Shredder.esp
+Paper-Shredder - DLC Support.esp
+Rock-Out.esp
+Rock-Out - DLC Support.esp
+Clean-Deluxe GOTY.esp
+"Dust-away.esp
+"Dust-away - DLC support.esp
+"Paper-Shredder.esp
+"Paper-Shredder - DLC Support.esp
+"Rock-Out.esp
+"Rock-Out - DLC Support.esp
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+: Zeta.esm
+? Includes all Dust-away, paper-shredder and Rock-out plugins
 
 PCB.esp
 PurgeCellBuffers.esp
