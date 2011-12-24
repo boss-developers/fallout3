@@ -233,6 +233,7 @@ K2_CompLance.esm
 Animy_prostitution.esm
 : CrossModData.esm
 sc_lovers_resource.esm
+sc_wasteland_pimp.esm
 ParadiseHome.esm
 DCInteriors_ComboEdition.ESM
 " DCInteriors components.
@@ -984,6 +985,8 @@ CitadelArmory.esp
 
 Devoured in Darkness.esp
 Darkness.esp
+Despicable Dashwood v2.esp
+% {{BASH: Actors.ACBS, Invent}}
 
 EIP.esp
 : BrokenSteel.esm
@@ -1044,6 +1047,7 @@ PLFewerItems.esp
 : PointLookout.ESM
 Project-Valhalla.esp
 
+RandomEncounters.esp
 RatTrapEyeCandy.esp
 RatTrapRadio.esp
 RatTrapSound.esp
@@ -1083,6 +1087,7 @@ The Car Fort With Quests.esp
 The Bunker.esp
 TecVault.esp
 TheProjectV1.1.esp
+TheShore.esp
 
 Vault88_TmFox.esp
 
@@ -1271,11 +1276,15 @@ A Place to Stay on Mothership Zeta.esp
 A Place to Stay in Anchorage.esp
 A Place to Stay for Broken Steel.esp
 A Place to Stay in Point Lookout.esp
+
+2nd Home at Tenpennys [Ger].esp
+2nd Home at Tenpennys [Engl].esp
 Bonds Tenpenny Tower Complete.esp
 Princess Tenpenny Home Extension.esp
 Princess Megaton Home Extension.esp
 Tenpenny_Expansion.esp
 Enhanced Tenpenny Suite.esp
+
 PersonalTerminal.esp
 JHBNewHouse.esp
 Transporter.esp
@@ -1372,6 +1381,9 @@ FPS Grenade Hotkey - Zeta addon.esp
 FPS Knife Hotkey.esp
 Melee Lock-On.esp
 NoKnockedOverComments.esp
+
+GothicRagDolls.esp
+
 bzArmour.esp
 bzArmour-nude.esp
 bzArmour-non-nude.esp
@@ -1429,6 +1441,8 @@ BarterWithRaiders-NPC Compatible-MMM.esp
 : BarterWithRaiders-NPC Compatible.esp
 BarterWithRaiders-FWE Class Patch.esp
 Better Caravans.esp
+BombayTradingCo.esp
+% {{BASH: Actors.AIPackages, Invent, Names, Scripts, Stats}}
 
 CaravanUpgrades.esp
 CarvanTrader.esp
@@ -1519,6 +1533,8 @@ UpgradedCaravanMerchants.esp
 
 VaultSuitBetterRearsForFemales.esp
 
+Wasteland Gigolo.esp
+% {{BASH: Scripts}}
 Wasteland Travel Caravans.esp
 
 \EndGroup\\
@@ -1536,6 +1552,7 @@ AbramsOverpassTent.esp
 After War.esp
 Aghatas house v0.3.esp
 AliciasCuteShopDoorOverride.esp
+Alpine Heights.esp
 AndaleHouse.esp
 Arefu Player House.esp
 " ArefuExpandedByAzar.esm
@@ -2802,6 +2819,7 @@ StealthCamouflage.esp
 SteinerCombatGear.esp
 SomeClothes.esp
 sunglassescollection.esp
+Merged_RC_Sunglasses-Joes_v1.0.esp
 SwampfolkOutfit.esp
 
 \T
@@ -3032,6 +3050,8 @@ LaptopTerminalsZeta.esp
 \M
 Menu Based Hacking & Picking.esp
 ? DO not use with latest FWE, it is already integrated.
+OverMightyGold.esp
+% {{BASH: Invent}}
 More Ammo.esp
 % {{BASH: Relev}}
 More Ammo (Explosive).esp
@@ -3081,6 +3101,8 @@ Scavenger World - FWE Edition v0.08.esp
 % {{BASH: Relev}}
 : PointLookout.esm
 : FO3 Wanderers Edition - Main File.esm
+ScavengerWasteland.esp
+% {{BASH: Actors.AIData, Invent, Relev, Scripts}}
 SimpleSmokeo.esp
 % {{BASH: Actors.AIPackages, Actors.Animations, Delev, Invent, Names, Relev}}
 Start_Energy_Weapon.esp
@@ -3251,6 +3273,12 @@ ImmersiveHealth-LITE.esp
 AfrosNukaCola.esp
 % {{BASH: Graphics, Stats}}
 NukaColaBottlingStation.esp
+Nuka Cola Enhanced.esp
+% {{BASH: Graphics, Stats}}
+Nuka Cola Enhanced - FWE.esp
+% {{BASH: Graphics, Stats}}
+: FO3 Wanderers Edition - Main File.esm
+: Nuka Cola Enhanced.esp
 
 Bottle That Water.esp
 {{BASH: Scripts}}
@@ -4114,6 +4142,45 @@ Knight Finley Companion.esp
 knockdowns.esp
 
 \L
+Laboratory.esp
+% {{BASH: Scripts}}
+: BrokenSteel.esm
+: PointLookout.esm
+: Zeta.esm
+QuantumLab.esp
+% {{BASH: Scripts}}
+Laboratory (BS).esp
+% {{BASH: Scripts}}
+: BrokenSteel.esm
+Laboratory (PL).esp
+% {{BASH: Scripts}}
+: PointLookout.esm
+QuantumLab (PL).esp
+% {{BASH: Scripts}}
+: PointLookout.esm
+Laboratory (MZ).esp
+% {{BASH: Scripts}}
+: Zeta.esm
+QuantumLab (MZ).esp
+% {{BASH: Scripts}}
+: Zeta.esm
+Laboratory (BS & PL).esp
+% {{BASH: Scripts}}
+: BrokenSteel.esm
+: PointLookout.esm
+Laboratory (BS & MZ).esp
+% {{BASH: Scripts}}
+: BrokenSteel.esm
+: Zeta.esm
+Laboratory (PL & MZ).esp
+% {{BASH: Scripts}}
+: PointLookout.esm
+: Zeta.esm
+QuantumLab (PL & MZ).esp
+% {{BASH: Scripts}}
+: PointLookout.esm
+: Zeta.esm
+
 Less_Blood.esp
 LightweightFoodSanitizer.esp
 % {{BASH: Stats}}
@@ -4463,6 +4530,35 @@ maxarmor100.esp
 
 SurplusReassign.esp
 5xlvling.esp
+
+Fallout_3_XP_Faster_10.esp
+Fallout_3_XP_Faster_30.esp
+Fallout_3_XP_Faster_20.esp
+Fallout_3_XP_Faster_40.esp
+Fallout_3_XP_Faster_50.esp
+Fallout_3_XP_Faster_60.esp
+Fallout_3_XP_Faster_70.esp
+Fallout_3_XP_Faster_80.esp
+Fallout_3_XP_Faster_90.esp
+Fallout_3_XP_Slower_10.esp
+Fallout_3_XP_Slower_20.esp
+Fallout_3_XP_Slower_30.esp
+Fallout_3_XP_Slower_40.esp
+Fallout_3_XP_Slower_50.esp
+Fallout_3_XP_Slower_60.esp
+Fallout_3_XP_Slower_70.esp
+Fallout_3_XP_Slower_80.esp
+Fallout_3_XP_Slower_90.esp
+Fallout_3_XP_Slower_100.esp
+Fallout_3_XP_Slower_125.esp
+Fallout_3_XP_Slower_150.esp
+Fallout_3_XP_Slower_200.esp
+Fallout_3_XP_Slower_250.esp
+Fallout_3_XP_Slower_300.esp
+Fallout_3_XP_Slower_350.esp
+Fallout_3_XP_Slower_400.esp
+Fallout_3_XP_Slower_500.esp
+
 Slower Levelling - slow.esp
 Slower Levelling - slower.esp
 Slower Levelling - Very Slow.esp
@@ -4565,17 +4661,30 @@ pip30.esp
 pip60.esp
 pip150.esp
 pipomfg.esp
+
 LED pipboy light.esp
 LED pipboy light extended.esp
 LED pipboy light amber.esp
 LED pipboy light ember extended.esp
 LED pipboy light green.esp
 LED pipboy light green extended.esp
+
+PiPBoy Blue Light.esp
+PiPBoy Cyan Light.esp
+PiPBoy Grey Light.esp
+PiPBoy Light Range Infinity.esp
+PiPBoy Light Range x2.esp
 PiPBoy Light Range x3.esp
 PiPBoy Light Range x4.esp
+PiPBoy Light Range x5.esp
+PiPBoy Light Range x6.esp
+PiPBoy Purple Light.esp
+PiPBoy Red Light.esp
+PiPBoy White Light.esp
 PiPBoy Yellow Light.esp
-PiPBoy Grey Light.esp
+
 Faster PipBoy Light.esp
+
 Magic Pip-Light (Night-Vision Edition).esp
 Magic Pip-Light (20 Brightness).esp
 Magic Pip-Light (25 Brightness).esp
@@ -4586,6 +4695,7 @@ Magic Pip-Light (45 Brightness).esp
 Magic Pip-Light (55 Brightness).esp
 Magic Pip-Light (60 Brightness).esp
 Magic Pip-Light (90 Brightness).esp
+
 ZZ_APP.esp
 \EndGroup\\
 
