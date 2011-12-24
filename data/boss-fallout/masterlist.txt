@@ -701,30 +701,6 @@ Achievements for All - Point Lookout.esp
 
 Reduced Dust Particles V01.esp
 Reduced Dust Particles V02.esp
-Dust-away.esp
-Dust-away - DLC support.esp
-: Anchorage.esm
-: ThePitt.esm
-: BrokenSteel.esm
-: PointLookout.esm
-: Zeta.esm
-Paper-Shredder.esp
-Paper-Shredder - DLC Support.esp
-Rock-Out.esp
-Rock-Out - DLC Support.esp
-Clean-Deluxe GOTY.esp
-"Dust-away.esp
-"Dust-away - DLC support.esp
-"Paper-Shredder.esp
-"Paper-Shredder - DLC Support.esp
-"Rock-Out.esp
-"Rock-Out - DLC Support.esp
-: Anchorage.esm
-: ThePitt.esm
-: BrokenSteel.esm
-: PointLookout.esm
-: Zeta.esm
-? Includes all Dust-away, paper-shredder and Rock-out plugins
 
 PCB.esp
 PurgeCellBuffers.esp
@@ -4701,6 +4677,31 @@ ZZ_APP.esp
 
 \BeginGroup\: Weather\Light\Water
 \-----------
+Dust-away.esp
+Dust-away - DLC support.esp
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+: Zeta.esm
+Paper-Shredder.esp
+Paper-Shredder - DLC Support.esp
+Rock-Out.esp
+Rock-Out - DLC Support.esp
+Clean-Deluxe GOTY.esp
+"Dust-away.esp
+"Dust-away - DLC support.esp
+"Paper-Shredder.esp
+"Paper-Shredder - DLC Support.esp
+"Rock-Out.esp
+"Rock-Out - DLC Support.esp
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+: Zeta.esm
+? Includes all Dust-away, paper-shredder and Rock-out plugins
+
 Wasteland Weather Overhaul .9.esp
 Wasteland Weather Overhaul .9 (no interiors).esp
 Wasteland Weather Overhaul .9 Level 2 Color.esp
