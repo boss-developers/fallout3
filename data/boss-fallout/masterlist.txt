@@ -429,6 +429,7 @@ Project Cleaned Patch V1.0.esp
 Project Clean FOOK 2 Patch V1.0.esp
 : CALIBR.esm
 : FOOK2 - Main.ESM
+RangerHelmet.esp
 SniperAimCorrected - nodemo.esp
 SniperAimCorrected.esp
 Sniper's Bliss.esp
