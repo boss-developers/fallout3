@@ -3806,12 +3806,14 @@ RI_Base3.esp
 RI_DoctorCost.esp
 RI_CrippledEffects.esp
 RI_LootTableRI.esp
+% {{BASH: Delev}}
 RI_PNeeds2S.esp
 RI_Alcohol.esp
 RI_PNMMM.esp
 RI_PNAnchorage.esp
 RI_FOSE.esp
 RI_LootTablePN.esp
+% {{BASH: Delev}}
 RI_PN_DLC.esp
 RI_PrimaryNeeds_DUI_Plugin.esp
 RiPnO CorePatch.esp
