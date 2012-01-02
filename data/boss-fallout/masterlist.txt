@@ -815,6 +815,7 @@ Relax.esp
 CONELRAD 640-1240.esp
 Existence2.0.esp
 UPP - Pack 1.esp
+UPP - Pack 1 fix.esp
 UPP - Pack 2.esp
 UPP - Original Perks.esp
 UPP - Experience Perks.esp
@@ -2610,6 +2611,7 @@ Echo_UseBothGloves.esp
 EMPGrenadeKnockoutPowArmor.esp
 EnclavePACollars.esp
 EnclaveReconArmor.esp
+Expensive Pre-war suits.esp
 exnemprewarfix.esp
 
 \F
@@ -2662,6 +2664,9 @@ HY_wastewar.esp
 ignis.esp
 
 \J
+japanese_menace.esp
+japanese_menace_lite.esp
+japanese_armor_set.esp
 Jagi.esp
 Jessica Outfit.esp
 JillBSAA.esp
@@ -3962,6 +3967,8 @@ BOC Diversification - Operation Anchorage.esp
 Brahmin Cattles ENG v1 - FWE patch.esp
 
 \C
+ChildKiller.esp
+% {{BASH: Actors.ACBS, Scripts}}
 Cliff's_Sellable_Body_Parts.esp
 ColeensTent.esp
 CombatEnhanced-Package v02.esp
@@ -5388,6 +5395,7 @@ Fallout Remastered - EVE (Paradox Ignition Merge).esp
 Fallout Remastered - FOOK2 + EVE (PI Merge).esp
 : Paradox Ignition Merged version of Energy Visuals Enhanced
 : FOOK2 1.2 Open Beta
+Fallout Remastered - FWE + Project Beauty.esp
 Fallout Remastered - FWE + EVE (PI Merge).esp
 : Paradox Ignition Merged version of Energy Visuals Enhanced
 : Fallout Wanderer's Edition 6.03 and all DLC plugins
@@ -5416,6 +5424,7 @@ Fallout Remastered - Breeze Armor.esp
 Fallout Remastered - Arwen Realism.esp
 
 Fallout Remastered - Scavenger World + FWE.esp
+Fallout Remastered - FWE + Scavenger World.esp
 Fallout Remastered - Fellout.esp
 
 Fallout Remastered - Wasteland Music Injector.esp
