@@ -1987,7 +1987,7 @@ FWE_Overhaul Kit - Core.esp
 " Weapon Mod Kits
 " EVE
 " RH IronSights Basic VanillaPlugin.esp
-REGEX: FWE_Overhaul Kit - Equipment\s*\.esp
+FWE_Overhaul Kit - Equipment .esp
 % {{BASH: Deflst, Delev, Relev, Graphics, Actors.ACBS, Invent, Names, Sound, Stats}}
 : FO3 Wanderers Edition - Main File.esm
 : RH_IronSights resources
