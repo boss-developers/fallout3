@@ -1974,6 +1974,20 @@ MZC-FWE_CP.esp
 : Mothership Crew.ESM
 : FO3 Wanderers Edition - Main File.esm
 FWE_Overhaul Kit - Main.esp
+? Old, update to v5.10
+% {{BASH: Deflst, Delev, Relev, Graphics, Actors.ACBS, Invent, Names, Sound, Stats}}
+: FO3 Wanderers Edition - Main File.esm
+: RH_IronSights resources
+" Weapon Mod Kits
+" EVE
+" RH IronSights Basic VanillaPlugin.esp
+FWE_Overhaul Kit - Core.esp
+: FO3 Wanderers Edition - Main File.esm
+: RH_IronSights resources
+" Weapon Mod Kits
+" EVE
+" RH IronSights Basic VanillaPlugin.esp
+REGEX: FWE_Overhaul Kit - Equipment\s*\.esp
 % {{BASH: Deflst, Delev, Relev, Graphics, Actors.ACBS, Invent, Names, Sound, Stats}}
 : FO3 Wanderers Edition - Main File.esm
 : RH_IronSights resources
@@ -3487,6 +3501,8 @@ Mart's Mutant Mod - Project Beauty (HD Addition).esp
 Mart's Mutant Mod - Project Beauty.esp
 % {{BASH: NPC.Race, NpcFaces, NoMerge}}
 MMM - FWE & Overhaul Kit_Master Release.esp
+? Old, update to FWE Overhaul Kit v5.10
+MMM - FWE Overhaul Kit_Master Release Alpha.esp
 Mart's Mutant Mod - Project Beauty + FWE.esp
 % {{BASH: NPC.Race, NpcFaces, NoMerge}}
 CP - FACE3 NPCS [MMM].esp
