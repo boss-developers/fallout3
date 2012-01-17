@@ -1552,6 +1552,7 @@ Better Museum of History EN.esp
 BigTown - Outskirts.esp
 Big Town Overhaul.esp
 Big Town Overhaul [GangStore].esp
+BM12PungaGardenPurchasable.esp
 Bonds Big Town.esp
 BusInWilderness.esp
 Built For The Future.esp
@@ -3077,6 +3078,7 @@ RealFragGrenade.esp
 " RealFragGrenade3.esp
 RealFragGrenade3.esp
 " RealFragGrenade.esp
+Random Bobbleheads.esp
 ReneerInvisibleKarmaMod.esp
 
 \S
@@ -4306,6 +4308,7 @@ RR Companion Vault Raider Attacks.esp
 RTS_Life_Of_Raider_Addon.esp
 RTSpatch_RVW.esp
 RTSBeta0.1c_extension_FarmingBob1.2.1.esp
+RTS NW - Volume 4 Stone.esp
 
 \S
 Savage Wasteland - Fewer Gun Wielding Maniacs.esp
