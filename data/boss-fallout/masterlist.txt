@@ -247,6 +247,7 @@ DCInteriors_SewardSq.esm
 " DCInteriors_ComboEdition.ESM
 DCInteriors_Takoma.esm
 " DCInteriors_ComboEdition.ESM
+DCInteriors_SideQuests.esm
 Scannadd5000.esm
 Selected Containers Respawn.esm
 AngelRaces.esm
@@ -5339,6 +5340,22 @@ xCALIBRammo_override.esp
 % {{BASH: Names, Graphics}}
 \EndGroup\\
 
+\BeginGroup\: Error Corrections - Reduce CTD
+Error Fixes V1.5.esp
+? Choose only one of Error Fixes V1.5.esp or Error Fixes V1.5 - Higher FPS.esp, not both.
+Error Fixes V1.5 - Higher FPS.esp
+? Choose only one of Error Fixes V1.5.esp or Error Fixes V1.5 - Higher FPS.esp, not both.
+Error Fixes V1.5 - FastTravelIndoors.esp
+Error Fixes V1.5 - Fellout.esp
+Error Fixes V1.5 - FOOK2.esp
+Error Fixes V1.5 - Anthony Ling's Coiffure.esp
+Error Fixes V1.5 - Mothership Zeta Crew.esp
+Error Fixes V1.5 - Fallout3 Wanderers Edition.esp
+Error Fixes V1.5 - Unofficial Fallout 3 Patch.esp
+Error Fixes V1.5 - Realistic Interior Lighting.esp
+Error Fixes V1.5 - Xephia' Dynamic Weather.esp
+\EndGroup\\
+
 \BeginGroup\: Bashed Patch
 \-----------
 Bashed Patch, 0.esp
@@ -5418,6 +5435,7 @@ Fallout Remastered - FWE + Project Beauty.esp
 Fallout Remastered - FWE + EVE (PI Merge).esp
 : Paradox Ignition Merged version of Energy Visuals Enhanced
 : Fallout Wanderer's Edition 6.03 and all DLC plugins
+Fallout Remastered - FWE + RH Ironsights.esp
 Fallout Remastered - MMM + EVE (PI Merge).esp
 : RC6.1 OR RC6.2 version of Mart's Mutant Mod
 : Paradox Ignition Merged version of Energy Visuals Enhanced
