@@ -707,7 +707,10 @@ Reduced Dust Particles V02.esp
 PCB.esp
 PurgeCellBuffers.esp
 Pause.esp
+
 WMMP_Master.esp
+
+YetAnotherPurgeCellBuffersPlugin.esp
 \EndGroup\\
 
 \BeginGroup\: Sounds
@@ -1673,6 +1676,7 @@ RangerT HQ.esp
 RangerArmorSafe.esp
 
 ranger den.esp
+RegulatorHQRedesignedUpdate.esp
 Riverboat Landing Merchant.esp
 : PointLookout.esm
 Riverside Apartments.esp
@@ -2310,9 +2314,9 @@ GaussCompleteBeta.esp
 
 \H
 H&KUSPWithWorkingFlashlight.esp
-
 Hi-Res Weapons & Ammo Textures - The Pitt.esp
 Hi-Res Weapons & Ammo Textures.esp
+HN66FoggierKatana.esp
 HZ_M14.esp
 HZ_M249.esp
 HZ_M92SE.esp
@@ -3986,6 +3990,7 @@ BOC Diversification - Operation Anchorage.esp
 Brahmin Cattles ENG v1 - FWE patch.esp
 
 \C
+CasdinExtras.esp
 ChildKiller.esp
 % {{BASH: Actors.ACBS, Scripts}}
 Cliff's_Sellable_Body_Parts.esp
@@ -4372,6 +4377,8 @@ TenpennyGhoulsAtPeace.esp
 % {{BASH: ScriptContents}}
 The Mantis Imperative - Nasty Zeta.esp
 The Mantis Imperative - Nasty Zeta No Scaling.esp
+ThePittReforged.esp
+% {{Actors.ACBS, Scripts}}
 TSC Air Support.esp
 
 \U
