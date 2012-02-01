@@ -291,6 +291,8 @@ BobbleHead Collectors Book.esm
 \BeginGroup\: Unofficial Patches and Fixes
 \-----------
 Selected Containers Respawn - Emptied Trash Cans in Player Homes.esp
+DALCO Inventory Sorter - Unofficial Fallout 3 Patch (Base Game).esp
+% {{BASH: NoMerge, Names}}
 Unofficial Fallout 3 Patch - Operation Anchorage.esp
 % {{BASH: Deflst, Names}}
 : Anchorage.esm
@@ -300,12 +302,14 @@ Unofficial Fallout 3 Patch - The Pitt.esp
 Unofficial Fallout 3 Patch - Broken Steel.esp
 % {{BASH: Deflst, Names}}
 : BrokenSteel.esm
+% {{BASH: NoMerge, Names}}
 Unofficial Fallout 3 Patch - Point Lookout.esp
 % {{BASH: Deflst, Names, Invent, Stats}}
 : PointLookout.esm
 Unofficial Fallout 3 Patch - Mothership Zeta.esp
 % {{BASH: Deflst, Names}}
 : Zeta.esm
+
 EVE - UF3P Patch.esp
 ? Paradox Ignition EVE-merger - compatibility patch for the Unofficial Fallout 3 Patch.
 Broken Steel Early Enclave Fix.esp
@@ -450,6 +454,33 @@ Stop Insulting Me Outcasts.esp
 
 \BeginGroup\: Early Loading Mods
 \-----------
+DALCO Inventory Sorter - Fallout 3 (Base Game).esp
+% {{BASH: NoMerge, Names}}
+DALCO Inventory Sorter - Operation Anchorage.esp
+% {{BASH: NoMerge, Names}}
+DALCO Inventory Sorter - Unofficial Fallout 3 Patch (Operation Anchorage).esp
+% {{BASH: NoMerge, Names}}
+DALCO Inventory Sorter - The Pitt.esp
+% {{BASH: NoMerge, Names}}
+DALCO Inventory Sorter - Unofficial Fallout 3 Patch (The Pitt).esp
+% {{BASH: NoMerge, Names}}
+DALCO Inventory Sorter - Broken Steel.esp
+% {{BASH: NoMerge, Names}}
+
+DALCO Inventory Sorter - Point Lookout.esp
+% {{BASH: NoMerge, Names}}
+DALCO Inventory Sorter - Unofficial Fallout 3 Patch (Point Lookout).esp
+% {{BASH: NoMerge, Names}}
+DALCO Inventory Sorter - Mothership Zeta.esp
+% {{BASH: NoMerge, Names}}
+DALCO Inventory Sorter - Unofficial Fallout 3 Patch (Mothership Zeta).esp
+% {{BASH: NoMerge, Names}}
+DALCO Inventory Sorter - Unofficial Fallout 3 Patch (Fallout 3 & All DLCs).esp
+% {{BASH: NoMerge, Names}}
+
+DALCO Inventory Sorter - CALIBR.esp
+% {{BASH: NoMerge, Names}}
+
 DarNifiedUIF3.esp
 Ambient Temperature HUD.esp
 Ambient Temperature - OA.esp
@@ -506,6 +537,8 @@ PIDL-lite.esp
 PIDL-lite(metric).esp
 Crosshair Toggle.esp
 DynamicCrosshair.esp
+DALCO Inventory Sorter - Dynamic Crosshair.esp
+% {{BASH: Names}}
 Stimpak Counter.esp
 FaceMe.esp
 % {{BASH: NPC.Race, NpcFaces, NoMerge, Deactivate}}
@@ -579,6 +612,8 @@ krzymar-MoonSize_400%.esp
 krzymar-MoonSize_500%.esp
 V.A.T.S. Depth of Field v1.0.esp
 CASM.esp
+DALCO Inventory Sorter - CASM.esp
+% {{BASH: NoMerge, Names}}
 Fallout Safe Exit v1.1.esp
 ASU.esp
 BTBearTrap-EN.esp
@@ -1084,13 +1119,19 @@ BoSTeslaEarly.esp
 " BoSTesla.esp
 BoSTesla.esp
 " BoSTeslaEarly.esp
+
+DALCO Junk-O-Matic.esp
+DALCO Wadsworth the Recycler.esp
+
 XSSkillCheck.esp
 XSZeta.esp
 : Zeta.esm
 XSIngestPointLookout.esp
 : PointLookout.esm
+
 WorkiingToilets.esp
 WorkingToilets.esp
+
 Scavenger World.esp
 
 RZW_SimpleGrab.esp
@@ -1202,6 +1243,8 @@ Followers Allowed - The Pitt.esp
 Followers Allowed - Mothership Zeta.esp
 Followers Allowed - Point Lookout.esp
 Sack of Holding.esp
+DALCO Inventory Sorter - Sack of Holding.esp
+% {{BASH: NoMerge, Names}}
 Chems and Meds Re-Textures Pack.esp
 % {{BASH: Graphics}}
 BlackWolf Backpack.esp
@@ -1750,6 +1793,9 @@ UndergroundHideout_SY.esp
 DALCO Fixes for Underground Hideout.esp
 : BrokenSteel.esm
 : UndergroundHideout.esp
+DALCO Inventory Sorter - Underground Hideout (Fallout 3 & All DLCs).esp
+% {{BASH: NoMerge, Names}}
+
 Underworld Underground.esp
 UnderWorld House.esp
 Underground Home.esp
@@ -1910,15 +1956,29 @@ GSoS - Car Explosions.esp
 \-----------
 FO3 Wanderers Edition - Main File.esp
 % {{BASH: Actors.ACBS, Actors.AIData, Actors.AIPackages, Actors.CombatStyle, Actors.Stats, Deflst, Delev, Destructible, Graphics, Invent, Names, Relev, Scripts, Stats}}
+DALCO Inventory Sorter - FWE (Main File).esp
+% {{BASH: NoMerge, Names}}
 FO3 Wanderers Edition - DLC Anchorage.esp
 % {{BASH: Deflst}}
+DALCO Inventory Sorter - FWE (Operation Anchorage).esp
+% {{BASH: NoMerge, Names}}
 FO3 Wanderers Edition - DLC The Pitt.esp
+DALCO Inventory Sorter - FWE (The Pitt).esp
+% {{BASH: NoMerge, Names}}
 FO3 Wanderers Edition - DLC Broken Steel.esp
+DALCO Inventory Sorter - FWE (Broken Steel).esp
+% {{BASH: NoMerge, Names}}
 FO3 Wanderers Edition - DLC Point Lookout.esp
 % {{BASH: Relev, Delev}}
+DALCO Inventory Sorter - FWE (Point Lookout).esp
+% {{BASH: NoMerge, Names}}
 FO3 Wanderers Edition - DLC Mothership Zeta.esp
+DALCO Inventory Sorter - FWE (Mothership Zeta).esp
+% {{BASH: NoMerge, Names}}
 FO3 Wanderers Edition - UFP Support.esp
 FO3 Wanderers Edition - Alternate Travel.esp
+DALCO Inventory Sorter - FWE (Alternate Travel).esp
+% {{BASH: NoMerge, Names}}
 FO3 Wanderers Edition - Lvl 30 High Skills.esp
 FO3 Wanderers Edition - Lvl 30 Balance.esp
 " FO3 Wanderers Edition - Lvl 30 More Skills.esp
@@ -1927,9 +1987,13 @@ FO3 Wanderers Edition - Lvl 30 More Skills.esp
 FO3 Wanderers Edition - Followers Enhanced.esp
 % {{BASH: Actors.ACBS, Actors.AIData, Actors.Stats}}
 " FO3 Wanderers Edition - Followers Enhanced (BrokenSteel).esp
+DALCO Inventory Sorter - FWE (Followers Enh).esp
+% {{BASH: NoMerge, Names}}
 FO3 Wanderers Edition - Followers Enhanced (BrokenSteel).esp
 % {{BASH: Actors.ACBS, Actors.AIData, Actors.Stats}}
 " FO3 Wanderers Edition - Followers Enhanced.esp
+DALCO Inventory Sorter - FWE (Followers Enh (BrS)).esp
+% {{BASH: NoMerge, Names}}
 FO3 Wanderers Edition - Optional Free Play After MQ.esp
 " BrokenSteel.esm
 FO3 Wanderers Edition - Optional Free Play After Mainquest.esp
@@ -2143,21 +2207,45 @@ Tailor Maid Black Retex.esp
 \-----------
 WeaponModKits.esp
 % {{BASH: Actors.AIData, Delev, Invent, Names, Relev}}
+DALCO Inventory Sorter - Weapon Mod Kits (Base).esp
+% {{BASH: NoMerge, Names}}
 WeaponModKits - FOOK.esp
 WeaponModKits - FWE Master Release.esp
 % {{BASH: Deflst, Relev, Names}}
 WeaponModKits - FWE Optional Worn Weapons.esp
 % {{BASH: Delev}}
+DALCO Inventory Sorter - WMK - FWE Master Release.esp
+% {{BASH: NoMerge, Names}}
 WeaponModKits - OperationAnchorage.esp
 : Anchorage.ESM
+DALCO Inventory Sorter - Weapon Mod Kits (DLC Anchorage).esp
+% {{BASH: NoMerge, Names}}
+DALCO Inventory Sorter - WMK - FWE (DLC Anchorage).esp
+% {{BASH: NoMerge, Names}}
 WeaponModKits - ThePitt.esp
 : ThePitt.ESM
+DALCO Inventory Sorter - Weapon Mod Kits (DLC ThePitt).esp
+% {{BASH: NoMerge, Names}}
+DALCO Inventory Sorter - WMK - FWE (DLC ThePitt).esp
+% {{BASH: NoMerge, Names}}
 WeaponModKits - BrokenSteel.esp
 : BrokenSteel.ESM
+DALCO Inventory Sorter - Weapon Mod Kits (DLC BrS).esp
+% {{BASH: NoMerge, Names}}
+DALCO Inventory Sorter - WMK - FWE (DLC BrS).esp
+% {{BASH: NoMerge, Names}}
 WeaponModKits - PointLookout.esp
 : PointLookout.ESM
+DALCO Inventory Sorter - Weapon Mod Kits (DLC PointLookout).esp
+% {{BASH: NoMerge, Names}}
+DALCO Inventory Sorter - WMK - FWE (DLC PointLookout).esp
+% {{BASH: NoMerge, Names}}
 WeaponModKits - Zeta.esp
 : Zeta.ESM
+DALCO Inventory Sorter - Weapon Mod Kits (DLC Zeta).esp
+% {{BASH: NoMerge, Names}}
+DALCO Inventory Sorter - WMK - FWE (DLC Zeta).esp
+% {{BASH: NoMerge, Names}}
 WeaponModKits - FWE Talon Loot Crash Fix.esp
 WeaponModKits - DIK.esp
 WeaponModKits - Scope Increases VATS Accuracy.esp
@@ -2441,6 +2529,8 @@ Wieldable Torches (Optional).esp
 WinchesterModel1894Yellowboy.esp
 WMKAA12Shotgun.esp
 % {{BASH: Graphics}}
+DALCO Inventory Sorter - WMKAA12Shotgun.esp
+% {{BASH: NoMerge, Names}}
 WMMP_Install.esp
 : Anchorage.esm
 : ThePitt.esm
@@ -2683,6 +2773,7 @@ HY_wastewar.esp
 \I
 ignis.esp
 
+
 \J
 japanese_menace.esp
 japanese_menace_lite.esp
@@ -2751,6 +2842,9 @@ Neo's Cowgirl.esp
 Neo's DOA Tina.esp
 Neo's DOA Christie.esp
 NEVECv1.esp
+nick-invisibleghoulmask.esp
+DALCO Inventory Sorter - IGM.esp
+% {{BASH: NoMerge, Names}}
 NoInvisArcadeIndustries_SweetSneak.esp
 InvisArcadeIndustries_SweetSneak.esp
 SupremeRaiderArmor_Q.esp
@@ -3429,6 +3523,8 @@ RH_EVE_Bridge.esp
 Mart's Mutant Mod.esp
 % {{BASH: Delev, Relev}}
 : Mart's Mutant Mod.esm
+DALCO Inventory Sorter - Mart's Mutant Mod (Main).esp
+% {{BASH: NoMerge, Names}}
 Mart's Mutant Mod - UF3P.esp
 % {{BASH: Invent}}
 PB MMM HD.esp
@@ -3444,6 +3540,8 @@ Mart's Mutant Mod - DLC The Pitt.esp
 Mart's Mutant Mod - DLC Broken Steel.esp
 % {{BASH: Delev, Relev, Scripts}}
 : BrokenSteel.ESM
+DALCO Inventory Sorter - Mart's Mutant Mod (DLC Broken Steel).esp
+% {{BASH: NoMerge, Names}}
 Mart's Mutant Mod - UF3P - BS.esp
 : Mart's Mutant Mod - UF3P.esp
 Mart's Mutant Mod - DLC Point Lookout.esp
@@ -3536,6 +3634,8 @@ S.T.A.L.K.E.R. Mutants[addon for MMM].esp
 Mart's Mutant Mod - FWE Master Release.esp
 % {{BASH: Invent, Relations}}
 : FO3 Wanderers Edition - Main File.esm
+DALCO Inventory Sorter - MMM - FWE.esp
+% {{BASH: NoMerge, Names}}
 Mart's Mutant Mod - FWE Master Release + DLCs.esp
 % {{BASH: Invent, Relations, Scripts}}
 : ThePitt.esm
@@ -4319,6 +4419,10 @@ RTS NW - Volume 4 Stone.esp
 \S
 Savage Wasteland - Fewer Gun Wielding Maniacs.esp
 SbkTougherEnclave.esp
+Skill Modification Assignment.esp
+% {{BASH: Scripts, Stats}}
+DALCO Inventory Sorter - SMA.esp
+% {{BASH: NoMerge, Names}}
 Standard Weapon's Spread.esp
 Anchorage Weapon Spread.esp
 Pitt Weapon Spread.esp
@@ -4541,6 +4645,17 @@ HT Don't Pickup Weapons.esp
 maxarmor95.esp
 maxarmor100.esp
 
+MaxLevelWorkaround.esp
+MaxLevelWorkaround-HP.esp
+DALCO Inventory Sorter - Max Level Workaround.esp
+% {{BASH: Names}}
+DALCO Inventory Sorter - Max Level Workaround (BS).esp
+% {{BASH: Names}}
+DALCO Inventory Sorter - Max Level Workaround (HP).esp
+% {{BASH: Names}}
+DALCO Inventory Sorter - Max Level Workaround (HP-BS).esp
+% {{BASH: Names}}
+
 SurplusReassign.esp
 5xlvling.esp
 
@@ -4582,6 +4697,7 @@ Slower Degradation (-25%).esp
 Slower Degradation (-50%).esp
 Slower Degradation (-80%).esp
 Slower Degradation (-95%).esp
+
 Alternating Timescale.esp
 ImmersiveTimescale.esp
 TimeScaleTo3.esp
@@ -4590,7 +4706,9 @@ TimeScaleTo5.esp
 TimeScaleTo15.esp
 TimeScaleTo20.esp
 TimeScaleTo25.esp
+
 Backpedal.esp
+
 SuperJump1.5x.esp
 SuperJump2x.esp
 SuperJump3x.esp
@@ -4603,6 +4721,7 @@ SuperJumpWater3x.esp
 SuperJumpWater4x.esp
 SuperJumpWater5x.esp
 SuperJumpWater10x.esp
+
 1day interior resets.esp
 2day interior resets.esp
 3day interior resets.esp
@@ -4614,10 +4733,12 @@ SuperJumpWater10x.esp
 180day interior resets.esp
 1yearlol interior resets.esp
 10yearlol interior resets.esp
+
 lessviewdistance.esp
 lessviewdistanceThePitt.esp
 LessViewDistance Fellout Compatability Patch.esp
 OAlessviewdistance.esp
+
 dD - Enhanced Blood Main.esp
 ? Older version included in FOOK2
 dD-Larger Blood.esp
@@ -4630,10 +4751,12 @@ dD-More Gore-The Pitt.esp
 dD-More Gore-BrokenSteel.esp
 dD-More Gore-PointLookout.esp
 dD-More Gore-Zeta.esp
+
 FO3 Wanderers Edition - More Gore.esp
 FO3 Wanderers Edition - More Gore Zeta.esp
 FO3 Wanderers Edition - More Gore The Pitt.esp
 FO3 Wanderers Edition - More Gore PointLookout.esp
+
 GT_No_Gore.esp
 GT_No_Bloody_Mess_Gore.esp
 GT_No_Dismemberment.esp
