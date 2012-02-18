@@ -291,6 +291,13 @@ BobbleHead Collectors Book.esm
 \BeginGroup\: Unofficial Patches and Fixes
 \-----------
 Selected Containers Respawn - Emptied Trash Cans in Player Homes.esp
+DALCO Inventory Sorter - Fallout 3 & All DLCs.esp
+% {{BASH: NoMerge, Names}}
+: Anchorage.esm
+: ThePitt.esm
+: BrokenSteel.esm
+: PointLookout.esm
+: Zeta.esm
 DALCO Inventory Sorter - Unofficial Fallout 3 Patch (Base Game).esp
 % {{BASH: NoMerge, Names}}
 Unofficial Fallout 3 Patch - Operation Anchorage.esp
@@ -2957,6 +2964,7 @@ Type3Accessories.esp
 Type3Clothes.esp
 
 \U
+UrgeScarfFallout3.esp 
 
 \V
 vaultgirlnp.esp
@@ -2971,13 +2979,9 @@ WasteWearGloves.esp
 % {{BASH: Relev}}
 WHSpaceMarineArmor.esp
 
-\X
+\XYZ
 XmasOutfits.esp
-
-\Y
 Yoko'sOutfits.esp
-
-\Z
 
 \EndGroup\\
 
@@ -4340,6 +4344,7 @@ MZC Addon-Olympus Armory (forecefield).esp
 NippersWeaponNips.esp
 NippersArmorNips.esp
 NoQuestItems.esp
+NoStupidExplosiveCars.esp
 NoTheftComments.esp
 NTFS.esp
 NVFAAPANoTex.esp
