@@ -175,6 +175,13 @@ FO3 Wanderers Edition - Main File.esm
 : CALIBR.esm
 Fallout3Tactics.esm
 Fallout3Tactics Creatures.esm
+FWE - Combat Overhaul_Core.esm
+% {{BASH: Graphics, Names}}
+: FO3 Wanderers Edition - Main File.esm
+: RH_IronSights resources
+" Weapon Mod Kits
+" EVE
+" RH IronSights Basic VanillaPlugin.esp
 Mart's Mutant Mod.esm
 % {{BASH: Delev, Invent, Names, Relations, Scripts}}
 FNNIguana.esm
@@ -2051,7 +2058,7 @@ MZC-FWE_CP.esp
 : Mothership Crew.ESM
 : FO3 Wanderers Edition - Main File.esm
 FWE_Overhaul Kit - Main.esp
-? Old, update to v5.10
+? Outdated. Update to latest version of FWE - Combat Overhaul
 % {{BASH: Deflst, Delev, Relev, Graphics, Actors.ACBS, Invent, Names, Sound, Stats}}
 : FO3 Wanderers Edition - Main File.esm
 : RH_IronSights resources
@@ -2059,13 +2066,22 @@ FWE_Overhaul Kit - Main.esp
 " EVE
 " RH IronSights Basic VanillaPlugin.esp
 FWE_Overhaul Kit - Core.esp
+? Outdated. Update to latest version of FWE - Combat Overhaul
 : FO3 Wanderers Edition - Main File.esm
 : RH_IronSights resources
 " Weapon Mod Kits
 " EVE
 " RH IronSights Basic VanillaPlugin.esp
 FWE_Overhaul Kit - Equipment .esp
-% {{BASH: Deflst, Delev, Relev, Graphics, Actors.ACBS, Invent, Names, Sound, Stats}}
+? Outdated. Update to latest version of FWE - Combat Overhaul
+% {{BASH: Deflst, Delev, Relev, Graphics, Actors.ACBS, Invent, Names, Sound, Stats, Scripts}}
+: FO3 Wanderers Edition - Main File.esm
+: RH_IronSights resources
+" Weapon Mod Kits
+" EVE
+" RH IronSights Basic VanillaPlugin.esp
+FWE - Combat Overhaul_Equipment.esp
+% {{BASH: Deflst, Delev, Relev, Graphics, Actors.ACBS, Invent, Names, Sound, Stats, Scripts}}
 : FO3 Wanderers Edition - Main File.esm
 : RH_IronSights resources
 " Weapon Mod Kits
@@ -3609,9 +3625,6 @@ Mart's Mutant Mod - Project Beauty (HD Addition).esp
 >* Old. Download the latest Project Beauty files.
 Mart's Mutant Mod - Project Beauty.esp
 % {{BASH: NPC.Race, NpcFaces, NoMerge}}
-MMM - FWE & Overhaul Kit_Master Release.esp
-? Old, update to FWE Overhaul Kit v5.10
-MMM - FWE Overhaul Kit_Master Release Alpha.esp
 Mart's Mutant Mod - Project Beauty + FWE.esp
 % {{BASH: NPC.Race, NpcFaces, NoMerge}}
 CP - FACE3 NPCS [MMM].esp
@@ -3659,6 +3672,13 @@ Mart's Mutant Mod - Project Beauty (HD Addition).esp
 Mart's Mutant Mod - Linged.esp
 Mart's Mutant Mod - CFW.esp
 Mart's Mutant Mod - XFO.esp
+MMM - FWE & Overhaul Kit_Master Release.esp
+? Outdated. Update to latest version of FWE - Combat Overhaul
+MMM - FWE Overhaul Kit_Master Release Alpha.esp
+? Outdated. Update to latest version of FWE - Combat Overhaul
+MMM - FWE_Combat Overhaul Master Release.esp
+% {{BASH: Actors.ACBS, Actors.Stats, Factions, Graphics, Invent, Relations, Scripts, Stats}}
+: Mart's Mutant Mod - FWE Master Release.esp
 MMM_RtSS_Mod.esp
 EVE - MMM Patch.esp
 \EndGroup\\
