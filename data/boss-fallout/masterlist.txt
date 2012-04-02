@@ -85,6 +85,7 @@ iHUD.esm
 The Librarian.esm
 TalonExtraArmor.esm
 Impervious Power Armour.esm
+H.E.R.K..esm
 CRAFT.esm
 CALIBR.esm
 xCALIBR.esm
@@ -2424,6 +2425,11 @@ Glock 86 Plasma Pistol (scoped).esp
 GaussCompleteBeta.esp
 
 \H
+H.E.R.K. - GOTY.esp
+" H.E.R.K. - GOTY & WMK.esp
+H.E.R.K. - GOTY & WMK.esp
+" H.E.R.K. - GOTY.esp
+: WeaponModKits.esp
 H&KUSPWithWorkingFlashlight.esp
 Hi-Res Weapons & Ammo Textures - The Pitt.esp
 Hi-Res Weapons & Ammo Textures.esp
@@ -2433,7 +2439,6 @@ HZ_M249.esp
 HZ_M92SE.esp
 HZ_XM586UR.esp
 HZ_USP.esp
-
 
 \I
 ImmaFirinMahLazor.esp
@@ -4626,6 +4631,8 @@ Arwen_RiPnO_Patch.esp
 Arwen_RiPnO_BLTC_Patch.esp
 Arwen_XPR_Extreme.esp
 Arwen_Brahamin_Med-Tec_Patch.esp
+Arwen_10mmReplacer_Patched.esp
+Arwen_RH_IronSights.esp
 
 \EndGroup\\
 
@@ -5496,6 +5503,7 @@ xCALIBRammo_override.esp
 \EndGroup\\
 
 \BeginGroup\: Error Corrections - Reduce CTD
+\-----------
 Error Fixes V1.5.esp
 ? Choose only one of Error Fixes V1.5.esp or Error Fixes V1.5 - Higher FPS.esp, not both.
 Error Fixes V1.5 - Higher FPS.esp
@@ -5509,6 +5517,7 @@ Error Fixes V1.5 - Fallout3 Wanderers Edition.esp
 Error Fixes V1.5 - Unofficial Fallout 3 Patch.esp
 Error Fixes V1.5 - Realistic Interior Lighting.esp
 Error Fixes V1.5 - Xephia' Dynamic Weather.esp
+
 \EndGroup\\
 
 \BeginGroup\: Bashed Patch
