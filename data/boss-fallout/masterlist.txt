@@ -123,6 +123,7 @@ Big Town Overhaul.esm
 COMM.esm
 Cotozic's Vault Home.esm
 TheInstitute.esm
+Vault 101 Revisited.esm
 vault64.esm
 Bunker72 v3.esm
 FOW - The Last Child of Gallifrey v2.esm 
@@ -573,6 +574,7 @@ Realistic icons.esp
 % {{BASH: Graphics}}
 StreetLights - Wasteland.esp
 ? Do not use with latest FOOK2, it is already integrated.
+? Obselete - upgrade to Fallout Streetlights (http://fallout3.nexusmods.com/mods/8069)
 RK-Skelette-3.0.esp
 ? Do not use with latest FOOK2, it is already integrated.
 praiseatom.esp
@@ -1013,6 +1015,8 @@ AQFH_C_103.esp
 AQFH3.esp
 AReasonedArgument.esp
 
+BrokenSteel2.esp
+
 CitadelArmory.esp
 
 Devoured in Darkness.esp
@@ -1022,6 +1026,8 @@ Despicable Dashwood v2.esp
 
 EIP.esp
 : BrokenSteel.esm
+Escape! Redux v1_25.esp
+Vault 101 Revisited Patch - ER - V101R Patch.esp
 
 FOW - The Last Child of Gallifrey.esp
 FreePlayAfterMQ_V05.esp
@@ -1102,6 +1108,7 @@ Regulators _Overhaul_lvl2.esp
 " Regulators.esp
 
 Skip Little Lampshit.esp
+Shadows and Dust - Southwest DC - Public.esp
 SOL.esp
 
 Tenpenny Tower true peace.esp
@@ -2457,6 +2464,8 @@ Kneecapper Linked.esp
 \L
 laserPistolRetextured-IronSightsPatch.esp
 % {{BASH: Graphics}}
+laserRifleRetexturedScoped.esp
+% {{BASH: Graphics}}
 laserRifleRetextured-IronSightsPatch.esp
 % {{BASH: Graphics}}
 laserScatterGunRetextured.esp
@@ -2783,6 +2792,7 @@ FO3-Closing-merged.esp
 " FO3Moon.esp
 " FO3Nami.esp
 FO3NeckChains.esp
+ForeheadGoggles.esp
 FrenchMaid.esp
 
 \G
@@ -2985,6 +2995,7 @@ Type3Accessories.esp
 Type3Clothes.esp
 
 \U
+UndiesUnderneath.esp
 UrgeScarfFallout3.esp 
 
 \V
@@ -2996,6 +3007,7 @@ vaultgirlrp.esp
 WaldosOutfit.esp
 Wasteland and Bog Outfits.esp
 Wasteland_Seductress.esp
+Wasteland Soldier Armor.esp
 WasteWearGloves.esp
 % {{BASH: Relev}}
 WHSpaceMarineArmor.esp
@@ -3017,6 +3029,8 @@ F3Eyelashes.esp
 _R_Tribals.esp
 
 LingsFinerThings.esp
+? Obselete update to latest version (http://fallout3.nexusmods.com/mods/17631/)
+Lings Finer Things.esp
 LingsPrettyThings.esp
 % {{BASH: Eyes, Hair, Invent, Names, NPC.Class, NPC.Race, NpcFaces, R.Attributes-F, R.Attributes-M, R.Description, R.Head, R.Mouth, R.Teeth, Voice-F}}
 LingsPrettyThings-BrokenSteel.esp
@@ -4116,6 +4130,7 @@ BoS Diversification.esp
 BoS Diversification - Broken Steel.esp
 BOC Diversification.esp
 BOC Diversification - Operation Anchorage.esp
+body blood replacment.esp
 Brahmin Cattles ENG v1 - FWE patch.esp
 
 \C
@@ -4990,6 +5005,8 @@ Xepha's Dynamic Weather - Broken Steel.esp
 Xepha's Dynamic Weather - Point Lookout.esp
 % {{BASH: C.Climate}}
 : PointLookout.esm
+Xepha's Dynamic Weather - Main + DLC Merged.esp
+% {{BASH: C.Climate}}
 Xepha's Dynamic Weather - Night Eye Edition.esp
 " Xepha's Dynamic Weather - Night Eye Edition.esp
 Xepha's Dynamic Weather - Night Eye Edition (Anchorage).esp
@@ -5007,6 +5024,8 @@ Xepha's Dynamic Weather - Rain (OA + NEE).esp
 Xepha's Dynamic Weather - Rain (OA).esp
 : Anchorage.esm
 : Enhanced Weather - Rain and Snow.esm
+Xepha's Dynamic Weather - Night Eye Edition Merged (NEE+OA+Rain).esp
+
 Xepha's Dynamic Weather - Rain.esp
 : Enhanced Weather - Rain and Snow.esm
 Xepha's Dynamic Weather - Climate OverRider (OA + Rain).esp
@@ -5047,8 +5066,17 @@ Xepha's Dynamic Weather - Dynamic Sneak Bonus.esp
 Xepha's Dynamic Weather - Experimental Green Tint Remover.esp
 Xepha's Dynamic Weather - Green Tint Remover.esp
 Xepha's Dynamic Weather - Sandstorms Damage Armor.esp
+Xepha's Dynamic Weather - Sandstorms + Armor Damage (FOSE).esp
+" Dynamic Weather - Sandstorms.esp
 Xepha's Dynamic Weather - Weather Machine.esp
+? Only use one Weather Machine.esp at a time.
 Xepha's Dynamic Weather - Weather Machine (+Rain).esp
+? Only use one Weather Machine.esp at a time.
+Xepha's Dynamic Weather - Weather Machine (Quest Added).esp
+? Only use one Weather Machine.esp at a time.
+Xepha's Dynamic Weather - Weather Machine (Start Game Added).esp
+? Only use one Weather Machine.esp at a time.
+Xepha's Dynamic Weather - Weather Machine (Vendor Added).esp
 Night Time Sneak Boost.esp
 Dynamic Weather Sneak Bonus.esp
 Dynamic Weather Sneak Bonus NoInteriors.esp
@@ -5104,6 +5132,8 @@ Level 3 Alot More Color.esp
 Wasteland Weather Overhaul .9 Level 1 Color.esp
 Wasteland Weather Overhaul .9 Level 2 Color.esp
 Wasteland Weather Overhaul .9 Level 3.esp
+
+F3ProjectRealityMkI.esp
 
 ImaginatorFO3.esp
 
