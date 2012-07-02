@@ -879,6 +879,8 @@ UPP  - Quest Perks.esp
 UPP - Quest Perks.esp
 UPP - Beverage Perks.esp
 UPP Addon - Quest Perks.esp
+You're Special.esp
+FalloutPerks.esp
 PreWar Book Titles and Perks.esp
 Ex Libris - PreWar Book Titles.esp
 Perk Revamp Mod - Broken Steel - Perks Only.esp
@@ -1565,6 +1567,7 @@ VendorCapsIncreased4X.esp
 MoriaX3Caps.esp
 MoriaX10Caps.esp
 
+Robotic Butlers.esp
 royphilipsevil.esp
 % {{BASH: Actors.ACBS, Actors.AIData}}
 royphilipsveryevil.esp
@@ -1580,6 +1583,7 @@ UpgradedCaravanMerchants.esp
 
 VaultSuitBetterRearsForFemales.esp
 
+Wadsworth Tweaks.esp
 Wasteland Gigolo.esp
 % {{BASH: Scripts}}
 Wasteland Travel Caravans.esp
@@ -1936,6 +1940,7 @@ FOOK2 - DUI Grenade Fix for 11 Open Beta.esp
 Sally Fix 2.esp
 Apocalypse Armory.esp
 % {{BASH: Delev, Graphics, Invent, Names, Sound, Stats, Relev}}
+Apocalypse Armory - CRAFTing.esp
 Apocalypse Armory - CALIBR.esp
 % {{BASH: Delev, Relev}}
 : CALIBR.ESM
@@ -1954,6 +1959,9 @@ Apocalypse Armory - Grenade Hotkeys.esp
 Apocalypse Armory - Grenade Hotkeys for DLC.esp
 " Apocalypse Armory - Grenade Hotkeys.esp
 : FPS Grenade Hotkey.esp
+AA - FWE + DMG Replacement.esp
+" Apocalypse Armory - Grenade Hotkeys.esp
+" Apocalypse Armory + WMK.esp
 GSoS - FOOK2 Open Beta - Combat and Sneaking Overhaul.esp
 >* Old, please update to the latest version
 GSoS - FOOK2 Open Beta - CaSO.esp
@@ -3438,6 +3446,7 @@ FalloutFood.esp
 FalloutFoods - FWE Master Release.esp
 NoRadsVanilla10.esp
 VDSC.esp
+FOSEPerception Distance.esp
 
 PlasmaWeaponsRedesignRebalance.esp
 % {{BASH: Graphics, Sound}}
@@ -3554,6 +3563,7 @@ Apocalypse Armory + EVE.esp
 % {{BASH: Delev, Relev}}
 : EVE
 EVE - FWE Patch.esp
+AA_FWE_EVE.esp
 RH_EVE_Bridge.esp
 \EndGroup\\
 
@@ -5613,6 +5623,7 @@ Fallout 3 Master Fix - Xepha's Dynamic Weather.esp
 \EndGroup\\
 
 \BeginGroup\: Fallout Remastered
+Fallout Remastered 1.0.esp
 Fallout Remastered.esp
 " Fallout 3 Master Fix.esp
 " James Invisible Walls Remover.esp
