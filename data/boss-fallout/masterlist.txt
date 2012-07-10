@@ -1374,6 +1374,8 @@ rockopolisandabandonedtentmapmarker.esp
 PL More map markers.esp
 : PointLookout.esm
 
+Nice Player Bed.esp
+
 MaxLevelWorkaround-HP-BS.esp
 WastelandMastery.esp
 SkillCheck.esp
@@ -1627,6 +1629,7 @@ Big Town Overhaul.esp
 Big Town Overhaul [GangStore].esp
 BM12PungaGardenPurchasable.esp
 Bonds Big Town.esp
+Bridge House.esp
 BusInWilderness.esp
 Built For The Future.esp
 
@@ -1730,6 +1733,8 @@ megbunker.esp
 Meet the Devs.ESP
 MegatonWeapons.esp
 Megaton jail and 101 safehouse_v2.esp
+
+NewMall.esp
 
 OakleyRidge1_1.esp
 OutlookPoint.esp
@@ -2396,6 +2401,8 @@ AsharasLightningItems.esp
 backpackfix.esp
 BackpackFixForShishkebabENG.esp
 BackpackFixForShishkebabPL.esp
+BerettaTwoTone AH.esp
+BerettaTwoTone AHJr.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionTHEPOINT.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionANCHORAGE.esp
 BRUTE_GunKnockdownsSpecialScriptedEditionTHEPITT.esp
@@ -2414,6 +2421,7 @@ CS_LightsaberQuest - Objectives Patch.esp
 
 \D
 DanWessonPPC357(CALIBR).esp
+Devils Mistress Unique.esp
 Drone Cannon Fix.esp
 % {{BASH: Graphics}}
 
@@ -2449,6 +2457,7 @@ H&KUSPWithWorkingFlashlight.esp
 Hi-Res Weapons & Ammo Textures - The Pitt.esp
 Hi-Res Weapons & Ammo Textures.esp
 HN66FoggierKatana.esp
+HZ_INGRAM.esp
 HZ_M14.esp
 HZ_M249.esp
 HZ_M92SE.esp
@@ -2549,12 +2558,14 @@ Tactical Weapons-Calibr-V3.esp
 frederyck calibr fix-excalibrified.esp
 % {{BASH: Invent}}
 frederyck tactical weapons + excalibr.esp
+TheFingerOfGod.esp
 TheProudAmerican.esp
 
 \U
 Uniqueweapons.esp
 
 \V
+vashdeagle.esp
 VashDeagleV5.esp
 Vibroblade.esp
 
@@ -5544,6 +5555,8 @@ xCALIBRammo_override.esp
 
 \BeginGroup\: Error Corrections - Reduce CTD
 \-----------
+Error Fixes V1.2.esp
+? Old version - consider updating
 Error Fixes V1.5.esp
 ? Choose only one of Error Fixes V1.5.esp or Error Fixes V1.5 - Higher FPS.esp, not both.
 Error Fixes V1.5 - Higher FPS.esp
