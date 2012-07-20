@@ -5153,6 +5153,7 @@ Wasteland Weather Overhaul .9 Level 2 Color.esp
 Wasteland Weather Overhaul .9 Level 3.esp
 
 F3ProjectRealityMkI.esp
+F3ProjectRealityMkITweaks.esp
 
 ImaginatorFO3.esp
 
