@@ -2144,6 +2144,7 @@ FWE-COL-Outcast-compatibilitypatch.esp
   REQ: CALIBR.esm
   REQ: FO3 Wanderers Edition - Main File.esm
   REQ: FO3 Wanderers Edition - Main File.esp
+AA_FWE_xCalibr.esp
 ENDGROUP
 
 BEGINGROUP: Other
@@ -3087,6 +3088,11 @@ AutomatScriptRemoved.esp
 Ballistics-ALL-MoreRealism.esp
 Bobbleheads Begone.esp
   TAG: {{BASH: Scripts}}
+BottleBrahminMilk.esp
+  INC: BottleBrahminMilkFWE.esp
+BottleBrahminMilkFWE.esp
+  REQ: FO3 Wanderers Edition - Main File.esm
+  INC: BottleBrahminMilk.esp
 Brahmin Dairy Products.esp
 Burnification.esp
 FleshBurninPlasma.esp
@@ -3573,6 +3579,7 @@ Apocalypse Armory + EVE.esp
   REQ: EVE
 EVE - FWE Patch.esp
 AA_FWE_EVE.esp
+AA_FWE_xCalibr+EVE.esp
 RH_EVE_Bridge.esp
 ENDGROUP
 
@@ -5673,6 +5680,7 @@ Fallout Remastered - MMM + Scavenger.esp
 
 Fallout Remastered - DCStreet.esp
 Fallout Remastered - RIL.esp
+Fallout Remastered - RIL (PI Merge).esp
 Fallout Remastered - Breeze Armor.esp
 
 Fallout Remastered - Arwen Realism.esp
