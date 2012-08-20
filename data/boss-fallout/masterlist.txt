@@ -34,11 +34,11 @@ Message keywords should be indented by two spaces and followed by a colon ':' th
 */
 
 // Masterlist variable setup for BOSS v1.7+.
-  IF ("FO3 Wanderers Edition - Main File.esm") SET: FWE
-  IF ("FOOK2 - Main.esm") SET: FOOK2
+  IF FILE("FO3 Wanderers Edition - Main File.esm") SET: FWE
+  IF FILE("FOOK2 - Main.esm") SET: FOOK2
 
 // Upgrade message for 1.7+ users:
-  IF (<2.1.0.0|"BOSS") GLOBAL WARN: An update for BOSS (v2.1.0) has been released. Download it at "http://code.google.com/p/better-oblivion-sorting-software/downloads/list"
+  IF VERSION("BOSS", "2.1.0.0", <) GLOBAL WARN: An update for BOSS (v2.1.0) has been released. Download it at "http://code.google.com/p/better-oblivion-sorting-software/downloads/list"
   
 
 BEGINGROUP: ESMs
@@ -92,7 +92,7 @@ xCALIBRuniverse.esm
   TAG: {{BASH: Names, Graphics, Invent, Sound, Stats}}
 CRAFTHelper.esm
 Project Beauty HD version.esm
-  IF ($FOOK2) ERROR: Old. Download the latest Project Beauty files.
+  IF VAR(FOOK2) ERROR: Old. Download the latest Project Beauty files.
 Project Beauty.esm
   TAG: {{BASH: NPC.Race, NpcFaces, Hair, Eyes, Voice-M, Voice-F, Body-M, Body-F, R.Teeth, R.Mouth}}
 FACE3.esm
@@ -156,11 +156,11 @@ FOOK2 - Main.esm
   TAG: {{BASH: Invent, Stats, Relations, Factions}}
   REQ: CALIBR.esm
 FOOK.ESM
-  IF ($FOOK2) ERROR: Get FOOK2
+  IF VAR(FOOK2) ERROR: Get FOOK2
 FOOK2 - [WANK] World And Neighbourhood Kit.esm
   REQ: CALIBR.esm
   REQ: FOOK2 - Main.ESM
-  IF ($FOOK2) ERROR: Remove if using FOOK2 1.1 and above
+  IF VAR(FOOK2) ERROR: Remove if using FOOK2 1.1 and above
 FOOK2 - [DIK] DLC Improvement Kit.esm
   REQ: Anchorage.esm
   REQ: ThePitt.esm
@@ -235,7 +235,7 @@ EnclaveCommander-NoFreeRide.esm
 CrossModData.esm
 BHR&M.esm
 PB mika.esm
-  IF ($FOOK2) ERROR: Old. Download the latest Project Beauty files.
+  IF VAR(FOOK2) ERROR: Old. Download the latest Project Beauty files.
 K2_CompLance.esm
 Animy_prostitution.esm
   REQ: CrossModData.esm
@@ -293,7 +293,7 @@ SS Master File.esm
 SS Creature Compendium.esm
 Ambient Temperature.esm
 BobbleHead Collectors Book.esm
-ENDGROUP
+ENDGROUP: ESMs
 
 BEGINGROUP: Unofficial Patches and Fixes
 //-----------
@@ -464,7 +464,7 @@ SGsUA - No Borders v.1.0-EN.esp
 SGsUA - No Borders v.1.0-DE.esp
 Stop Insulting Me Outcasts.esp
   TAG: {{BASH: Factions}}
-ENDGROUP
+ENDGROUP: Unofficial Patches and Fixes
 
 BEGINGROUP: Early Loading Mods
 //-----------
@@ -502,7 +502,7 @@ Ambient Temperature - OA.esp
 Selective Fire.esp
 PIMP.esp
 Project Beauty.esp
-  IF ($FOOK2) ERROR: Old. Download the latest Project Beauty files.
+  IF VAR(FOOK2) ERROR: Old. Download the latest Project Beauty files.
 Project Beauty- Broken Steel.esp
   TAG: {{BASH: NPC.Race, NpcFaces, NoMerge, Deactivate}}
 Project Beauty- Point Lookout.esp
@@ -761,7 +761,7 @@ Pause.esp
 WMMP_Master.esp
 
 YetAnotherPurgeCellBuffersPlugin.esp
-ENDGROUP
+ENDGROUP: Early Loading Mods
 
 BEGINGROUP: Sounds
 //-----------
@@ -853,7 +853,7 @@ RadioHotkey_RadioBluesAddon.esp
   SAY: Load RadioHotkey after all other radio mods
 
 IPip.esp
-ENDGROUP
+ENDGROUP: Sounds
 
 BEGINGROUP: Early Misc A (Perks)
 //-----------
@@ -927,7 +927,7 @@ PowerArmorTraining.esp
 PowerArmorTraining_MedicArmor.esp
 XtraSPECIAL.esp
 Bloodless Mess.esp
-ENDGROUP
+ENDGROUP: Early Misc A (Perks)
 
 BEGINGROUP: Global Traveling System
 //-----------
@@ -995,7 +995,7 @@ GTS - Brotherhood.esp
   REQ: GlobalTravelSystem.esm
 GTS - Navarro.esp
   REQ: GlobalTravelSystem.esm
-ENDGROUP
+ENDGROUP: Global Traveling System
 
 BEGINGROUP: Quests
 //-----------
@@ -1130,7 +1130,7 @@ TheShore.esp
 
 Vault88_TmFox.esp
 
-ENDGROUP
+ENDGROUP: Quests
 
 BEGINGROUP: Early Misc B
 //-----------
@@ -1472,7 +1472,7 @@ SS Weapon Effects.esp
 SS Enhanced Combat Maneuvers.esp
 
 WC4campsites.esp
-ENDGROUP
+ENDGROUP: Early Misc B
 
 BEGINGROUP: NPC
 //-----------
@@ -1588,7 +1588,7 @@ Wasteland Gigolo.esp
   TAG: {{BASH: Scripts}}
 Wasteland Travel Caravans.esp
 
-ENDGROUP
+ENDGROUP: NPC
 
 BEGINGROUP: Places
 //-----------
@@ -1853,7 +1853,7 @@ Zumbs' Improved Sniper Shack Home.esp
 BA_WastelandRestoration.esp
 BA_WastelandRestoration_DLCs.esp
   REQ: BA_WastelandRestoration.esp
-ENDGROUP
+ENDGROUP: Places
 
 BEGINGROUP: Overhauls
 //-----------
@@ -1862,14 +1862,14 @@ BEGINGROUP: Overhauls
 BEGINGROUP: FOOK
 //-----------
 FOOK2 - Main.esp
-  IFNOT ($FOOK2) ERROR: FOOK2 - Main.esm is missing.
+  IFNOT VAR(FOOK2) ERROR: FOOK2 - Main.esm is missing.
   TAG: {{BASH: Delev, Relev}}
   REQ: CALIBR.ESM and FOOK2 - Main.ESM
 PB FOOK2 - Main.esp
 FOOK2 - Project Beauty.esp
 FOOK2 - [EVE] Energy Visuals Enhanced.esp
   REQ: FOOK2 - Main.ESM
-  IF ($FOOK2) ERROR: Remove if using FOOK2 1.1 and above
+  IF VAR(FOOK2) ERROR: Remove if using FOOK2 1.1 and above
 FOOK2 - [DIK] DLC Improvement Kit.esp
   REQ: Anchorage.ESM
   REQ: ThePitt.ESM
@@ -1882,26 +1882,26 @@ FOOK2 - Mothership Zeta.esp
   REQ: FOOK2 - Main.ESM and Zeta.ESM
 FOOK2 - DIK - Project Beauty.esp
 FOOK2 - Main [Hotfix].esp
-  IF ($FOOK2) ERROR: Please update to FOOK2 1.1 Open Beta 2
+  IF VAR(FOOK2) ERROR: Please update to FOOK2 1.1 Open Beta 2
 FOOK2 - DIK [Hotfix].esp
-  IF ($FOOK2) ERROR: Please update to FOOK2 1.1 Open Beta 2
+  IF VAR(FOOK2) ERROR: Please update to FOOK2 1.1 Open Beta 2
 EVE - FOOK2 Patch.esp
 FOOK2 Main [Hotfix].esp
 FOOK2 DIK [Hotfix].esp
 MyFOOK2 - Color Tranquility Lane.esp
-  IF ($FOOK2) ERROR: Remove if using FOOK2 1.1 and above
+  IF VAR(FOOK2) ERROR: Remove if using FOOK2 1.1 and above
 MyFOOK2 - No Nightvision on Power Helmets.esp
   REQ: FOOK2 - Main.ESM
-  IF ($FOOK2) ERROR: Remove if using FOOK2 1.1 and above
+  IF VAR(FOOK2) ERROR: Remove if using FOOK2 1.1 and above
 MyFOOK2 - No RAPE Victims.esp
   REQ: FOOK2 - Main.ESM
-  IF ($FOOK2) ERROR: Remove if using FOOK2 1.1 and above
+  IF VAR(FOOK2) ERROR: Remove if using FOOK2 1.1 and above
 MyFOOK2 - S.H.A.D.E.esp
   REQ: FOOK2 - Main.ESM
-  IF ($FOOK2) ERROR: Remove if using FOOK2 1.1 and above
+  IF VAR(FOOK2) ERROR: Remove if using FOOK2 1.1 and above
 MyFOOK2 - Black & White Tranquility Lane.esp
   REQ: FOOK2 - Main.ESM
-  IF ($FOOK2) ERROR: Remove if using FOOK2 1.1 and above
+  IF VAR(FOOK2) ERROR: Remove if using FOOK2 1.1 and above
 FOOK2 - [DESTRUCTION] Main.esp
   TAG: {{BASH: Destructible, Scripts}}
   REQ: FOOK2 - Main.ESM
@@ -1936,9 +1936,9 @@ WeightAmmo.esp
   REQ: CALIBR.esm
   REQ: FOOK2 - Main.esm
 FPS Grenade Hotkey - FOOK2.esp
-  IF ($FOOK2) ERROR: Remove if using FOOK2 1.1 and above
+  IF VAR(FOOK2) ERROR: Remove if using FOOK2 1.1 and above
 FPS Grenade Hotkey - FOOK2 DIK.esp
-  IF ($FOOK2) ERROR: Remove if using FOOK2 1.1 and above
+  IF VAR(FOOK2) ERROR: Remove if using FOOK2 1.1 and above
 FOOK2 - DUI Grenade Fix for 11 Open Beta.esp
 Sally Fix 2.esp
 Apocalypse Armory.esp
@@ -1966,12 +1966,12 @@ AA - FWE + DMG Replacement.esp
   INC: Apocalypse Armory - Grenade Hotkeys.esp
   INC: Apocalypse Armory + WMK.esp
 GSoS - FOOK2 Open Beta - Combat and Sneaking Overhaul.esp
-  IF ($FOOK2) ERROR: Old, please update to the latest version
+  IF VAR(FOOK2) ERROR: Old, please update to the latest version
 GSoS - FOOK2 Open Beta - CaSO.esp
 GSoS - CaSO - BS Fix.esp
 CaSO - Project Beauty.esp
 GSoS - FOOK2 Open Beta - XP Tag Perks.esp
-  IF ($FOOK2) ERROR: Old, please update to the latest version
+  IF VAR(FOOK2) ERROR: Old, please update to the latest version
 GSoS - FOOK2 Open Beta - XP.esp
 GSoS - FOOK2 Open Beta - Tag.esp
 GSoS - FOOK2 Open Beta - Stimpaks Revamp.esp
@@ -1983,7 +1983,7 @@ GSoS - Bed Heal Tweak.esp
 GSoS - Portable Water Purifier.esp
 GSoS - B-Head Effects B-Gone.esp
 GSoS - Car Explosions.esp
-ENDGROUP
+ENDGROUP: FOOK
 
 BEGINGROUP: Fallout Wanderer's Edition
 //-----------
@@ -2145,7 +2145,7 @@ FWE-COL-Outcast-compatibilitypatch.esp
   REQ: FO3 Wanderers Edition - Main File.esm
   REQ: FO3 Wanderers Edition - Main File.esp
 AA_FWE_xCalibr.esp
-ENDGROUP
+ENDGROUP: Fallout Wanderer's Edition
 
 BEGINGROUP: Other
 //-----------
@@ -2229,8 +2229,8 @@ Refurbish [MZ].esp
   INC: Refurbishes [ALL].esp
 
 FO3toFPS.esp
-ENDGROUP
-ENDGROUP Overhauls
+ENDGROUP: Other
+ENDGROUP: Overhauls
 
 BEGINGROUP: Tailor Maid
 //-----------
@@ -2244,7 +2244,7 @@ Tailor Maid Brokensteel.esp
 Tailor Maid ZETA.esp
   REQ: Zeta.ESM
 Tailor Maid Black Retex.esp
-ENDGROUP
+ENDGROUP: Tailor Maid
 
 BEGINGROUP: WeaponModKits
 //-----------
@@ -2337,7 +2337,7 @@ UH-FWE-WMK-DLC.esp
   REQ: WeaponModKits - BrokenSteel.esp
   REQ: WeaponModKits - PointLookout.esp
   REQ: WeaponModKits - Zeta.esp
-ENDGROUP
+ENDGROUP: WeaponModKits
 
 BEGINGROUP: Weapons
 //-----------
@@ -2641,7 +2641,7 @@ ZL-SVD.esp
 ZL-SVD-CALIBR.esp
 ZL-MP5 Pack.esp
 
-ENDGROUP
+ENDGROUP: Weapons
 
 BEGINGROUP: Armor\Clothes
 //-----------
@@ -3034,7 +3034,7 @@ WHSpaceMarineArmor.esp
 XmasOutfits.esp
 Yoko'sOutfits.esp
 
-ENDGROUP
+ENDGROUP: Armor\Clothes
 
 BEGINGROUP: Cosmetics
 //-----------
@@ -3068,7 +3068,7 @@ moirared.esp
 Reclothing For LPT and Flash.esp
   TAG: {{BASH: Invent}}
   SAY: Outdated, use latest Wrye Flash version
-ENDGROUP
+ENDGROUP: Cosmetics
 
 BEGINGROUP: Middle Misc A
 //-----------
@@ -3326,7 +3326,7 @@ Zumbs'_Overhauled_Real_Time_Security_lockbash_only.esp
   SAY: Please update to latest version.
 Zumbs'_Overhauled_Real_Time_Security_minigames_enabled.esp
   SAY: Please update to latest version.
-ENDGROUP
+ENDGROUP: Middle Misc A
 
 BEGINGROUP: Middle Misc B
 //-----------
@@ -3548,7 +3548,7 @@ GaryHoloTape.esp
 Trucker Holotapes.esp
   TAG: {{BASH: Names}}
 MTCBigTownRobotFix.esp
-ENDGROUP
+ENDGROUP: Middle Misc B
 
 BEGINGROUP: EVE Stuff
 //-----------
@@ -3581,7 +3581,7 @@ EVE - FWE Patch.esp
 AA_FWE_EVE.esp
 AA_FWE_xCalibr+EVE.esp
 RH_EVE_Bridge.esp
-ENDGROUP
+ENDGROUP: EVE Stuff
 
 BEGINGROUP: Mart's Mutant Mod
 //-----------
@@ -3593,9 +3593,9 @@ DALCO Inventory Sorter - Mart's Mutant Mod (Main).esp
 Mart's Mutant Mod - UF3P.esp
   TAG: {{BASH: Invent}}
 PB MMM HD.esp
-  IF ($FOOK2) ERROR: Old. Download the latest Project Beauty files.
+  IF VAR(FOOK2) ERROR: Old. Download the latest Project Beauty files.
 PB MMM.esp
-  IF ($FOOK2) ERROR: Old. Download the latest Project Beauty files.
+  IF VAR(FOOK2) ERROR: Old. Download the latest Project Beauty files.
 Mart's Mutant Mod - DLC Anchorage.esp
   TAG: {{BASH: Scripts}}
   REQ: Anchorage.ESM
@@ -3646,14 +3646,14 @@ Mart's Mutant Mod - Increased Spawns.esp
 Mart's Mutant Mod - Reduced Wasteland Spawns.esp
   TAG: {{BASH: Delev, Relev}}
 Mart's Mutant Mod - Zones Respawn.esp
-  IF ($FWE) SAY: Included in FWE - Not Required
+  IF VAR(FWE) SAY: Included in FWE - Not Required
 Mart's Mutant Mod - Tougher Traders.esp
   TAG: {{BASH: Actors.Stats, Factions, Relations}}
-  IF ($FWE) SAY: Included in FWE - Not Required
+  IF VAR(FWE) SAY: Included in FWE - Not Required
 Mart's Mutant Mod - Hunting & Looting.esp
 Mart's Mutant Mod - Natural Selection.esp
   TAG: {{BASH: Relations}}
-  IF ($FWE) SAY: Included in FWE - Not Required
+  IF VAR(FWE) SAY: Included in FWE - Not Required
 Mart's Mutant Mod - Mutant Mod Menu.esp
   SAY: Obsolete. Update MMM to latest version.
 Mart's Mutant Mod - Master Menu Module.esp
@@ -3664,10 +3664,10 @@ Mart's Mutant Mod - Soft Unleveler Hardcore.esp
 Mart's Mutant Mod - Dynamic Player Scaling.esp
 Mart's Mutant Mod - Zombie Cementery.esp
 Project Beauty- MMM Raiders.esp
-  IF ($FOOK2) ERROR: Old. Download the latest Project Beauty files.
+  IF VAR(FOOK2) ERROR: Old. Download the latest Project Beauty files.
 Mart's Mutant Mod - Project Beauty (HD Addition).esp
   TAG: {{BASH: NPC.Race, NpcFaces, NoMerge}}
-  IF ($FOOK2) ERROR: Old. Download the latest Project Beauty files.
+  IF VAR(FOOK2) ERROR: Old. Download the latest Project Beauty files.
 Mart's Mutant Mod - Project Beauty.esp
   TAG: {{BASH: NPC.Race, NpcFaces, NoMerge}}
 Mart's Mutant Mod - Project Beauty + FWE.esp
@@ -3677,7 +3677,7 @@ CP - FACE3 NPCS [MMM].esp
 CP - FACE3 [MMM] Racefix.esp
   TAG: {{BASH: NPC.Race, NpcFaces, NoMerge}}
 Mart's Mutant Mod - FOOK.esp
-  IF ($FOOK2) ERROR: Get FOOK2
+  IF VAR(FOOK2) ERROR: Get FOOK2
 Mart's Mutant Mod - FOOK2.esp
   REQ: FOOK2 - Main.ESM and Mart's Mutant Mod.esm
   TAG: {{BASH: Relations}}
@@ -3713,7 +3713,7 @@ Mart's Mutant Mod - Project Beauty + FWE.esp
   TAG: {{BASH: NPC.Race, NpcFaces, NoMerge}}
 Mart's Mutant Mod - Project Beauty (HD Addition).esp
   TAG: {{BASH: NPC.Race, NpcFaces, NoMerge}}
-  IF ($FOOK2) ERROR: Old. Download the latest Project Beauty files.
+  IF VAR(FOOK2) ERROR: Old. Download the latest Project Beauty files.
 Mart's Mutant Mod - Linged.esp
 Mart's Mutant Mod - CFW.esp
 Mart's Mutant Mod - XFO.esp
@@ -3726,7 +3726,7 @@ MMM - FWE_Combat Overhaul Master Release.esp
   REQ: Mart's Mutant Mod - FWE Master Release.esp
 MMM_RtSS_Mod.esp
 EVE - MMM Patch.esp
-ENDGROUP
+ENDGROUP: Mart's Mutant Mod
 
 BEGINGROUP: Companions
 //-----------
@@ -3848,7 +3848,7 @@ SCC 187GURLZ.esp
   REQ: Sharing and Caring Companions.esm
 Shojo Companions.esp
 
-ENDGROUP
+ENDGROUP: Companions
 
 BEGINGROUP: Vanilla NPCs Become Campanions
 //-----------
@@ -3936,7 +3936,7 @@ Sydney Follower.esp
 Sydney Follower - Recruitment Fix.esp
 Sydney Follower - FWE Dialog Fix.esp
 
-//EndGroup\
+ENDGROUP: Vanilla NPCs Become Campanions
 
 BEGINGROUP: Companion Compatability / Fixes
 //-----------
@@ -3988,7 +3988,7 @@ COCOA - Sydney Follower.esp
   REQ: Sydney Follower.esp
 
 resetfollowers_v3.3.esp
-ENDGROUP
+ENDGROUP: Companion Compatability / Fixes
 
 BEGINGROUP: Realism Mods
 //-----------
@@ -4100,7 +4100,7 @@ Explosive Explosives v1.3.esp
 RealPhysicsLessCarExplosions.esp
 Sensible Dismemberment Lite.esp
 Sensible Dismemberment.esp
-ENDGROUP
+ENDGROUP: Realism Mods
 
 BEGINGROUP: Later Misc
 //-----------
@@ -4625,7 +4625,7 @@ ZumbsDarkerSunglasses_no_replace.esp
 ZumbsDarkerSunglasses_screen_effect.esp
   SAY: Zumbs has asked you to rename this to ZumbsDarkerSunglasses.esp
 
-ENDGROUP
+ENDGROUP: Later Misc
 
 BEGINGROUP: Arwen's Realism Main
 //-----------
@@ -4675,7 +4675,7 @@ Arwen_Brahamin_Med-Tec_Patch.esp
 Arwen_10mmReplacer_Patched.esp
 Arwen_RH_IronSights.esp
 
-ENDGROUP
+ENDGROUP: Arwen's Realism Main
 
 BEGINGROUP: Phalanx
 //-----------
@@ -4695,7 +4695,7 @@ Phalanx-OPTIONAL-Weaponchange.esp
 Phalanx-OPTIONAL-WeaponRepairLists.esp
 Phalanx-OPTIONAL-BROKENSTEEL-WeaponRepairLists.esp
 Dogmeat Never Dies.esp
-ENDGROUP
+ENDGROUP: Phalanx
 
 BEGINGROUP: Game-Settings and Overrides
 //-----------
@@ -4906,7 +4906,7 @@ Magic Pip-Light (60 Brightness).esp
 Magic Pip-Light (90 Brightness).esp
 
 ZZ_APP.esp
-ENDGROUP
+ENDGROUP: Game-Settings and Overrides
 
 BEGINGROUP: Weather\Light\Water
 //-----------
@@ -5164,7 +5164,7 @@ F3ProjectRealityMkITweaks.esp
 
 ImaginatorFO3.esp
 
-ENDGROUP
+ENDGROUP: Weather\Light\Water
 
 BEGINGROUP: Lastish
 //-----------
@@ -5322,7 +5322,7 @@ Dog lover's mod NO ANCHORAGE.esp
 MMM dog lover's mod.esp
   TAG: {{BASH: Deflst, Delev}}
 Vault101 Exit Cancel.esp
-ENDGROUP
+ENDGROUP: Lastish
 
 BEGINGROUP: Pose mods
 //-----------
@@ -5336,7 +5336,7 @@ The Groovatron.esp
 The Groovatron_DLC_Anch_Addon.esp
 The Groovatron_DLC_Pitt_Addon.esp
 The Groovatron_DLC_PL_Addon.esp
-ENDGROUP
+ENDGROUP: Pose mods
 
 BEGINGROUP: Beauty Packs & Race Addons
 //-----------
@@ -5360,7 +5360,7 @@ EwwGhoulyBody.esp
   TAG: {{BASH: Body-F}}
 
 RaiderDiversity.esp
-ENDGROUP
+ENDGROUP: Body and head changes
 
 BEGINGROUP: Hair
 //-----------
@@ -5374,7 +5374,7 @@ VB_Hair_Shojo+CotW_15.esp
   TAG: {{BASH: Hair}}
   REQ: EnhancedChildren.esm
   REQ: Shojo Race.esm
-ENDGROUP
+ENDGROUP: Hair
 
 BEGINGROUP: Race additions (+ hair + eyes etc)
 //-----------
@@ -5389,7 +5389,9 @@ EZCompanion_Type-N.esp
   TAG: {{BASH: Hair, Eyes}}
 AAAAlbino_LingsBOG.esp
   TAG: {{BASH: Hair, Eyes}}
-ENDGROUP
+ENDGROUP: Race additions (+ hair + eyes etc)
+ENDGROUP: Beauty Packs & Race Addons
+
 
 BEGINGROUP: Merged Patch\CPs
 //-----------
@@ -5557,7 +5559,7 @@ Override.esp
 
 xCALIBRammo_override.esp
   TAG: {{BASH: Names, Graphics}}
-ENDGROUP
+ENDGROUP: Merged Patch\CPs
 
 BEGINGROUP: Error Corrections - Reduce CTD
 //-----------
@@ -5576,8 +5578,7 @@ Error Fixes V1.5 - Fallout3 Wanderers Edition.esp
 Error Fixes V1.5 - Unofficial Fallout 3 Patch.esp
 Error Fixes V1.5 - Realistic Interior Lighting.esp
 Error Fixes V1.5 - Xephia' Dynamic Weather.esp
-
-ENDGROUP
+ENDGROUP: Error Corrections - Reduce CTD
 
 BEGINGROUP: Bashed Patch
 //-----------
@@ -5592,7 +5593,7 @@ Bashed Patch, 7.esp
 Bashed Patch, 8.esp
 Bashed Patch, 9.esp
 Bashed Patch.esp
-ENDGROUP
+ENDGROUP: Bashed Patch
 
 BEGINGROUP: Post Bashed Patch
 //-----------
@@ -5639,7 +5640,7 @@ Fallout 3 Master Fix - Fellout.esp
 Fallout 3 Master Fix - Realistic Interior Lighting.esp
 Fallout 3 Master Fix - Enhanced Dynamic Weather.esp
 Fallout 3 Master Fix - Xepha's Dynamic Weather.esp
-ENDGROUP
+ENDGROUP: Fallout 3 Master Fix
 
 BEGINGROUP: Fallout Remastered
 Fallout Remastered 1.0.esp
@@ -5703,7 +5704,7 @@ Fallout Remastered - DCStreet + Dynamic Weather.esp
   REQ: Requires Xepha's Dynamic Weather
   REQ: Requires DC Street - BS.esp
 
-ENDGROUP
+ENDGROUP: Fallout Remastered
 
   SAY: Do NOT use Master Updater on this mod
-ENDGROUP
+ENDGROUP: Post Bashed Patch
