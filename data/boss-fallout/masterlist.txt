@@ -309,21 +309,20 @@ DALCO Inventory Sorter - Unofficial Fallout 3 Patch (Base Game).esp
   TAG: {{BASH: NoMerge, Names}}
 Unofficial Fallout 3 Patch - Operation Anchorage.esp
   TAG: {{BASH: Deflst, Names}}
-  REQ: Anchorage.esm
+  IFNOT FILE("Anchorage.esm") REQ: Anchorage.esm
 Unofficial Fallout 3 Patch - The Pitt.esp
   TAG: {{BASH: Deflst, Names}}
-  REQ: ThePitt.esm
+  IFNOT FILE("ThePitt.esm") REQ: ThePitt.esm
 Unofficial Fallout 3 Patch - Broken Steel.esp
   TAG: {{BASH: Deflst, Names}}
-  REQ: BrokenSteel.esm
   TAG: {{BASH: NoMerge, Names}}
+  IFNOT FILE("BrokenSteel.esm") REQ: BrokenSteel.esm
 Unofficial Fallout 3 Patch - Point Lookout.esp
   TAG: {{BASH: Deflst, Names, Invent, Stats}}
-  REQ: PointLookout.esm
+  IFNOT FILE("PointLookout.esm") REQ: PointLookout.esm
 Unofficial Fallout 3 Patch - Mothership Zeta.esp
   TAG: {{BASH: Deflst, Names}}
-  REQ: Zeta.esm
-
+  IFNOT FILE("Zeta.esm") REQ: Zeta.esm
 EVE - UF3P Patch.esp
   SAY: Paradox Ignition EVE-merger - compatibility patch for the Unofficial Fallout 3 Patch.
 Broken Steel Early Enclave Fix.esp
@@ -5645,8 +5644,8 @@ ENDGROUP: Fallout 3 Master Fix
 BEGINGROUP: Fallout Remastered
 Fallout Remastered 1.0.esp
 Fallout Remastered.esp
-  INC: Fallout 3 Master Fix.esp
-  INC: James Invisible Walls Remover.esp
+	IF FILE("Fallout 3 Master Fix.esp") INC: Fallout 3 Master Fix.esp
+	IF FILE("James Invisible Walls Remover.esp") INC: James Invisible Walls Remover.esp
 Fallout Remastered - Mothership Crew.esp
 Fallout Remastered - Project Beauty.esp
 Fallout Remastered - FWE.esp
