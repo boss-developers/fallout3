@@ -115,6 +115,7 @@ Refurbishes [ALL].esm
 Megaton Expansion Project V03.esm
   REQ: CALIBR.esm
 ArefuExpandedByAzar.esm
+AWorldOfPainFO3.esm
 Canterbury Commons Interiors Embiggened.esm
 tubrrCompound.esm
 Big Town Overhaul.esm
@@ -126,6 +127,8 @@ vault64.esm
 Bunker72 v3.esm
 FOW - The Last Child of Gallifrey v2.esm 
 The Bunker.esm
+UndiscoveredCapital.esm
+UndiscoveredCapital - 'Experiencing Turbulence'.esm
 MMZombieCemetery.esm
 MMFastZombieCemetery-NotRecommended.esm
 Vault 101 Revisited.esm
@@ -242,6 +245,9 @@ Animy_prostitution.esm
 sc_lovers_resource.esm
 sc_wasteland_pimp.esm
 ParadiseHome.esm
+aMpPlants_2_eng.esm
+Asset - Brahmin Milk.esm
+ActionFigures.esm
 DCInteriors_ComboEdition.ESM
   INC: DCInteriors components.
 DCInteriors_Georgtown.esm
@@ -876,6 +882,7 @@ UPP  - Quest Perks.esp
 UPP - Quest Perks.esp
 UPP - Beverage Perks.esp
 UPP Addon - Quest Perks.esp
+MME Universal Whiz Perk.esp
 You're Special.esp
 FalloutPerks.esp
 PreWar Book Titles and Perks.esp
@@ -1126,6 +1133,8 @@ The Bunker.esp
 TecVault.esp
 TheProjectV1.1.esp
 TheShore.esp
+
+UndiscoveredCapital - 'Now Showing'.esp
 
 Vault88_TmFox.esp
 
@@ -1797,6 +1806,7 @@ Trophies- Tenpenny.esp
 TpWasteThemeMod.esp
 Towers Hill.esp
   TAG: {{BASH: Invent}}
+The Annex.esp
 TestingRoom.esp
 TheSKINNYwearShopDC.esp
   REQ: Anchorage.esm
@@ -5702,6 +5712,8 @@ Fallout Remastered - WMI + Xepha.esp
 Fallout Remastered - DCStreet + Dynamic Weather.esp
   REQ: Requires Xepha's Dynamic Weather
   REQ: Requires DC Street - BS.esp
+
+Blackened FWE + MMM + EVE + Project Beauty.esp
 
 ENDGROUP: Fallout Remastered
 
