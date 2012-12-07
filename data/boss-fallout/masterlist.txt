@@ -84,6 +84,7 @@ The Librarian.esm
 TalonExtraArmor.esm
 Impervious Power Armour.esm
 H.E.R.K..esm
+CINEMATECH.esm
 CRAFT.esm
 CALIBR.esm
 xCALIBR.esm
@@ -261,6 +262,7 @@ DCInteriors_SewardSq.esm
 DCInteriors_Takoma.esm
   INC: DCInteriors_ComboEdition.ESM
 DCInteriors_SideQuests.esm
+DCXpansion - Stanton Park.esm
 Scannadd5000.esm
 Selected Containers Respawn.esm
 AngelRaces.esm
@@ -299,6 +301,26 @@ SS Master File.esm
 SS Creature Compendium.esm
 Ambient Temperature.esm
 BobbleHead Collectors Book.esm
+AgeBasedBodys.esm
+VATSCINEMATICSGONE.esm
+Firefly RRCompanion.esm
+Punisher RRCompanion.esm
+MyDog - Globals (keep this active).esm
+MyDog.esm
+FACE2.esm
+Herculine's Shojo Companions.esm
+Tau Ammo.esm
+Star Paladin Praetus.esm
+TSC Lincoln Memorial.esm
+TheSKINNYwearShopDC.esm
+My Utility World.esm
+KKOFour.esm
+SimpleNeeds.esm
+Survival of the Fittest - Needs.esm
+Sexout.esm
+Children of the Wasteland.esm
+busworld.esm
+Bunker 72 V4 Beta 2.esm
 ENDGROUP: ESMs
 
 BEGINGROUP: Unofficial Patches and Fixes
