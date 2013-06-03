@@ -1750,7 +1750,7 @@ MegatonLights.esp
   TAG: {{BASH: C.Light}}
 megalight.esp
   SAY: Do not use with latest FOOK2, it is already integrated.
-  SAY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/constwiki/index.php/TES4Edit_Cleaning_Guide"
+  SAY: Needs TES4Edit cleaning: "http://cs.elderscrolls.com/index.php?title=TES4Edit_Cleaning_Guide"
 MLights.esp
 Moriarty's Saloon Fen chui Mod.esp
 motelPL.esp
