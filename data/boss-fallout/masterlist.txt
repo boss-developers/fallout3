@@ -39,7 +39,7 @@ Message keywords should be indented by two spaces and followed by a colon ':' th
 
 // Upgrade message for 1.7+ users:
   IF VERSION("BOSS", "2.1.1.0", <) GLOBAL WARN: An update for BOSS (v2.1.1) has been released. Download it at "http://code.google.com/p/better-oblivion-sorting-software/downloads/list"
-  
+
 
 BEGINGROUP: ESMs
 //------------
@@ -126,7 +126,7 @@ TheInstitute.esm
 Vault 101 Revisited.esm
 vault64.esm
 Bunker72 v3.esm
-FOW - The Last Child of Gallifrey v2.esm 
+FOW - The Last Child of Gallifrey v2.esm
 The Bunker.esm
 UndiscoveredCapital.esm
 UndiscoveredCapital - 'Experiencing Turbulence'.esm
@@ -1089,7 +1089,7 @@ Lobotomized! 200.esp
   SAY: Only use one Lobotomized!plugin at once
 Lobotomized! 100.esp
   REQ: PointLookout.esm
-  SAY: Only use one Lobotomized!plugin at once 
+  SAY: Only use one Lobotomized!plugin at once
 Lobotomized! 50.esp
 
 
@@ -3045,7 +3045,7 @@ Type3Clothes.esp
 
 //U
 UndiesUnderneath.esp
-UrgeScarfFallout3.esp 
+UrgeScarfFallout3.esp
 
 //V
 vaultgirlnp.esp
