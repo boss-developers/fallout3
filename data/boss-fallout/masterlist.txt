@@ -602,7 +602,7 @@ Realistic icons.esp
   TAG: {{BASH: Graphics}}
 StreetLights - Wasteland.esp
   SAY: Do not use with latest FOOK2, it is already integrated.
-  SAY: Obselete - upgrade to Fallout Streetlights (http://fallout3.nexusmods.com/mods/8069)
+  SAY: Obselete - upgrade to "http://fallout3.nexusmods.com/mods/8069 Fallout Streetlights"
 RK-Skelette-3.0.esp
   SAY: Do not use with latest FOOK2, it is already integrated.
 praiseatom.esp
@@ -3081,7 +3081,7 @@ F3Eyelashes.esp
 _R_Tribals.esp
 
 LingsFinerThings.esp
-  SAY: Obselete update to latest version (http://fallout3.nexusmods.com/mods/17631/)
+  SAY: Obselete update to "http://fallout3.nexusmods.com/mods/17631/ the latest version".
 Lings Finer Things.esp
 LingsPrettyThings.esp
   TAG: {{BASH: Eyes, Hair, Invent, Names, NPC.Class, NPC.Race, NpcFaces, R.Attributes-F, R.Attributes-M, R.Description, R.Head, R.Mouth, R.Teeth, Voice-F}}
