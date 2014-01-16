@@ -5349,7 +5349,7 @@ Achievement Remover [FWE].esp
   REQ: FO3 Wanderers Edition.
 DUIF3Extras.esp
   SAY: Obsolete. Update DarNifiedUIF3 to latest version.
-Dog lover's mod.es
+Dog lover's mod.esp
   TAG: {{BASH: Deflst, Delev}}
 Dog lover's mod NO ANCHORAGE.esp
   TAG: {{BASH: Deflst, Delev}}
@@ -5658,7 +5658,7 @@ Fallout 3 Master Fix - No DLC.esp
   INC: Fallout 3 Master Fix.esp
   INC: Fallout 3 Master Fix - Higher FPS.esp
   INC: Fallout 3 Master Fix - No DLC - Higher FPS
-Fallout 3 Master Fix - No DLC - Higher FPS
+Fallout 3 Master Fix - No DLC - Higher FPS.esp
   INC: Fallout 3 Master Fix.esp
   INC: Fallout 3 Master Fix - Higher FPS.esp
   INC: Fallout 3 Master Fix - No DLC.esp
