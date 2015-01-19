@@ -1911,9 +1911,9 @@ FOOK2 - Mothership Zeta.esp
   REQ: FOOK2 - Main.ESM and Zeta.ESM
 FOOK2 - DIK - Project Beauty.esp
 FOOK2 - Main [Hotfix].esp
-  IF VAR(FOOK2) ERROR: Please update to FOOK2 1.1 Open Beta 2
+  IF VAR(FOOK2) ERROR: Please update to FOOK2 1.2 Open Beta 2
 FOOK2 - DIK [Hotfix].esp
-  IF VAR(FOOK2) ERROR: Please update to FOOK2 1.1 Open Beta 2
+  IF VAR(FOOK2) ERROR: Please update to FOOK2 1.2 Open Beta 2
 EVE - FOOK2 Patch.esp
 FOOK2 Main [Hotfix].esp
 FOOK2 DIK [Hotfix].esp
