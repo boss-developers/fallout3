@@ -47,7 +47,7 @@ ThePitt.esm
 StreetLights.esm
   SAY: Do not use with latest FOOK2, it is already integrated.
 BrokenSteel.esm
-  TAG: {{BASH: Actors.ACBS, Actors.AIPackages, Relev}}
+  TAG: {{BASH: Actors.ACBS,Actors.AIPackages,Relev,C.Water,Delev,Factions,Stats}}
 PointLookout.esm
 Zeta.esm
 Lings.esm
