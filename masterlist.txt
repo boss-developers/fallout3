@@ -38,6 +38,9 @@ Message keywords should be indented by two spaces and followed by a colon ':' th
 // Upgrade message for 1.7+ users:
   IF VERSION("BOSS", "2.3.0.0", <) GLOBAL WARN: An update for BOSS (v2.3.0) has been released. Download it at "http://boss-developers.github.io". With this release, the BOSS Log plugin submitter endpoint has been moved, and the previous endpoint will be turned off shortly. Users are advised to upgrade to maintain functionality.
 
+// Deprecation message
+  GLOBAL WARN: BOSS support for Fallout 3 is no longer maintained. Users are strongly advised to use "http://loot.github.io/ LOOT" instead when sorting their Fallout 3 load orders.
+
 
 BEGINGROUP: ESMs
 //------------
